@@ -1,13 +1,12 @@
 #!/bin/bash
 
-#SBATCH --time=1-0:00:00
-#SBATCH --mem=128G
-#SBATCH --output=./logs/regoogle_%j.out
-#SBATCH --error=./logs/regoogle_%j.err
-#SBATCH --partition=rbaltman
-#SBATCH --mail-type=END,FAIL
-#SBATCH --mail-user=kcarp@stanford.edu
-#SBATCH --job-name=googling
+# shell script to rerun Google filter (e.g. if errors occurred, ran out
+# of daily queries, changed how filter works)
+# uses regoogle_tmp.txt to track number of API requests made in a day
+# recommended to run this with a job scheduler
+# put arguments for job scheduler here
+# use e.g. --export=ALL,i=10 to set $i to 10
+# because APIs have rate limiting, must run seeds in series, not in parallel!
 
 tmp=$(wc -l regoogle_tmp.txt)
 abort=${tmp:0:1}

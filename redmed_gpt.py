@@ -1,3 +1,7 @@
+# main script for running pipeline
+# does the process shown in figure 1 of accompanying manuscript
+# must set up OpenAI API, Google Search API, and .env before using
+
 import os
 import random
 import openai
@@ -12,7 +16,7 @@ from dotenv import load_dotenv
 
 
 
-
+# obtains all the candidate redmed synonyms to sample from for prompt
 def get_candidate_examples(seed, redmed):
     subdf = redmed.loc[redmed["drug"] == seed]
     terms = set()
@@ -27,7 +31,8 @@ def get_candidate_examples(seed, redmed):
     return terms
 
 
-# should make multiple versions of this to swap in and out
+# uses a prompt template (either with or without counterexamples) and
+# randomly sampled redmed synonyms to create a prompt with which to query GPT-3
 def get_prompt(seed, terms, include_counterexamples=False, redmed=None, verbose=True): 
     if include_counterexamples:
         examples = random.sample(list(terms),2)
@@ -37,11 +42,12 @@ def get_prompt(seed, terms, include_counterexamples=False, redmed=None, verbose=
     if verbose:
         print(examples)
 
-    # we're hardcoding for now lol, can try automating later
+    # alternate prompt template with counterexamples
+    # hardcoded for alprazolam example as a test
+    # not changed from hardcoded version since it performed worse than
+    # the other prompt
     if include_counterexamples:
-        # assert redmed != None 
         prompt = "these are not synonyms for %s:\n 1. ativan\n2. zoloft\n3. lexapro\n4. klonopin\n" % (seed)
-        # prompt += "but these are synonyms for %s:\n 1. %s\n2. %s\n3. %s\n4." % (seed, examples[0], examples[1], examples[2])
         prompt += "but these are synonyms for %s:\n 1. %s\n2. %s\n3." % (seed, examples[0], examples[1])
     else:
         prompt = "ways to say %s:\n1. %s\n2. %s\n3. %s\n4." % (seed, examples[0], examples[1], examples[2])
@@ -49,6 +55,7 @@ def get_prompt(seed, terms, include_counterexamples=False, redmed=None, verbose=
     return prompt
 
 
+# submit query to GPT-3, collect response, clean and parse
 def query(eng, prompt, temp, maxt, freq, pres):
     response = openai.Completion.create(engine=eng,
                                         prompt=prompt,
@@ -56,7 +63,7 @@ def query(eng, prompt, temp, maxt, freq, pres):
                                         max_tokens=maxt,
                                         frequency_penalty=freq,
                                         presence_penalty=pres)
-    time.sleep(1.5)
+    time.sleep(1.5) # must space out queries for rate limiting
 
     rtext = response["choices"][0]["text"].replace("\"","").lower()
     rtext = rtext.split("\n")
@@ -75,6 +82,8 @@ def query(eng, prompt, temp, maxt, freq, pres):
     return clean_rtext
 
 
+# checks to see if any of the terms in terms (a list) are present in
+# the generated response r (a string)
 def redmed_term_in_response(r, terms):
     r_tokens = [r.lower() for r in r.split("_")]
     for t in terms:
@@ -140,8 +149,6 @@ def in_google_search(term, seed, memo, depth=10, count=False, offline=False):
                         memo[term][seed]["depth"] = idx + start
                         break
             except Exception as e:
-                # print(j)
-                # print(j.keys())
                 print(repr(e))
                 memo[term].pop(seed)
                 if count:
@@ -152,6 +159,7 @@ def in_google_search(term, seed, memo, depth=10, count=False, offline=False):
         return memo[term][seed]["result"], memo[term][seed]["depth"], memo, googled
     else:
         return memo[term][seed]["result"], memo[term][seed]["depth"], memo
+
 
 # searches for a term in the whole redmed lexicon
 # if that term is present in the lexicon, will return the seed term it belongs to
@@ -167,7 +175,7 @@ def find_seed_for_term(term, df):
 
 
 def main(args):
-    openai.api_key = os.getenv("OPENAI_API_KEY")
+    openai.api_key = os.environ.get("OPENAI_API_KEY")
     redmed = pd.read_csv("redmed_lexicon.tsv",sep="\t")
     seeds = open(args.seeds,"r").read().strip().split(",")
     print(seeds)

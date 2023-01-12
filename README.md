@@ -1,3 +1,5 @@
+!! REPOSITORY UNDER CONSTRUCTION !!
+
 # Build colloquial lexicons with GPT-3
 A pipeline for the automated querying and filtering of GPT-3 terms to create lexicons of colloquial terms, with a central application in social media-based pharmacovigilance of drugs of abuse (specifically opioids). This repository is a companion to Carpenter and Altman, 2023 (in review).
 

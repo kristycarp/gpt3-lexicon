@@ -1,3 +1,7 @@
+# creates plots for use in comparing parameter settings
+# use after analyze.py
+# was used to create figures 2,3,4 in the accompanying manuscript
+
 import matplotlib
 matplotlib.use("agg")
 import matplotlib.pyplot as plt
@@ -6,9 +10,10 @@ import numpy as np
 import argparse
 import os
 
-# for each of the params, do a line plot of each of the metrics
-# a different line for each of the other param combos
-# or also do a version with averaging
+
+# for the specified params, create a box plot showing the aggregate
+# of all pipeline runs with each setting of that param
+# used to create figures 2 and 3 in the accompanying manuscript
 def param_box_plot(df, col, param, d):
     if col == "all":
         cols = df.columns[7:]
@@ -36,13 +41,11 @@ def param_box_plot(df, col, param, d):
             plt.savefig(fname)
             plt.clf()
 
-# out of all models...
-# which produces the most terms?
-# which produces the most unique terms?
-# which produces the most redmed terms?
-# which produces the most google validated terms?
-# which produces the most terms not in redmed and not validated by google?
-# which produces the most terms not in redmed but validated by google?
+
+# creates a bar plot showing each individual pipeline run with certain
+# parameter settings. this allows for comparison of the whole set of parameters
+# instead of just examining one at a time
+# used for figure 4 of the accompanying manuscript
 def top_model_bar_plot(df, col, param, d):
     color_dict = {"temp": {0: "white", 0.3: "white", 0.5: "white", 0.6: "white", 1: "gray"},
                   "freq": {0: "white", 0.3: "white", 0.5: "white", 0.6: "white", 1: "gray"},
@@ -90,8 +93,11 @@ def top_model_bar_plot(df, col, param, d):
             plt.savefig(fname, dpi=300, bbox_inches="tight")
             plt.clf()
 
+
+# returns nicely formatted labels for plotting
 def get_param_label(row):
     return "temp=%.1f, freq=%.1f, pres=%.1f, counterexamples=%s" % (row["temp"], row["freq"], row["pres"], row["counter"])
+
 
 def main(args):
     df = pd.read_csv(args.f, index_col=0)
@@ -100,12 +106,13 @@ def main(args):
     elif args.plot == "box":
         param_box_plot(df, args.col, args.param, args.d)
 
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('-f', type=str, help="input filename")
-    parser.add_argument('-d', type=str, help="subdirectory of plots folder in which to put outputs")
-    parser.add_argument('--plot', type=str, help="type of plot to make")
-    parser.add_argument('--col', type=str, help="column to plot")
-    parser.add_argument('--param', type=str, help="column to color by")
+    parser.add_argument('--plotdir', type=str, help="directory in which to save plots")
+    parser.add_argument('--plot', type=str, help="type of plot to make (bar or box)")
+    parser.add_argument('--col', type=str, help="column to plot (all, uniq, terms, n_ungs, etc)")
+    parser.add_argument('--param', type=str, help="column to color by (all, temp, pres, freq, or counter)")
     args = parser.parse_args()
     main(args)
