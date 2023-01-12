@@ -16,6 +16,14 @@ The following dependencies are required:
 We recommend installing the dependencies in a Conda environment. This can be done by running `conda env create -f environment.yml` to create the environment and then `conda activate gpt3` to activate it.
 
 ## API credentials
-Full usage of the pipeline to create a new lexicon requires the OpenAI API and the Google Custom Search API. 
+Full usage of the pipeline to create a new lexicon requires the OpenAI API and the Google Custom Search API. Create an OpenAI API key by first [making an OpenAI account](https://beta.openai.com/signup) and then [creating a new secret key](https://beta.openai.com/account/api-keys). Create a Google Custom Search API key by following the instructions [here](https://developers.google.com/custom-search/v1/overview). *Note that both GPT-3 queries and Google search queries cost money!*
+
+Once you have obtained your API keys, create a `.env` file with the following contents:
+
+```
+GOOGLE_API_KEY=[your Google private key here]
+SEARCH_ENG_ID=[your Google Custom Search Engine ID here]
+OPENAI_API_KEY=[your OpenAI private key here]
+```
 
 ## Usage
