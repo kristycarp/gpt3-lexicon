@@ -1,3 +1,8 @@
+# this script allows for rerunning the Google filter without making new queries
+# to GPT-3. main use case for this is if initial Googling returned errors due to
+# daily query limits, or if the user decides to changed the definition of 
+# the Google filter (e.g. to which depth to filter to)
+
 import pandas as pd
 import argparse
 import redmed_gpt
@@ -5,6 +10,12 @@ from tqdm import tqdm
 import pickle
 
 
+# creates an entirely new DataFrame with the re-Googled results
+#
+# params:
+# args (argparse.Namespace) - command line args
+# small (bool) - flag to create small version of df for testing purposes
+#                will only create a new df with a max of 30 rows
 def make_df(args, small=False):
     try:
         memo = pickle.load(open(args.memo,"rb"))
@@ -46,6 +57,12 @@ def make_df(args, small=False):
     df["Google depth"] = depths
     df.to_csv(args.f.split("/")[-1][:-4] + args.suffix + ".csv")
 
+
+# reruns Google search and updates the pipeline-created csv with an additional
+# column that has the new Google information
+#
+# params:
+# args (argparse.Namespace) - command line args
 def update_df(args):
     api_count = args.count_start
     try:
@@ -107,7 +124,6 @@ def update_df(args):
 
 def main(args):
     update_df(args)
-    # make_df(args, small=False)
 
 
 if __name__ == "__main__":

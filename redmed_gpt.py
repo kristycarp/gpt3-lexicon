@@ -17,6 +17,10 @@ from dotenv import load_dotenv
 
 
 # obtains all the candidate redmed synonyms to sample from for prompt
+#
+# params:
+# seed (str) - index term being used to generate queries
+# redmed (DataFrame) - RedMed lexicon in a pandas DataFrame
 def get_candidate_examples(seed, redmed):
     subdf = redmed.loc[redmed["drug"] == seed]
     terms = set()
@@ -33,7 +37,13 @@ def get_candidate_examples(seed, redmed):
 
 # uses a prompt template (either with or without counterexamples) and
 # randomly sampled redmed synonyms to create a prompt with which to query GPT-3
-def get_prompt(seed, terms, include_counterexamples=False, redmed=None, verbose=True): 
+#
+# params:
+# seed (str) - index term being used to generate queries
+# terms (set) - set of candidate redmed synonyms to create prompt with
+# include_counterexamples (bool) - flag to use prompt template with counterexamples
+# verbose (bool) - flag to print the randomly selected examples 
+def get_prompt(seed, terms, include_counterexamples=False, verbose=True): 
     if include_counterexamples:
         examples = random.sample(list(terms),2)
     else:
@@ -56,6 +66,19 @@ def get_prompt(seed, terms, include_counterexamples=False, redmed=None, verbose=
 
 
 # submit query to GPT-3, collect response, clean and parse
+#
+# params:
+# eng (str) - GPT-3 engine to use
+# prompt (str) - prompt to give to GPT-3
+# temp (float) - temperature at which to run GPT-3 (lower temperature = more
+#                likely responses, higher temperature = more diverse responses)
+# maxt (int) - maximum number of tokens for GPT-3 query and response
+# freq (float) - frequency penalty (positive values penalize new tokens based
+#                on their existing frequency in the text so far, decreasing
+#                the model's likelihood to repeat the same line verbatim)
+# pres (float) - presence penalty (positive values penalize new tokens based
+#                on whether they appear in the text so far, increasing the
+#                model's likelihood to talk about new topics)
 def query(eng, prompt, temp, maxt, freq, pres):
     response = openai.Completion.create(engine=eng,
                                         prompt=prompt,
@@ -84,6 +107,10 @@ def query(eng, prompt, temp, maxt, freq, pres):
 
 # checks to see if any of the terms in terms (a list) are present in
 # the generated response r (a string)
+#
+# params:
+# r (str) - the response from GPT-3
+# terms (list) - list of redmed synonyms to check against (could be a single term)
 def redmed_term_in_response(r, terms):
     r_tokens = [r.lower() for r in r.split("_")]
     for t in terms:
@@ -107,6 +134,16 @@ def redmed_term_in_response(r, terms):
 
 # uses the google search api to search for a term
 # will return true if a seed term appears in the top 10 search results
+#
+# params:
+# term (str) - the gpt-3 generated term to conduct the Google search for
+# seed (str) - the index term that the prompt was build for
+# memo (dic) - memo of previous google searches to reduce number of API queries
+# depth (int) - maximum depth to check Google search results with
+# count (bool) - flag indicating whether or not to take measures to keep track
+#                of number of API queries made so far (for daily query restriction purposes)
+# offline (bool) - flag indicating whether or not to only use results from the
+#                  memo (versus making a new Google search)
 def in_google_search(term, seed, memo, depth=10, count=False, offline=False):
     googled = False
     term = term.replace("_"," ")
@@ -164,6 +201,10 @@ def in_google_search(term, seed, memo, depth=10, count=False, offline=False):
 # searches for a term in the whole redmed lexicon
 # if that term is present in the lexicon, will return the seed term it belongs to
 # if that term is not present in the lexicon, will return False
+#
+# params:
+# term (str) - GPT-3 generated term
+# df (DataFrame) - redmed lexicon as dataframe
 def find_seed_for_term(term, df):
     df["all"] = df.apply(lambda row: row["drug"] + "," + row["known"] + "," + row["misspellingPhon"] + "," + row["edOne"] + "," + row["edTwo"] + "," + row["pillMark"] + "," + row["google_ms"] + "," + row["google_title"] + "," + row["google_snippet"] + "," + row["ud_slang"], axis=1)
     df["contains_term"] = df.apply(lambda row: term in row["all"].split(","), axis=1)
@@ -250,7 +291,7 @@ def main(args):
             outfname = "_".join([args.engine, "temp", str(int(args.temp*100)), "freq", str(int(args.freq*100)), "pres", str(int(args.pres*100)), "prompts", str(args.prompts), "queries_per_prompt", str(args.queries_per_prompt), "counter", str(args.counterexamples)])+".csv"
 
         outdf = pd.DataFrame(data=np.array([gpt_terms, gpt_seeds, redmed_seeds_for_gpt_term, redmed_term_in_gpt_term, gpt_google, gpt_google_add, gpt_google_depth]).T, columns=['GPT-3 term','seed for prompt', 'Seed of GPT-3 term in RedMed', 'RedMed term inside GPT-3 term', 'Google', 'Google added token', 'Google depth'])
-        outdf.to_csv(os.path.join("outputs", args.outdir, outfname))
+        outdf.to_csv(os.path.join(args.outdir, outfname))
 
 
 if __name__ == "__main__":
@@ -268,7 +309,7 @@ if __name__ == "__main__":
     parser.add_argument('--memo', type=str, help="Memo file name to reduce API requests.", default="memo.p")
     parser.add_argument('--save', action="store_true", help="Flag for saving outputs to csv.")
     parser.add_argument('--seeds', type=str, help="file containing seeds to use for prompts", default="defaultseed.txt")
-    parser.add_argument('--outdir', type=str, help="directory within the outputs folder in which to save the outputs", default="")
+    parser.add_argument('--outdir', type=str, help="directory in which to save the outputs", default="")
     parser.add_argument('--depth', type=int, help="how deep to go for google search filter", default=10)
     args = parser.parse_args()
 

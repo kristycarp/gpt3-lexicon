@@ -14,7 +14,21 @@ import os
 # for the specified params, create a box plot showing the aggregate
 # of all pipeline runs with each setting of that param
 # used to create figures 2 and 3 in the accompanying manuscript
-def param_box_plot(df, col, param, d):
+#
+# params:
+# df (DataFrame) - output of analyze.py
+# col (str) - which column of df to plot. "all" will plot all columns,
+#             "uniq" will plot all columns counting number of unique terms
+#             with x property, "terms" will plot all columns counting total
+#             number of terms with x property. will output a different plot
+#             image for each column.
+# param (str) - which pipeline parameter to create plot(s) for. "all" will plot
+#               all four parameters, otherwise specify "temp" (temperature),
+#               "pres" (presence penalty), "freq" (frequency penalty), or
+#               "counter" (prompt template). will output a different plot image
+#               for each parameter.
+# plotdir (str) - directory in which to save output plot images
+def param_box_plot(df, col, param, plotdir):
     if col == "all":
         cols = df.columns[7:]
     elif col == "uniq" or col == "terms":
@@ -28,7 +42,7 @@ def param_box_plot(df, col, param, d):
 
     for c in cols:
         for p in params:
-            fname = os.path.join("plots", d, "param_box_%s_sep_by_%s.png" % (c, p))
+            fname = os.path.join(plotdir, "param_box_%s_sep_by_%s.png" % (c, p))
             data = []
             vals = sorted(df[p].unique().tolist())
             for val in vals:
@@ -46,7 +60,21 @@ def param_box_plot(df, col, param, d):
 # parameter settings. this allows for comparison of the whole set of parameters
 # instead of just examining one at a time
 # used for figure 4 of the accompanying manuscript
-def top_model_bar_plot(df, col, param, d):
+#
+# params:
+# df (DataFrame) - output of analyze.py
+# col (str) - which column of df to plot. "all" will plot all columns,
+#             "uniq" will plot all columns counting number of unique terms
+#             with x property, "terms" will plot all columns counting total
+#             number of terms with x property. will output a different plot
+#             image for each column.
+# param (str) - which pipeline parameter to create plot(s) for. "all" will plot
+#               all four parameters, otherwise specify "temp" (temperature),
+#               "pres" (presence penalty), "freq" (frequency penalty), or
+#               "counter" (prompt template). will output a different plot image
+#               for each parameter.
+# plotdir (str) - directory in which to save output plot images
+def top_model_bar_plot(df, col, param, plotdir):
     color_dict = {"temp": {0: "white", 0.3: "white", 0.5: "white", 0.6: "white", 1: "gray"},
                   "freq": {0: "white", 0.3: "white", 0.5: "white", 0.6: "white", 1: "gray"},
                   "pres": {0: "white", 0.3: "white", 0.5: "white", 0.6: "white", 1: "gray"},
@@ -69,7 +97,7 @@ def top_model_bar_plot(df, col, param, d):
 
     for c in cols:
         for p in params:
-            fname = os.path.join("plots", d, "top_model_bar_%s_color_by_%s.png" % (c, p))
+            fname = os.path.join(plotdir, "top_model_bar_%s_color_by_%s.png" % (c, p))
             fig, ax = plt.subplots()
             bar_width=3
             X = 0
@@ -95,6 +123,9 @@ def top_model_bar_plot(df, col, param, d):
 
 
 # returns nicely formatted labels for plotting
+#
+# params:
+# row (Series) - row of the dataframe to create labels for
 def get_param_label(row):
     return "temp=%.1f, freq=%.1f, pres=%.1f, counterexamples=%s" % (row["temp"], row["freq"], row["pres"], row["counter"])
 
@@ -102,9 +133,9 @@ def get_param_label(row):
 def main(args):
     df = pd.read_csv(args.f, index_col=0)
     if args.plot == "bar":
-        top_model_bar_plot(df, args.col, args.param, args.d)
+        top_model_bar_plot(df, args.col, args.param, args.plotdir)
     elif args.plot == "box":
-        param_box_plot(df, args.col, args.param, args.d)
+        param_box_plot(df, args.col, args.param, args.plotdir)
 
 
 if __name__ == "__main__":
