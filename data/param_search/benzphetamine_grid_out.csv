@@ -1,0 +1,13 @@
+,model,temp,freq,pres,prompts,queries_per_prompt,counter,n_terms,n_uniq,n_terms_same_redmed_seed,n_terms_other_redmed_seed,n_terms_redmed_inside,n_terms_not_seed_yes_inside,n_terms_not_seed_not_inside,n_terms_google_alone,n_terms_google_pill,n_terms_google,n_terms_not_redmed_yes_google,n_terms_not_redmed_not_google,n_uniq_same_redmed_seed,n_uniq_other_redmed_seed,n_uniq_redmed_inside,n_uniq_not_seed_yes_inside,n_uniq_not_seed_not_inside,n_uniq_google_alone,n_uniq_google_pill,n_uniq_google,n_uniq_not_redmed_yes_google,n_uniq_not_redmed_not_google,n_ungs
+0,text-davinci-002,0.5,0.0,0.0,1000,1,False,5268,298,1,3441,34,33,5234,49,62,62,114,5153,1,106,2,1,296,8,14,14,13,270,13
+1,text-davinci-002,0.0,0.0,0.0,1000,1,False,5602,23,0,3262,0,0,5602,0,0,0,0,5602,0,15,0,0,23,0,0,0,0,23,0
+2,text-davinci-002,0.5,0.0,1.0,1000,1,False,4488,264,0,2867,29,29,4459,54,81,81,116,4372,0,98,1,1,263,6,9,9,9,246,9
+3,text-davinci-002,0.0,1.0,0.0,1000,1,False,4809,19,0,3018,0,0,4809,0,0,0,0,4809,0,13,0,0,19,0,0,0,0,19,0
+4,text-davinci-002,1.0,1.0,1.0,1000,1,False,2907,671,2,1560,38,36,2869,70,87,87,168,2737,2,155,7,5,664,14,21,21,19,584,19
+5,text-davinci-002,0.0,1.0,1.0,1000,1,False,3542,15,0,1835,0,0,3542,0,158,158,158,3384,0,8,0,0,15,0,1,1,1,14,1
+6,text-davinci-002,1.0,0.0,1.0,1000,1,False,3909,940,1,2035,38,37,3871,76,97,97,209,3699,1,258,7,6,933,12,20,20,19,840,19
+7,text-davinci-002,0.5,1.0,0.0,1000,1,False,3810,209,0,2470,24,24,3786,40,66,67,94,3716,0,71,1,1,208,5,8,9,9,193,9
+8,text-davinci-002,1.0,1.0,0.0,1000,1,False,3295,750,5,1736,36,31,3259,69,87,90,185,3105,3,199,18,15,732,26,32,34,31,643,31
+9,text-davinci-002,0.0,0.0,1.0,1000,1,False,5093,26,0,3111,0,0,5093,0,1,1,1,5092,0,15,0,0,26,0,1,1,1,25,1
+10,text-davinci-002,0.5,1.0,1.0,1000,1,False,3162,185,1,2010,31,30,3131,50,72,72,111,3050,1,62,2,1,183,5,8,8,7,168,7
+11,text-davinci-002,1.0,0.0,0.0,1000,1,False,4529,1020,4,2391,29,25,4500,57,80,80,184,4341,3,271,10,7,1010,13,21,21,18,912,18
