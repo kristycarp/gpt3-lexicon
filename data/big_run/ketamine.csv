@@ -1,0 +1,3164 @@
+,GPT-3 term,seed for prompt,Seed of GPT-3 term in RedMed,RedMed term inside GPT-3 term,Google,Google added token,Google depth
+0,dissociative,ketamine,False,False,True,,5
+1,anaesthetic,ketamine,False,False,True,,10
+2,ketalar,ketamine,ketamine,True,True,,1
+3,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+4,katamine,ketamine,ketamine,True,True,,1
+5,kratom,ketamine,kratom,False,False,,-1
+6,ketoconazole,ketamine,ketoconazole,False,False,,-1
+7,ketorolac,ketamine,ketorolac,False,False,,-1
+8,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+9,cat_num,ketamine,False,False,True, slang,4
+10,keta_4,ketamine,False,False,True,,2
+11,k-hole,ketamine,False,False,True,,2
+12,k,ketamine,False,False,True, pill,5
+13,vitamin_k,ketamine,phylloquinone,False,True, slang,1
+14,keta-mine,ketamine,False,False,True,,1
+15,keta-mime,ketamine,False,False,True,,1
+16,nmda,ketamine,ketamine,True,True, slang,2
+17,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+18,keto,ketamine,False,False,False,,-1
+19,ketaset,ketamine,False,False,True,,1
+20,ketasol,ketamine,False,False,True, pill,9
+21,ketalar,ketamine,ketamine,True,True,,1
+22,dissociative_anesthesia,ketamine,False,False,True,,6
+23,cat_tranquilliser,ketamine,False,False,True, pill,5
+24,horse_tranq,ketamine,False,False,True,,3
+25,special_k,ketamine,ketamine,False,True,,5
+26,vitamin_k,ketamine,phylloquinone,False,True, slang,1
+27,kit_kat,ketamine,cocoa,False,True, pill,5
+28,ketalar,ketamine,ketamine,True,True,,1
+29,ketaject,ketamine,False,False,True,,6
+30,ketanest,ketamine,ketamine,True,True,,1
+31,ketelone,ketamine,False,False,False,,-1
+32,keta,ketamine,esketamine,False,True,,6
+33,keta-fleeta,ketamine,False,False,False,,-1
+34,k-hole,ketamine,False,False,True,,2
+35,keta,ketamine,esketamine,False,True,,6
+36,kat,ketamine,False,False,True, drug,9
+37,k-hole,ketamine,False,False,True,,2
+38,special_k,ketamine,ketamine,False,True,,5
+39,keta,ketamine,esketamine,False,True,,6
+40,ketaject,ketamine,False,False,True,,6
+41,dissociative_anaesthetic,ketamine,False,False,True,,2
+42,ketyryl,ketamine,False,False,False,,-1
+43,ketylamine,ketamine,False,False,False,,-1
+44,keta,ketamine,esketamine,False,True,,6
+45,ket,ketamine,False,False,True, pill,1
+46,n-mono,ketamine,False,False,False,,-1
+47,m-chloro,ketamine,False,False,False,,-1
+48,k-stereo,ketamine,False,False,False,,-1
+49,ketaject,ketamine,False,False,True,,6
+50,ketaset,ketamine,False,False,True,,1
+51,ketavance,ketamine,False,False,False,,-1
+52,ketoflex,ketamine,False,False,False,,-1
+53,ketagel,ketamine,False,False,True,,2
+54,ketasol,ketamine,False,False,True, pill,9
+55,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+56,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+57,amtk,ketamine,False,False,False,,-1
+58,ktp,ketamine,False,False,False,,-1
+59,dissociative,ketamine,False,False,True,,5
+60,keta,ketamine,esketamine,False,True,,6
+61,keta_option,ketamine,False,False,True,,1
+62,nmem,ketamine,False,False,False,,-1
+63,nmeo,ketamine,False,False,False,,-1
+64,nmoa,ketamine,False,False,False,,-1
+65,nmos,ketamine,False,False,False,,-1
+66,nmra,ketamine,False,False,False,,-1
+67,nmta,ketamine,False,False,False,,-1
+68,nnrs,ketamine,False,False,False,,-1
+69,nds,ketamine,False,False,False,,-1
+70,naes,ketamine,False,False,False,,-1
+71,ndes,ketamine,False,False,True, drug,7
+72,ket,ketamine,False,False,True, pill,1
+73,quaalude,ketamine,methaqualone,False,False,,-1
+74,diethyl_ether,ketamine,False,False,False,,-1
+75,ketamist,ketamine,False,False,True,,1
+76,katemine,ketamine,False,False,True,,3
+77,katamine,ketamine,ketamine,True,True,,1
+78,dimetoxifene,ketamine,False,False,False,,-1
+79,dissociatives,ketamine,esketamine,False,True, pill,5
+80,hallucinogenics,ketamine,False,False,False,,-1
+81,psychotropics,ketamine,False,False,False,,-1
+82,ketam,ketamine,False,False,True, pill,6
+83,ketazocine,ketamine,False,False,True,,2
+84,benzoquinone,ketamine,False,False,False,,-1
+85,ketaset,ketamine,False,False,True,,1
+86,ketavet,ketamine,ketamine,True,True,,2
+87,ketaject,ketamine,False,False,True,,6
+88,ketofol,ketamine,False,False,False,,-1
+89,ketman,ketamine,False,False,True, pill,7
+90,ketlur,ketamine,False,False,False,,-1
+91,kemist,ketamine,False,False,False,,-1
+92,spravato,ketamine,False,False,True, slang,5
+93,ketaject,ketamine,False,False,True,,6
+94,minaral,ketamine,False,False,False,,-1
+95,ketalar,ketamine,ketamine,True,True,,1
+96,kemine,ketamine,False,False,True, pill,2
+97,ketamin,ketamine,ketamine,True,True,,1
+98,ketaminas,ketamine,False,False,True,,2
+99,nmdd,ketamine,False,False,False,,-1
+100,nmdea,ketamine,False,False,False,,-1
+101,nmha,ketamine,False,False,False,,-1
+102,naphy,ketamine,False,False,False,,-1
+103,neamine,ketamine,False,False,False,,-1
+104,nethylmine,ketamine,False,False,False,,-1
+105,nethylation,ketamine,False,False,False,,-1
+106,ketaject,ketamine,False,False,True,,6
+107,kete,ketamine,False,False,True, drug,7
+108,special_k,ketamine,ketamine,False,True,,5
+109,keetamine,ketamine,False,False,True,,1
+110,ketaset,ketamine,False,False,True,,1
+111,ketaject,ketamine,False,False,True,,6
+112,ketolar,ketamine,False,False,True,,6
+113,ketanest,ketamine,ketamine,True,True,,1
+114,ketafarm,ketamine,False,False,False,,-1
+115,ketasol,ketamine,False,False,True, pill,9
+116,ketaflo,ketamine,False,False,True,,2
+117,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+118,dissociatives,ketamine,esketamine,False,True, pill,5
+119,dissociatives,ketamine,esketamine,False,True, pill,5
+120,ketaject,ketamine,False,False,True,,6
+121,ketaset,ketamine,False,False,True,,1
+122,ketanest,ketamine,ketamine,True,True,,1
+123,ketasol,ketamine,False,False,True, pill,9
+124,vetalar,ketamine,False,False,True,,1
+125,palcicon,ketamine,False,False,False,,-1
+126,ketaflo,ketamine,False,False,True,,2
+127,ketaject,ketamine,False,False,True,,6
+128,ketaset,ketamine,False,False,True,,1
+129,ketanest,ketamine,ketamine,True,True,,1
+130,ketanex,ketamine,False,False,True, pill,3
+131,ketasol,ketamine,False,False,True, pill,9
+132,cat_valium,ketamine,False,False,True,,9
+133,special_k,ketamine,ketamine,False,True,,5
+134,ketaset,ketamine,False,False,True,,1
+135,ketavet,ketamine,ketamine,True,True,,2
+136,ketofur,ketamine,False,False,False,,-1
+137,ketam,ketamine,False,False,True, pill,6
+138,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+139,keta_linear,ketamine,False,False,True, pill,1
+140,keta_hydrochloride,ketamine,False,False,True,,1
+141,keta-mine,ketamine,False,False,True,,1
+142,etamine,ketamine,ketamine,True,True, pill,1
+143,ketalar,ketamine,ketamine,True,True,,1
+144,ketam,ketamine,False,False,True, pill,6
+145,ketaminum,ketamine,False,False,True,,2
+146,catnip,ketamine,False,False,False,,-1
+147,kitty_salt,ketamine,False,False,True, slang,4
+148,powder,ketamine,False,False,False,,-1
+149,ket,ketamine,False,False,True, pill,1
+150,special_k,ketamine,ketamine,False,True,,5
+151,dissociative,ketamine,False,False,True,,5
+152,anesthetic,ketamine,procaine,False,True,,3
+153,ketacon,ketamine,False,False,False,,-1
+154,ketahex,ketamine,False,False,False,,-1
+155,phencyclidine,ketamine,phencyclidine,False,False,,-1
+156,nmbas,ketamine,False,False,False,,-1
+157,nmn,ketamine,nicotinamide_mononucleotide,False,False,,-1
+158,nme,ketamine,False,False,True, pill,10
+159,nmmda,ketamine,False,False,True, drug,5
+160,nmoa,ketamine,False,False,False,,-1
+161,nmda,ketamine,ketamine,True,True, slang,2
+162,nmtd,ketamine,False,False,False,,-1
+163,super_k,ketamine,False,False,True, pill,6
+164,k-hole,ketamine,False,False,True,,2
+165,katamine,ketamine,ketamine,True,True,,1
+166,keta,ketamine,esketamine,False,True,,6
+167,k-hole,ketamine,False,False,True,,2
+168,esketamine,ketamine,esketamine,False,True,,2
+169,nimetazepam,ketamine,False,False,True,,6
+170,eticyclidine,ketamine,rolicyclidine,False,True,,1
+171,cyclohexamine,ketamine,cyclohexanone,False,False,,-1
+172,tiletamine,ketamine,esketamine,False,True, pill,5
+173,amytal,ketamine,amobarbital,False,False,,-1
+174,ketalar,ketamine,ketamine,True,True,,1
+175,catmint,ketamine,diethylcarbamazine,False,False,,-1
+176,keitamine,ketamine,False,False,True, pill,1
+177,kitamine,ketamine,False,False,True,,1
+178,ketamin,ketamine,ketamine,True,True,,1
+179,katamine,ketamine,ketamine,True,True,,1
+180,n-ethyl-nor-psilocin,ketamine,False,False,False,,-1
+181,ketaset,ketamine,False,False,True,,1
+182,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+183,ketofluor,ketamine,False,False,False,,-1
+184,keta-bzd,ketamine,False,False,True,,1
+185,keta-pce,ketamine,False,False,True,,1
+186,keta-ho,ketamine,False,False,True, pill,1
+187,keta-coke,ketamine,False,False,True,,1
+188,atropin,ketamine,atropine,False,False,,-1
+189,dnmc,ketamine,False,False,False,,-1
+190,etomidat,ketamine,False,False,True, pill,8
+191,methoketamin,ketamine,False,False,False,,-1
+192,ketaminol,ketamine,False,False,True, pill,1
+193,nm2-ai,ketamine,False,False,False,,-1
+194,nmono,ketamine,False,False,False,,-1
+195,n-mono,ketamine,False,False,False,,-1
+196,keta,ketamine,esketamine,False,True,,6
+197,keta-m,ketamine,False,False,True, pill,1
+198,keta-mono,ketamine,False,False,True,,1
+199,ketalar,ketamine,ketamine,True,True,,1
+200,ketanome,ketamine,False,False,True,,1
+201,ketmane,ketamine,False,False,True, pill,1
+202,ketaminol,ketamine,False,False,True, pill,1
+203,ketaset,ketamine,False,False,True,,1
+204,ketaject,ketamine,False,False,True,,6
+205,ketafusin,ketamine,False,False,False,,-1
+206,ketavet,ketamine,ketamine,True,True,,2
+207,ketazocine,ketamine,False,False,True,,2
+208,ketofentanyl,ketamine,False,False,False,,-1
+209,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+210,ketaset,ketamine,False,False,True,,1
+211,ketelone,ketamine,False,False,False,,-1
+212,special_k,ketamine,ketamine,False,True,,5
+213,k,ketamine,False,False,True, pill,5
+214,vitamin_k,ketamine,phylloquinone,False,True, slang,1
+215,anaesthetic,ketamine,False,False,True,,10
+216,esketamine,ketamine,esketamine,False,True,,2
+217,ketanome,ketamine,False,False,True,,1
+218,ketaset,ketamine,False,False,True,,1
+219,ketavite,ketamine,False,False,False,,-1
+220,ketofast,ketamine,False,False,False,,-1
+221,keloform,ketamine,False,False,False,,-1
+222,ketamin,ketamine,ketamine,True,True,,1
+223,pecial_k,ketamine,False,False,True, pill,1
+224,k,ketamine,False,False,True, pill,5
+225,vitamin_k,ketamine,phylloquinone,False,True, slang,1
+226,ketaject,ketamine,False,False,True,,6
+227,ketaset,ketamine,False,False,True,,1
+228,ket,ketamine,False,False,True, pill,1
+229,special_k,ketamine,ketamine,False,True,,5
+230,ketaset,ketamine,False,False,True,,1
+231,keta,ketamine,esketamine,False,True,,6
+232,special_k,ketamine,ketamine,False,True,,5
+233,ketaset,ketamine,False,False,True,,1
+234,keta,ketamine,esketamine,False,True,,6
+235,special_k,ketamine,ketamine,False,True,,5
+236,phencyclidine,ketamine,phencyclidine,False,False,,-1
+237,pcp,ketamine,phencyclidine,False,False,,-1
+238,changeup,ketamine,False,False,False,,-1
+239,elephant_tranquilizer,ketamine,carfentanil,False,False,,-1
+240,ketaject,ketamine,False,False,True,,6
+241,ketaset,ketamine,False,False,True,,1
+242,ketalar,ketamine,ketamine,True,True,,1
+243,k-hole,ketamine,False,False,True,,2
+244,dnmtt,ketamine,False,False,False,,-1
+245,antiemetic,ketamine,False,False,False,,-1
+246,keta,ketamine,esketamine,False,True,,6
+247,keta-mine,ketamine,False,False,True,,1
+248,k-mine,ketamine,False,False,True, pill,6
+249,ketaset,ketamine,False,False,True,,1
+250,keta,ketamine,esketamine,False,True,,6
+251,ket,ketamine,False,False,True, pill,1
+252,keta,ketamine,esketamine,False,True,,6
+253,kat,ketamine,False,False,True, drug,9
+254,ktemine,ketamine,False,False,True,,2
+255,neucalyptol,ketamine,False,False,False,,-1
+256,kalyptus,ketamine,False,False,False,,-1
+257,katamine,ketamine,ketamine,True,True,,1
+258,ketaamine,ketamine,False,False,True,,1
+259,ketaquin,ketamine,False,False,False,,-1
+260,ketaset,ketamine,False,False,True,,1
+261,ketocaine,ketamine,False,False,True, pill,5
+262,general_anaesthetic,ketamine,False,False,False,,-1
+263,dissociative_anaesthetic,ketamine,False,False,True,,2
+264,ketanest,ketamine,ketamine,True,True,,1
+265,ketaset,ketamine,False,False,True,,1
+266,katamine,ketamine,ketamine,True,True,,1
+267,ketalar,ketamine,ketamine,True,True,,1
+268,keta,ketamine,esketamine,False,True,,6
+269,kat,ketamine,False,False,True, drug,9
+270,keta,ketamine,esketamine,False,True,,6
+271,keta-mine,ketamine,False,False,True,,1
+272,katemine,ketamine,False,False,True,,3
+273,katimine,ketamine,False,False,True,,4
+274,ketamine,ketamine,ketamine,True,True,,1
+275,ketanest,ketamine,ketamine,True,True,,1
+276,ketaset,ketamine,False,False,True,,1
+277,ketavet,ketamine,ketamine,True,True,,2
+278,nme,ketamine,False,False,True, pill,10
+279,nmh,ketamine,False,False,False,,-1
+280,nmhs,ketamine,False,False,False,,-1
+281,nmda,ketamine,ketamine,True,True, slang,2
+282,keta,ketamine,esketamine,False,True,,6
+283,kit,ketamine,False,False,True,,2
+284,ketaset,ketamine,False,False,True,,1
+285,vetalar,ketamine,False,False,True,,1
+286,ketofur,ketamine,False,False,False,,-1
+287,dissociative,ketamine,False,False,True,,5
+288,disociative_anesthetic,ketamine,False,False,True,,4
+289,kt,ketamine,False,False,True, drug,8
+290,k,ketamine,False,False,True, pill,5
+291,ketaject,ketamine,False,False,True,,6
+292,keta,ketamine,esketamine,False,True,,6
+293,kit,ketamine,False,False,True,,2
+294,nme,ketamine,False,False,True, pill,10
+295,nmj,ketamine,False,False,False,,-1
+296,nmp,ketamine,methyl_pyrrolidone,False,False,,-1
+297,q-ball,ketamine,False,False,False,,-1
+298,ketaject,ketamine,False,False,True,,6
+299,ketaset,ketamine,False,False,True,,1
+300,noribblets,ketamine,False,False,False,,-1
+301,qualudes,ketamine,methaqualone,False,False,,-1
+302,tranks,ketamine,False,False,False,,-1
+303,ketaset,ketamine,False,False,True,,1
+304,ketapar,ketamine,False,False,False,,-1
+305,ketafet,ketamine,False,False,False,,-1
+306,ketalog,ketamine,False,False,False,,-1
+307,ketafax,ketamine,False,False,False,,-1
+308,ketacap,ketamine,False,False,True, drug,7
+309,ketacot,ketamine,False,False,False,,-1
+310,n-methyl-d-aspartate,ketamine,False,False,True, pill,5
+311,ndmda,ketamine,False,False,False,,-1
+312,n-mda,ketamine,False,False,True, pill,9
+313,keta,ketamine,esketamine,False,True,,6
+314,k-hole,ketamine,False,False,True,,2
+315,ketaamyne,ketamine,False,False,False,,-1
+316,ketaemine,ketamine,False,False,True,,1
+317,ketaject,ketamine,False,False,True,,6
+318,ketaset,ketamine,False,False,True,,1
+319,esketamina,ketamine,False,False,True,,10
+320,ketanina,ketamine,False,False,True, drug,1
+321,ketymine,ketamine,False,False,False,,-1
+322,katamine,ketamine,ketamine,True,True,,1
+323,kitamiye,ketamine,False,False,False,,-1
+324,kataime,ketamine,False,False,True, pill,1
+325,ketaime,ketamine,False,False,True,,5
+326,kotamine,ketamine,False,False,True, pill,1
+327,ketaemin,ketamine,False,False,False,,-1
+328,katamine,ketamine,ketamine,True,True,,1
+329,ketaset,ketamine,False,False,True,,1
+330,ketanest,ketamine,ketamine,True,True,,1
+331,ketaject,ketamine,False,False,True,,6
+332,ketmin,ketamine,hemin,False,True,,1
+333,ketaset,ketamine,False,False,True,,1
+334,clique,ketamine,False,False,False,,-1
+335,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+336,special_k,ketamine,ketamine,False,True,,5
+337,ketaset,ketamine,False,False,True,,1
+338,ketanest,ketamine,ketamine,True,True,,1
+339,ketofana,ketamine,False,False,False,,-1
+340,k-hole,ketamine,False,False,True,,2
+341,dissociative,ketamine,False,False,True,,5
+342,ketaset,ketamine,False,False,True,,1
+343,ketalar,ketamine,ketamine,True,True,,1
+344,ketaject,ketamine,False,False,True,,6
+345,ketmar,ketamine,False,False,False,,-1
+346,ketam,ketamine,False,False,True, pill,6
+347,cat_valium,ketamine,False,False,True,,9
+348,special_k,ketamine,ketamine,False,True,,5
+349,ketmin,ketamine,hemin,False,True,,1
+350,keta,ketamine,esketamine,False,True,,6
+351,k,ketamine,False,False,True, pill,5
+352,keppy,ketamine,False,False,False,,-1
+353,ketaset,ketamine,False,False,True,,1
+354,ketanest,ketamine,ketamine,True,True,,1
+355,special_k,ketamine,ketamine,False,True,,5
+356,special_k,ketamine,ketamine,False,True,,5
+357,kataminum,ketamine,False,False,False,,-1
+358,keta,ketamine,esketamine,False,True,,6
+359,ketan,ketamine,False,False,False,,-1
+360,ketaamine,ketamine,False,False,True,,1
+361,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+362,quetamin,ketamine,False,False,True, pill,1
+363,quetapel,ketamine,False,False,False,,-1
+364,ketaject,ketamine,False,False,True,,6
+365,ketaset,ketamine,False,False,True,,1
+366,katomine,ketamine,False,False,True,,3
+367,katimine,ketamine,False,False,True,,4
+368,n-methyl-d-aspartate,ketamine,False,False,True, pill,5
+369,k-hole,ketamine,False,False,True,,2
+370,ketaject,ketamine,False,False,True,,6
+371,vetalar,ketamine,False,False,True,,1
+372,ktemine,ketamine,False,False,True,,2
+373,special_k,ketamine,ketamine,False,True,,5
+374,ktamn,ketamine,False,False,False,,-1
+375,ktmne,ketamine,False,False,True, drug,4
+376,esketamine,ketamine,esketamine,False,True,,2
+377,ketofurane,ketamine,False,False,False,,-1
+378,namenda,ketamine,memantine,False,False,,-1
+379,ketaset,ketamine,False,False,True,,1
+380,keta,ketamine,esketamine,False,True,,6
+381,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+382,ketofan,ketamine,False,False,False,,-1
+383,ketalar,ketamine,ketamine,True,True,,1
+384,veterinary_anesthetic,ketamine,False,False,True, drug,6
+385,keta,ketamine,esketamine,False,True,,6
+386,ket,ketamine,False,False,True, pill,1
+387,k,ketamine,False,False,True, pill,5
+388,special_k,ketamine,ketamine,False,True,,5
+389,kelemstine,ketamine,False,False,False,,-1
+390,kalime,ketamine,False,False,False,,-1
+391,ketoflavine,ketamine,False,False,False,,-1
+392,ketonicaine,ketamine,False,False,False,,-1
+393,ketonylchloride,ketamine,False,False,False,,-1
+394,ketorous_acid,ketamine,False,False,False,,-1
+395,ketozoline,ketamine,False,False,False,,-1
+396,ketaset,ketamine,False,False,True,,1
+397,ketelar,ketamine,False,False,True,,1
+398,keitaro,ketamine,False,False,False,,-1
+399,ketasol,ketamine,False,False,True, pill,9
+400,ketamina,ketamine,ketamine,True,True,,2
+401,ketaject,ketamine,False,False,True,,6
+402,ketalar,ketamine,ketamine,True,True,,1
+403,ketanest,ketamine,ketamine,True,True,,1
+404,ketaset,ketamine,False,False,True,,1
+405,ketazocine,ketamine,False,False,True,,2
+406,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+407,keta,ketamine,esketamine,False,True,,6
+408,ketaquin,ketamine,False,False,False,,-1
+409,quinolone,ketamine,False,False,False,,-1
+410,quinolin,ketamine,False,False,False,,-1
+411,quinuclidine,ketamine,False,False,False,,-1
+412,quinine,ketamine,quinine,False,False,,-1
+413,quinone,ketamine,quinine,False,False,,-1
+414,ketaject,ketamine,False,False,True,,6
+415,keta,ketamine,esketamine,False,True,,6
+416,ketofarm,ketamine,False,False,False,,-1
+417,ketonal,ketamine,False,False,True, slang,1
+418,ketomax,ketamine,False,False,False,,-1
+419,ketavet,ketamine,ketamine,True,True,,2
+420,ketaset,ketamine,False,False,True,,1
+421,ketalar,ketamine,ketamine,True,True,,1
+422,ekat,ketamine,False,False,False,,-1
+423,kla,ketamine,False,False,False,,-1
+424,k-hole,ketamine,False,False,True,,2
+425,kitkat,ketamine,False,False,True, drug,1
+426,kitty,ketamine,False,False,True, drug,2
+427,k-hole,ketamine,False,False,True,,2
+428,keta,ketamine,esketamine,False,True,,6
+429,keatana,ketamine,False,False,False,,-1
+430,katimine,ketamine,False,False,True,,4
+431,katimin,ketamine,False,False,True,,10
+432,katinmine,ketamine,False,False,False,,-1
+433,katinin,ketamine,False,False,False,,-1
+434,kitamin,ketamine,False,False,True,,1
+435,cantamin,ketamine,False,False,False,,-1
+436,catamin,ketamine,False,False,True, pill,1
+437,ket,ketamine,False,False,True, pill,1
+438,special_k,ketamine,ketamine,False,True,,5
+439,ketarol,ketamine,False,False,True,,1
+440,keltamine,ketamine,False,False,False,,-1
+441,ketofol,ketamine,False,False,False,,-1
+442,ketalar,ketamine,ketamine,True,True,,1
+443,et,ketamine,False,False,False,,-1
+444,k,ketamine,False,False,True, pill,5
+445,keta,ketamine,esketamine,False,True,,6
+446,special_k,ketamine,ketamine,False,True,,5
+447,keta,ketamine,esketamine,False,True,,6
+448,kamin,ketamine,amikacin,False,False,,-1
+449,katin,ketamine,False,False,False,,-1
+450,kitamine,ketamine,False,False,True,,1
+451,ketaject,ketamine,False,False,True,,6
+452,ketaset,ketamine,False,False,True,,1
+453,ketavet,ketamine,ketamine,True,True,,2
+454,ketofane,ketamine,False,False,False,,-1
+455,ketalar_sv,ketamine,False,True,True,,5
+456,ketanome,ketamine,False,False,True,,1
+457,ketanest_s,ketamine,False,True,True,,10
+458,ketalar,ketamine,ketamine,True,True,,1
+459,keta,ketamine,esketamine,False,True,,6
+460,ketaset,ketamine,False,False,True,,1
+461,ketofane,ketamine,False,False,False,,-1
+462,ketolar,ketamine,False,False,True,,6
+463,ketobemidone,ketamine,ketobemidone,False,True,,1
+464,ketazocine,ketamine,False,False,True,,2
+465,ketocyclazocine,ketamine,False,False,True,,2
+466,phencyclidine,ketamine,phencyclidine,False,False,,-1
+467,angel_dust,ketamine,False,False,False,,-1
+468,love_drug,ketamine,False,False,False,,-1
+469,special_k,ketamine,ketamine,False,True,,5
+470,keta,ketamine,esketamine,False,True,,6
+471,ket,ketamine,False,False,True, pill,1
+472,nmda,ketamine,ketamine,True,True, slang,2
+473,nme,ketamine,False,False,True, pill,10
+474,nmp,ketamine,methyl_pyrrolidone,False,False,,-1
+475,nmt,ketamine,False,False,False,,-1
+476,noctamid,ketamine,False,False,False,,-1
+477,npd,ketamine,dexamethasone,False,False,,-1
+478,npma,ketamine,False,False,False,,-1
+479,npma-p,ketamine,False,False,False,,-1
+480,npn,ketamine,False,False,False,,-1
+481,nrmt,ketamine,False,False,False,,-1
+482,nrp104,ketamine,lisdexamfetamine,False,False,,-1
+483,nsda,ketamine,False,False,False,,-1
+484,ntp,ketamine,False,False,False,,-1
+485,aculoctel,ketamine,False,False,False,,-1
+486,cetamina,ketamine,False,False,True,,3
+487,flupirtine,ketamine,flupirtine,False,False,,-1
+488,lofentanil,ketamine,lofentanil,False,False,,-1
+489,memantine,ketamine,memantine,False,False,,-1
+490,modafinil,ketamine,modafinil,False,True,,8
+491,ocinaplon,ketamine,False,False,False,,-1
+492,peramivir,ketamine,peramivir,False,False,,-1
+493,prucalopride,ketamine,prucalopride,False,False,,-1
+494,quinuclidone,ketamine,False,False,False,,-1
+495,reboxetine,ketamine,reboxetine,False,False,,-1
+496,remifentanil,ketamine,remifentanil,False,False,,-1
+497,selegiline,ketamine,selegiline,False,True,,9
+498,sertraline,ketamine,sertraline,False,False,,-1
+499,suvorexant,ketamine,suvorexant,False,False,,-1
+500,tianeptine,ketamine,tianeptine,False,False,,-1
+501,ziprasidone,ketamine,ziprasidone,False,False,,-1
+502,ketamina,ketamine,ketamine,True,True,,2
+503,kétamine,ketamine,False,False,True,,1
+504,ketalar,ketamine,ketamine,True,True,,1
+505,ketaset,ketamine,False,False,True,,1
+506,keta-mine,ketamine,False,False,True,,1
+507,diprovan,ketamine,propofol,False,False,,-1
+508,anesket,ketamine,ketamine,False,True,,1
+509,ketaset,ketamine,False,False,True,,1
+510,ketaject,ketamine,False,False,True,,6
+511,ketofol,ketamine,False,False,False,,-1
+512,pcp,ketamine,phencyclidine,False,False,,-1
+513,angel_dust,ketamine,False,False,False,,-1
+514,rocket_fuel,ketamine,False,False,False,,-1
+515,anakinra,ketamine,anakinra,False,False,,-1
+516,mirtazapine,ketamine,mirtazapine,False,False,,-1
+517,iloperidone,ketamine,iloperidone,False,False,,-1
+518,loxapine,ketamine,loxapine,False,False,,-1
+519,olanzapine,ketamine,olanzapine,False,False,,-1
+520,quetiapine,ketamine,quetiapine,False,False,,-1
+521,ziprasidone,ketamine,ziprasidone,False,False,,-1
+522,ketalar,ketamine,ketamine,True,True,,1
+523,special_k,ketamine,ketamine,False,True,,5
+524,cat_valium,ketamine,False,False,True,,9
+525,jet,ketamine,False,False,False,,-1
+526,uperficial_anesthesia,ketamine,False,False,False,,-1
+527,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+528,anesthetic,ketamine,procaine,False,True,,3
+529,ketofol,ketamine,False,False,False,,-1
+530,kemadrin,ketamine,False,False,False,,-1
+531,ketoles,ketamine,False,False,False,,-1
+532,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+533,ketazocine,ketamine,False,False,True,,2
+534,benzodiazepine,ketamine,benzodiazepine,False,False,,-1
+535,ketaset,ketamine,False,False,True,,1
+536,ketanest,ketamine,ketamine,True,True,,1
+537,ketaloc,ketamine,False,False,False,,-1
+538,ketaject,ketamine,False,False,True,,6
+539,ketamin,ketamine,ketamine,True,True,,1
+540,ketofane,ketamine,False,False,False,,-1
+541,ketalar,ketamine,ketamine,True,True,,1
+542,specials_k,ketamine,False,False,True,,6
+543,ketaquin,ketamine,False,False,False,,-1
+544,quetamine,ketamine,False,False,True, pill,5
+545,quetamino,ketamine,False,False,False,,-1
+546,quetazin,ketamine,False,False,False,,-1
+547,quetiapin,ketamine,quetiapine,False,False,,-1
+548,quetiapina,ketamine,False,False,False,,-1
+549,ketadome,ketamine,False,False,False,,-1
+550,special_k,ketamine,ketamine,False,True,,5
+551,emantine,ketamine,False,False,False,,-1
+552,ketaject,ketamine,False,False,True,,6
+553,ketofol,ketamine,False,False,False,,-1
+554,kemadrin,ketamine,False,False,False,,-1
+555,ketazine,ketamine,False,False,True, pill,5
+556,vetalog,ketamine,triamcinolone,False,False,,-1
+557,ketaset,ketamine,False,False,True,,1
+558,ketanest,ketamine,ketamine,True,True,,1
+559,keta,ketamine,esketamine,False,True,,6
+560,k-hole,ketamine,False,False,True,,2
+561,ketaset,ketamine,False,False,True,,1
+562,ketaject,ketamine,False,False,True,,6
+563,anesket,ketamine,ketamine,False,True,,1
+564,ketofane,ketamine,False,False,False,,-1
+565,pcp,ketamine,phencyclidine,False,False,,-1
+566,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+567,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+568,pecial_k_,ketamine,False,False,True, pill,1
+569,cat_valium,ketamine,False,False,True,,9
+570,horse_tranquilizer,ketamine,False,False,True,,2
+571,katamine,ketamine,ketamine,True,True,,1
+572,ketaime,ketamine,False,False,True,,5
+573,kitamine,ketamine,False,False,True,,1
+574,kitamine,ketamine,False,False,True,,1
+575,catamina,ketamine,False,False,False,,-1
+576,ketanest,ketamine,ketamine,True,True,,1
+577,ketaset,ketamine,False,False,True,,1
+578,ketaset,ketamine,False,False,True,,1
+579,ketaject,ketamine,False,False,True,,6
+580,recreational_dissociative,ketamine,False,False,True,,1
+581,special_k,ketamine,ketamine,False,True,,5
+582,ketaarm,ketamine,False,False,False,,-1
+583,atomin,ketamine,False,False,False,,-1
+584,ketavert,ketamine,False,False,False,,-1
+585,keetageld,ketamine,False,False,False,,-1
+586,ketaan,ketamine,False,False,False,,-1
+587,ketaanspuit,ketamine,False,False,False,,-1
+588,ketaat,ketamine,False,False,True, drug,6
+589,dissociatives,ketamine,esketamine,False,True, pill,5
+590,special_k,ketamine,ketamine,False,True,,5
+591,ketamina,ketamine,ketamine,True,True,,2
+592,keta,ketamine,esketamine,False,True,,6
+593,keta-mine,ketamine,False,False,True,,1
+594,k-mine,ketamine,False,False,True, pill,6
+595,katamine,ketamine,ketamine,True,True,,1
+596,katamina,ketamine,False,False,True, pill,1
+597,amina,ketamine,False,False,False,,-1
+598,ketaset,ketamine,False,False,True,,1
+599,ketaject,ketamine,False,False,True,,6
+600,ketofen,ketamine,False,False,False,,-1
+601,ketalar,ketamine,ketamine,True,True,,1
+602,ketaject,ketamine,False,False,True,,6
+603,ketaset,ketamine,False,False,True,,1
+604,ketanest,ketamine,ketamine,True,True,,1
+605,ketavet,ketamine,ketamine,True,True,,2
+606,ketofrin,ketamine,False,False,False,,-1
+607,ketalar,ketamine,ketamine,True,True,,1
+608,keta,ketamine,esketamine,False,True,,6
+609,k-hole,ketamine,False,False,True,,2
+610,ketaset,ketamine,False,False,True,,1
+611,k-hole,ketamine,False,False,True,,2
+612,khole,ketamine,False,False,True, drug,1
+613,special_k,ketamine,ketamine,False,True,,5
+614,drgs,ketamine,False,False,False,,-1
+615,lysrg,ketamine,False,False,False,,-1
+616,ketanest,ketamine,ketamine,True,True,,1
+617,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+618,kitors,ketamine,False,False,False,,-1
+619,kety,ketamine,False,False,True, slang,3
+620,kef,ketamine,False,False,False,,-1
+621,k-hole,ketamine,False,False,True,,2
+622,narkamin,ketamine,False,False,False,,-1
+623,ketanime,ketamine,False,False,True,,3
+624,keta,ketamine,esketamine,False,True,,6
+625,ket,ketamine,False,False,True, pill,1
+626,ketozol,ketamine,False,False,False,,-1
+627,keta,ketamine,esketamine,False,True,,6
+628,special_k,ketamine,ketamine,False,True,,5
+629,cat_tranquilliser,ketamine,False,False,True, pill,5
+630,psychedelic_drug,ketamine,False,False,True,,10
+631,kitamine,ketamine,False,False,True,,1
+632,ketanime,ketamine,False,False,True,,3
+633,katamime,ketamine,False,False,True,,1
+634,katanime,ketamine,False,False,True, pill,6
+635,katemine,ketamine,False,False,True,,3
+636,katamene,ketamine,False,False,True,,1
+637,katamyne,ketamine,False,False,True,,5
+638,ketyon,ketamine,False,False,False,,-1
+639,katamine,ketamine,ketamine,True,True,,1
+640,kitamine,ketamine,False,False,True,,1
+641,kelevimin,ketamine,False,False,False,,-1
+642,ketaset,ketamine,False,False,True,,1
+643,ketoprofen,ketamine,ketoprofen,False,False,,-1
+644,ketorolac,ketamine,ketorolac,False,False,,-1
+645,keterol,ketamine,False,False,False,,-1
+646,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+647,ketanserin,ketamine,ketanserin,False,True, slang,7
+648,ritanserin,ketamine,ritanserin,False,False,,-1
+649,glycine,ketamine,glycine,False,False,,-1
+650,isoflurane,ketamine,isoflurane,False,False,,-1
+651,etomidate,ketamine,etomidate,False,False,,-1
+652,propofol,ketamine,propofol,False,False,,-1
+653,ketafast,ketamine,False,False,True,,1
+654,ketofarm,ketamine,False,False,False,,-1
+655,ketavel,ketamine,False,False,False,,-1
+656,ketavet-fast,ketamine,False,False,True,,2
+657,ketamin,ketamine,ketamine,True,True,,1
+658,ketapain,ketamine,False,False,True,,1
+659,ketasol,ketamine,False,False,True, pill,9
+660,keta,ketamine,esketamine,False,True,,6
+661,katemine,ketamine,False,False,True,,3
+662,amphibian,ketamine,False,False,False,,-1
+663,anesthetic,ketamine,procaine,False,True,,3
+664,numbing_agent,ketamine,epinephrine,False,False,,-1
+665,k-hole,ketamine,False,False,True,,2
+666,ketanil,ketamine,False,False,False,,-1
+667,ketapain,ketamine,False,False,True,,1
+668,ketaset,ketamine,False,False,True,,1
+669,ketavet,ketamine,ketamine,True,True,,2
+670,ketofan,ketamine,False,False,False,,-1
+671,ketomax,ketamine,False,False,False,,-1
+672,ketozol,ketamine,False,False,False,,-1
+673,kat,ketamine,False,False,True, drug,9
+674,kit,ketamine,False,False,True,,2
+675,ketalar,ketamine,ketamine,True,True,,1
+676,imc,ketamine,False,False,False,,-1
+677,kitkat,ketamine,False,False,True, drug,1
+678,k,ketamine,False,False,True, pill,5
+679,keke,ketamine,False,False,False,,-1
+680,key,ketamine,False,False,False,,-1
+681,cat_valium,ketamine,False,False,True,,9
+682,special_k,ketamine,ketamine,False,True,,5
+683,ketaset,ketamine,False,False,True,,1
+684,ketatne,ketamine,False,False,False,,-1
+685,ketaject,ketamine,False,False,True,,6
+686,ketafarm,ketamine,False,False,False,,-1
+687,ketaqual,ketamine,False,False,False,,-1
+688,ketasol,ketamine,False,False,True, pill,9
+689,esketamine,ketamine,esketamine,False,True,,2
+690,r-enantiomer_of_ketamine,ketamine,False,True,True,,1
+691,s-enantiomer_of_ketamine,ketamine,False,True,True,,1
+692,(+)-ketamine,ketamine,False,False,True,,2
+693,(-)-ketamine,ketamine,False,False,True,,1
+694,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+695,ketaset,ketamine,False,False,True,,1
+696,ketamine,ketamine,ketamine,True,True,,1
+697,special_k,ketamine,ketamine,False,True,,5
+698,horse_tranquilizer,ketamine,False,False,True,,2
+699,kcl,ketamine,potassium_chloride,False,False,,-1
+700,special_k,ketamine,ketamine,False,True,,5
+701,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+702,k-hole,ketamine,False,False,True,,2
+703,ketalar,ketamine,ketamine,True,True,,1
+704,keta,ketamine,esketamine,False,True,,6
+705,ketaset,ketamine,False,False,True,,1
+706,ketaset_plus,ketamine,False,False,True,,1
+707,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+708,k-hole,ketamine,False,False,True,,2
+709,nmea,ketamine,False,False,False,,-1
+710,nmes,ketamine,False,False,False,,-1
+711,nmha,ketamine,False,False,False,,-1
+712,nmhdr,ketamine,False,False,False,,-1
+713,nmhs,ketamine,False,False,False,,-1
+714,nmod,ketamine,False,False,False,,-1
+715,keta,ketamine,esketamine,False,True,,6
+716,n-methyl-d-aspartate,ketamine,False,False,True, pill,5
+717,ketapril,ketamine,False,False,False,,-1
+718,ketalar,ketamine,ketamine,True,True,,1
+719,ketofane,ketamine,False,False,False,,-1
+720,ketaject,ketamine,False,False,True,,6
+721,ketonic,ketamine,ketorolac,False,False,,-1
+722,ketaset,ketamine,False,False,True,,1
+723,dissociative,ketamine,False,False,True,,5
+724,anesthetic,ketamine,procaine,False,True,,3
+725,eskatrarine,ketamine,False,False,False,,-1
+726,ketoflu,ketamine,False,False,False,,-1
+727,fluores,ketamine,False,False,False,,-1
+728,keta,ketamine,esketamine,False,True,,6
+729,nembutal,ketamine,pentobarbital,False,False,,-1
+730,anesket,ketamine,ketamine,False,True,,1
+731,ketafair,ketamine,False,False,False,,-1
+732,ketaset,ketamine,False,False,True,,1
+733,ketanest,ketamine,ketamine,True,True,,1
+734,ketacon,ketamine,False,False,False,,-1
+735,ketaject,ketamine,False,False,True,,6
+736,ketamine,ketamine,ketamine,True,True,,1
+737,ketaset,ketamine,False,False,True,,1
+738,cyclohexanone,ketamine,cyclohexanone,False,True, pill,6
+739,"cp_47,497",ketamine,False,False,False,,-1
+740,ketaject,ketamine,False,False,True,,6
+741,ketasma,ketamine,False,False,False,,-1
+742,ketaset,ketamine,False,False,True,,1
+743,ketol,ketamine,False,False,False,,-1
+744,ketalar,ketamine,ketamine,True,True,,1
+745,ketan,ketamine,False,False,False,,-1
+746,cat_valium,ketamine,False,False,True,,9
+747,ketaject,ketamine,False,False,True,,6
+748,ketaset,ketamine,False,False,True,,1
+749,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+750,ketofen,ketamine,False,False,False,,-1
+751,ketaxol,ketamine,False,False,False,,-1
+752,ketaject,ketamine,False,False,True,,6
+753,ketaset,ketamine,False,False,True,,1
+754,kelaxin,ketamine,False,False,False,,-1
+755,ketozal,ketamine,False,False,False,,-1
+756,ketman,ketamine,False,False,True, pill,7
+757,ketaset,ketamine,False,False,True,,1
+758,ketaject,ketamine,False,False,True,,6
+759,ketafarm,ketamine,False,False,False,,-1
+760,ketasol,ketamine,False,False,True, pill,9
+761,ketagrain,ketamine,False,False,False,,-1
+762,keta-v,ketamine,False,False,True, pill,1
+763,ketavel,ketamine,False,False,False,,-1
+764,keticotrin,ketamine,False,False,False,,-1
+765,ketaprin,ketamine,False,False,False,,-1
+766,ketaques,ketamine,False,False,False,,-1
+767,ketaquin,ketamine,False,False,False,,-1
+768,ketaset,ketamine,False,False,True,,1
+769,quetamine,ketamine,False,False,True, pill,5
+770,katamin,ketamine,False,False,True, pill,1
+771,katamomine,ketamine,False,False,False,,-1
+772,katamona,ketamine,False,False,True, pill,2
+773,katameta,ketamine,False,False,False,,-1
+774,katameat,ketamine,False,False,False,,-1
+775,katamomg,ketamine,False,False,False,,-1
+776,ketaject,ketamine,False,False,True,,6
+777,ketofusion,ketamine,False,False,False,,-1
+778,ketaset,ketamine,False,False,True,,1
+779,ketasol,ketamine,False,False,True, pill,9
+780,ketavet,ketamine,ketamine,True,True,,2
+781,ketoflex,ketamine,False,False,False,,-1
+782,kelacrod,ketamine,False,False,False,,-1
+783,ketalar,ketamine,ketamine,True,True,,1
+784,ketaset,ketamine,False,False,True,,1
+785,k-hole,ketamine,False,False,True,,2
+786,dissociative,ketamine,False,False,True,,5
+787,ketalex,ketamine,False,False,True, pill,9
+788,ketofine,ketamine,False,False,False,,-1
+789,special_k,ketamine,ketamine,False,True,,5
+790,ketaject,ketamine,False,False,True,,6
+791,kejam,ketamine,False,False,False,,-1
+792,ket,ketamine,False,False,True, pill,1
+793,nmda,ketamine,ketamine,True,True, slang,2
+794,n-methyl-d-aspartate,ketamine,False,False,True, pill,5
+795,ketaject,ketamine,False,False,True,,6
+796,ketaset,ketamine,False,False,True,,1
+797,ketanest,ketamine,ketamine,True,True,,1
+798,ketasol,ketamine,False,False,True, pill,9
+799,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+800,cat_valium,ketamine,False,False,True,,9
+801,horse_tranquilizer,ketamine,False,False,True,,2
+802,k,ketamine,False,False,True, pill,5
+803,special_k,ketamine,ketamine,False,True,,5
+804,enter_for_disease_control_and_prevention_(cdc),ketamine,False,False,False,,-1
+805,national_institute_on_drug_abuse_(nida),ketamine,False,False,False,,-1
+806,ketalar,ketamine,ketamine,True,True,,1
+807,ketaject,ketamine,False,False,True,,6
+808,keta,ketamine,esketamine,False,True,,6
+809,k,ketamine,False,False,True, pill,5
+810,special_k,ketamine,ketamine,False,True,,5
+811,keta,ketamine,esketamine,False,True,,6
+812,cat_valium,ketamine,False,False,True,,9
+813,kit_kat,ketamine,cocoa,False,True, pill,5
+814,superman,ketamine,False,False,False,,-1
+815,ketaject,ketamine,False,False,True,,6
+816,ketaset,ketamine,False,False,True,,1
+817,ketanest,ketamine,ketamine,True,True,,1
+818,ketmin,ketamine,hemin,False,True,,1
+819,ketasol,ketamine,False,False,True, pill,9
+820,dissociatives,ketamine,esketamine,False,True, pill,5
+821,psychedelics,ketamine,False,False,True, slang,9
+822,lsd,ketamine,lysergic_acid_diethylamide,False,False,,-1
+823,ketaject,ketamine,False,False,True,,6
+824,k,ketamine,False,False,True, pill,5
+825,keta,ketamine,esketamine,False,True,,6
+826,super_k,ketamine,False,False,True, pill,6
+827,horse_trank,ketamine,False,False,True,,6
+828,cat_valium,ketamine,False,False,True,,9
+829,trip_k,ketamine,False,False,True,,4
+830,blue_angel,ketamine,False,False,False,,-1
+831,esketamine,ketamine,esketamine,False,True,,2
+832,etaquiline,ketamine,False,False,False,,-1
+833,imidazole,ketamine,imidazole,False,False,,-1
+834,k-hole,ketamine,False,False,True,,2
+835,ketanest,ketamine,ketamine,True,True,,1
+836,ketaset,ketamine,False,False,True,,1
+837,kektamine,ketamine,False,False,True, pill,1
+838,ketaject,ketamine,False,False,True,,6
+839,ketazyme,ketamine,False,False,False,,-1
+840,ketofyn,ketamine,False,False,False,,-1
+841,ketafyn,ketamine,False,False,False,,-1
+842,ketaject,ketamine,False,False,True,,6
+843,ketaset,ketamine,False,False,True,,1
+844,ketalar,ketamine,ketamine,True,True,,1
+845,ketarol,ketamine,False,False,True,,1
+846,ketasol,ketamine,False,False,True, pill,9
+847,nmda_antagonist,ketamine,False,True,True,,2
+848,aminated_aromatic_ketone,ketamine,False,False,False,,-1
+849,special_k,ketamine,ketamine,False,True,,5
+850,kit_kat,ketamine,cocoa,False,True, pill,5
+851,keetamine,ketamine,False,False,True,,1
+852,kitamine,ketamine,False,False,True,,1
+853,kitty_/_k-hole,ketamine,False,False,True,,2
+854,ketofane,ketamine,False,False,False,,-1
+855,ketaject,ketamine,False,False,True,,6
+856,ketaject,ketamine,False,False,True,,6
+857,ketalar,ketamine,ketamine,True,True,,1
+858,keta,ketamine,esketamine,False,True,,6
+859,katin,ketamine,False,False,False,,-1
+860,kitamine,ketamine,False,False,True,,1
+861,ketapril,ketamine,False,False,False,,-1
+862,ketamine,ketamine,ketamine,True,True,,1
+863,special_k,ketamine,ketamine,False,True,,5
+864,ketam,ketamine,False,False,True, pill,6
+865,keta,ketamine,esketamine,False,True,,6
+866,keta-med,ketamine,False,False,True,,1
+867,keta-vet,ketamine,False,False,True,,1
+868,ketaset,ketamine,False,False,True,,1
+869,kit,ketamine,False,False,True,,2
+870,ketesse,ketamine,False,False,True, slang,4
+871,couldron,ketamine,False,False,False,,-1
+872,rohypnol,ketamine,flunitrazepam,False,True,,2
+873,ghb,ketamine,gamma_hydroxybutyric_acid,False,True,,10
+874,club_drug,ketamine,midomafetamine,False,False,,-1
+875,keta,ketamine,esketamine,False,True,,6
+876,cat_valium,ketamine,False,False,True,,9
+877,horse_tranq,ketamine,False,False,True,,3
+878,special_k,ketamine,ketamine,False,True,,5
+879,katimine,ketamine,False,False,True,,4
+880,quetamine,ketamine,False,False,True, pill,5
+881,ketamine,ketamine,ketamine,True,True,,1
+882,kitamine,ketamine,False,False,True,,1
+883,pecial_k,ketamine,False,False,True, pill,1
+884,ketmines,ketamine,False,False,True,,1
+885,ketaject,ketamine,False,False,True,,6
+886,ketaset,ketamine,False,False,True,,1
+887,sevoflurane,ketamine,sevoflurane,False,True,,10
+888,isoflurane,ketamine,isoflurane,False,False,,-1
+889,etomidate,ketamine,etomidate,False,False,,-1
+890,midazolam,ketamine,midazolam,False,False,,-1
+891,propofol,ketamine,propofol,False,False,,-1
+892,cetamine,ketamine,False,False,True, pill,1
+893,catmint,ketamine,diethylcarbamazine,False,False,,-1
+894,khat,ketamine,False,False,False,,-1
+895,camikaze,ketamine,False,False,False,,-1
+896,special_k,ketamine,ketamine,False,True,,5
+897,dissociative,ketamine,False,False,True,,5
+898,anesthetic,ketamine,procaine,False,True,,3
+899,ketaset,ketamine,False,False,True,,1
+900,ketaject,ketamine,False,False,True,,6
+901,special_k,ketamine,ketamine,False,True,,5
+902,super_k,ketamine,False,False,True, pill,6
+903,kitchen_sink,ketamine,False,False,False,,-1
+904,ketaset,ketamine,False,False,True,,1
+905,keta,ketamine,esketamine,False,True,,6
+906,ketasol,ketamine,False,False,True, pill,9
+907,ketaset,ketamine,False,False,True,,1
+908,ketaject,ketamine,False,False,True,,6
+909,ketoflex,ketamine,False,False,False,,-1
+910,ketolar,ketamine,False,False,True,,6
+911,ketalar,ketamine,ketamine,True,True,,1
+912,cat_valium,ketamine,False,False,True,,9
+913,special_k,ketamine,ketamine,False,True,,5
+914,special_k_,ketamine,False,False,True,,3
+915,vitamin_k,ketamine,phylloquinone,False,True, slang,1
+916,ketofrin,ketamine,False,False,False,,-1
+917,dissociatives,ketamine,esketamine,False,True, pill,5
+918,ketanserin,ketamine,ketanserin,False,True, slang,7
+919,ketanserin_tartrate,ketamine,False,False,True, slang,7
+920,ketazocine,ketamine,False,False,True,,2
+921,ketocyclazocine,ketamine,False,False,True,,2
+922,-cyclohexyl-2-(methylamino)_propiophenone,ketamine,False,False,False,,-1
+923,(rs)-2-_(2-chlorophenyl)-2-_(methylamino)_cyclohexanone,ketamine,False,False,True,,2
+924,(±)-2-(2-chlorophenyl)-2-(methylamino)cyclohexanone,ketamine,False,False,True,,2
+925,amsterdam,ketamine,False,False,False,,-1
+926,la_ketamina,ketamine,False,True,True,,2
+927,elvocet,ketamine,False,False,False,,-1
+928,anetamin,ketamine,False,False,False,,-1
+929,numolet,ketamine,False,False,False,,-1
+930,ketamino,ketamine,False,False,True,,9
+931,ketobliss,ketamine,False,False,False,,-1
+932,ketamax,ketamine,ketamine,True,True,,3
+933,ketymine,ketamine,False,False,False,,-1
+934,cat_valium,ketamine,False,False,True,,9
+935,disillusionment_powder,ketamine,False,False,False,,-1
+936,ketaset,ketamine,False,False,True,,1
+937,ketaject,ketamine,False,False,True,,6
+938,ketanest,ketamine,ketamine,True,True,,1
+939,ketaject,ketamine,False,False,True,,6
+940,k_hole,ketamine,False,False,True,,2
+941,ketaject,ketamine,False,False,True,,6
+942,ketanest,ketamine,ketamine,True,True,,1
+943,ketaset,ketamine,False,False,True,,1
+944,ketavaine,ketamine,False,False,False,,-1
+945,kemet,ketamine,False,False,False,,-1
+946,abdine,ketamine,False,False,False,,-1
+947,alicyclidine,ketamine,False,False,False,,-1
+948,cyclohexanone,ketamine,cyclohexanone,False,True, pill,6
+949,special_k,ketamine,ketamine,False,True,,5
+950,seroquel,ketamine,quetiapine,False,False,,-1
+951,xanax,ketamine,alprazolam,False,False,,-1
+952,cat's_water,ketamine,False,False,False,,-1
+953,kit_kat,ketamine,cocoa,False,True, pill,5
+954,special_k,ketamine,ketamine,False,True,,5
+955,kit_kat,ketamine,cocoa,False,True, pill,5
+956,quetamine,ketamine,False,False,True, pill,5
+957,quetamines,ketamine,False,False,True,,10
+958,k-hole,ketamine,False,False,True,,2
+959,katimine,ketamine,False,False,True,,4
+960,katemine,ketamine,False,False,True,,3
+961,ketaject,ketamine,False,False,True,,6
+962,ketalar,ketamine,ketamine,True,True,,1
+963,ketaset,ketamine,False,False,True,,1
+964,roxilox,ketamine,False,False,False,,-1
+965,ketasol,ketamine,False,False,True, pill,9
+966,ketolar,ketamine,False,False,True,,6
+967,ketovit,ketamine,False,False,False,,-1
+968,ketonal,ketamine,False,False,True, slang,1
+969,ketapril,ketamine,False,False,False,,-1
+970,ketofol,ketamine,False,False,False,,-1
+971,ketorol,ketamine,False,False,False,,-1
+972,aminoketone,ketamine,False,False,False,,-1
+973,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+974,special_k,ketamine,ketamine,False,True,,5
+975,sanomine,ketamine,False,False,False,,-1
+976,tuinerve,ketamine,False,False,False,,-1
+977,ketavelan,ketamine,False,False,False,,-1
+978,ketacell,ketamine,False,False,False,,-1
+979,ketaquik,ketamine,False,False,False,,-1
+980,special_k,ketamine,ketamine,False,True,,5
+981,kit_kat,ketamine,cocoa,False,True, pill,5
+982,kit_kats,ketamine,cocoa,False,True, drug,1
+983,k-hole,ketamine,False,False,True,,2
+984,ketaset,ketamine,False,False,True,,1
+985,ketaject,ketamine,False,False,True,,6
+986,ketafast,ketamine,False,False,True,,1
+987,ketamin,ketamine,ketamine,True,True,,1
+988,ketapain,ketamine,False,False,True,,1
+989,ketasol,ketamine,False,False,True, pill,9
+990,ketawa,ketamine,False,False,False,,-1
+991,ketimine,ketamine,ketamine,True,True, pill,1
+992,ketamine,ketamine,ketamine,True,True,,1
+993,cyclohexanone,ketamine,cyclohexanone,False,True, pill,6
+994,ketofol,ketamine,False,False,False,,-1
+995,ketaject,ketamine,False,False,True,,6
+996,ketolar,ketamine,False,False,True,,6
+997,ketalar,ketamine,ketamine,True,True,,1
+998,quetamina,ketamine,False,False,True, pill,4
+999,kétamine,ketamine,False,False,True,,1
+1000,ketanome,ketamine,False,False,True,,1
+1001,ketaime,ketamine,False,False,True,,5
+1002,catalepsy,ketamine,False,False,False,,-1
+1003,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+1004,ketaject,ketamine,False,False,True,,6
+1005,kemadrin,ketamine,False,False,False,,-1
+1006,ketanest,ketamine,ketamine,True,True,,1
+1007,ketaset,ketamine,False,False,True,,1
+1008,valium,ketamine,diazepam,False,False,,-1
+1009,xanax,ketamine,alprazolam,False,False,,-1
+1010,azium,ketamine,False,False,False,,-1
+1011,ketalar,ketamine,ketamine,True,True,,1
+1012,keta,ketamine,esketamine,False,True,,6
+1013,ketabz,ketamine,False,False,False,,-1
+1014,ketadex,ketamine,False,False,True,,7
+1015,keto,ketamine,False,False,False,,-1
+1016,ketofuran,ketamine,False,False,False,,-1
+1017,ketavat,ketamine,False,False,False,,-1
+1018,ketawes,ketamine,False,False,False,,-1
+1019,kmax,ketamine,False,False,True, drug,10
+1020,ketanest,ketamine,ketamine,True,True,,1
+1021,ketanesery_\n6._ketaminol,ketamine,False,False,False,,-1
+1022,keta,ketamine,esketamine,False,True,,6
+1023,keta_salt,ketamine,False,False,True,,1
+1024,ket,ketamine,False,False,True, pill,1
+1025,ketalar,ketamine,ketamine,True,True,,1
+1026,ketam,ketamine,False,False,True, pill,6
+1027,ketamina,ketamine,ketamine,True,True,,2
+1028,ketaminum,ketamine,False,False,True,,2
+1029,keta,ketamine,esketamine,False,True,,6
+1030,keet,ketamine,False,False,True, pill,6
+1031,khit,ketamine,False,False,False,,-1
+1032,kate,ketamine,False,False,True, drug,5
+1033,k-hole,ketamine,False,False,True,,2
+1034,special_k,ketamine,ketamine,False,True,,5
+1035,ketofur,ketamine,False,False,False,,-1
+1036,ketystin,ketamine,False,False,False,,-1
+1037,ketocyclazocine,ketamine,False,False,True,,2
+1038,ketazocam,ketamine,False,False,False,,-1
+1039,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+1040,ketamine_sulfate,ketamine,False,True,True,,2
+1041,catnip,ketamine,False,False,False,,-1
+1042,ketonic_acid,ketamine,False,False,False,,-1
+1043,quaalude,ketamine,methaqualone,False,False,,-1
+1044,strychnine,ketamine,False,False,False,,-1
+1045,nmda,ketamine,ketamine,True,True, slang,2
+1046,k,ketamine,False,False,True, pill,5
+1047,kem,ketamine,False,False,False,,-1
+1048,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+1049,ketaform,ketamine,False,False,False,,-1
+1050,ketaject,ketamine,False,False,True,,6
+1051,ketalar,ketamine,ketamine,True,True,,1
+1052,ketamic,ketamine,False,False,True,,2
+1053,ketap_static,ketamine,False,False,False,,-1
+1054,ketap_ops,ketamine,False,False,False,,-1
+1055,ketaplus,ketamine,False,False,True,,2
+1056,ketaject,ketamine,False,False,True,,6
+1057,ketaset,ketamine,False,False,True,,1
+1058,ketaval,ketamine,False,False,False,,-1
+1059,ketofast,ketamine,False,False,False,,-1
+1060,ketapril,ketamine,False,False,False,,-1
+1061,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+1062,nmddas,ketamine,False,False,False,,-1
+1063,keta,ketamine,esketamine,False,True,,6
+1064,keta-,ketamine,False,False,True,,8
+1065,keta_m,ketamine,False,False,True, pill,1
+1066,keta-m,ketamine,False,False,True, pill,1
+1067,special_k,ketamine,ketamine,False,True,,5
+1068,keta,ketamine,esketamine,False,True,,6
+1069,ketaset,ketamine,False,False,True,,1
+1070,k_trance,ketamine,False,False,True, pill,3
+1071,k_hole,ketamine,False,False,True,,2
+1072,keta,ketamine,esketamine,False,True,,6
+1073,keet,ketamine,False,False,True, pill,6
+1074,special_k,ketamine,ketamine,False,True,,5
+1075,quetamine,ketamine,False,False,True, pill,5
+1076,special_k,ketamine,ketamine,False,True,,5
+1077,n-methyl-d-aspartate,ketamine,False,False,True, pill,5
+1078,l-ketamine,ketamine,False,False,True,,1
+1079,anesthesamine,ketamine,False,False,False,,-1
+1080,dissociative,ketamine,False,False,True,,5
+1081,k-hole,ketamine,False,False,True,,2
+1082,sufentanyl,ketamine,sufentanil,False,False,,-1
+1083,k,ketamine,False,False,True, pill,5
+1084,ketalar,ketamine,ketamine,True,True,,1
+1085,ketaset,ketamine,False,False,True,,1
+1086,esketamine,ketamine,esketamine,False,True,,2
+1087,nmda_antagonist,ketamine,False,True,True,,2
+1088,prodaja,ketamine,False,False,False,,-1
+1089,kullanım,ketamine,False,False,False,,-1
+1090,cetamine,ketamine,False,False,True, pill,1
+1091,setamine,ketamine,False,False,False,,-1
+1092,catamine,ketamine,False,False,True, pill,1
+1093,getamine,ketamine,False,False,True,,3
+1094,letamine,ketamine,False,False,True,,2
+1095,metamine,ketamine,False,False,True, pill,1
+1096,netamine,ketamine,False,False,True, pill,1
+1097,petamine,ketamine,False,False,True, pill,7
+1098,qetamine,ketamine,False,False,True,,2
+1099,retamine,ketamine,False,False,True, pill,9
+1100,tetamine,ketamine,False,False,True,,6
+1101,uetamine,ketamine,False,False,True, drug,6
+1102,vetamine,ketamine,False,False,True, slang,5
+1103,wetamine,ketamine,False,False,False,,-1
+1104,xetamine,ketamine,False,False,True, slang,2
+1105,yetamine,ketamine,False,False,True, drug,1
+1106,zetamine,ketamine,False,False,True,,1
+1107,quetamine,ketamine,False,False,True, pill,5
+1108,ketaamine,ketamine,False,False,True,,1
+1109,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+1110,kamend,ketamine,False,False,False,,-1
+1111,kamet,ketamine,False,False,False,,-1
+1112,ketydrine,ketamine,False,False,False,,-1
+1113,ketymine,ketamine,False,False,False,,-1
+1114,ketanest,ketamine,ketamine,True,True,,1
+1115,ketaset,ketamine,False,False,True,,1
+1116,keetamine,ketamine,False,False,True,,1
+1117,ketaemyne,ketamine,False,False,True, pill,1
+1118,ketamino,ketamine,False,False,True,,9
+1119,keta,ketamine,esketamine,False,True,,6
+1120,ketato,ketamine,False,False,False,,-1
+1121,ketanest,ketamine,ketamine,True,True,,1
+1122,dynecir,ketamine,False,False,False,,-1
+1123,bk,ketamine,berkelium,False,False,,-1
+1124,special_k,ketamine,ketamine,False,True,,5
+1125,ketaset,ketamine,False,False,True,,1
+1126,ketanest,ketamine,ketamine,True,True,,1
+1127,ketasol,ketamine,False,False,True, pill,9
+1128,ketavet,ketamine,ketamine,True,True,,2
+1129,ketoffax,ketamine,False,False,False,,-1
+1130,ketomar,ketamine,False,False,False,,-1
+1131,thinkx,ketamine,False,False,False,,-1
+1132,k-hole,ketamine,False,False,True,,2
+1133,special_k,ketamine,ketamine,False,True,,5
+1134,ketaject,ketamine,False,False,True,,6
+1135,ketaset,ketamine,False,False,True,,1
+1136,ketaminol,ketamine,False,False,True, pill,1
+1137,ketalar,ketamine,ketamine,True,True,,1
+1138,ketamfetamine,ketamine,False,False,True,,3
+1139,ketoprofen,ketamine,ketoprofen,False,False,,-1
+1140,ketaprofen,ketamine,ketoprofen,False,False,,-1
+1141,k-chlor,ketamine,False,False,False,,-1
+1142,ketalar,ketamine,ketamine,True,True,,1
+1143,catnip,ketamine,False,False,False,,-1
+1144,horse_tranquilizer,ketamine,False,False,True,,2
+1145,keta,ketamine,esketamine,False,True,,6
+1146,quaalude,ketamine,methaqualone,False,False,,-1
+1147,horse_tranquilizer,ketamine,False,False,True,,2
+1148,ketanemo,ketamine,False,False,False,,-1
+1149,ketazocine,ketamine,False,False,True,,2
+1150,jeconjamine,ketamine,False,False,False,,-1
+1151,kitamine,ketamine,False,False,True,,1
+1152,pcp,ketamine,phencyclidine,False,False,,-1
+1153,keta,ketamine,esketamine,False,True,,6
+1154,ketanome,ketamine,False,False,True,,1
+1155,ketapane,ketamine,False,False,True, pill,1
+1156,ketaset,ketamine,False,False,True,,1
+1157,ketawain,ketamine,False,False,False,,-1
+1158,ketazocine,ketamine,False,False,True,,2
+1159,ketofol,ketamine,False,False,False,,-1
+1160,k-hole,ketamine,False,False,True,,2
+1161,dissociative,ketamine,False,False,True,,5
+1162,carne,ketamine,False,False,False,,-1
+1163,cat_valium,ketamine,False,False,True,,9
+1164,fry,ketamine,False,False,False,,-1
+1165,goop,ketamine,False,False,False,,-1
+1166,horse_tranquilizer,ketamine,False,False,True,,2
+1167,k,ketamine,False,False,True, pill,5
+1168,k-hole,ketamine,False,False,True,,2
+1169,ket,ketamine,False,False,True, pill,1
+1170,kef,ketamine,False,False,False,,-1
+1171,keef,ketamine,False,False,False,,-1
+1172,keys,ketamine,False,False,False,,-1
+1173,kit,ketamine,False,False,True,,2
+1174,special_k,ketamine,ketamine,False,True,,5
+1175,ketalar,ketamine,ketamine,True,True,,1
+1176,ketaject,ketamine,False,False,True,,6
+1177,norymbefentanyl,ketamine,False,False,False,,-1
+1178,phencyclidine,ketamine,phencyclidine,False,False,,-1
+1179,keta,ketamine,esketamine,False,True,,6
+1180,keta-mine,ketamine,False,False,True,,1
+1181,cat_valium,ketamine,False,False,True,,9
+1182,horse_tranquilizer,ketamine,False,False,True,,2
+1183,keetamine,ketamine,False,False,True,,1
+1184,keta,ketamine,esketamine,False,True,,6
+1185,ketaject,ketamine,False,False,True,,6
+1186,ketaset,ketamine,False,False,True,,1
+1187,ketofrane,ketamine,False,False,False,,-1
+1188,ketalar,ketamine,ketamine,True,True,,1
+1189,ketanest,ketamine,ketamine,True,True,,1
+1190,keta,ketamine,esketamine,False,True,,6
+1191,ket,ketamine,False,False,True, pill,1
+1192,keta,ketamine,esketamine,False,True,,6
+1193,keema,ketamine,False,False,False,,-1
+1194,ketaset,ketamine,False,False,True,,1
+1195,ketasetrin,ketamine,False,False,False,,-1
+1196,keta_dihydrochloride,ketamine,False,False,True,,6
+1197,nme,ketamine,False,False,True, pill,10
+1198,kemet,ketamine,False,False,False,,-1
+1199,ketan,ketamine,False,False,False,,-1
+1200,keta,ketamine,esketamine,False,True,,6
+1201,kted,ketamine,False,False,False,,-1
+1202,ktem,ketamine,False,False,False,,-1
+1203,ktyd,ketamine,False,False,False,,-1
+1204,nmamt,ketamine,False,False,False,,-1
+1205,nmnet,ketamine,False,False,False,,-1
+1206,nmodt,ketamine,False,False,False,,-1
+1207,nkat,ketamine,False,False,True, drug,2
+1208,npdm,ketamine,False,False,False,,-1
+1209,nkdm,ketamine,False,False,False,,-1
+1210,ket,ketamine,False,False,True, pill,1
+1211,dissociative,ketamine,False,False,True,,5
+1212,psychedelic,ketamine,False,False,True, drug,10
+1213,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+1214,keta,ketamine,esketamine,False,True,,6
+1215,k-hole,ketamine,False,False,True,,2
+1216,ketavel,ketamine,False,False,False,,-1
+1217,ketaquin,ketamine,False,False,False,,-1
+1218,ketaural,ketamine,False,False,False,,-1
+1219,ketavore,ketamine,False,False,False,,-1
+1220,ketile,ketamine,False,False,False,,-1
+1221,ketonal,ketamine,False,False,True, slang,1
+1222,ketapril,ketamine,False,False,False,,-1
+1223,dissociative_anaesthetic,ketamine,False,False,True,,2
+1224,special_k,ketamine,ketamine,False,True,,5
+1225,special_k,ketamine,ketamine,False,True,,5
+1226,cat,ketamine,False,False,False,,-1
+1227,horse_tranquilizer,ketamine,False,False,True,,2
+1228,nmda,ketamine,ketamine,True,True, slang,2
+1229,k-hole,ketamine,False,False,True,,2
+1230,ket,ketamine,False,False,True, pill,1
+1231,ketimaine,ketamine,False,False,True,,1
+1232,ketymine,ketamine,False,False,False,,-1
+1233,keo,ketamine,False,False,False,,-1
+1234,cat_valium,ketamine,False,False,True,,9
+1235,k-hole,ketamine,False,False,True,,2
+1236,ket,ketamine,False,False,True, pill,1
+1237,k,ketamine,False,False,True, pill,5
+1238,k-hole,ketamine,False,False,True,,2
+1239,dissociative,ketamine,False,False,True,,5
+1240,n-depth,ketamine,False,False,False,,-1
+1241,ketamix,ketamine,False,False,True,,9
+1242,dissociative,ketamine,False,False,True,,5
+1243,k,ketamine,False,False,True, pill,5
+1244,ketamine,ketamine,ketamine,True,True,,1
+1245,ktemine,ketamine,False,False,True,,2
+1246,ktimine,ketamine,False,False,False,,-1
+1247,ketaamine,ketamine,False,False,True,,1
+1248,katamine,ketamine,ketamine,True,True,,1
+1249,setamine,ketamine,False,False,False,,-1
+1250,retamine,ketamine,False,False,True, pill,9
+1251,letamine,ketamine,False,False,True,,2
+1252,cetamine,ketamine,False,False,True, pill,1
+1253,petamine,ketamine,False,False,True, pill,7
+1254,matamine,ketamine,False,False,True, pill,5
+1255,fatamine,ketamine,False,False,False,,-1
+1256,ket,ketamine,False,False,True, pill,1
+1257,keta,ketamine,esketamine,False,True,,6
+1258,imine,ketamine,False,False,False,,-1
+1259,ketaject,ketamine,False,False,True,,6
+1260,ketaset,ketamine,False,False,True,,1
+1261,ketanest,ketamine,ketamine,True,True,,1
+1262,ketaflo,ketamine,False,False,True,,2
+1263,kemidrone,ketamine,False,False,False,,-1
+1264,ketaprin,ketamine,False,False,False,,-1
+1265,ketafen,ketamine,False,False,False,,-1
+1266,ketaject,ketamine,False,False,True,,6
+1267,ketofast,ketamine,False,False,False,,-1
+1268,ketaject,ketamine,False,False,True,,6
+1269,ketaset,ketamine,False,False,True,,1
+1270,ketafer,ketamine,False,False,False,,-1
+1271,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+1272,ktcl,ketamine,False,False,False,,-1
+1273,kll,ketamine,False,False,False,,-1
+1274,nmml,ketamine,False,False,False,,-1
+1275,nmblr,ketamine,False,False,False,,-1
+1276,kst,ketamine,False,False,False,,-1
+1277,nmdd,ketamine,False,False,False,,-1
+1278,nsb,ketamine,False,False,False,,-1
+1279,psychedelics,ketamine,False,False,True, slang,9
+1280,keta,ketamine,esketamine,False,True,,6
+1281,anesthesin,ketamine,False,False,False,,-1
+1282,anesthetin,ketamine,False,False,True, slang,2
+1283,anesthesia,ketamine,False,False,True,,2
+1284,ketaject,ketamine,False,False,True,,6
+1285,keta,ketamine,esketamine,False,True,,6
+1286,ketaomnia,ketamine,False,False,False,,-1
+1287,ketaset,ketamine,False,False,True,,1
+1288,ketanest,ketamine,ketamine,True,True,,1
+1289,ketazocine,ketamine,False,False,True,,2
+1290,ketofol,ketamine,False,False,False,,-1
+1291,fentanyl,ketamine,fentanyl,False,False,,-1
+1292,katnip,ketamine,False,False,False,,-1
+1293,kitty_ki,ketamine,False,False,True, drug,1
+1294,keta,ketamine,esketamine,False,True,,6
+1295,ketaset,ketamine,False,False,True,,1
+1296,special_k,ketamine,ketamine,False,True,,5
+1297,quetiapine,ketamine,quetiapine,False,False,,-1
+1298,ketalar,ketamine,ketamine,True,True,,1
+1299,ketaject,ketamine,False,False,True,,6
+1300,ketaminol,ketamine,False,False,True, pill,1
+1301,ketavel,ketamine,False,False,False,,-1
+1302,ketamin,ketamine,ketamine,True,True,,1
+1303,ketaqlone,ketamine,False,False,False,,-1
+1304,keta,ketamine,esketamine,False,True,,6
+1305,ketalar,ketamine,ketamine,True,True,,1
+1306,k-hole,ketamine,False,False,True,,2
+1307,ketaset,ketamine,False,False,True,,1
+1308,kelpak,ketamine,False,False,False,,-1
+1309,ketofurane,ketamine,False,False,False,,-1
+1310,keta-memantine,ketamine,False,False,True,,1
+1311,ket,ketamine,False,False,True, pill,1
+1312,k,ketamine,False,False,True, pill,5
+1313,keppra,ketamine,levetiracetam,False,False,,-1
+1314,klonopin,ketamine,clonazepam,False,False,,-1
+1315,seroquel,ketamine,quetiapine,False,False,,-1
+1316,xanax,ketamine,alprazolam,False,False,,-1
+1317,ativan,ketamine,lorazepam,False,False,,-1
+1318,nuvigil,ketamine,armodafinil,False,False,,-1
+1319,katamine,ketamine,ketamine,True,True,,1
+1320,katemine,ketamine,False,False,True,,3
+1321,katamaine,ketamine,False,False,True,,8
+1322,katmine,ketamine,False,False,True,,8
+1323,ketaject,ketamine,False,False,True,,6
+1324,kalydine,ketamine,False,False,False,,-1
+1325,kaliesine,ketamine,False,False,False,,-1
+1326,keta,ketamine,esketamine,False,True,,6
+1327,kitamine,ketamine,False,False,True,,1
+1328,k-hole,ketamine,False,False,True,,2
+1329,ketalar,ketamine,ketamine,True,True,,1
+1330,ketaset,ketamine,False,False,True,,1
+1331,ket,ketamine,False,False,True, pill,1
+1332,ketamine,ketamine,ketamine,True,True,,1
+1333,ket_likeamine,ketamine,False,False,True, slang,4
+1334,ketaset,ketamine,False,False,True,,1
+1335,ketasol,ketamine,False,False,True, pill,9
+1336,ketavet,ketamine,ketamine,True,True,,2
+1337,ketofol,ketamine,False,False,False,,-1
+1338,ketalar,ketamine,ketamine,True,True,,1
+1339,ketamina,ketamine,ketamine,True,True,,2
+1340,phencyclidine,ketamine,phencyclidine,False,False,,-1
+1341,ketaject,ketamine,False,False,True,,6
+1342,ketalar,ketamine,ketamine,True,True,,1
+1343,keta,ketamine,esketamine,False,True,,6
+1344,k,ketamine,False,False,True, pill,5
+1345,kit,ketamine,False,False,True,,2
+1346,ketaq,ketamine,False,False,False,,-1
+1347,keta_j,ketamine,False,False,True,,1
+1348,keta-j,ketamine,False,False,True,,6
+1349,j-22,ketamine,False,False,False,,-1
+1350,k2,ketamine,False,False,False,,-1
+1351,etomidate,ketamine,etomidate,False,False,,-1
+1352,acepromazine,ketamine,acepromazine,False,False,,-1
+1353,kcindole,ketamine,False,False,False,,-1
+1354,keta,ketamine,esketamine,False,True,,6
+1355,kete,ketamine,False,False,True, drug,7
+1356,special_k,ketamine,ketamine,False,True,,5
+1357,katemine,ketamine,False,False,True,,3
+1358,quetamine,ketamine,False,False,True, pill,5
+1359,ketaset,ketamine,False,False,True,,1
+1360,ketaject,ketamine,False,False,True,,6
+1361,keta,ketamine,esketamine,False,True,,6
+1362,ketaset,ketamine,False,False,True,,1
+1363,ketlin,ketamine,False,False,True, pill,3
+1364,kitkat,ketamine,False,False,True, drug,1
+1365,kitty,ketamine,False,False,True, drug,2
+1366,katana,ketamine,False,False,False,,-1
+1367,ocktail,ketamine,False,False,False,,-1
+1368,nmda,ketamine,ketamine,True,True, slang,2
+1369,gl_clb,ketamine,False,False,False,,-1
+1370,kt,ketamine,False,False,True, drug,8
+1371,kttn,ketamine,False,False,False,,-1
+1372,khat,ketamine,False,False,False,,-1
+1373,horse_tranquillizer,ketamine,False,False,True,,3
+1374,dissociative_anaesthetic,ketamine,False,False,True,,2
+1375,ketaamine,ketamine,False,False,True,,1
+1376,catnip,ketamine,False,False,False,,-1
+1377,special_k,ketamine,ketamine,False,True,,5
+1378,ketaject,ketamine,False,False,True,,6
+1379,ketaset,ketamine,False,False,True,,1
+1380,amenite,ketamine,False,False,False,,-1
+1381,ketonic_acid,ketamine,False,False,False,,-1
+1382,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+1383,anesthetic,ketamine,procaine,False,True,,3
+1384,cetamina,ketamine,False,False,True,,3
+1385,catalter,ketamine,False,False,False,,-1
+1386,ketonal,ketamine,False,False,True, slang,1
+1387,ketonic,ketamine,ketorolac,False,False,,-1
+1388,ketaject,ketamine,False,False,True,,6
+1389,ketamin,ketamine,ketamine,True,True,,1
+1390,ketaset,ketamine,False,False,True,,1
+1391,ketasol,ketamine,False,False,True, pill,9
+1392,ketavel,ketamine,False,False,False,,-1
+1393,trilostane,ketamine,trilostane,False,False,,-1
+1394,ketofol,ketamine,False,False,False,,-1
+1395,ketaide,ketamine,False,False,False,,-1
+1396,keta-pam,ketamine,False,False,True,,2
+1397,ketaset,ketamine,False,False,True,,1
+1398,ketavet,ketamine,ketamine,True,True,,2
+1399,ketofol,ketamine,False,False,False,,-1
+1400,keticol,ketamine,False,False,False,,-1
+1401,ketapril,ketamine,False,False,False,,-1
+1402,quetiapine,ketamine,quetiapine,False,False,,-1
+1403,ziprasidone,ketamine,ziprasidone,False,False,,-1
+1404,aripiprazole,ketamine,aripiprazole,False,False,,-1
+1405,zuclopenthixol,ketamine,zuclopenthixol,False,False,,-1
+1406,clozapine,ketamine,clozapine,False,False,,-1
+1407,fluvoxamine,ketamine,fluvoxamine,False,False,,-1
+1408,keta,ketamine,esketamine,False,True,,6
+1409,special_k,ketamine,ketamine,False,True,,5
+1410,keta/mine,ketamine,False,False,True,,1
+1411,keta,ketamine,esketamine,False,True,,6
+1412,k-hole,ketamine,False,False,True,,2
+1413,keta,ketamine,esketamine,False,True,,6
+1414,k,ketamine,False,False,True, pill,5
+1415,ketof,ketamine,False,False,False,,-1
+1416,kitest,ketamine,False,False,False,,-1
+1417,quetamine,ketamine,False,False,True, pill,5
+1418,ketaplus,ketamine,False,False,True,,2
+1419,ketofen,ketamine,False,False,False,,-1
+1420,kefalin,ketamine,False,False,True, pill,6
+1421,anesket,ketamine,ketamine,False,True,,1
+1422,ketaset,ketamine,False,False,True,,1
+1423,alpha-keto-n-methyl-benzeneethanamine,ketamine,False,False,False,,-1
+1424,(±)-2-(2-chlorophenyl)-2-(methylamino)cyclohexan-1-one,ketamine,False,False,True,,1
+1425,ketaset,ketamine,False,False,True,,1
+1426,ket,ketamine,False,False,True, pill,1
+1427,ketavet,ketamine,ketamine,True,True,,2
+1428,ketaject,ketamine,False,False,True,,6
+1429,ketofol,ketamine,False,False,False,,-1
+1430,ketalar,ketamine,ketamine,True,True,,1
+1431,ketasol,ketamine,False,False,True, pill,9
+1432,keta,ketamine,esketamine,False,True,,6
+1433,k-hole,ketamine,False,False,True,,2
+1434,ketola,ketamine,False,False,False,,-1
+1435,ket_side,ketamine,False,False,True,,1
+1436,ketaject,ketamine,False,False,True,,6
+1437,ketalar,ketamine,ketamine,True,True,,1
+1438,keta,ketamine,esketamine,False,True,,6
+1439,ketaset,ketamine,False,False,True,,1
+1440,brevital,ketamine,methohexital,False,True,,3
+1441,endonal,ketamine,False,False,False,,-1
+1442,comatrol,ketamine,False,False,False,,-1
+1443,domitor,ketamine,False,False,True, pill,4
+1444,ketafer,ketamine,False,False,False,,-1
+1445,krystal_clear,ketamine,False,False,False,,-1
+1446,esketamine,ketamine,esketamine,False,True,,2
+1447,ketaset,ketamine,False,False,True,,1
+1448,adamantyl_ketamine,ketamine,False,True,True,,1
+1449,ketofuran,ketamine,False,False,False,,-1
+1450,ketalone,ketamine,False,False,True,,10
+1451,seconal,ketamine,secobarbital,False,False,,-1
+1452,quaaludes,ketamine,methaqualone,False,False,,-1
+1453,lsd,ketamine,lysergic_acid_diethylamide,False,False,,-1
+1454,keta,ketamine,esketamine,False,True,,6
+1455,k-hole,ketamine,False,False,True,,2
+1456,ketaset,ketamine,False,False,True,,1
+1457,cetamina,ketamine,False,False,True,,3
+1458,ket,ketamine,False,False,True, pill,1
+1459,katumin,ketamine,False,False,True, pill,1
+1460,katimine,ketamine,False,False,True,,4
+1461,special_k,ketamine,ketamine,False,True,,5
+1462,bketamina,ketamine,False,False,True, pill,2
+1463,quetamina,ketamine,False,False,True, pill,4
+1464,keta,ketamine,esketamine,False,True,,6
+1465,k,ketamine,False,False,True, pill,5
+1466,ket,ketamine,False,False,True, pill,1
+1467,keppra,ketamine,levetiracetam,False,False,,-1
+1468,klonopin,ketamine,clonazepam,False,False,,-1
+1469,xanax,ketamine,alprazolam,False,False,,-1
+1470,ativan,ketamine,lorazepam,False,False,,-1
+1471,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+1472,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+1473,keaton,ketamine,False,False,False,,-1
+1474,k-hole,ketamine,False,False,True,,2
+1475,zoojoo,ketamine,False,False,False,,-1
+1476,k-hole,ketamine,False,False,True,,2
+1477,k-hole,ketamine,False,False,True,,2
+1478,keta,ketamine,esketamine,False,True,,6
+1479,k-hole,ketamine,False,False,True,,2
+1480,sncpm,ketamine,False,False,False,,-1
+1481,mdnb,ketamine,False,False,False,,-1
+1482,numo,ketamine,False,False,False,,-1
+1483,hsla,ketamine,False,False,False,,-1
+1484,ketalar,ketamine,ketamine,True,True,,1
+1485,ketaset,ketamine,False,False,True,,1
+1486,cat_valium,ketamine,False,False,True,,9
+1487,cat_tranquilizer,ketamine,False,False,True,,5
+1488,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+1489,keta,ketamine,esketamine,False,True,,6
+1490,kem,ketamine,False,False,False,,-1
+1491,keta,ketamine,esketamine,False,True,,6
+1492,kt,ketamine,False,False,True, drug,8
+1493,ktom,ketamine,False,False,False,,-1
+1494,ktemine,ketamine,False,False,True,,2
+1495,pecial_k,ketamine,False,False,True, pill,1
+1496,cat_valium,ketamine,False,False,True,,9
+1497,vitamin_k,ketamine,phylloquinone,False,True, slang,1
+1498,ketalar,ketamine,ketamine,True,True,,1
+1499,kematch,ketamine,False,False,False,,-1
+1500,ketaject,ketamine,False,False,True,,6
+1501,k-hole,ketamine,False,False,True,,2
+1502,ketaject,ketamine,False,False,True,,6
+1503,ketaset,ketamine,False,False,True,,1
+1504,nm-2201,ketamine,False,False,False,,-1
+1505,eutylone,ketamine,False,False,False,,-1
+1506,keta,ketamine,esketamine,False,True,,6
+1507,key,ketamine,False,False,False,,-1
+1508,special_k,ketamine,ketamine,False,True,,5
+1509,n-methyl-d-aspartate,ketamine,False,False,True, pill,5
+1510,keetamine,ketamine,False,False,True,,1
+1511,ketaamin,ketamine,False,False,True, pill,2
+1512,katamine,ketamine,ketamine,True,True,,1
+1513,ketamyne,ketamine,False,False,True,,4
+1514,ketymine,ketamine,False,False,False,,-1
+1515,dissociative,ketamine,False,False,True,,5
+1516,trance,ketamine,False,False,False,,-1
+1517,unconscious,ketamine,False,False,False,,-1
+1518,out-of-body,ketamine,False,False,True,,4
+1519,dreamlike,ketamine,False,False,False,,-1
+1520,spacey,ketamine,False,False,False,,-1
+1521,delusional,ketamine,False,False,False,,-1
+1522,imryl,ketamine,False,False,False,,-1
+1523,keta,ketamine,esketamine,False,True,,6
+1524,keta1,ketamine,False,False,True,,9
+1525,keta2,ketamine,False,False,True, pill,1
+1526,ketalar,ketamine,ketamine,True,True,,1
+1527,ketylamine,ketamine,False,False,False,,-1
+1528,katamine,ketamine,ketamine,True,True,,1
+1529,nmda,ketamine,ketamine,True,True, slang,2
+1530,none_of_the_above.,ketamine,False,False,False,,-1
+1531,ketaject,ketamine,False,False,True,,6
+1532,kefka,ketamine,False,False,False,,-1
+1533,ketaset,ketamine,False,False,True,,1
+1534,ketamax,ketamine,ketamine,True,True,,3
+1535,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+1536,k-hole,ketamine,False,False,True,,2
+1537,ketamins,ketamine,False,False,True,,1
+1538,ket,ketamine,False,False,True, pill,1
+1539,keta,ketamine,esketamine,False,True,,6
+1540,ketaset,ketamine,False,False,True,,1
+1541,ketalar,ketamine,ketamine,True,True,,1
+1542,ketmin,ketamine,hemin,False,True,,1
+1543,ketymine,ketamine,False,False,False,,-1
+1544,ketanest,ketamine,ketamine,True,True,,1
+1545,ketaset,ketamine,False,False,True,,1
+1546,ketazolam,ketamine,False,False,True,,3
+1547,ketoconazole,ketamine,ketoconazole,False,False,,-1
+1548,ketomorpholine,ketamine,False,False,False,,-1
+1549,ketorolac,ketamine,ketorolac,False,False,,-1
+1550,ketotifen,ketamine,ketotifen,False,False,,-1
+1551,k-hole,ketamine,False,False,True,,2
+1552,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+1553,kelamine,ketamine,False,False,True,,5
+1554,ketymine,ketamine,False,False,False,,-1
+1555,ketimin,ketamine,False,False,True, pill,1
+1556,katamine,ketamine,ketamine,True,True,,1
+1557,ketofurans,ketamine,False,False,False,,-1
+1558,k-hole,ketamine,False,False,True,,2
+1559,dissociatives,ketamine,esketamine,False,True, pill,5
+1560,ketalar,ketamine,ketamine,True,True,,1
+1561,keta,ketamine,esketamine,False,True,,6
+1562,k-hole,ketamine,False,False,True,,2
+1563,speketamine,ketamine,False,False,True,,1
+1564,katamin,ketamine,False,False,True, pill,1
+1565,katamyn,ketamine,False,False,True,,1
+1566,ketamyne,ketamine,False,False,True,,4
+1567,ketyme,ketamine,False,False,False,,-1
+1568,ketymaine,ketamine,False,False,False,,-1
+1569,ketymin,ketamine,False,False,False,,-1
+1570,ketymyn,ketamine,False,False,False,,-1
+1571,pecial_k,ketamine,False,False,True, pill,1
+1572,ketymine,ketamine,False,False,False,,-1
+1573,kitmine,ketamine,False,False,False,,-1
+1574,dissociatives,ketamine,esketamine,False,True, pill,5
+1575,dissociative_anaesthetic,ketamine,False,False,True,,2
+1576,anaesthetic_agent,ketamine,False,False,True, pill,8
+1577,nmbm,ketamine,False,False,False,,-1
+1578,nbme,ketamine,False,False,False,,-1
+1579,nmda,ketamine,ketamine,True,True, slang,2
+1580,keta,ketamine,esketamine,False,True,,6
+1581,keto,ketamine,False,False,False,,-1
+1582,kety,ketamine,False,False,True, slang,3
+1583,ketofarm,ketamine,False,False,False,,-1
+1584,kefarmed,ketamine,False,False,False,,-1
+1585,ketaject,ketamine,False,False,True,,6
+1586,keta,ketamine,esketamine,False,True,,6
+1587,ketaset,ketamine,False,False,True,,1
+1588,ketalar,ketamine,ketamine,True,True,,1
+1589,ket,ketamine,False,False,True, pill,1
+1590,sufentanil,ketamine,sufentanil,False,False,,-1
+1591,special_k,ketamine,ketamine,False,True,,5
+1592,ketaject,ketamine,False,False,True,,6
+1593,ketofast,ketamine,False,False,False,,-1
+1594,keta,ketamine,esketamine,False,True,,6
+1595,ket,ketamine,False,False,True, pill,1
+1596,catnip,ketamine,False,False,False,,-1
+1597,special_k,ketamine,ketamine,False,True,,5
+1598,ketanest,ketamine,ketamine,True,True,,1
+1599,ketalyn,ketamine,False,False,False,,-1
+1600,keta-mine,ketamine,False,False,True,,1
+1601,ketaamine,ketamine,False,False,True,,1
+1602,ket,ketamine,False,False,True, pill,1
+1603,k,ketamine,False,False,True, pill,5
+1604,special_k,ketamine,ketamine,False,True,,5
+1605,ketaset,ketamine,False,False,True,,1
+1606,ketliberal,ketamine,False,False,False,,-1
+1607,ketacaine,ketamine,False,False,True,,1
+1608,ketaflo,ketamine,False,False,True,,2
+1609,ketagel,ketamine,False,False,True,,2
+1610,ketanest,ketamine,ketamine,True,True,,1
+1611,ketasol,ketamine,False,False,True, pill,9
+1612,ketin,ketamine,False,False,True, pill,3
+1613,ket,ketamine,False,False,True, pill,1
+1614,keit,ketamine,False,False,True, slang,1
+1615,keta,ketamine,esketamine,False,True,,6
+1616,ketam,ketamine,False,False,True, pill,6
+1617,katamine,ketamine,ketamine,True,True,,1
+1618,start_up_drug,ketamine,False,False,False,,-1
+1619,horse_tranquilizer,ketamine,False,False,True,,2
+1620,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+1621,k,ketamine,False,False,True, pill,5
+1622,aminoketone,ketamine,False,False,False,,-1
+1623,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+1624,strychnine,ketamine,False,False,False,,-1
+1625,speedball,ketamine,False,False,False,,-1
+1626,keta,ketamine,esketamine,False,True,,6
+1627,special_k,ketamine,ketamine,False,True,,5
+1628,k,ketamine,False,False,True, pill,5
+1629,special_k,ketamine,ketamine,False,True,,5
+1630,ket,ketamine,False,False,True, pill,1
+1631,keto,ketamine,False,False,False,,-1
+1632,keta,ketamine,esketamine,False,True,,6
+1633,ketaamine,ketamine,False,False,True,,1
+1634,aminoketone,ketamine,False,False,False,,-1
+1635,special_k,ketamine,ketamine,False,True,,5
+1636,ketaject,ketamine,False,False,True,,6
+1637,ketofril,ketamine,False,False,False,,-1
+1638,ketalar,ketamine,ketamine,True,True,,1
+1639,ketanest,ketamine,ketamine,True,True,,1
+1640,ketaset,ketamine,False,False,True,,1
+1641,ketalar,ketamine,ketamine,True,True,,1
+1642,ket_of_worlds,ketamine,False,False,True, pill,3
+1643,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+1644,quetamine,ketamine,False,False,True, pill,5
+1645,ketaanine,ketamine,False,False,False,,-1
+1646,ketaamine,ketamine,False,False,True,,1
+1647,keta-mine,ketamine,False,False,True,,1
+1648,ketaset,ketamine,False,False,True,,1
+1649,ketanet,ketamine,False,False,True, pill,4
+1650,ketafet,ketamine,False,False,False,,-1
+1651,special_k,ketamine,ketamine,False,True,,5
+1652,ketaphetamine,ketamine,False,False,False,,-1
+1653,ketaset,ketamine,False,False,True,,1
+1654,ketavet,ketamine,ketamine,True,True,,2
+1655,ketofene,ketamine,False,False,False,,-1
+1656,ketazocine,ketamine,False,False,True,,2
+1657,ketofol,ketamine,False,False,False,,-1
+1658,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+1659,cat_valium,ketamine,False,False,True,,9
+1660,drug,ketamine,False,False,False,,-1
+1661,medicine,ketamine,False,False,False,,-1
+1662,psychedelic,ketamine,False,False,True, drug,10
+1663,kcat,ketamine,False,False,False,,-1
+1664,kci,ketamine,False,False,False,,-1
+1665,k-hole,ketamine,False,False,True,,2
+1666,nmda_receptor,ketamine,False,True,True, pill,8
+1667,glutamate,ketamine,glutamic_acid,False,True, pill,10
+1668,kcl,ketamine,potassium_chloride,False,False,,-1
+1669,k-chl,ketamine,False,False,False,,-1
+1670,ketaject,ketamine,False,False,True,,6
+1671,ketofyn,ketamine,False,False,False,,-1
+1672,ketalar,ketamine,ketamine,True,True,,1
+1673,ketaset,ketamine,False,False,True,,1
+1674,ketmin,ketamine,hemin,False,True,,1
+1675,keta,ketamine,esketamine,False,True,,6
+1676,k-hole,ketamine,False,False,True,,2
+1677,ketaime,ketamine,False,False,True,,5
+1678,katamine,ketamine,ketamine,True,True,,1
+1679,c_heavyweight,ketamine,False,False,False,,-1
+1680,cat,ketamine,False,False,False,,-1
+1681,k-hole,ketamine,False,False,True,,2
+1682,dissociative,ketamine,False,False,True,,5
+1683,hallucinogenic,ketamine,psilocybine,False,True, pill,3
+1684,special_k,ketamine,ketamine,False,True,,5
+1685,viorad,ketamine,False,False,False,,-1
+1686,tranq,ketamine,False,False,True,,9
+1687,ket,ketamine,False,False,True, pill,1
+1688,kit,ketamine,False,False,True,,2
+1689,ketaset,ketamine,False,False,True,,1
+1690,ketelar,ketamine,False,False,True,,1
+1691,keta,ketamine,esketamine,False,True,,6
+1692,kitkat,ketamine,False,False,True, drug,1
+1693,ketaset,ketamine,False,False,True,,1
+1694,ketaset,ketamine,False,False,True,,1
+1695,ketaject,ketamine,False,False,True,,6
+1696,ketalar,ketamine,ketamine,True,True,,1
+1697,ketaset,ketamine,False,False,True,,1
+1698,ketawa,ketamine,False,False,False,,-1
+1699,special_k,ketamine,ketamine,False,True,,5
+1700,kitkat,ketamine,False,False,True, drug,1
+1701,special_k,ketamine,ketamine,False,True,,5
+1702,k,ketamine,False,False,True, pill,5
+1703,immelphine,ketamine,False,False,False,,-1
+1704,phencyclidine,ketamine,phencyclidine,False,False,,-1
+1705,other,ketamine,False,False,False,,-1
+1706,racemic_ketamine,ketamine,False,True,True,,1
+1707,s(+)_ketamine,ketamine,False,True,True,,1
+1708,s(-)-ketamine,ketamine,False,False,True,,1
+1709,ketorient,ketamine,False,False,False,,-1
+1710,ketanest,ketamine,ketamine,True,True,,1
+1711,ketaset,ketamine,False,False,True,,1
+1712,ketavet,ketamine,ketamine,True,True,,2
+1713,ketofur,ketamine,False,False,False,,-1
+1714,ketomax,ketamine,False,False,False,,-1
+1715,ketasol,ketamine,False,False,True, pill,9
+1716,katamons,ketamine,False,False,True, pill,2
+1717,katamems,ketamine,False,False,False,,-1
+1718,katafetamines,ketamine,False,False,False,,-1
+1719,katafluranes,ketamine,False,False,False,,-1
+1720,katanaones,ketamine,False,False,False,,-1
+1721,ketavel,ketamine,False,False,False,,-1
+1722,ketavee,ketamine,False,False,False,,-1
+1723,ketaminum,ketamine,False,False,True,,2
+1724,ketamyn,ketamine,False,False,True,,3
+1725,ketaminne,ketamine,False,False,True,,6
+1726,ketanest,ketamine,ketamine,True,True,,1
+1727,ketaset,ketamine,False,False,True,,1
+1728,special_k,ketamine,ketamine,False,True,,5
+1729,vitamin_k,ketamine,phylloquinone,False,True, slang,1
+1730,katinka,ketamine,False,False,False,,-1
+1731,phencyclidine,ketamine,phencyclidine,False,False,,-1
+1732,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+1733,ketazyme,ketamine,False,False,False,,-1
+1734,anesket,ketamine,ketamine,False,True,,1
+1735,ketaject,ketamine,False,False,True,,6
+1736,ketofen,ketamine,False,False,False,,-1
+1737,ketalar,ketamine,ketamine,True,True,,1
+1738,ketaset,ketamine,False,False,True,,1
+1739,ketavet,ketamine,ketamine,True,True,,2
+1740,keetamine,ketamine,False,False,True,,1
+1741,ketaamine,ketamine,False,False,True,,1
+1742,kietamine,ketamine,False,False,True,,1
+1743,katamine,ketamine,ketamine,True,True,,1
+1744,ketamina,ketamine,ketamine,True,True,,2
+1745,kitamine,ketamine,False,False,True,,1
+1746,ketaset,ketamine,False,False,True,,1
+1747,keta,ketamine,esketamine,False,True,,6
+1748,etomidate,ketamine,etomidate,False,False,,-1
+1749,ketofol,ketamine,False,False,False,,-1
+1750,propofol,ketamine,propofol,False,False,,-1
+1751,ketaset,ketamine,False,False,True,,1
+1752,ketanest,ketamine,ketamine,True,True,,1
+1753,ketmin,ketamine,hemin,False,True,,1
+1754,keta,ketamine,esketamine,False,True,,6
+1755,ket,ketamine,False,False,True, pill,1
+1756,k,ketamine,False,False,True, pill,5
+1757,pecial_k,ketamine,False,False,True, pill,1
+1758,k-holes,ketamine,False,False,True,,1
+1759,bumping,ketamine,False,False,True, drug,6
+1760,ketazocine,ketamine,False,False,True,,2
+1761,keta,ketamine,esketamine,False,True,,6
+1762,im_ketamin,ketamine,False,True,True,,2
+1763,ketalar,ketamine,ketamine,True,True,,1
+1764,ketosedative,ketamine,False,False,False,,-1
+1765,keta,ketamine,esketamine,False,True,,6
+1766,cats,ketamine,False,False,False,,-1
+1767,mickey,ketamine,False,False,False,,-1
+1768,ket,ketamine,False,False,True, pill,1
+1769,pharmakei,ketamine,False,False,False,,-1
+1770,special_k,ketamine,ketamine,False,True,,5
+1771,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+1772,ketaminum,ketamine,False,False,True,,2
+1773,ketaset,ketamine,False,False,True,,1
+1774,ketaject,ketamine,False,False,True,,6
+1775,ketaset,ketamine,False,False,True,,1
+1776,ketalar,ketamine,ketamine,True,True,,1
+1777,keta,ketamine,esketamine,False,True,,6
+1778,ketmane,ketamine,False,False,True, pill,1
+1779,keta_allowed,ketamine,False,False,True,,1
+1780,keta_2,ketamine,False,False,True,,1
+1781,keta_3,ketamine,False,False,True, pill,2
+1782,keta_x,ketamine,False,False,True,,1
+1783,keta_y,ketamine,False,False,True,,6
+1784,ketanome,ketamine,False,False,True,,1
+1785,ketaset,ketamine,False,False,True,,1
+1786,ketaject,ketamine,False,False,True,,6
+1787,ketavet,ketamine,ketamine,True,True,,2
+1788,ketoflex,ketamine,False,False,False,,-1
+1789,ketolar,ketamine,False,False,True,,6
+1790,ketamor,ketamine,False,False,True,,3
+1791,dissociatives,ketamine,esketamine,False,True, pill,5
+1792,psychedelic,ketamine,False,False,True, drug,10
+1793,keta,ketamine,esketamine,False,True,,6
+1794,keta-mine,ketamine,False,False,True,,1
+1795,keta,ketamine,esketamine,False,True,,6
+1796,kt_annum,ketamine,False,False,False,,-1
+1797,kit_cat,ketamine,False,False,True, drug,1
+1798,keaster,ketamine,False,False,False,,-1
+1799,kitty,ketamine,False,False,True, drug,2
+1800,ket,ketamine,False,False,True, pill,1
+1801,k-hole,ketamine,False,False,True,,2
+1802,special_k,ketamine,ketamine,False,True,,5
+1803,catalyst,ketamine,False,False,False,,-1
+1804,ketaject,ketamine,False,False,True,,6
+1805,keta,ketamine,esketamine,False,True,,6
+1806,ketaset,ketamine,False,False,True,,1
+1807,ketavet,ketamine,ketamine,True,True,,2
+1808,ketofane,ketamine,False,False,False,,-1
+1809,ketolar,ketamine,False,False,True,,6
+1810,ketomine,ketamine,ketamine,True,True,,2
+1811,esketamine,ketamine,esketamine,False,True,,2
+1812,keta,ketamine,esketamine,False,True,,6
+1813,quaalude,ketamine,methaqualone,False,False,,-1
+1814,horse_tranquilizer,ketamine,False,False,True,,2
+1815,ketaset,ketamine,False,False,True,,1
+1816,ketelone,ketamine,False,False,False,,-1
+1817,haldol,ketamine,haloperidol,False,False,,-1
+1818,ativan,ketamine,lorazepam,False,False,,-1
+1819,xanax,ketamine,alprazolam,False,False,,-1
+1820,valium,ketamine,diazepam,False,False,,-1
+1821,klonopin,ketamine,clonazepam,False,False,,-1
+1822,librium,ketamine,chlordiazepoxide,False,False,,-1
+1823,serax,ketamine,oxazepam,False,False,,-1
+1824,ketaject,ketamine,False,False,True,,6
+1825,ketalar,ketamine,ketamine,True,True,,1
+1826,ketalar,ketamine,ketamine,True,True,,1
+1827,k-hole,ketamine,False,False,True,,2
+1828,keta,ketamine,esketamine,False,True,,6
+1829,k-hole,ketamine,False,False,True,,2
+1830,keta,ketamine,esketamine,False,True,,6
+1831,ketaset,ketamine,False,False,True,,1
+1832,ket,ketamine,False,False,True, pill,1
+1833,cat,ketamine,False,False,False,,-1
+1834,ketaset,ketamine,False,False,True,,1
+1835,keta,ketamine,esketamine,False,True,,6
+1836,k,ketamine,False,False,True, pill,5
+1837,super_k,ketamine,False,False,True, pill,6
+1838,ketanome,ketamine,False,False,True,,1
+1839,ketalar,ketamine,ketamine,True,True,,1
+1840,cat_valium,ketamine,False,False,True,,9
+1841,ketaime,ketamine,False,False,True,,5
+1842,katamine,ketamine,ketamine,True,True,,1
+1843,ktemine,ketamine,False,False,True,,2
+1844,keamine,ketamine,False,False,True,,4
+1845,keta,ketamine,esketamine,False,True,,6
+1846,quaalude,ketamine,methaqualone,False,False,,-1
+1847,rophynol,ketamine,flunitrazepam,False,True,,4
+1848,special_k,ketamine,ketamine,False,True,,5
+1849,k,ketamine,False,False,True, pill,5
+1850,arylcyclohexamines,ketamine,False,False,True,,9
+1851,cyclohexamines,ketamine,False,False,True,,6
+1852,katmint,ketamine,False,False,False,,-1
+1853,katmin,ketamine,False,False,True,,5
+1854,ketomine,ketamine,ketamine,True,True,,2
+1855,catmint,ketamine,diethylcarbamazine,False,False,,-1
+1856,keta,ketamine,esketamine,False,True,,6
+1857,special_k,ketamine,ketamine,False,True,,5
+1858,vitamin_k,ketamine,phylloquinone,False,True, slang,1
+1859,keta,ketamine,esketamine,False,True,,6
+1860,keaten,ketamine,False,False,False,,-1
+1861,ketonal,ketamine,False,False,True, slang,1
+1862,ketonyl,ketamine,False,False,False,,-1
+1863,ketozole,ketamine,False,False,False,,-1
+1864,tripizolam,ketamine,False,False,False,,-1
+1865,imalidomide,ketamine,False,False,False,,-1
+1866,ketalar,ketamine,ketamine,True,True,,1
+1867,keta,ketamine,esketamine,False,True,,6
+1868,kitkat,ketamine,False,False,True, drug,1
+1869,k-hole,ketamine,False,False,True,,2
+1870,aminoketone,ketamine,False,False,False,,-1
+1871,special_k,ketamine,ketamine,False,True,,5
+1872,ketaject,ketamine,False,False,True,,6
+1873,ketaset,ketamine,False,False,True,,1
+1874,ketalar,ketamine,ketamine,True,True,,1
+1875,kappa_receptor,ketamine,False,False,False,,-1
+1876,k-hole,ketamine,False,False,True,,2
+1877,ketacon,ketamine,False,False,False,,-1
+1878,ketam,ketamine,False,False,True, pill,6
+1879,ketames,ketamine,False,False,True,,2
+1880,ketaplus,ketamine,False,False,True,,2
+1881,ketanest,ketamine,ketamine,True,True,,1
+1882,ketazolam,ketamine,False,False,True,,3
+1883,ketlin,ketamine,False,False,True, pill,3
+1884,disociative,ketamine,False,False,True, drug,6
+1885,icv,ketamine,False,False,False,,-1
+1886,ketalar,ketamine,ketamine,True,True,,1
+1887,ketaject,ketamine,False,False,True,,6
+1888,ketofloride,ketamine,False,False,False,,-1
+1889,ketaloc,ketamine,False,False,False,,-1
+1890,ketaset,ketamine,False,False,True,,1
+1891,ketanest,ketamine,ketamine,True,True,,1
+1892,ketasol,ketamine,False,False,True, pill,9
+1893,ketalar,ketamine,ketamine,True,True,,1
+1894,keta,ketamine,esketamine,False,True,,6
+1895,ketaject,ketamine,False,False,True,,6
+1896,katey,ketamine,False,False,False,,-1
+1897,kayleigh,ketamine,False,False,False,,-1
+1898,katie,ketamine,False,False,False,,-1
+1899,kaitlyn,ketamine,False,False,False,,-1
+1900,caitlyn,ketamine,False,False,False,,-1
+1901,kaitlyn,ketamine,False,False,False,,-1
+1902,katie,ketamine,False,False,False,,-1
+1903,nmlevels,ketamine,False,False,False,,-1
+1904,nmpa,ketamine,False,False,False,,-1
+1905,ket,ketamine,False,False,True, pill,1
+1906,ketaject,ketamine,False,False,True,,6
+1907,keto,ketamine,False,False,False,,-1
+1908,ketoprofen,ketamine,ketoprofen,False,False,,-1
+1909,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+1910,keta,ketamine,esketamine,False,True,,6
+1911,special_k,ketamine,ketamine,False,True,,5
+1912,cat_valium,ketamine,False,False,True,,9
+1913,ketaset,ketamine,False,False,True,,1
+1914,ketanest,ketamine,ketamine,True,True,,1
+1915,special_k,ketamine,ketamine,False,True,,5
+1916,keta,ketamine,esketamine,False,True,,6
+1917,keta-mine,ketamine,False,False,True,,1
+1918,catamine,ketamine,False,False,True, pill,1
+1919,ketaject,ketamine,False,False,True,,6
+1920,kelazin,ketamine,False,False,False,,-1
+1921,ketavet,ketamine,ketamine,True,True,,2
+1922,ketamin,ketamine,ketamine,True,True,,1
+1923,ketofrin,ketamine,False,False,False,,-1
+1924,ketaset,ketamine,False,False,True,,1
+1925,ketaset,ketamine,False,False,True,,1
+1926,calypsol,ketamine,acetaminophen,False,True,,7
+1927,ketofrin,ketamine,False,False,False,,-1
+1928,ketalar,ketamine,ketamine,True,True,,1
+1929,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+1930,kemist,ketamine,False,False,False,,-1
+1931,keta,ketamine,esketamine,False,True,,6
+1932,ketaject,ketamine,False,False,True,,6
+1933,ketaset,ketamine,False,False,True,,1
+1934,ketanest,ketamine,ketamine,True,True,,1
+1935,ketasol,ketamine,False,False,True, pill,9
+1936,ketamides,ketamine,False,False,True, pill,2
+1937,ketoconazole,ketamine,ketoconazole,False,False,,-1
+1938,ketolides,ketamine,False,False,False,,-1
+1939,ketones,ketamine,False,False,False,,-1
+1940,ketonic_acids,ketamine,False,False,False,,-1
+1941,ketosteroids,ketamine,False,False,False,,-1
+1942,ketotifen,ketamine,ketotifen,False,False,,-1
+1943,phencyclidine,ketamine,phencyclidine,False,False,,-1
+1944,katimine,ketamine,False,False,True,,4
+1945,keta-mine,ketamine,False,False,True,,1
+1946,cyclohexanone,ketamine,cyclohexanone,False,True, pill,6
+1947,2-(2-chlorophenyl)-2-(ethylamino)cyclohexan,ketamine,False,False,True,,2
+1948,special_k,ketamine,ketamine,False,True,,5
+1949,k,ketamine,False,False,True, pill,5
+1950,special_k,ketamine,ketamine,False,True,,5
+1951,elavil,ketamine,amitriptyline,False,False,,-1
+1952,keppra,ketamine,levetiracetam,False,False,,-1
+1953,keta-mine,ketamine,False,False,True,,1
+1954,kitamine,ketamine,False,False,True,,1
+1955,esketamine,ketamine,esketamine,False,True,,2
+1956,innovar,ketamine,False,False,False,,-1
+1957,ketaset,ketamine,False,False,True,,1
+1958,ketasol,ketamine,False,False,True, pill,9
+1959,ketavet,ketamine,ketamine,True,True,,2
+1960,ketofol,ketamine,False,False,False,,-1
+1961,ketaject,ketamine,False,False,True,,6
+1962,ketemins,ketamine,False,False,True,,2
+1963,katm,ketamine,False,False,False,,-1
+1964,k-atm,ketamine,False,False,False,,-1
+1965,ketmie,ketamine,False,False,False,,-1
+1966,keta,ketamine,esketamine,False,True,,6
+1967,qetamine,ketamine,False,False,True,,2
+1968,quetamine,ketamine,False,False,True, pill,5
+1969,quetapine,ketamine,quetiapine,False,False,,-1
+1970,quetiapine,ketamine,quetiapine,False,False,,-1
+1971,seroquel,ketamine,quetiapine,False,False,,-1
+1972,ziprasidone,ketamine,ziprasidone,False,False,,-1
+1973,dissociative,ketamine,False,False,True,,5
+1974,keta,ketamine,esketamine,False,True,,6
+1975,ketalar,ketamine,ketamine,True,True,,1
+1976,pcp,ketamine,phencyclidine,False,False,,-1
+1977,ketalar,ketamine,ketamine,True,True,,1
+1978,ketaject,ketamine,False,False,True,,6
+1979,keta,ketamine,esketamine,False,True,,6
+1980,ketaset,ketamine,False,False,True,,1
+1981,keta,ketamine,esketamine,False,True,,6
+1982,keet,ketamine,False,False,True, pill,6
+1983,k-hole,ketamine,False,False,True,,2
+1984,ketalar,ketamine,ketamine,True,True,,1
+1985,ketaject,ketamine,False,False,True,,6
+1986,ketaset,ketamine,False,False,True,,1
+1987,ketanest,ketamine,ketamine,True,True,,1
+1988,pecial_k,ketamine,False,False,True, pill,1
+1989,cat_valium,ketamine,False,False,True,,9
+1990,horse_tranquilizer,ketamine,False,False,True,,2
+1991,k-hole,ketamine,False,False,True,,2
+1992,dissociative,ketamine,False,False,True,,5
+1993,k-hole,ketamine,False,False,True,,2
+1994,dissociative,ketamine,False,False,True,,5
+1995,suprima,ketamine,False,False,False,,-1
+1996,cetamina,ketamine,False,False,True,,3
+1997,qinghaosu,ketamine,artemisinin,False,False,,-1
+1998,dipsomaniacism,ketamine,False,False,False,,-1
+1999,dissociatives,ketamine,esketamine,False,True, pill,5
+2000,saline_subcutaneous,ketamine,False,False,False,,-1
+2001,ketaject,ketamine,False,False,True,,6
+2002,ketalar,ketamine,ketamine,True,True,,1
+2003,keta,ketamine,esketamine,False,True,,6
+2004,keta-mine,ketamine,False,False,True,,1
+2005,bez_kony,ketamine,False,False,False,,-1
+2006,katrinka,ketamine,False,False,False,,-1
+2007,ketyminy,ketamine,False,False,False,,-1
+2008,kitamina,ketamine,False,False,True, pill,3
+2009,k-hole,ketamine,False,False,True,,2
+2010,k,ketamine,False,False,True, pill,5
+2011,ket,ketamine,False,False,True, pill,1
+2012,ketalar,ketamine,ketamine,True,True,,1
+2013,ketaject,ketamine,False,False,True,,6
+2014,ketanest,ketamine,ketamine,True,True,,1
+2015,ketaset,ketamine,False,False,True,,1
+2016,special_k,ketamine,ketamine,False,True,,5
+2017,kp,ketamine,False,False,False,,-1
+2018,special_k,ketamine,ketamine,False,True,,5
+2019,k,ketamine,False,False,True, pill,5
+2020,ketaset,ketamine,False,False,True,,1
+2021,ketatop,ketamine,False,False,True,,5
+2022,not_affiliated,ketamine,False,False,False,,-1
+2023,ktamin,ketamine,False,False,True,,9
+2024,neetam,ketamine,False,False,False,,-1
+2025,ketanil,ketamine,False,False,False,,-1
+2026,ketaplus,ketamine,False,False,True,,2
+2027,ketagel,ketamine,False,False,True,,2
+2028,k-gel,ketamine,False,False,True, slang,2
+2029,ketafast,ketamine,False,False,True,,1
+2030,ketaject,ketamine,False,False,True,,6
+2031,ketalar,ketamine,ketamine,True,True,,1
+2032,ketaset,ketamine,False,False,True,,1
+2033,ketasol,ketamine,False,False,True, pill,9
+2034,ketaplus,ketamine,False,False,True,,2
+2035,ketaset,ketamine,False,False,True,,1
+2036,ketavet,ketamine,ketamine,True,True,,2
+2037,ketofentanyl,ketamine,False,False,False,,-1
+2038,ketomidor,ketamine,False,False,True,,3
+2039,ketonicord,ketamine,False,False,False,,-1
+2040,ketorolac,ketamine,ketorolac,False,False,,-1
+2041,ket,ketamine,False,False,True, pill,1
+2042,special_k,ketamine,ketamine,False,True,,5
+2043,keta,ketamine,esketamine,False,True,,6
+2044,ketaset,ketamine,False,False,True,,1
+2045,ketofrin,ketamine,False,False,False,,-1
+2046,ketalar,ketamine,ketamine,True,True,,1
+2047,ketanurse,ketamine,False,False,False,,-1
+2048,ketavet,ketamine,ketamine,True,True,,2
+2049,ketawa,ketamine,False,False,False,,-1
+2050,ketamine,ketamine,ketamine,True,True,,1
+2051,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+2052,ketaject,ketamine,False,False,True,,6
+2053,ketaset,ketamine,False,False,True,,1
+2054,ketofane,ketamine,False,False,False,,-1
+2055,ketolar,ketamine,False,False,True,,6
+2056,ketamax,ketamine,ketamine,True,True,,3
+2057,schizophrenia,ketamine,False,False,False,,-1
+2058,dissociative_disorder,ketamine,False,False,True, slang,7
+2059,quetamine,ketamine,False,False,True, pill,5
+2060,ketofurazone,ketamine,False,False,False,,-1
+2061,tiletamine,ketamine,esketamine,False,True, pill,5
+2062,esketamine,ketamine,esketamine,False,True,,2
+2063,racetamate,ketamine,False,False,False,,-1
+2064,ketamin,ketamine,ketamine,True,True,,1
+2065,keta,ketamine,esketamine,False,True,,6
+2066,ket,ketamine,False,False,True, pill,1
+2067,special_k,ketamine,ketamine,False,True,,5
+2068,k,ketamine,False,False,True, pill,5
+2069,keta,ketamine,esketamine,False,True,,6
+2070,k,ketamine,False,False,True, pill,5
+2071,ket,ketamine,False,False,True, pill,1
+2072,special_k,ketamine,ketamine,False,True,,5
+2073,quinaldine,ketamine,False,False,False,,-1
+2074,chiral,ketamine,False,False,True, pill,6
+2075,cyclohexanone,ketamine,cyclohexanone,False,True, pill,6
+2076,catvalium,ketamine,False,False,True,,1
+2077,keef,ketamine,False,False,False,,-1
+2078,ket,ketamine,False,False,True, pill,1
+2079,blue_mystic,ketamine,False,False,False,,-1
+2080,k,ketamine,False,False,True, pill,5
+2081,special_k,ketamine,ketamine,False,True,,5
+2082,super_k,ketamine,False,False,True, pill,6
+2083,neurotamina,ketamine,False,False,False,,-1
+2084,acting_as_an_anaesthetic,ketamine,False,False,True,,7
+2085,ketron,ketamine,False,False,False,,-1
+2086,ket,ketamine,False,False,True, pill,1
+2087,feline,ketamine,False,False,False,,-1
+2088,immersed,ketamine,False,False,False,,-1
+2089,ketalar,ketamine,ketamine,True,True,,1
+2090,ketarol,ketamine,False,False,True,,1
+2091,ketaject,ketamine,False,False,True,,6
+2092,ketanest,ketamine,ketamine,True,True,,1
+2093,ketaset,ketamine,False,False,True,,1
+2094,imitrex,ketamine,sumatriptan,False,False,,-1
+2095,spravato,ketamine,False,False,True, slang,5
+2096,ketanime,ketamine,False,False,True,,3
+2097,katamale,ketamine,False,False,True, pill,1
+2098,katamoon,ketamine,False,False,False,,-1
+2099,ketadel,ketamine,False,False,False,,-1
+2100,katadream,ketamine,False,False,False,,-1
+2101,katalepsy,ketamine,False,False,False,,-1
+2102,kataphoria,ketamine,False,False,False,,-1
+2103,ketalar,ketamine,ketamine,True,True,,1
+2104,ketaject,ketamine,False,False,True,,6
+2105,ketaset,ketamine,False,False,True,,1
+2106,ketedrin,ketamine,False,False,False,,-1
+2107,ketmin,ketamine,hemin,False,True,,1
+2108,kenyate,ketamine,False,False,False,,-1
+2109,ketalar,ketamine,ketamine,True,True,,1
+2110,special_k,ketamine,ketamine,False,True,,5
+2111,ketalar,ketamine,ketamine,True,True,,1
+2112,specials_k,ketamine,False,False,True,,6
+2113,keta,ketamine,esketamine,False,True,,6
+2114,k,ketamine,False,False,True, pill,5
+2115,kef,ketamine,False,False,False,,-1
+2116,k-hole,ketamine,False,False,True,,2
+2117,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+2118,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+2119,nmda,ketamine,ketamine,True,True, slang,2
+2120,n-methyl-d-aspartate,ketamine,False,False,True, pill,5
+2121,special_k,ketamine,ketamine,False,True,,5
+2122,catamen,ketamine,False,False,True,,2
+2123,katamina,ketamine,False,False,True, pill,1
+2124,keta,ketamine,esketamine,False,True,,6
+2125,ketas,ketamine,ibudilast,False,False,,-1
+2126,ketaset,ketamine,False,False,True,,1
+2127,ketipax,ketamine,False,False,False,,-1
+2128,ketofol,ketamine,False,False,False,,-1
+2129,ketorolac,ketamine,ketorolac,False,False,,-1
+2130,ketamine_hcl,ketamine,False,True,True,,1
+2131,ketazocine,ketamine,False,False,True,,2
+2132,dextromethorphan,ketamine,dextromethorphan,False,False,,-1
+2133,esketamine,ketamine,esketamine,False,True,,2
+2134,esketamine,ketamine,esketamine,False,True,,2
+2135,ketaset,ketamine,False,False,True,,1
+2136,trazodone,ketamine,trazodone,False,False,,-1
+2137,ketaset,ketamine,False,False,True,,1
+2138,ketaject,ketamine,False,False,True,,6
+2139,special_k,ketamine,ketamine,False,True,,5
+2140,nmda,ketamine,ketamine,True,True, slang,2
+2141,nmdas,ketamine,ketamine,True,True, drug,5
+2142,ket,ketamine,False,False,True, pill,1
+2143,strychnine,ketamine,False,False,False,,-1
+2144,quinine,ketamine,quinine,False,False,,-1
+2145,katanin,ketamine,False,False,False,,-1
+2146,kataleptogen,ketamine,False,False,False,,-1
+2147,ketanest,ketamine,ketamine,True,True,,1
+2148,ketaset,ketamine,False,False,True,,1
+2149,special_k,ketamine,ketamine,False,True,,5
+2150,ketaamine,ketamine,False,False,True,,1
+2151,ketymine,ketamine,False,False,False,,-1
+2152,ketaqualine,ketamine,False,False,False,,-1
+2153,quaketamine,ketamine,False,False,True,,1
+2154,ktamine,ketamine,False,False,True,,2
+2155,ktimine,ketamine,False,False,False,,-1
+2156,keta,ketamine,esketamine,False,True,,6
+2157,special_k,ketamine,ketamine,False,True,,5
+2158,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+2159,k,ketamine,False,False,True, pill,5
+2160,ketanomid,ketamine,False,False,False,,-1
+2161,ketaject,ketamine,False,False,True,,6
+2162,ketaset,ketamine,False,False,True,,1
+2163,ketalar,ketamine,ketamine,True,True,,1
+2164,kalydeco,ketamine,ivacaftor,False,False,,-1
+2165,ketek,ketamine,telithromycin,False,False,,-1
+2166,ketaject,ketamine,False,False,True,,6
+2167,ketofol,ketamine,False,False,False,,-1
+2168,ketalar,ketamine,ketamine,True,True,,1
+2169,ketaset,ketamine,False,False,True,,1
+2170,ketofol,ketamine,False,False,False,,-1
+2171,anesthetic,ketamine,procaine,False,True,,3
+2172,keta,ketamine,esketamine,False,True,,6
+2173,k-hole,ketamine,False,False,True,,2
+2174,ketaset,ketamine,False,False,True,,1
+2175,ketaject,ketamine,False,False,True,,6
+2176,keta,ketamine,esketamine,False,True,,6
+2177,ketaset,ketamine,False,False,True,,1
+2178,ketone,ketamine,False,False,False,,-1
+2179,ketofaine,ketamine,False,False,False,,-1
+2180,anestalone,ketamine,False,False,False,,-1
+2181,anesket,ketamine,ketamine,False,True,,1
+2182,ketofol,ketamine,False,False,False,,-1
+2183,kétamine,ketamine,False,False,True,,1
+2184,quetamine,ketamine,False,False,True, pill,5
+2185,ketahexal,ketamine,False,False,False,,-1
+2186,ketofol,ketamine,False,False,False,,-1
+2187,nme,ketamine,False,False,True, pill,10
+2188,nmtr,ketamine,False,False,False,,-1
+2189,nmsrs,ketamine,False,False,False,,-1
+2190,namo,ketamine,False,False,False,,-1
+2191,k-hole,ketamine,False,False,True,,2
+2192,dextromethorphan,ketamine,dextromethorphan,False,False,,-1
+2193,lysergic_acid_diethylamide,ketamine,lysergic_acid_diethylamide,False,False,,-1
+2194,n-methyl-d-aspartate,ketamine,False,False,True, pill,5
+2195,nmda,ketamine,ketamine,True,True, slang,2
+2196,amt,ketamine,alpha-methyltryptamine,False,False,,-1
+2197,sdz-270,ketamine,False,False,False,,-1
+2198,cn-10,ketamine,False,False,False,,-1
+2199,ketaset,ketamine,False,False,True,,1
+2200,ketalar,ketamine,ketamine,True,True,,1
+2201,eliven,ketamine,False,False,False,,-1
+2202,cetamina,ketamine,False,False,True,,3
+2203,ketanest,ketamine,ketamine,True,True,,1
+2204,keta,ketamine,esketamine,False,True,,6
+2205,ketaset,ketamine,False,False,True,,1
+2206,dissociatives,ketamine,esketamine,False,True, pill,5
+2207,ketobemidone,ketamine,ketobemidone,False,True,,1
+2208,esketamine,ketamine,esketamine,False,True,,2
+2209,ketaset,ketamine,False,False,True,,1
+2210,ketavet,ketamine,ketamine,True,True,,2
+2211,ketaset,ketamine,False,False,True,,1
+2212,keta,ketamine,esketamine,False,True,,6
+2213,keta-mine,ketamine,False,False,True,,1
+2214,ketaject,ketamine,False,False,True,,6
+2215,ketolar,ketamine,False,False,True,,6
+2216,ketalar,ketamine,ketamine,True,True,,1
+2217,ketaject,ketamine,False,False,True,,6
+2218,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+2219,special_k,ketamine,ketamine,False,True,,5
+2220,eliprodil,ketamine,False,False,False,,-1
+2221,esketamine,ketamine,esketamine,False,True,,2
+2222,ketaject,ketamine,False,False,True,,6
+2223,ketanest,ketamine,ketamine,True,True,,1
+2224,ketaset,ketamine,False,False,True,,1
+2225,ketonal,ketamine,False,False,True, slang,1
+2226,kezalian,ketamine,False,False,False,,-1
+2227,ketaset,ketamine,False,False,True,,1
+2228,ketum,ketamine,False,False,False,,-1
+2229,ket_system,ketamine,False,False,True,,3
+2230,ketareset,ketamine,False,False,True,,1
+2231,ketadrip,ketamine,False,False,True,,1
+2232,pecial_k,ketamine,False,False,True, pill,1
+2233,cat_valium,ketamine,False,False,True,,9
+2234,horse_tranquilizer,ketamine,False,False,True,,2
+2235,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+2236,ketaset,ketamine,False,False,True,,1
+2237,ketelone,ketamine,False,False,False,,-1
+2238,ketofuran,ketamine,False,False,False,,-1
+2239,ketomine,ketamine,ketamine,True,True,,2
+2240,ketorolac,ketamine,ketorolac,False,False,,-1
+2241,ketorolac_tromethamine,ketamine,False,False,False,,-1
+2242,kitamine,ketamine,False,False,True,,1
+2243,ketavelieve,ketamine,False,False,False,,-1
+2244,ketaveliev,ketamine,False,False,False,,-1
+2245,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+2246,keta,ketamine,esketamine,False,True,,6
+2247,kit,ketamine,False,False,True,,2
+2248,k,ketamine,False,False,True, pill,5
+2249,k-hole,ketamine,False,False,True,,2
+2250,ketaset,ketamine,False,False,True,,1
+2251,ketaject,ketamine,False,False,True,,6
+2252,ketofane,ketamine,False,False,False,,-1
+2253,ketakon,ketamine,False,False,False,,-1
+2254,ketalyn,ketamine,False,False,False,,-1
+2255,ketarel,ketamine,False,False,True,,3
+2256,ketasol,ketamine,False,False,True, pill,9
+2257,esketamine,ketamine,esketamine,False,True,,2
+2258,kervorkian,ketamine,False,False,False,,-1
+2259,ketofurne,ketamine,False,False,False,,-1
+2260,ketonal,ketamine,False,False,True, slang,1
+2261,ketorolac,ketamine,ketorolac,False,False,,-1
+2262,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+2263,mk801,ketamine,False,False,True,,10
+2264,ketaset,ketamine,False,False,True,,1
+2265,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+2266,ketaject,ketamine,False,False,True,,6
+2267,ketaminol,ketamine,False,False,True, pill,1
+2268,ketaset,ketamine,False,False,True,,1
+2269,ketasol,ketamine,False,False,True, pill,9
+2270,katamine,ketamine,ketamine,True,True,,1
+2271,keta,ketamine,esketamine,False,True,,6
+2272,ketalar,ketamine,ketamine,True,True,,1
+2273,ketaset,ketamine,False,False,True,,1
+2274,pecial_k,ketamine,False,False,True, pill,1
+2275,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+2276,keta,ketamine,esketamine,False,True,,6
+2277,ketalar,ketamine,ketamine,True,True,,1
+2278,keta,ketamine,esketamine,False,True,,6
+2279,kem,ketamine,False,False,False,,-1
+2280,special_k,ketamine,ketamine,False,True,,5
+2281,pcp,ketamine,phencyclidine,False,False,,-1
+2282,angel_dust,ketamine,False,False,False,,-1
+2283,ketazolam,ketamine,False,False,True,,3
+2284,keta,ketamine,esketamine,False,True,,6
+2285,keto,ketamine,False,False,False,,-1
+2286,ketonic,ketamine,ketorolac,False,False,,-1
+2287,ketonicid,ketamine,False,False,False,,-1
+2288,ketonal,ketamine,False,False,True, slang,1
+2289,ketonisation,ketamine,False,False,False,,-1
+2290,ketaset,ketamine,False,False,True,,1
+2291,ketaject,ketamine,False,False,True,,6
+2292,ketalar,ketamine,ketamine,True,True,,1
+2293,keta,ketamine,esketamine,False,True,,6
+2294,ketaset,ketamine,False,False,True,,1
+2295,ketanest,ketamine,ketamine,True,True,,1
+2296,ketavet,ketamine,ketamine,True,True,,2
+2297,ketofol,ketamine,False,False,False,,-1
+2298,ketahex,ketamine,False,False,False,,-1
+2299,keta-j,ketamine,False,False,True,,6
+2300,ketavel,ketamine,False,False,False,,-1
+2301,ketozal,ketamine,False,False,False,,-1
+2302,kelatine,ketamine,False,False,True, slang,6
+2303,ketanim,ketamine,False,False,True, drug,1
+2304,kateman,ketamine,False,False,True, pill,2
+2305,katimine,ketamine,False,False,True,,4
+2306,katemine,ketamine,False,False,True,,3
+2307,ketimin,ketamine,False,False,True, pill,1
+2308,katemn,ketamine,False,False,False,,-1
+2309,esketamine,ketamine,esketamine,False,True,,2
+2310,n-methyl-d-aspartate,ketamine,False,False,True, pill,5
+2311,nmda,ketamine,ketamine,True,True, slang,2
+2312,nmbz,ketamine,False,False,False,,-1
+2313,ketaset,ketamine,False,False,True,,1
+2314,ketaject,ketamine,False,False,True,,6
+2315,ketaject,ketamine,False,False,True,,6
+2316,ketaset,ketamine,False,False,True,,1
+2317,firewater,ketamine,False,False,False,,-1
+2318,green,ketamine,False,False,False,,-1
+2319,katamino,ketamine,False,False,True, pill,2
+2320,katamaylie,ketamine,False,False,False,,-1
+2321,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+2322,et_ketamine,ketamine,False,True,True,,1
+2323,vcat,ketamine,False,False,False,,-1
+2324,team,ketamine,False,False,False,,-1
+2325,ketoflu,ketamine,False,False,False,,-1
+2326,fluphet,ketamine,False,False,False,,-1
+2327,vipec,ketamine,False,False,False,,-1
+2328,ketaplus,ketamine,False,False,True,,2
+2329,ketaprofen,ketamine,ketoprofen,False,False,,-1
+2330,ketahexamine,ketamine,False,False,False,,-1
+2331,deoxyketernine,ketamine,False,False,False,,-1
+2332,ketamine_base,ketamine,False,True,True,,1
+2333,keta,ketamine,esketamine,False,True,,6
+2334,k-hole,ketamine,False,False,True,,2
+2335,ketamites,ketamine,False,False,True,,2
+2336,special_k,ketamine,ketamine,False,True,,5
+2337,k-hole,ketamine,False,False,True,,2
+2338,happy_pill,ketamine,False,False,True,,7
+2339,super_acid,ketamine,False,False,True, drug,1
+2340,psychedelic_heroin,ketamine,False,False,True,,7
+2341,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+2342,keta-j,ketamine,False,False,True,,6
+2343,keteyne,ketamine,False,False,False,,-1
+2344,ketaamia,ketamine,False,False,True,,1
+2345,ketaam,ketamine,False,False,True, pill,3
+2346,ketaminol,ketamine,False,False,True, pill,1
+2347,ketazeine,ketamine,False,False,False,,-1
+2348,ketaheptane,ketamine,False,False,False,,-1
+2349,phencyclidine,ketamine,phencyclidine,False,False,,-1
+2350,dispyramidine,ketamine,False,False,False,,-1
+2351,pcp,ketamine,phencyclidine,False,False,,-1
+2352,keta,ketamine,esketamine,False,True,,6
+2353,ktemine,ketamine,False,False,True,,2
+2354,ketaset,ketamine,False,False,True,,1
+2355,ketanest,ketamine,ketamine,True,True,,1
+2356,ketaject,ketamine,False,False,True,,6
+2357,ketolar,ketamine,False,False,True,,6
+2358,pecial_k,ketamine,False,False,True, pill,1
+2359,green,ketamine,False,False,False,,-1
+2360,bump,ketamine,False,False,True, drug,2
+2361,dust,ketamine,False,False,False,,-1
+2362,dizzy,ketamine,False,False,False,,-1
+2363,ketaset,ketamine,False,False,True,,1
+2364,ketamin,ketamine,ketamine,True,True,,1
+2365,ketanest,ketamine,ketamine,True,True,,1
+2366,ketavet,ketamine,ketamine,True,True,,2
+2367,ketofol,ketamine,False,False,False,,-1
+2368,k,ketamine,False,False,True, pill,5
+2369,etamino,ketamine,False,False,False,,-1
+2370,keta,ketamine,esketamine,False,True,,6
+2371,ketaanityl,ketamine,False,False,False,,-1
+2372,ketaethoxy,ketamine,False,False,False,,-1
+2373,ketahexylamine,ketamine,False,False,False,,-1
+2374,ketal,ketamine,False,False,False,,-1
+2375,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+2376,ketaplus,ketamine,False,False,True,,2
+2377,ketaset,ketamine,False,False,True,,1
+2378,minijet,ketamine,False,False,False,,-1
+2379,ketavet,ketamine,ketamine,True,True,,2
+2380,ketofast,ketamine,False,False,False,,-1
+2381,k-hole,ketamine,False,False,True,,2
+2382,ketomine,ketamine,ketamine,True,True,,2
+2383,kemit,ketamine,False,False,False,,-1
+2384,ketaject,ketamine,False,False,True,,6
+2385,ketaset,ketamine,False,False,True,,1
+2386,katan,ketamine,False,False,False,,-1
+2387,kataman,ketamine,False,False,True, pill,1
+2388,katemine,ketamine,False,False,True,,3
+2389,ketaan,ketamine,False,False,False,,-1
+2390,katen,ketamine,False,False,False,,-1
+2391,kateen,ketamine,False,False,False,,-1
+2392,keteem,ketamine,False,False,True, pill,1
+2393,kappa,ketamine,False,False,False,,-1
+2394,kay-tuh-meen,ketamine,False,False,False,,-1
+2395,ketaset,ketamine,False,False,True,,1
+2396,special_k,ketamine,ketamine,False,True,,5
+2397,ketaset,ketamine,False,False,True,,1
+2398,ketaject,ketamine,False,False,True,,6
+2399,glutamatergic,ketamine,ketamine,False,True,,5
+2400,ndma,ketamine,False,False,False,,-1
+2401,pcp,ketamine,phencyclidine,False,False,,-1
+2402,etomidate,ketamine,etomidate,False,False,,-1
+2403,ketalar,ketamine,ketamine,True,True,,1
+2404,ketaject,ketamine,False,False,True,,6
+2405,ketaset,ketamine,False,False,True,,1
+2406,ketanest,ketamine,ketamine,True,True,,1
+2407,ketaflurane,ketamine,False,False,False,,-1
+2408,sevoflurane,ketamine,sevoflurane,False,True,,10
+2409,ketaject,ketamine,False,False,True,,6
+2410,ketafarm,ketamine,False,False,False,,-1
+2411,special_k,ketamine,ketamine,False,True,,5
+2412,ket,ketamine,False,False,True, pill,1
+2413,ketaset,ketamine,False,False,True,,1
+2414,simalar,ketamine,False,False,False,,-1
+2415,kittydust,ketamine,False,False,False,,-1
+2416,special_k,ketamine,ketamine,False,True,,5
+2417,k-hole,ketamine,False,False,True,,2
+2418,lfma,ketamine,False,False,False,,-1
+2419,dissociative,ketamine,False,False,True,,5
+2420,dissociative,ketamine,False,False,True,,5
+2421,nmpet,ketamine,False,False,False,,-1
+2422,nmser,ketamine,False,False,False,,-1
+2423,nmslt,ketamine,False,False,False,,-1
+2424,nmsp,ketamine,False,False,False,,-1
+2425,nmpa,ketamine,False,False,False,,-1
+2426,nmk,ketamine,False,False,False,,-1
+2427,ketaject,ketamine,False,False,True,,6
+2428,ketalar,ketamine,ketamine,True,True,,1
+2429,ketanome,ketamine,False,False,True,,1
+2430,ketaset,ketamine,False,False,True,,1
+2431,ketacon,ketamine,False,False,False,,-1
+2432,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+2433,esketamina,ketamine,False,False,True,,10
+2434,ketanest,ketamine,ketamine,True,True,,1
+2435,ketaset,ketamine,False,False,True,,1
+2436,ketaset,ketamine,False,False,True,,1
+2437,dissociatives,ketamine,esketamine,False,True, pill,5
+2438,quetamine,ketamine,False,False,True, pill,5
+2439,keetamine,ketamine,False,False,True,,1
+2440,getamine,ketamine,False,False,True,,3
+2441,etamine,ketamine,ketamine,True,True, pill,1
+2442,k,ketamine,False,False,True, pill,5
+2443,katamine,ketamine,ketamine,True,True,,1
+2444,ketymine,ketamine,False,False,False,,-1
+2445,katimine,ketamine,False,False,True,,4
+2446,ketimin,ketamine,False,False,True, pill,1
+2447,kritymine,ketamine,False,False,False,,-1
+2448,kitamine,ketamine,False,False,True,,1
+2449,ketaset,ketamine,False,False,True,,1
+2450,quetamina,ketamine,False,False,True, pill,4
+2451,quetamina_hydrochloride,ketamine,False,False,True,,1
+2452,cetamin,ketamine,False,False,True,,1
+2453,katamina,ketamine,False,False,True, pill,1
+2454,ketafet,ketamine,False,False,False,,-1
+2455,ketanest,ketamine,ketamine,True,True,,1
+2456,ketaset,ketamine,False,False,True,,1
+2457,imanes,ketamine,False,False,False,,-1
+2458,ketaject,ketamine,False,False,True,,6
+2459,ketofol,ketamine,False,False,False,,-1
+2460,katamine,ketamine,ketamine,True,True,,1
+2461,cetamine,ketamine,False,False,True, pill,1
+2462,keta,ketamine,esketamine,False,True,,6
+2463,vetalar,ketamine,False,False,True,,1
+2464,ketalos,ketamine,False,False,False,,-1
+2465,ketarol,ketamine,False,False,True,,1
+2466,keltamine,ketamine,False,False,False,,-1
+2467,ketaset,ketamine,False,False,True,,1
+2468,ketavet,ketamine,ketamine,True,True,,2
+2469,ketofane,ketamine,False,False,False,,-1
+2470,ketolar,ketamine,False,False,True,,6
+2471,cataclyst,ketamine,False,False,False,,-1
+2472,k-hole,ketamine,False,False,True,,2
+2473,k-hole,ketamine,False,False,True,,2
+2474,ketaset,ketamine,False,False,True,,1
+2475,ketelone,ketamine,False,False,False,,-1
+2476,keta,ketamine,esketamine,False,True,,6
+2477,ketaset,ketamine,False,False,True,,1
+2478,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+2479,ketanest,ketamine,ketamine,True,True,,1
+2480,ketaset-s,ketamine,False,False,True,,2
+2481,quetamine,ketamine,False,False,True, pill,5
+2482,cetamine,ketamine,False,False,True, pill,1
+2483,catomphetamine,ketamine,False,False,False,,-1
+2484,ketamin,ketamine,ketamine,True,True,,1
+2485,katemine,ketamine,False,False,True,,3
+2486,katin,ketamine,False,False,False,,-1
+2487,kitamin,ketamine,False,False,True,,1
+2488,kittamin,ketamine,False,False,True,,1
+2489,katimin,ketamine,False,False,True,,10
+2490,katamin,ketamine,False,False,True, pill,1
+2491,esketamine,ketamine,esketamine,False,True,,2
+2492,keta,ketamine,esketamine,False,True,,6
+2493,k-hole,ketamine,False,False,True,,2
+2494,ketamine,ketamine,ketamine,True,True,,1
+2495,kposition,ketamine,False,False,False,,-1
+2496,k-hole,ketamine,False,False,True,,2
+2497,kstate,ketamine,False,False,False,,-1
+2498,kitchenette_syndrome,ketamine,False,False,False,,-1
+2499,ketalar,ketamine,ketamine,True,True,,1
+2500,keta,ketamine,esketamine,False,True,,6
+2501,k-hole,ketamine,False,False,True,,2
+2502,ketaject,ketamine,False,False,True,,6
+2503,ketaset,ketamine,False,False,True,,1
+2504,kelinet,ketamine,False,False,False,,-1
+2505,ketamin,ketamine,ketamine,True,True,,1
+2506,ketasol,ketamine,False,False,True, pill,9
+2507,ketaset,ketamine,False,False,True,,1
+2508,keta,ketamine,esketamine,False,True,,6
+2509,k-hole,ketamine,False,False,True,,2
+2510,dissociative,ketamine,False,False,True,,5
+2511,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+2512,ketalar,ketamine,ketamine,True,True,,1
+2513,kemadrin,ketamine,False,False,False,,-1
+2514,katalek,ketamine,False,False,False,,-1
+2515,ketazolam,ketamine,False,False,True,,3
+2516,ketoprofen,ketamine,ketoprofen,False,False,,-1
+2517,ketorolac,ketamine,ketorolac,False,False,,-1
+2518,ketorolac_tromethamine,ketamine,False,False,False,,-1
+2519,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+2520,ketaamine,ketamine,False,False,True,,1
+2521,katamime,ketamine,False,False,True,,1
+2522,katamaina,ketamine,False,False,False,,-1
+2523,dissociative_anaesthetic,ketamine,False,False,True,,2
+2524,ketaject,ketamine,False,False,True,,6
+2525,katamine,ketamine,ketamine,True,True,,1
+2526,keタミン,ketamine,False,False,True, slang,2
+2527,ケタミン,ketamine,False,False,True, pill,1
+2528,ketaset,ketamine,False,False,True,,1
+2529,ketale,ketamine,False,False,False,,-1
+2530,ketaminob,ketamine,False,False,True,,2
+2531,ketasyn,ketamine,False,False,True, slang,6
+2532,ketanil,ketamine,False,False,False,,-1
+2533,trank,ketamine,False,False,False,,-1
+2534,keta,ketamine,esketamine,False,True,,6
+2535,n-methyl-d-aspartate,ketamine,False,False,True, pill,5
+2536,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+2537,ketanil,ketamine,False,False,False,,-1
+2538,ketapaine,ketamine,False,False,True, pill,1
+2539,ketaset,ketamine,False,False,True,,1
+2540,ketaject,ketamine,False,False,True,,6
+2541,ketofol,ketamine,False,False,False,,-1
+2542,ketalar,ketamine,ketamine,True,True,,1
+2543,special_k,ketamine,ketamine,False,True,,5
+2544,super_k,ketamine,False,False,True, pill,6
+2545,vitamin_k,ketamine,phylloquinone,False,True, slang,1
+2546,catmax,ketamine,False,False,False,,-1
+2547,keta,ketamine,esketamine,False,True,,6
+2548,special_k,ketamine,ketamine,False,True,,5
+2549,ketapril,ketamine,False,False,False,,-1
+2550,keta,ketamine,esketamine,False,True,,6
+2551,k-hole,ketamine,False,False,True,,2
+2552,ketaject,ketamine,False,False,True,,6
+2553,ketamax,ketamine,ketamine,True,True,,3
+2554,phencyclidine,ketamine,phencyclidine,False,False,,-1
+2555,pcp,ketamine,phencyclidine,False,False,,-1
+2556,kepone,ketamine,False,False,False,,-1
+2557,ketaminol,ketamine,False,False,True, pill,1
+2558,ketalar,ketamine,ketamine,True,True,,1
+2559,kollopan,ketamine,False,False,False,,-1
+2560,ketaset,ketamine,False,False,True,,1
+2561,ketasol,ketamine,False,False,True, pill,9
+2562,ketanest,ketamine,ketamine,True,True,,1
+2563,nmda,ketamine,ketamine,True,True, slang,2
+2564,ketoflu,ketamine,False,False,False,,-1
+2565,keta,ketamine,esketamine,False,True,,6
+2566,ketaset,ketamine,False,False,True,,1
+2567,ketaject,ketamine,False,False,True,,6
+2568,ket,ketamine,False,False,True, pill,1
+2569,ketaject,ketamine,False,False,True,,6
+2570,ketofol,ketamine,False,False,False,,-1
+2571,k-hole,ketamine,False,False,True,,2
+2572,katie,ketamine,False,False,False,,-1
+2573,special_k,ketamine,ketamine,False,True,,5
+2574,super_k,ketamine,False,False,True, pill,6
+2575,ktoc,ketamine,False,False,False,,-1
+2576,ktm,ketamine,False,False,True, drug,4
+2577,kt,ketamine,False,False,True, drug,8
+2578,ketofuran,ketamine,False,False,False,,-1
+2579,ketonal,ketamine,False,False,True, slang,1
+2580,ketaset,ketamine,False,False,True,,1
+2581,ketavet,ketamine,ketamine,True,True,,2
+2582,ketofen,ketamine,False,False,False,,-1
+2583,ketalog,ketamine,False,False,False,,-1
+2584,quetamine,ketamine,False,False,True, pill,5
+2585,kelicet,ketamine,False,False,False,,-1
+2586,katamine,ketamine,ketamine,True,True,,1
+2587,ketaject,ketamine,False,False,True,,6
+2588,ketaset,ketamine,False,False,True,,1
+2589,ketalar,ketamine,ketamine,True,True,,1
+2590,kitamine,ketamine,False,False,True,,1
+2591,keytamine,ketamine,False,False,True,,9
+2592,ketofuran,ketamine,False,False,False,,-1
+2593,ketalar,ketamine,ketamine,True,True,,1
+2594,ketoled,ketamine,False,False,False,,-1
+2595,ketaplus,ketamine,False,False,True,,2
+2596,ketanest,ketamine,ketamine,True,True,,1
+2597,ketofast,ketamine,False,False,False,,-1
+2598,ketogan,ketamine,ketobemidone,False,False,,-1
+2599,ketalar,ketamine,ketamine,True,True,,1
+2600,k_wik,ketamine,False,False,True, drug,3
+2601,katamine,ketamine,ketamine,True,True,,1
+2602,kitamine,ketamine,False,False,True,,1
+2603,quetamine,ketamine,False,False,True, pill,5
+2604,quetapine,ketamine,quetiapine,False,False,,-1
+2605,quetiapine,ketamine,quetiapine,False,False,,-1
+2606,ketalar,ketamine,ketamine,True,True,,1
+2607,ketaject,ketamine,False,False,True,,6
+2608,cetamina,ketamine,False,False,True,,3
+2609,footage,ketamine,False,False,False,,-1
+2610,spike,ketamine,False,False,False,,-1
+2611,k-hole,ketamine,False,False,True,,2
+2612,ketofeen,ketamine,False,False,True,,1
+2613,ketaject,ketamine,False,False,True,,6
+2614,ketalar,ketamine,ketamine,True,True,,1
+2615,kitor,ketamine,False,False,True, slang,1
+2616,keta,ketamine,esketamine,False,True,,6
+2617,k-hole,ketamine,False,False,True,,2
+2618,ketaject,ketamine,False,False,True,,6
+2619,ketofurane,ketamine,False,False,False,,-1
+2620,kelazane,ketamine,False,False,False,,-1
+2621,quinolone,ketamine,False,False,False,,-1
+2622,ketanest,ketamine,ketamine,True,True,,1
+2623,ketaset,ketamine,False,False,True,,1
+2624,ketalar,ketamine,ketamine,True,True,,1
+2625,nmnet,ketamine,False,False,False,,-1
+2626,katamine,ketamine,ketamine,True,True,,1
+2627,netamine,ketamine,False,False,True, pill,1
+2628,nimetazone,ketamine,False,False,False,,-1
+2629,ketaset,ketamine,False,False,True,,1
+2630,palaset,ketamine,False,False,False,,-1
+2631,xenon,ketamine,xenon-133,False,False,,-1
+2632,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+2633,alazopram,ketamine,False,False,False,,-1
+2634,sevoflurane,ketamine,sevoflurane,False,True,,10
+2635,ketofol,ketamine,False,False,False,,-1
+2636,esketamine,ketamine,esketamine,False,True,,2
+2637,pcp,ketamine,phencyclidine,False,False,,-1
+2638,phencyclidine,ketamine,phencyclidine,False,False,,-1
+2639,catnip,ketamine,False,False,False,,-1
+2640,kava,ketamine,kava,False,False,,-1
+2641,mu-opioid_receptor,ketamine,False,False,False,,-1
+2642,cannabinoid,ketamine,cannabinoids,False,False,,-1
+2643,pecial_k,ketamine,False,False,True, pill,1
+2644,ktk,ketamine,False,False,False,,-1
+2645,kttn,ketamine,False,False,False,,-1
+2646,kthj,ketamine,False,False,False,,-1
+2647,ktl,ketamine,False,False,False,,-1
+2648,ktv,ketamine,False,False,False,,-1
+2649,ktx,ketamine,False,False,False,,-1
+2650,nenska,ketamine,False,False,False,,-1
+2651,kitkain,ketamine,False,False,False,,-1
+2652,keta,ketamine,esketamine,False,True,,6
+2653,k-hole,ketamine,False,False,True,,2
+2654,ketaject,ketamine,False,False,True,,6
+2655,kat_lights,ketamine,False,False,False,,-1
+2656,special_k,ketamine,ketamine,False,True,,5
+2657,setamine,ketamine,False,False,False,,-1
+2658,ketofluoroacetone,ketamine,False,False,False,,-1
+2659,quisqualate,ketamine,False,False,False,,-1
+2660,drayol,ketamine,False,False,False,,-1
+2661,keta-mine,ketamine,False,False,True,,1
+2662,ketafen,ketamine,False,False,False,,-1
+2663,ketaject,ketamine,False,False,True,,6
+2664,ketaset,ketamine,False,False,True,,1
+2665,ketaject,ketamine,False,False,True,,6
+2666,ketaject,ketamine,False,False,True,,6
+2667,vetalar,ketamine,False,False,True,,1
+2668,ketanest,ketamine,ketamine,True,True,,1
+2669,ketaset,ketamine,False,False,True,,1
+2670,ketaject,ketamine,False,False,True,,6
+2671,ketafast,ketamine,False,False,True,,1
+2672,ketalar,ketamine,ketamine,True,True,,1
+2673,ketasol,ketamine,False,False,True, pill,9
+2674,keta,ketamine,esketamine,False,True,,6
+2675,k-hole,ketamine,False,False,True,,2
+2676,ketaset,ketamine,False,False,True,,1
+2677,ketalar,ketamine,ketamine,True,True,,1
+2678,coxil,ketamine,False,False,False,,-1
+2679,esketamine,ketamine,esketamine,False,True,,2
+2680,drub,ketamine,False,False,False,,-1
+2681,iv,ketamine,False,False,False,,-1
+2682,ketaset,ketamine,False,False,True,,1
+2683,ketalar,ketamine,ketamine,True,True,,1
+2684,black_leaf,ketamine,False,False,False,,-1
+2685,pcp,ketamine,phencyclidine,False,False,,-1
+2686,ketlyne,ketamine,False,False,False,,-1
+2687,kitamine,ketamine,False,False,True,,1
+2688,keta-mine,ketamine,False,False,True,,1
+2689,katamine,ketamine,ketamine,True,True,,1
+2690,katemine,ketamine,False,False,True,,3
+2691,katramine,ketamine,False,False,False,,-1
+2692,kat’amine,ketamine,False,False,True,,1
+2693,ketofurazone,ketamine,False,False,False,,-1
+2694,keta,ketamine,esketamine,False,True,,6
+2695,k-hole,ketamine,False,False,True,,2
+2696,ketaime,ketamine,False,False,True,,5
+2697,cat_safe,ketamine,False,False,False,,-1
+2698,keetamine,ketamine,False,False,True,,1
+2699,ketanime,ketamine,False,False,True,,3
+2700,ketaminol,ketamine,False,False,True, pill,1
+2701,ketapril,ketamine,False,False,False,,-1
+2702,ketaquin,ketamine,False,False,False,,-1
+2703,ketaject,ketamine,False,False,True,,6
+2704,kellymene,ketamine,False,False,False,,-1
+2705,ketanax,ketamine,False,False,False,,-1
+2706,keta,ketamine,esketamine,False,True,,6
+2707,ketanest,ketamine,ketamine,True,True,,1
+2708,ketaset,ketamine,False,False,True,,1
+2709,ketofane,ketamine,False,False,False,,-1
+2710,ketalar,ketamine,ketamine,True,True,,1
+2711,ketasol,ketamine,False,False,True, pill,9
+2712,n-methyl-d-aspartic_acid,ketamine,False,False,True, slang,1
+2713,n-methyl-d-aspartate,ketamine,False,False,True, pill,5
+2714,seroquel,ketamine,quetiapine,False,False,,-1
+2715,xanax,ketamine,alprazolam,False,False,,-1
+2716,nmpd,ketamine,False,False,False,,-1
+2717,keto,ketamine,False,False,False,,-1
+2718,k-hole,ketamine,False,False,True,,2
+2719,k-land,ketamine,False,False,True,,2
+2720,k-sea,ketamine,False,False,False,,-1
+2721,k-state,ketamine,False,False,False,,-1
+2722,k-town,ketamine,False,False,False,,-1
+2723,ketaset,ketamine,False,False,True,,1
+2724,ket_of_course,ketamine,False,False,True, pill,1
+2725,k-hole,ketamine,False,False,True,,2
+2726,k-land,ketamine,False,False,True,,2
+2727,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+2728,keta,ketamine,esketamine,False,True,,6
+2729,k,ketamine,False,False,True, pill,5
+2730,keta,ketamine,esketamine,False,True,,6
+2731,special_k,ketamine,ketamine,False,True,,5
+2732,sdma,ketamine,False,False,False,,-1
+2733,keta,ketamine,esketamine,False,True,,6
+2734,kety,ketamine,False,False,True, slang,3
+2735,kat,ketamine,False,False,True, drug,9
+2736,keta,ketamine,esketamine,False,True,,6
+2737,k-hole,ketamine,False,False,True,,2
+2738,keta,ketamine,esketamine,False,True,,6
+2739,kitkat,ketamine,False,False,True, drug,1
+2740,kitty,ketamine,False,False,True, drug,2
+2741,kat,ketamine,False,False,True, drug,9
+2742,kate,ketamine,False,False,True, drug,5
+2743,kaitlin,ketamine,False,False,False,,-1
+2744,kaitlyn,ketamine,False,False,False,,-1
+2745,keta,ketamine,esketamine,False,True,,6
+2746,special_k,ketamine,ketamine,False,True,,5
+2747,kitm,ketamine,False,False,True, slang,6
+2748,keta,ketamine,esketamine,False,True,,6
+2749,ktime,ketamine,False,False,False,,-1
+2750,katemine,ketamine,False,False,True,,3
+2751,kemime,ketamine,False,False,False,,-1
+2752,kretamin,ketamine,False,False,False,,-1
+2753,krimen,ketamine,False,False,False,,-1
+2754,keta,ketamine,esketamine,False,True,,6
+2755,ketaqualene,ketamine,False,False,False,,-1
+2756,ketaquin,ketamine,False,False,False,,-1
+2757,ketaset,ketamine,False,False,True,,1
+2758,ketasetum,ketamine,False,False,False,,-1
+2759,ketaminal,ketamine,False,False,True,,4
+2760,keta_oxide,ketamine,False,False,True,,2
+2761,kitamine,ketamine,False,False,True,,1
+2762,ketaject,ketamine,False,False,True,,6
+2763,ketaset,ketamine,False,False,True,,1
+2764,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+2765,quetamina,ketamine,False,False,True, pill,4
+2766,quetamine,ketamine,False,False,True, pill,5
+2767,katamine,ketamine,ketamine,True,True,,1
+2768,kitamine,ketamine,False,False,True,,1
+2769,ketalar,ketamine,ketamine,True,True,,1
+2770,special_k,ketamine,ketamine,False,True,,5
+2771,phencyclidine,ketamine,phencyclidine,False,False,,-1
+2772,pcp,ketamine,phencyclidine,False,False,,-1
+2773,angel_dust,ketamine,False,False,False,,-1
+2774,esketamine,ketamine,esketamine,False,True,,2
+2775,quetamina,ketamine,False,False,True, pill,4
+2776,san_shen_yao,ketamine,False,False,False,,-1
+2777,dimethyl-2-propanone,ketamine,False,False,False,,-1
+2778,2-(2-chlorophenyl)-2-(methylamino)cyclohexanone,ketamine,False,False,True,,2
+2779,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+2780,cat_valium,ketamine,False,False,True,,9
+2781,special_k,ketamine,ketamine,False,True,,5
+2782,amiphenazole,ketamine,False,False,False,,-1
+2783,diphencyclidine,ketamine,False,False,False,,-1
+2784,ketalar,ketamine,ketamine,True,True,,1
+2785,keta,ketamine,esketamine,False,True,,6
+2786,ketaform,ketamine,False,False,False,,-1
+2787,ketamin,ketamine,ketamine,True,True,,1
+2788,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+2789,ketofen,ketamine,False,False,False,,-1
+2790,ketomine,ketamine,ketamine,True,True,,2
+2791,nsda,ketamine,False,False,False,,-1
+2792,kat,ketamine,False,False,True, drug,9
+2793,ketofuran,ketamine,False,False,False,,-1
+2794,furanones,ketamine,False,False,False,,-1
+2795,ket,ketamine,False,False,True, pill,1
+2796,nmda,ketamine,ketamine,True,True, slang,2
+2797,kemine,ketamine,False,False,True, pill,2
+2798,ketaime,ketamine,False,False,True,,5
+2799,ketonal,ketamine,False,False,True, slang,1
+2800,ketalar,ketamine,ketamine,True,True,,1
+2801,ketaset,ketamine,False,False,True,,1
+2802,ketavet,ketamine,ketamine,True,True,,2
+2803,ketofol,ketamine,False,False,False,,-1
+2804,ketalar_sv,ketamine,False,True,True,,5
+2805,keta,ketamine,esketamine,False,True,,6
+2806,kitkat,ketamine,False,False,True, drug,1
+2807,trocinate,ketamine,False,False,False,,-1
+2808,keta,ketamine,esketamine,False,True,,6
+2809,k-hole,ketamine,False,False,True,,2
+2810,keta,ketamine,esketamine,False,True,,6
+2811,ketaset,ketamine,False,False,True,,1
+2812,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+2813,kemet,ketamine,False,False,False,,-1
+2814,ketaset,ketamine,False,False,True,,1
+2815,ketasoul,ketamine,False,False,False,,-1
+2816,katemid,ketamine,False,False,False,,-1
+2817,katalin,ketamine,False,False,False,,-1
+2818,katamine,ketamine,ketamine,True,True,,1
+2819,kat,ketamine,False,False,True, drug,9
+2820,anaesthetic,ketamine,False,False,True,,10
+2821,ketaethylamine,ketamine,False,False,False,,-1
+2822,ketahexylamine,ketamine,False,False,False,,-1
+2823,ketaquinol,ketamine,False,False,False,,-1
+2824,quinolin-2-yl_ketamine,ketamine,False,True,True,,1
+2825,quinolinyl_ketamine,ketamine,False,True,True,,5
+2826,α-keto-n-methyltetrahydroquinoline,ketamine,False,False,False,,-1
+2827,(±)-2-(2-chlorophenyl)-2-(methylamino)cyclohexanone,ketamine,False,False,True,,2
+2828,k-hole,ketamine,False,False,True,,2
+2829,k,ketamine,False,False,True, pill,5
+2830,special_k,ketamine,ketamine,False,True,,5
+2831,keta,ketamine,esketamine,False,True,,6
+2832,ket,ketamine,False,False,True, pill,1
+2833,special_k,ketamine,ketamine,False,True,,5
+2834,vitamin_k,ketamine,phylloquinone,False,True, slang,1
+2835,katomine,ketamine,False,False,True,,3
+2836,ketaamine,ketamine,False,False,True,,1
+2837,ketmiine,ketamine,False,False,True,,1
+2838,katmiine,ketamine,False,False,True,,5
+2839,katamime,ketamine,False,False,True,,1
+2840,kitamine,ketamine,False,False,True,,1
+2841,ketaject,ketamine,False,False,True,,6
+2842,ketofol,ketamine,False,False,False,,-1
+2843,ketaset,ketamine,False,False,True,,1
+2844,ketalar,ketamine,ketamine,True,True,,1
+2845,cat_valium,ketamine,False,False,True,,9
+2846,special_k,ketamine,ketamine,False,True,,5
+2847,quaaludes,ketamine,methaqualone,False,False,,-1
+2848,lsd,ketamine,lysergic_acid_diethylamide,False,False,,-1
+2849,keta,ketamine,esketamine,False,True,,6
+2850,k-hole,ketamine,False,False,True,,2
+2851,keta,ketamine,esketamine,False,True,,6
+2852,kit,ketamine,False,False,True,,2
+2853,k-hole,ketamine,False,False,True,,2
+2854,special_k,ketamine,ketamine,False,True,,5
+2855,vitamin_k,ketamine,phylloquinone,False,True, slang,1
+2856,ketaject,ketamine,False,False,True,,6
+2857,ketaset,ketamine,False,False,True,,1
+2858,ketaminol,ketamine,False,False,True, pill,1
+2859,nmda,ketamine,ketamine,True,True, slang,2
+2860,phencyclidine,ketamine,phencyclidine,False,False,,-1
+2861,pcp,ketamine,phencyclidine,False,False,,-1
+2862,ketazolam,ketamine,False,False,True,,3
+2863,cetamine,ketamine,False,False,True, pill,1
+2864,setamine,ketamine,False,False,False,,-1
+2865,etomidate,ketamine,etomidate,False,False,,-1
+2866,ketofol,ketamine,False,False,False,,-1
+2867,ketofane,ketamine,False,False,False,,-1
+2868,ketaset,ketamine,False,False,True,,1
+2869,keta,ketamine,esketamine,False,True,,6
+2870,ketasol,ketamine,False,False,True, pill,9
+2871,ketacaine,ketamine,False,False,True,,1
+2872,ketacon,ketamine,False,False,False,,-1
+2873,ketafilm,ketamine,False,False,True,,3
+2874,ketaset,ketamine,False,False,True,,1
+2875,ketanest,ketamine,ketamine,True,True,,1
+2876,ketaject,ketamine,False,False,True,,6
+2877,ketofol,ketamine,False,False,False,,-1
+2878,ketaject,ketamine,False,False,True,,6
+2879,keta-mine,ketamine,False,False,True,,1
+2880,strychnine,ketamine,False,False,False,,-1
+2881,quinine,ketamine,quinine,False,False,,-1
+2882,ketoprofen,ketamine,ketoprofen,False,False,,-1
+2883,ketorolac,ketamine,ketorolac,False,False,,-1
+2884,artane,ketamine,trihexyphenidyl,False,False,,-1
+2885,trihexyphenidyl,ketamine,trihexyphenidyl,False,False,,-1
+2886,ketaamine,ketamine,False,False,True,,1
+2887,kitamine,ketamine,False,False,True,,1
+2888,ekstazi,ketamine,False,False,False,,-1
+2889,ketanolamid,ketamine,False,False,False,,-1
+2890,ketylamin,ketamine,False,False,False,,-1
+2891,ketilamin,ketamine,False,False,False,,-1
+2892,katekolamin,ketamine,False,False,False,,-1
+2893,ketofol,ketamine,False,False,False,,-1
+2894,ketaject,ketamine,False,False,True,,6
+2895,ketaset,ketamine,False,False,True,,1
+2896,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+2897,ketmin,ketamine,hemin,False,True,,1
+2898,ketalar,ketamine,ketamine,True,True,,1
+2899,ket,ketamine,False,False,True, pill,1
+2900,special_k,ketamine,ketamine,False,True,,5
+2901,ketaject,ketamine,False,False,True,,6
+2902,ketaset,ketamine,False,False,True,,1
+2903,ktam,ketamine,False,False,False,,-1
+2904,ktom,ketamine,False,False,False,,-1
+2905,k2,ketamine,False,False,False,,-1
+2906,vitamin_k,ketamine,phylloquinone,False,True, slang,1
+2907,special_k,ketamine,ketamine,False,True,,5
+2908,katamina,ketamine,False,False,True, pill,1
+2909,dimetilmetamina,ketamine,False,False,False,,-1
+2910,aminometilpropanoato_de_metilo,ketamine,False,False,False,,-1
+2911,aminometilpropanediol_metilico,ketamine,False,False,False,,-1
+2912,ketofol,ketamine,False,False,False,,-1
+2913,dissociative_anesthesia,ketamine,False,False,True,,6
+2914,keta-buprenorphine,ketamine,False,False,True,,2
+2915,ketaset,ketamine,False,False,True,,1
+2916,ketofol,ketamine,False,False,False,,-1
+2917,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+2918,ketanest,ketamine,ketamine,True,True,,1
+2919,ketaject,ketamine,False,False,True,,6
+2920,ketaset,ketamine,False,False,True,,1
+2921,ketasol,ketamine,False,False,True, pill,9
+2922,ketmin,ketamine,hemin,False,True,,1
+2923,ketoject,ketamine,False,False,False,,-1
+2924,alpha-ketoprofen,ketamine,False,False,False,,-1
+2925,black_market_special_k,ketamine,False,False,True,,2
+2926,keta,ketamine,esketamine,False,True,,6
+2927,ketaquin,ketamine,False,False,False,,-1
+2928,quisqualate,ketamine,False,False,False,,-1
+2929,quetamine,ketamine,False,False,True, pill,5
+2930,quemacave,ketamine,False,False,False,,-1
+2931,quetazyme,ketamine,False,False,False,,-1
+2932,cetabine,ketamine,False,False,False,,-1
+2933,catamin,ketamine,False,False,True, pill,1
+2934,kitamin,ketamine,False,False,True,,1
+2935,keta_low,ketamine,False,False,True,,1
+2936,keta-mine,ketamine,False,False,True,,1
+2937,kat,ketamine,False,False,True, drug,9
+2938,special_k,ketamine,ketamine,False,True,,5
+2939,kit_kat,ketamine,cocoa,False,True, pill,5
+2940,special_k,ketamine,ketamine,False,True,,5
+2941,mket,ketamine,False,False,True,,3
+2942,keta,ketamine,esketamine,False,True,,6
+2943,ketaset,ketamine,False,False,True,,1
+2944,ketavet,ketamine,ketamine,True,True,,2
+2945,k-hole,ketamine,False,False,True,,2
+2946,ketamine,ketamine,ketamine,True,True,,1
+2947,katamine,ketamine,ketamine,True,True,,1
+2948,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+2949,ketaream,ketamine,False,False,False,,-1
+2950,kaopectate,ketamine,False,False,False,,-1
+2951,catnip,ketamine,False,False,False,,-1
+2952,cat_scan,ketamine,False,False,False,,-1
+2953,pcp,ketamine,phencyclidine,False,False,,-1
+2954,angel_dust,ketamine,False,False,False,,-1
+2955,keta,ketamine,esketamine,False,True,,6
+2956,kit,ketamine,False,False,True,,2
+2957,ketaset,ketamine,False,False,True,,1
+2958,k-hole,ketamine,False,False,True,,2
+2959,special_k,ketamine,ketamine,False,True,,5
+2960,ketaject,ketamine,False,False,True,,6
+2961,ketaset,ketamine,False,False,True,,1
+2962,kat,ketamine,False,False,True, drug,9
+2963,keta,ketamine,esketamine,False,True,,6
+2964,k,ketamine,False,False,True, pill,5
+2965,k-hole,ketamine,False,False,True,,2
+2966,khat,ketamine,False,False,False,,-1
+2967,special_k,ketamine,ketamine,False,True,,5
+2968,ketaq,ketamine,False,False,False,,-1
+2969,keats,ketamine,False,False,False,,-1
+2970,ketas,ketamine,ibudilast,False,False,,-1
+2971,ketay,ketamine,False,False,True, pill,1
+2972,keteq,ketamine,False,False,False,,-1
+2973,ketoz,ketamine,False,False,False,,-1
+2974,ketaject,ketamine,False,False,True,,6
+2975,ketaset,ketamine,False,False,True,,1
+2976,ketelate,ketamine,False,False,False,,-1
+2977,ketofurane,ketamine,False,False,False,,-1
+2978,setraline,ketamine,sertraline,False,False,,-1
+2979,ketoconazole,ketamine,ketoconazole,False,False,,-1
+2980,k-chlorydrate,ketamine,False,False,False,,-1
+2981,ketalar,ketamine,ketamine,True,True,,1
+2982,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+2983,imidazole,ketamine,imidazole,False,False,,-1
+2984,indicazole,ketamine,False,False,False,,-1
+2985,levamisole,ketamine,levamisole,False,True,,6
+2986,tetramisole,ketamine,levamisole,False,False,,-1
+2987,pentamisole,ketamine,False,False,False,,-1
+2988,neostigmine,ketamine,neostigmine,False,False,,-1
+2989,orgazole,ketamine,False,False,False,,-1
+2990,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+2991,ketaset,ketamine,False,False,True,,1
+2992,ketaject,ketamine,False,False,True,,6
+2993,k-hole,ketamine,False,False,True,,2
+2994,ketofentanyl,ketamine,False,False,False,,-1
+2995,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+2996,keta,ketamine,esketamine,False,True,,6
+2997,ket,ketamine,False,False,True, pill,1
+2998,special_k,ketamine,ketamine,False,True,,5
+2999,ketaset,ketamine,False,False,True,,1
+3000,keta,ketamine,esketamine,False,True,,6
+3001,special_k,ketamine,ketamine,False,True,,5
+3002,emdat,ketamine,False,False,False,,-1
+3003,imnal,ketamine,False,False,False,,-1
+3004,ketafast,ketamine,False,False,True,,1
+3005,k,ketamine,False,False,True, pill,5
+3006,special_k,ketamine,ketamine,False,True,,5
+3007,lirazepam,ketamine,False,False,False,,-1
+3008,ketofuran,ketamine,False,False,False,,-1
+3009,ketonil,ketamine,False,False,False,,-1
+3010,dimethylamino_ketamine,ketamine,False,True,True,,1
+3011,n-methyl-d-aspartate_receptor_antagonist,ketamine,False,False,True,,4
+3012,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+3013,ketamine_hcl,ketamine,False,True,True,,1
+3014,keta,ketamine,esketamine,False,True,,6
+3015,k,ketamine,False,False,True, pill,5
+3016,nmda,ketamine,ketamine,True,True, slang,2
+3017,dissociative_anesthetic,ketamine,esketamine,False,True,,3
+3018,ketalar,ketamine,ketamine,True,True,,1
+3019,ketaject,ketamine,False,False,True,,6
+3020,ketanest,ketamine,ketamine,True,True,,1
+3021,ketaset,ketamine,False,False,True,,1
+3022,ketaze,ketamine,False,False,True, drug,7
+3023,ketaject,ketamine,False,False,True,,6
+3024,ketoprofen,ketamine,ketoprofen,False,False,,-1
+3025,ketorolac,ketamine,ketorolac,False,False,,-1
+3026,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+3027,keta,ketamine,esketamine,False,True,,6
+3028,kitamine,ketamine,False,False,True,,1
+3029,katamine,ketamine,ketamine,True,True,,1
+3030,ketaset,ketamine,False,False,True,,1
+3031,keflin,ketamine,False,False,False,,-1
+3032,ketaject,ketamine,False,False,True,,6
+3033,ketalar,ketamine,ketamine,True,True,,1
+3034,ketcomed,ketamine,False,False,False,,-1
+3035,dissociative,ketamine,False,False,True,,5
+3036,anesthetic,ketamine,procaine,False,True,,3
+3037,pcp,ketamine,phencyclidine,False,False,,-1
+3038,kat,ketamine,False,False,True, drug,9
+3039,keet,ketamine,False,False,True, pill,6
+3040,ket,ketamine,False,False,True, pill,1
+3041,special_k,ketamine,ketamine,False,True,,5
+3042,ketaset,ketamine,False,False,True,,1
+3043,ketaject,ketamine,False,False,True,,6
+3044,ketaset,ketamine,False,False,True,,1
+3045,ketaject,ketamine,False,False,True,,6
+3046,ketafarm,ketamine,False,False,False,,-1
+3047,ketagel,ketamine,False,False,True,,2
+3048,ketamin,ketamine,ketamine,True,True,,1
+3049,ket,ketamine,False,False,True, pill,1
+3050,k-hole,ketamine,False,False,True,,2
+3051,special_k,ketamine,ketamine,False,True,,5
+3052,super_k,ketamine,False,False,True, pill,6
+3053,cat_valium,ketamine,False,False,True,,9
+3054,jet,ketamine,False,False,False,,-1
+3055,super_acid,ketamine,False,False,True, drug,1
+3056,ketamin,ketamine,ketamine,True,True,,1
+3057,ketaject,ketamine,False,False,True,,6
+3058,ketalar,ketamine,ketamine,True,True,,1
+3059,ketanest,ketamine,ketamine,True,True,,1
+3060,ketaset,ketamine,False,False,True,,1
+3061,spravato,ketamine,False,False,True, slang,5
+3062,keta,ketamine,esketamine,False,True,,6
+3063,k-hole,ketamine,False,False,True,,2
+3064,nmdcs,ketamine,False,False,False,,-1
+3065,nmeds,ketamine,False,False,False,,-1
+3066,nmets,ketamine,False,False,False,,-1
+3067,nmdes,ketamine,False,False,False,,-1
+3068,nmeas,ketamine,False,False,False,,-1
+3069,nmebs,ketamine,False,False,False,,-1
+3070,dimetilamino,ketamine,False,False,False,,-1
+3071,izersan,ketamine,False,False,False,,-1
+3072,ketaplus,ketamine,False,False,True,,2
+3073,keta,ketamine,esketamine,False,True,,6
+3074,k-hole,ketamine,False,False,True,,2
+3075,ketaject,ketamine,False,False,True,,6
+3076,keta,ketamine,esketamine,False,True,,6
+3077,k-hole,ketamine,False,False,True,,2
+3078,ketanest,ketamine,ketamine,True,True,,1
+3079,ketaset,ketamine,False,False,True,,1
+3080,k,ketamine,False,False,True, pill,5
+3081,k,ketamine,False,False,True, pill,5
+3082,special_k,ketamine,ketamine,False,True,,5
+3083,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+3084,ketalar,ketamine,ketamine,True,True,,1
+3085,ketalar,ketamine,ketamine,True,True,,1
+3086,ketaset,ketamine,False,False,True,,1
+3087,special_k,ketamine,ketamine,False,True,,5
+3088,ketanest,ketamine,ketamine,True,True,,1
+3089,ketofol,ketamine,False,False,False,,-1
+3090,kepler,ketamine,False,False,False,,-1
+3091,ketaset,ketamine,False,False,True,,1
+3092,ketalar,ketamine,ketamine,True,True,,1
+3093,ketanime,ketamine,False,False,True,,3
+3094,catnip,ketamine,False,False,False,,-1
+3095,khat,ketamine,False,False,False,,-1
+3096,special_k,ketamine,ketamine,False,True,,5
+3097,nmos,ketamine,False,False,False,,-1
+3098,nmwc,ketamine,False,False,False,,-1
+3099,nmwr,ketamine,False,False,False,,-1
+3100,nmsc,ketamine,False,False,False,,-1
+3101,nmsd,ketamine,False,False,False,,-1
+3102,keta,ketamine,esketamine,False,True,,6
+3103,ketalar,ketamine,ketamine,True,True,,1
+3104,catvalium,ketamine,False,False,True,,1
+3105,k-hole,ketamine,False,False,True,,2
+3106,keta-mine,ketamine,False,False,True,,1
+3107,keetamine,ketamine,False,False,True,,1
+3108,katemine,ketamine,False,False,True,,3
+3109,kotamine,ketamine,False,False,True, pill,1
+3110,kitamine,ketamine,False,False,True,,1
+3111,ket,ketamine,False,False,True, pill,1
+3112,kit,ketamine,False,False,True,,2
+3113,special_k,ketamine,ketamine,False,True,,5
+3114,cat_valium,ketamine,False,False,True,,9
+3115,horse_tranquilizer,ketamine,False,False,True,,2
+3116,keta,ketamine,esketamine,False,True,,6
+3117,ketaset,ketamine,False,False,True,,1
+3118,keta,ketamine,esketamine,False,True,,6
+3119,k-hole,ketamine,False,False,True,,2
+3120,nmpd,ketamine,False,False,False,,-1
+3121,nmda_antagonist,ketamine,False,True,True,,2
+3122,keta,ketamine,esketamine,False,True,,6
+3123,k-hole,ketamine,False,False,True,,2
+3124,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+3125,phencyclidine,ketamine,phencyclidine,False,False,,-1
+3126,ketazocine,ketamine,False,False,True,,2
+3127,ketamine_hydrochloride,ketamine,ketamine,True,True,,1
+3128,keta,ketamine,esketamine,False,True,,6
+3129,keta-mine,ketamine,False,False,True,,1
+3130,nmda,ketamine,ketamine,True,True, slang,2
+3131,ktmn,ketamine,False,False,False,,-1
+3132,kgm,ketamine,False,False,False,,-1
+3133,kemet,ketamine,False,False,False,,-1
+3134,kta,ketamine,False,False,False,,-1
+3135,ktt,ketamine,False,False,False,,-1
+3136,keta,ketamine,esketamine,False,True,,6
+3137,ketaset,ketamine,False,False,True,,1
+3138,special_k,ketamine,ketamine,False,True,,5
+3139,cetamine,ketamine,False,False,True, pill,1
+3140,abitat,ketamine,False,False,False,,-1
+3141,keta,ketamine,esketamine,False,True,,6
+3142,key,ketamine,False,False,False,,-1
+3143,k-hole,ketamine,False,False,True,,2
+3144,special_k,ketamine,ketamine,False,True,,5
+3145,ketamin,ketamine,ketamine,True,True,,1
+3146,keta,ketamine,esketamine,False,True,,6
+3147,ketaset,ketamine,False,False,True,,1
+3148,ketaject,ketamine,False,False,True,,6
+3149,ketaset,ketamine,False,False,True,,1
+3150,ketalar,ketamine,ketamine,True,True,,1
+3151,ketanest,ketamine,ketamine,True,True,,1
+3152,ketaminol,ketamine,False,False,True, pill,1
+3153,ketapril,ketamine,False,False,False,,-1
+3154,ketate,ketamine,False,False,False,,-1
+3155,ketaject,ketamine,False,False,True,,6
+3156,ketaset,ketamine,False,False,True,,1
+3157,ketval,ketamine,False,False,True, pill,8
+3158,speed,ketamine,False,False,False,,-1
+3159,coke,ketamine,False,False,False,,-1
+3160,uppers,ketamine,False,False,False,,-1
+3161,meth,ketamine,methamphetamine,False,False,,-1
+3162,stimulants,ketamine,False,False,False,,-1

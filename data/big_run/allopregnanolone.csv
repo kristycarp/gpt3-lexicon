@@ -1,0 +1,2541 @@
+,GPT-3 term,seed for prompt,Seed of GPT-3 term in RedMed,RedMed term inside GPT-3 term,Google,Google added token,Google depth
+0,allopregnenalone,allopregnanolone,False,False,True,,2
+1,allo-pregnanolone,allopregnanolone,False,False,True,,2
+2,allo-pregnanalone,allopregnanolone,False,False,True,,1
+3,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+4,5α-pregnane-3α-ol-20-one,allopregnanolone,False,False,True, pill,1
+5,3α-hydroxy-5α-pregnan-20-one,allopregnanolone,False,False,True,,3
+6,3α-hydroxy-5α-pregnane-20-one,allopregnanolone,False,False,True, pill,1
+7,allopregnenol,allopregnanolone,False,False,False,,-1
+8,allopregnanolon,allopregnanolone,False,False,True,,1
+9,allopregnanolol,allopregnanolone,False,False,False,,-1
+10,allopregnanolon,allopregnanolone,False,False,True,,1
+11,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+12,5-allopregnanolone,allopregnanolone,False,False,True,,1
+13,"allopregna-3,5-dien-7-one",allopregnanolone,False,False,False,,-1
+14,"allopregnane-3,5-dione",allopregnanolone,False,False,True, pill,5
+15,allopregnanolol,allopregnanolone,False,False,False,,-1
+16,allopregnan,allopregnanolone,False,False,True,,9
+17,allopreg,allopregnanolone,False,False,True,,2
+18,allo-pregnanolone,allopregnanolone,False,False,True,,2
+19,allo-pregnenolone,allopregnanolone,False,False,True,,1
+20,5-alpha-pregnan-3-alpha-ol-20-one,allopregnanolone,False,False,True, pill,3
+21,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+22,allopregnanolon,allopregnanolone,False,False,True,,1
+23,allopregnenalone,allopregnanolone,False,False,True,,2
+24,allopregnan,allopregnanolone,False,False,True,,9
+25,allopreg,allopregnanolone,False,False,True,,2
+26,allo-pregn-5-en-3-ol-20-one,allopregnanolone,False,False,True,,3
+27,allopregnenalone,allopregnanolone,False,False,True,,2
+28,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+29,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+30,allopregnolone,allopregnanolone,False,False,True,,7
+31,allopretrolone,allopregnanolone,False,False,False,,-1
+32,alloprostaglandin,allopregnanolone,False,False,False,,-1
+33,allosteroid,allopregnanolone,False,False,True,,4
+34,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+35,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+36,allopregnenalone,allopregnanolone,False,False,True,,2
+37,allopregnane,allopregnanolone,False,False,True, pill,3
+38,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+39,allopregnenolol,allopregnanolone,False,False,False,,-1
+40,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+41,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+42,allopregnenolol,allopregnanolone,False,False,False,,-1
+43,allopregnanolon,allopregnanolone,False,False,True,,1
+44,allopregnanol,allopregnanolone,False,False,True,,4
+45,allopregna,allopregnanolone,False,False,True,,1
+46,allopreg,allopregnanolone,False,False,True,,2
+47,allo,allopregnanolone,False,False,False,,-1
+48,al,allopregnanolone,albendazole,False,False,,-1
+49,allopregnanlonane,allopregnanolone,False,False,False,,-1
+50,allopreg-nanolone,allopregnanolone,False,False,True,,1
+51,allopregnan-4-ol-3-one,allopregnanolone,False,False,True,,8
+52,pregn-4-en-3-one-17-ol,allopregnanolone,False,False,False,,-1
+53,4-pregnen-3-one-17-ol,allopregnanolone,False,False,False,,-1
+54,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+55,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+56,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+57,allopregnan,allopregnanolone,False,False,True,,9
+58,allo-pregnanolone,allopregnanolone,False,False,True,,2
+59,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+60,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+61,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+62,allopregnan_3alpha-ol-20-one,allopregnanolone,False,False,True,,2
+63,5alpha-pregnane-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+64,5_alpha-pregnan-3_alpha-ol-20-one,allopregnanolone,False,False,True, pill,3
+65,5_alpha-pregnane-3_alpha-ol-20-one,allopregnanolone,False,False,True, pill,4
+66,(5alpha)-pregnane-3_alpha-ol-20-one,allopregnanolone,False,False,True, pill,4
+67,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+68,allopregnanadiol,allopregnanolone,False,False,False,,-1
+69,allopregnanediol,allopregnanolone,False,False,True,,1
+70,allopregnenetriol,allopregnanolone,False,False,False,,-1
+71,allopregnenetetrol,allopregnanolone,False,False,False,,-1
+72,allopregnanetriolone,allopregnanolone,False,False,False,,-1
+73,allopregnenetetrolone,allopregnanolone,False,False,False,,-1
+74,allopregnolone,allopregnanolone,False,False,True,,7
+75,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+76,allopregnolone,allopregnanolone,False,False,True,,7
+77,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+78,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+79,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+80,allopregnanolol,allopregnanolone,False,False,False,,-1
+81,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+82,allopregnanetriol,allopregnanolone,False,False,True,,9
+83,5_alpha-pregnan-3_alpha-ol-20-one,allopregnanolone,False,False,True, pill,3
+84,5_alpha-pregnane-3_alpha-ol-20-one,allopregnanolone,False,False,True, pill,4
+85,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+86,allopregnanolon,allopregnanolone,False,False,True,,1
+87,allopregnolon,allopregnanolone,False,False,False,,-1
+88,"allopregna-3,5-dien-7-one",allopregnanolone,False,False,False,,-1
+89,"5alpha-pregnan-3,5-dien-20-one",allopregnanolone,False,False,False,,-1
+90,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+91,allopregnanolon,allopregnanolone,False,False,True,,1
+92,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+93,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+94,allopregnane,allopregnanolone,False,False,True, pill,3
+95,allopregnanediol,allopregnanolone,False,False,True,,1
+96,allopregnanedione,allopregnanolone,False,False,True, pill,2
+97,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+98,allopregnetriol,allopregnanolone,False,False,False,,-1
+99,allopresanolone,allopregnanolone,False,False,False,,-1
+100,allotetrahydrodeoxycorticosterone,allopregnanolone,False,False,True,,8
+101,allopregnenalone,allopregnanolone,False,False,True,,2
+102,allo-pregnanolone,allopregnanolone,False,False,True,,2
+103,allo-pregnanalone,allopregnanolone,False,False,True,,1
+104,5_alpha-pregnan-3_alpha-ol-20-one,allopregnanolone,False,False,True, pill,3
+105,5_alpha-pregnane-3_alpha-ol-20-one,allopregnanolone,False,False,True, pill,4
+106,3_alpha-hydroxy-5_alpha-pregnan-20-one,allopregnanolone,False,False,True, pill,6
+107,3_alpha-hydroxy-5_alpha-pregnane-20-one,allopregnanolone,False,False,True, pill,7
+108,allopregnone,allopregnanolone,False,False,True,,1
+109,allopregnenalone,allopregnanolone,False,False,True,,2
+110,allopregn-5-en-3-ol-20-one,allopregnanolone,False,False,True,,1
+111,5α-allopregnan-3β-ol-20-one,allopregnanolone,False,False,True,,8
+112,allopregnan,allopregnanolone,False,False,True,,9
+113,allopregn,allopregnanolone,False,False,True,,1
+114,allopreg,allopregnanolone,False,False,True,,2
+115,allopregnenalone,allopregnanolone,False,False,True,,2
+116,allopregnanone,allopregnanolone,False,False,True,,1
+117,allopregenalone,allopregnanolone,False,False,True, pill,1
+118,allopregnanolol,allopregnanolone,False,False,False,,-1
+119,allopregnanolon,allopregnanolone,False,False,True,,1
+120,alloprregnenolone,allopregnanolone,False,False,False,,-1
+121,allopregnanolol,allopregnanolone,False,False,False,,-1
+122,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+123,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+124,allopregnan,allopregnanolone,False,False,True,,9
+125,allopreg,allopregnanolone,False,False,True,,2
+126,allop,allopregnanolone,False,False,True,,3
+127,allopregnenalone,allopregnanolone,False,False,True,,2
+128,"allopregna-4,9-diene-3,20-dione",allopregnanolone,False,False,False,,-1
+129,allopregnanolon,allopregnanolone,False,False,True,,1
+130,allopregnenolon,allopregnanolone,False,False,True, pill,6
+131,allopregnalonol,allopregnanolone,False,False,False,,-1
+132,allopregnanolol,allopregnanolone,False,False,False,,-1
+133,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+134,allopregnanalol,allopregnanolone,False,False,False,,-1
+135,allopreganalone,allopregnanolone,False,False,False,,-1
+136,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+137,allopregnenalone,allopregnanolone,False,False,True,,2
+138,allopregnane,allopregnanolone,False,False,True, pill,3
+139,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+140,allopregnan-3alpha-ol,allopregnanolone,False,False,True,,1
+141,allopregnanolol,allopregnanolone,False,False,False,,-1
+142,allopregnenol,allopregnanolone,False,False,False,,-1
+143,allopregnan,allopregnanolone,False,False,True,,9
+144,alloprene,allopregnanolone,False,False,False,,-1
+145,allopregnanol,allopregnanolone,False,False,True,,4
+146,allopregnolone,allopregnanolone,False,False,True,,7
+147,allopreg-5-en-3-ol-20-one,allopregnanolone,False,False,True,,1
+148,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+149,allopregnolone,allopregnanolone,False,False,True,,7
+150,allopregnanol,allopregnanolone,False,False,True,,4
+151,allopregnenalone,allopregnanolone,False,False,True,,2
+152,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+153,allopregnan,allopregnanolone,False,False,True,,9
+154,allopregnane,allopregnanolone,False,False,True, pill,3
+155,allopregnanol,allopregnanolone,False,False,True,,4
+156,allopregnanolol,allopregnanolone,False,False,False,,-1
+157,allopregnanone,allopregnanolone,False,False,True,,1
+158,allopregnenalone,allopregnanolone,False,False,True,,2
+159,allopregnenalone,allopregnanolone,False,False,True,,2
+160,allopregnanolol,allopregnanolone,False,False,False,,-1
+161,allopregnanona,allopregnanolone,False,False,False,,-1
+162,allopregnanol,allopregnanolone,False,False,True,,4
+163,allopregnan,allopregnanolone,False,False,True,,9
+164,allopregna,allopregnanolone,False,False,True,,1
+165,allopregn,allopregnanolone,False,False,True,,1
+166,allopreg,allopregnanolone,False,False,True,,2
+167,all-trans-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,False,,-1
+168,allopregnan-ol-one,allopregnanolone,False,False,True,,2
+169,allo-pregn-anol-one,allopregnanolone,False,False,True,,1
+170,allopregnolone,allopregnanolone,False,False,True,,7
+171,allopregnan,allopregnanolone,False,False,True,,9
+172,allopregn,allopregnanolone,False,False,True,,1
+173,allopreg,allopregnanolone,False,False,True,,2
+174,allopreganolone,allopregnanolone,False,False,True,,2
+175,allopreganalone,allopregnanolone,False,False,False,,-1
+176,allo-pregnanolone,allopregnanolone,False,False,True,,2
+177,allopregnanolol,allopregnanolone,False,False,False,,-1
+178,allopregnanoxide,allopregnanolone,False,False,False,,-1
+179,allopregnenalone,allopregnanolone,False,False,True,,2
+180,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+181,allopregnorone,allopregnanolone,False,False,False,,-1
+182,allopregnenalone,allopregnanolone,False,False,True,,2
+183,allopregnan,allopregnanolone,False,False,True,,9
+184,allopregnadiol,allopregnanolone,False,False,False,,-1
+185,allopregnanediol,allopregnanolone,False,False,True,,1
+186,allopregnanetriol,allopregnanolone,False,False,True,,9
+187,allopregnanetetrol,allopregnanolone,False,False,False,,-1
+188,allopregnanpentol,allopregnanolone,False,False,False,,-1
+189,allopregnanhexol,allopregnanolone,False,False,False,,-1
+190,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+191,allopregnenalone,allopregnanolone,False,False,True,,2
+192,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+193,5alpha-pregnan-3alpha-olone,allopregnanolone,False,False,True,,1
+194,allo-pregnan-ol-one,allopregnanolone,False,False,True,,1
+195,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+196,allopreg-5-en-3-ol-7-one,allopregnanolone,False,False,True,,1
+197,allopregnanol,allopregnanolone,False,False,True,,4
+198,allopregnan,allopregnanolone,False,False,True,,9
+199,allopregn,allopregnanolone,False,False,True,,1
+200,allopreg,allopregnanolone,False,False,True,,2
+201,allopre,allopregnanolone,False,False,False,,-1
+202,allopr,allopregnanolone,False,False,True,,5
+203,allop,allopregnanolone,False,False,True,,3
+204,allopregnenalone,allopregnanolone,False,False,True,,2
+205,allo-pregnenolone,allopregnanolone,False,False,True,,1
+206,allo-pregnenalone,allopregnanolone,False,False,True,,1
+207,allopregnenalone,allopregnanolone,False,False,True,,2
+208,allopregnanoxide,allopregnanolone,False,False,False,,-1
+209,allopregna-n-olone,allopregnanolone,False,False,True,,2
+210,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+211,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+212,"pregna-4,9-diene-3,20-dione",allopregnanolone,False,False,False,,-1
+213,alloprette,allopregnanolone,False,False,False,,-1
+214,allopregna-diol,allopregnanolone,False,False,True,,8
+215,allopregna-diolone,allopregnanolone,False,False,False,,-1
+216,allopregnanediol,allopregnanolone,False,False,True,,1
+217,allopregnanetriol,allopregnanolone,False,False,True,,9
+218,tetrahydroprogesterone,allopregnanolone,allopregnanolone,False,True,,1
+219,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+220,allopregnanediol,allopregnanolone,False,False,True,,1
+221,allopregnenol,allopregnanolone,False,False,False,,-1
+222,allopregnane,allopregnanolone,False,False,True, pill,3
+223,allopregna,allopregnanolone,False,False,True,,1
+224,allopreg,allopregnanolone,False,False,True,,2
+225,allo,allopregnanolone,False,False,False,,-1
+226,allopregnalone,allopregnanolone,allopregnanolone,True,True,,6
+227,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+228,allopregnanolol,allopregnanolone,False,False,False,,-1
+229,allopregnan-ol-one,allopregnanolone,False,False,True,,2
+230,allo-pregn-an-ol-one,allopregnanolone,False,False,True,,1
+231,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+232,allopregnenalone,allopregnanolone,False,False,True,,2
+233,allopregnenalone,allopregnanolone,False,False,True,,2
+234,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+235,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+236,allopregnan,allopregnanolone,False,False,True,,9
+237,allopreg,allopregnanolone,False,False,True,,2
+238,allopr,allopregnanolone,False,False,True,,5
+239,allo,allopregnanolone,False,False,False,,-1
+240,allopregnan,allopregnanolone,False,False,True,,9
+241,allopreg,allopregnanolone,False,False,True,,2
+242,allo-preg,allopregnanolone,False,False,True,,1
+243,allo-pregnenolone,allopregnanolone,False,False,True,,1
+244,allo-pregnalone,allopregnanolone,False,False,True,,1
+245,allopregnolone,allopregnanolone,False,False,True,,7
+246,allo-pregnanolone,allopregnanolone,False,False,True,,2
+247,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+248,allopregnanolol,allopregnanolone,False,False,False,,-1
+249,allopreganalone,allopregnanolone,False,False,False,,-1
+250,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+251,allopregnenol,allopregnanolone,False,False,False,,-1
+252,allopregnanon,allopregnanolone,False,False,False,,-1
+253,allopregnanen,allopregnanolone,False,False,False,,-1
+254,allopregnanone,allopregnanolone,False,False,True,,1
+255,allopregnan,allopregnanolone,False,False,True,,9
+256,allopreg,allopregnanolone,False,False,True,,2
+257,"allopregna-4-ene-3,20-dione",allopregnanolone,False,False,True,,6
+258,allopregnanolol,allopregnanolone,False,False,False,,-1
+259,allopregnanolon,allopregnanolone,False,False,True,,1
+260,allopregnolone,allopregnanolone,False,False,True,,7
+261,allopregnane,allopregnanolone,False,False,True, pill,3
+262,allopregnan,allopregnanolone,False,False,True,,9
+263,allopregn,allopregnanolone,False,False,True,,1
+264,allopreg,allopregnanolone,False,False,True,,2
+265,allopre,allopregnanolone,False,False,False,,-1
+266,allopr,allopregnanolone,False,False,True,,5
+267,allop,allopregnanolone,False,False,True,,3
+268,allopregnanetriol,allopregnanolone,False,False,True,,9
+269,allopregnanediol,allopregnanolone,False,False,True,,1
+270,allopregnanether,allopregnanolone,False,False,False,,-1
+271,allopregnenetetrol,allopregnanolone,False,False,False,,-1
+272,"allopregna-4-en-3,20-dione",allopregnanolone,False,False,True,,3
+273,"allopregnan-4-ol-3,20-dione",allopregnanolone,False,False,True,,10
+274,"4-allopregnen-3,20-diol",allopregnanolone,False,False,False,,-1
+275,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+276,allopregnenalone,allopregnanolone,False,False,True,,2
+277,allopregnanon,allopregnanolone,False,False,False,,-1
+278,allopregna-5-ol-3-one,allopregnanolone,False,False,True,,2
+279,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+280,allopregnanlone,allopregnanolone,False,False,True,,2
+281,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+282,allopregnan,allopregnanolone,False,False,True,,9
+283,allopreg,allopregnanolone,False,False,True,,2
+284,allo-pregnenolone,allopregnanolone,False,False,True,,1
+285,allo-pregnenalone,allopregnanolone,False,False,True,,1
+286,allo-pregnane-olone,allopregnanolone,False,False,True,,2
+287,allopregnane,allopregnanolone,False,False,True, pill,3
+288,allopregnan,allopregnanolone,False,False,True,,9
+289,allopreg,allopregnanolone,False,False,True,,2
+290,alloaurostegol,allopregnanolone,False,False,False,,-1
+291,allopregnanol,allopregnanolone,False,False,True,,4
+292,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+293,5_alpha-pregnan-3_alpha-ol-20-one,allopregnanolone,False,False,True, pill,3
+294,3_alpha-hydroxyprogesterone,allopregnanolone,False,False,False,,-1
+295,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+296,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+297,5α-allopregnan-3α-ol-20-one,allopregnanolone,False,False,True,,4
+298,"3α,5α-tetrahydroprogesterone",allopregnanolone,False,False,True,,1
+299,allopregnane,allopregnanolone,False,False,True, pill,3
+300,allopregnan,allopregnanolone,False,False,True,,9
+301,allopregnan-3-ol-17-one,allopregnanolone,False,False,True,,4
+302,5alpha-pregnan-3alpha-ol-17-one,allopregnanolone,False,False,True, pill,2
+303,allopregnenalone,allopregnanolone,False,False,True,,2
+304,allopregnanolol,allopregnanolone,False,False,False,,-1
+305,allopregnenolol,allopregnanolone,False,False,False,,-1
+306,allopregnanolol,allopregnanolone,False,False,False,,-1
+307,allopregnanediol,allopregnanolone,False,False,True,,1
+308,allopregnanetriol,allopregnanolone,False,False,True,,9
+309,allopregnanetetrol,allopregnanolone,False,False,False,,-1
+310,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+311,5alpha-pregnane-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+312,5-alpha-pregnan-3-alpha-ol-20-one,allopregnanolone,False,False,True, pill,3
+313,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+314,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+315,allopregnanediol,allopregnanolone,False,False,True,,1
+316,allopregnanetriol,allopregnanolone,False,False,True,,9
+317,allopregnenetriol,allopregnanolone,False,False,False,,-1
+318,allopregnanediolone,allopregnanolone,False,False,False,,-1
+319,allopregnanepoxyde,allopregnanolone,False,False,False,,-1
+320,allopregnene,allopregnanolone,False,False,False,,-1
+321,allopregnanol,allopregnanolone,False,False,True,,4
+322,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+323,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+324,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+325,allopregnenolon,allopregnanolone,False,False,True, pill,6
+326,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+327,allopregnanolne,allopregnanolone,False,False,True,,1
+328,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+329,5α-pregnane-3α-ol-20-one,allopregnanolone,False,False,True, pill,1
+330,allopregnenonolone,allopregnanolone,False,False,False,,-1
+331,allopregnenanolone,allopregnanolone,False,False,True,,1
+332,allopregnanolol,allopregnanolone,False,False,False,,-1
+333,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+334,5alpha-pregnan-3alpha-olone,allopregnanolone,False,False,True,,1
+335,3alpha-hydroxy-5alpha-pregnan-20-one,allopregnanolone,False,False,True, pill,2
+336,allopregnan_one,allopregnanolone,False,False,True,,10
+337,allopregnanolol,allopregnanolone,False,False,False,,-1
+338,allopregnanon,allopregnanolone,False,False,False,,-1
+339,allopregnan-3alpha-ol,allopregnanolone,False,False,True,,1
+340,allopregnan-3_beta-ol,allopregnanolone,False,False,True, pill,2
+341,allopregnan-3-ol,allopregnanolone,False,False,True, pill,3
+342,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+343,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+344,allopregnanolol,allopregnanolone,False,False,False,,-1
+345,allopregnenolol,allopregnanolone,False,False,False,,-1
+346,allopregnaloneol,allopregnanolone,False,False,False,,-1
+347,allopregnanaloneol,allopregnanolone,False,False,False,,-1
+348,allopregnanolol,allopregnanolone,False,False,False,,-1
+349,5-allopregnan-3alpha-ol-20-one,allopregnanolone,False,False,True,,1
+350,5-allopregnan-3-alpha-ol-20-one,allopregnanolone,False,False,True,,2
+351,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+352,allopregnanolon,allopregnanolone,False,False,True,,1
+353,allopregnanalol,allopregnanolone,False,False,False,,-1
+354,allopregnenalone,allopregnanolone,False,False,True,,2
+355,allopregnenolol,allopregnanolone,False,False,False,,-1
+356,allopregnanolol,allopregnanolone,False,False,False,,-1
+357,allopregnenolol,allopregnanolone,False,False,False,,-1
+358,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+359,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+360,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+361,5_alpha-pregnane-3_alpha-ol-20-one,allopregnanolone,False,False,True, pill,4
+362,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+363,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+364,allopregnanolol,allopregnanolone,False,False,False,,-1
+365,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+366,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+367,allopregnenalone,allopregnanolone,False,False,True,,2
+368,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+369,allopregnenalone,allopregnanolone,False,False,True,,2
+370,allopregnalone,allopregnanolone,allopregnanolone,True,True,,6
+371,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+372,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+373,allopreg,allopregnanolone,False,False,True,,2
+374,allop,allopregnanolone,False,False,True,,3
+375,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+376,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+377,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+378,allopregnanolol,allopregnanolone,False,False,False,,-1
+379,allopregnenalone,allopregnanolone,False,False,True,,2
+380,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+381,allopregnanol,allopregnanolone,False,False,True,,4
+382,allopregnan,allopregnanolone,False,False,True,,9
+383,allopregn,allopregnanolone,False,False,True,,1
+384,allopreg,allopregnanolone,False,False,True,,2
+385,allopr,allopregnanolone,False,False,True,,5
+386,allop,allopregnanolone,False,False,True,,3
+387,allo,allopregnanolone,False,False,False,,-1
+388,allopregnane,allopregnanolone,False,False,True, pill,3
+389,allopregnan,allopregnanolone,False,False,True,,9
+390,allopreg,allopregnanolone,False,False,True,,2
+391,allo-pregnane,allopregnanolone,False,False,True, pill,1
+392,allo-preg,allopregnanolone,False,False,True,,1
+393,allo-pregnenolone,allopregnanolone,False,False,True,,1
+394,allo-pregnanolone,allopregnanolone,False,False,True,,2
+395,allopregnenalone,allopregnanolone,False,False,True,,2
+396,allopregnanolone_acetate,allopregnanolone,False,True,True,,1
+397,allopregnanolone_sulfate,allopregnanolone,False,True,True,,1
+398,3alpha-hydroxy-5alpha-pregnan-20-one,allopregnanolone,False,False,True, pill,2
+399,allopregnanolol,allopregnanolone,False,False,False,,-1
+400,allopregnenalone,allopregnanolone,False,False,True,,2
+401,allopregnanediol,allopregnanolone,False,False,True,,1
+402,allopregnanolone_acetate,allopregnanolone,False,True,True,,1
+403,allopregnanedione,allopregnanolone,False,False,True, pill,2
+404,allopregnanetriol,allopregnanolone,False,False,True,,9
+405,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+406,allopregnenalone,allopregnanolone,False,False,True,,2
+407,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+408,allopregnanolol,allopregnanolone,False,False,False,,-1
+409,allopregnanoxide,allopregnanolone,False,False,False,,-1
+410,allopregnolone,allopregnanolone,False,False,True,,7
+411,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+412,allopregnanolon,allopregnanolone,False,False,True,,1
+413,allopregnenol,allopregnanolone,False,False,False,,-1
+414,allopregnanolol,allopregnanolone,False,False,False,,-1
+415,allopregnanolol,allopregnanolone,False,False,False,,-1
+416,allopregnanediol,allopregnanolone,False,False,True,,1
+417,allopregnanedione,allopregnanolone,False,False,True, pill,2
+418,allopregnane,allopregnanolone,False,False,True, pill,3
+419,allopregnanol,allopregnanolone,False,False,True,,4
+420,allopregnenalone,allopregnanolone,False,False,True,,2
+421,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+422,allopregnenalone,allopregnanolone,False,False,True,,2
+423,allopregnenalone,allopregnanolone,False,False,True,,2
+424,"allopregna-4,9-dien-3-one",allopregnanolone,False,False,False,,-1
+425,"5alpha-pregnane-3alpha,4,5beta-triol-20-one",allopregnanolone,False,False,False,,-1
+426,allopregnanediol,allopregnanolone,False,False,True,,1
+427,allopregnanetriol,allopregnanolone,False,False,True,,9
+428,"allopregnane-3,20-diol",allopregnanolone,False,False,True, pill,8
+429,"allopregnane-3alpha,20beta-diol",allopregnanolone,False,False,True,,10
+430,"allopregnane-3beta,20alpha-diol",allopregnanolone,False,False,True,,7
+431,allopregnanon,allopregnanolone,False,False,False,,-1
+432,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+433,allopregnenalone,allopregnanolone,False,False,True,,2
+434,allopregnanolol,allopregnanolone,False,False,False,,-1
+435,allopregnenolol,allopregnanolone,False,False,False,,-1
+436,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+437,allopregnenalone,allopregnanolone,False,False,True,,2
+438,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+439,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+440,allopregnan,allopregnanolone,False,False,True,,9
+441,allo-pregnanolone,allopregnanolone,False,False,True,,2
+442,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+443,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+444,allopregnanolon,allopregnanolone,False,False,True,,1
+445,allopregnan,allopregnanolone,False,False,True,,9
+446,allopregn,allopregnanolone,False,False,True,,1
+447,allopreg,allopregnanolone,False,False,True,,2
+448,allopre,allopregnanolone,False,False,False,,-1
+449,allorpregnenolone,allopregnanolone,False,False,False,,-1
+450,allopregnanedol,allopregnanolone,False,False,False,,-1
+451,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+452,allopregnanolol,allopregnanolone,False,False,False,,-1
+453,"allopregna-3,5-dien-7-one",allopregnanolone,False,False,False,,-1
+454,"allopregna-3,6-dien-7-ol",allopregnanolone,False,False,False,,-1
+455,"allopregna-4-en-3,6-dien-7-one",allopregnanolone,False,False,False,,-1
+456,"allopregna-4-en-3,6-dien-7-ol",allopregnanolone,False,False,False,,-1
+457,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+458,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+459,allopregnanolone_and_5-dihydroprogesterone,allopregnanolone,False,True,True,,1
+460,allo-pregnanolone,allopregnanolone,False,False,True,,2
+461,allo-pregnenolone,allopregnanolone,False,False,True,,1
+462,allopregnan,allopregnanolone,False,False,True,,9
+463,allopregna,allopregnanolone,False,False,True,,1
+464,allopregn,allopregnanolone,False,False,True,,1
+465,allopreg,allopregnanolone,False,False,True,,2
+466,allopre,allopregnanolone,False,False,False,,-1
+467,allopr,allopregnanolone,False,False,True,,5
+468,allop,allopregnanolone,False,False,True,,3
+469,allopregnanol,allopregnanolone,False,False,True,,4
+470,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+471,allopregnolone,allopregnanolone,False,False,True,,7
+472,allopregnenalone,allopregnanolone,False,False,True,,2
+473,5-pregnen-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,4
+474,allopregnanalol,allopregnanolone,False,False,False,,-1
+475,allopregnenalone,allopregnanolone,False,False,True,,2
+476,allopregnanolol,allopregnanolone,False,False,False,,-1
+477,allopregnenolol,allopregnanolone,False,False,False,,-1
+478,allopregnanalonol,allopregnanolone,False,False,False,,-1
+479,allopregnenalonol,allopregnanolone,False,False,False,,-1
+480,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+481,allopregnanolol,allopregnanolone,False,False,False,,-1
+482,allopregnanalol,allopregnanolone,False,False,False,,-1
+483,allopregnenolol,allopregnanolone,False,False,False,,-1
+484,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+485,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+486,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+487,allopregnanolon,allopregnanolone,False,False,True,,1
+488,allopregnaeno,allopregnanolone,False,False,False,,-1
+489,allopregnenol,allopregnanolone,False,False,False,,-1
+490,allopregnan,allopregnanolone,False,False,True,,9
+491,allopregn,allopregnanolone,False,False,True,,1
+492,allopreg,allopregnanolone,False,False,True,,2
+493,allopregnanolol,allopregnanolone,False,False,False,,-1
+494,allopregnenalone,allopregnanolone,False,False,True,,2
+495,allopregnanol,allopregnanolone,False,False,True,,4
+496,allopregna,allopregnanolone,False,False,True,,1
+497,allopreganolone,allopregnanolone,False,False,True,,2
+498,allopregnenalone,allopregnanolone,False,False,True,,2
+499,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+500,alloprene,allopregnanolone,False,False,False,,-1
+501,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+502,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+503,allopregna-5-en-3-ol-20-one,allopregnanolone,False,False,True,,1
+504,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+505,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+506,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+507,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+508,allopregnanolol,allopregnanolone,False,False,False,,-1
+509,allopregnanon,allopregnanolone,False,False,False,,-1
+510,allopregnanone,allopregnanolone,False,False,True,,1
+511,allo-pregnanolone,allopregnanolone,False,False,True,,2
+512,allopregnanolol,allopregnanolone,False,False,False,,-1
+513,allopregnanalon,allopregnanolone,False,False,False,,-1
+514,allopregnenon,allopregnanolone,False,False,False,,-1
+515,allopregnenone,allopregnanolone,False,False,False,,-1
+516,allopregnanone,allopregnanolone,False,False,True,,1
+517,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+518,allopreg-4-en-3-one,allopregnanolone,False,False,True,,1
+519,allopregnanol,allopregnanolone,False,False,True,,4
+520,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+521,allopregnanolol,allopregnanolone,False,False,False,,-1
+522,allopregnenalone,allopregnanolone,False,False,True,,2
+523,allopregnenalone,allopregnanolone,False,False,True,,2
+524,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+525,allopregn-4-en-3-one,allopregnanolone,False,False,True,,2
+526,allopregnanediol,allopregnanolone,False,False,True,,1
+527,allopregnenetriol,allopregnanolone,False,False,False,,-1
+528,epipregnanolone,allopregnanolone,False,False,True, pill,7
+529,allopregnanolon,allopregnanolone,False,False,True,,1
+530,allopregn-5-en-3-ol-20-one,allopregnanolone,False,False,True,,1
+531,allopregnane,allopregnanolone,False,False,True, pill,3
+532,allopregnanol,allopregnanolone,False,False,True,,4
+533,allopregnanolol,allopregnanolone,False,False,False,,-1
+534,allopreganolone,allopregnanolone,False,False,True,,2
+535,allopreganalone,allopregnanolone,False,False,False,,-1
+536,allopregnane,allopregnanolone,False,False,True, pill,3
+537,allopregnanepione,allopregnanolone,False,False,False,,-1
+538,allopregnanol,allopregnanolone,False,False,True,,4
+539,allopregone,allopregnanolone,False,False,False,,-1
+540,allopregnolone,allopregnanolone,False,False,True,,7
+541,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+542,allopregn-4-en-3-one,allopregnanolone,False,False,True,,2
+543,allopregnan-4-ol-3-one,allopregnanolone,False,False,True,,8
+544,allopregnenolal,allopregnanolone,False,False,False,,-1
+545,allopregnan,allopregnanolone,False,False,True,,9
+546,allopregnane,allopregnanolone,False,False,True, pill,3
+547,allopregnanol,allopregnanolone,False,False,True,,4
+548,allopregnanolone_acetate,allopregnanolone,False,True,True,,1
+549,allopregnanolone_propionate,allopregnanolone,False,True,True,,1
+550,allopregnanolone_butyrate,allopregnanolone,False,True,True,,2
+551,allopregnanone,allopregnanolone,False,False,True,,1
+552,allopregnenalone,allopregnanolone,False,False,True,,2
+553,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+554,allopregnenalone,allopregnanolone,False,False,True,,2
+555,allolregnanolone,allopregnanolone,False,False,False,,-1
+556,allolregnanalone,allopregnanolone,False,False,False,,-1
+557,alloe_regnanolone,allopregnanolone,False,False,True,,1
+558,alloe_regnanalone,allopregnanolone,False,False,False,,-1
+559,allopregnanolol,allopregnanolone,False,False,False,,-1
+560,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+561,allo-pregnenolone,allopregnanolone,False,False,True,,1
+562,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+563,allopregnanol,allopregnanolone,False,False,True,,4
+564,allopregna-4-ol-3-one,allopregnanolone,False,False,True,,7
+565,allopregnolanone,allopregnanolone,False,False,False,,-1
+566,allopregnolone,allopregnanolone,False,False,True,,7
+567,allopregnaolone,allopregnanolone,False,False,True,,1
+568,allopregnenalone,allopregnanolone,False,False,True,,2
+569,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+570,allopregnonolone,allopregnanolone,False,False,True, pill,1
+571,allopregna-olone,allopregnanolone,False,False,True,,1
+572,allopregnanediol,allopregnanolone,False,False,True,,1
+573,allopregnenodiol,allopregnanolone,False,False,False,,-1
+574,allopregnanetriol,allopregnanolone,False,False,True,,9
+575,allopreganetetrol,allopregnanolone,False,False,False,,-1
+576,5alpha-pregnan-3alpha-ol,allopregnanolone,False,False,True, pill,3
+577,5alpha-pregnane-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+578,5α-pregnane-3α-ol-20-one,allopregnanolone,False,False,True, pill,1
+579,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+580,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+581,allopreg-nanolone,allopregnanolone,False,False,True,,1
+582,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+583,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+584,alloparental,allopregnanolone,False,False,False,,-1
+585,allopregnanol,allopregnanolone,False,False,True,,4
+586,allopregn,allopregnanolone,False,False,True,,1
+587,allopreg,allopregnanolone,False,False,True,,2
+588,allopr,allopregnanolone,False,False,True,,5
+589,allo,allopregnanolone,False,False,False,,-1
+590,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+591,5alpha-pregnane-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+592,5alpha-pregnane-3alpha-ol,allopregnanolone,False,False,True, pill,3
+593,allopregnanolol,allopregnanolone,False,False,False,,-1
+594,allopregnanolon,allopregnanolone,False,False,True,,1
+595,allopregnenalone,allopregnanolone,False,False,True,,2
+596,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+597,allopregnanone,allopregnanolone,False,False,True,,1
+598,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+599,allopregnanol,allopregnanolone,False,False,True,,4
+600,allopregnan,allopregnanolone,False,False,True,,9
+601,allopregn,allopregnanolone,False,False,True,,1
+602,allopreg,allopregnanolone,False,False,True,,2
+603,allopr,allopregnanolone,False,False,True,,5
+604,allop,allopregnanolone,False,False,True,,3
+605,allo,allopregnanolone,False,False,False,,-1
+606,all,allopregnanolone,False,False,False,,-1
+607,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+608,allopregnenalone,allopregnanolone,False,False,True,,2
+609,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+610,allopregnolone,allopregnanolone,False,False,True,,7
+611,allopregnanlone,allopregnanolone,False,False,True,,2
+612,allopregnolnone,allopregnanolone,False,False,False,,-1
+613,allopregnan,allopregnanolone,False,False,True,,9
+614,allopreg,allopregnanolone,False,False,True,,2
+615,allopregnanolol,allopregnanolone,False,False,False,,-1
+616,allopregnanonolone,allopregnanolone,False,False,False,,-1
+617,allopregnenalone,allopregnanolone,False,False,True,,2
+618,allopregnanolol,allopregnanolone,False,False,False,,-1
+619,allopregnanonol,allopregnanolone,False,False,False,,-1
+620,allopregnanolone_acetate,allopregnanolone,False,True,True,,1
+621,allopregnanolone_propionate,allopregnanolone,False,True,True,,1
+622,allopregnanolone_sulfate,allopregnanolone,False,True,True,,1
+623,epipregnanolone,allopregnanolone,False,False,True, pill,7
+624,5α-pregnane-3α-ol-20-one,allopregnanolone,False,False,True, pill,1
+625,3α-hydroxy-5α-pregnan-20-one,allopregnanolone,False,False,True,,3
+626,5α-pregnane-3α-ol-20-one_acetate,allopregnanolone,False,False,True, pill,1
+627,5α-pregnane-3α-ol-20-one_propionate,allopregnanolone,False,False,True,,7
+628,5α-pregnane-3α-ol-20-one_sulfate,allopregnanolone,False,False,True,,5
+629,3α-hydroxy-5α-pregnan-20-one_acetate,allopregnanolone,False,False,True, pill,1
+630,3α-hydroxy-5α-pregnan-20-one_propionate,allopregnanolone,False,False,True, pill,3
+631,3α-hydroxy-5α-pregnan-20-one_sulfate,allopregnanolone,False,False,True,,7
+632,epipregnanolone_acetate,allopregnanolone,False,False,False,,-1
+633,epipregnanolone_propionate,allopregnanolone,False,False,False,,-1
+634,epipregnanolone_sulfate,allopregnanolone,False,False,True, pill,4
+635,5α-pregnane-3β-ol-20-one,allopregnanolone,False,False,True,,8
+636,3β-hydroxy-5α-pregnan-20-one,allopregnanolone,False,False,True,,5
+637,5α-pregnane-3β-ol-20-one_acetate,allopregnanolone,False,False,True,,4
+638,5α-pregnane-3β-ol-20-one_propionate,allopregnanolone,False,False,True,,2
+639,5α-pregnane-3β-ol-20-one_sulfate,allopregnanolone,False,False,True,,1
+640,3β-hydroxy-5α-pregnan-20-one_acetate,allopregnanolone,False,False,True,,2
+641,3β-hydroxy-5α-pregnan-20-one_propionate,allopregnanolone,False,False,True,,2
+642,3β-hydroxy-5α-pregnan-20-one_sulfate,allopregnanolone,False,False,True,,2
+643,allopregnenanolone,allopregnanolone,False,False,True,,1
+644,allopregnanolol,allopregnanolone,False,False,False,,-1
+645,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+646,allopregnanediol,allopregnanolone,False,False,True,,1
+647,allopregnenalone,allopregnanolone,False,False,True,,2
+648,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+649,5α-pregnane-3α-ol-20-one,allopregnanolone,False,False,True, pill,1
+650,3α-hydroxy-5α-pregnan-20-one,allopregnanolone,False,False,True,,3
+651,allopregnanolol,allopregnanolone,False,False,False,,-1
+652,allopregnanalon,allopregnanolone,False,False,False,,-1
+653,alloprestanolone,allopregnanolone,False,False,False,,-1
+654,allo-pregnanolone,allopregnanolone,False,False,True,,2
+655,allopregnenolol,allopregnanolone,False,False,False,,-1
+656,allopregnanalonol,allopregnanolone,False,False,False,,-1
+657,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+658,allopregnenalone,allopregnanolone,False,False,True,,2
+659,"allopregna-4,9-dien-3-one",allopregnanolone,False,False,False,,-1
+660,5alpha-pregnan-3alpha-ol,allopregnanolone,False,False,True, pill,3
+661,allopregnanone,allopregnanolone,False,False,True,,1
+662,allopregnenalone,allopregnanolone,False,False,True,,2
+663,allopregnanolol,allopregnanolone,False,False,False,,-1
+664,allopregnenalone,allopregnanolone,False,False,True,,2
+665,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+666,allopregnan-3-ol-17-one,allopregnanolone,False,False,True,,4
+667,allopregnenalone,allopregnanolone,False,False,True,,2
+668,allopregnanolol,allopregnanolone,False,False,False,,-1
+669,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+670,allopregnanolol,allopregnanolone,False,False,False,,-1
+671,allopregnanediol,allopregnanolone,False,False,True,,1
+672,allopregnanetriol,allopregnanolone,False,False,True,,9
+673,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+674,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+675,allopregnanolol,allopregnanolone,False,False,False,,-1
+676,allopregnenolol,allopregnanolone,False,False,False,,-1
+677,allopregnanolol,allopregnanolone,False,False,False,,-1
+678,allopregnanon,allopregnanolone,False,False,False,,-1
+679,allopregnanol,allopregnanolone,False,False,True,,4
+680,allop_he_also_recommends_taking_aproduct_that_contains_this_ingredient_to_help_with_sleep.,allopregnanolone,False,False,False,,-1
+681,allopregnanolone_acetate,allopregnanolone,False,True,True,,1
+682,allopregnanolone_sulfate,allopregnanolone,False,True,True,,1
+683,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+684,allopregnenalone,allopregnanolone,False,False,True,,2
+685,allopregnenol,allopregnanolone,False,False,False,,-1
+686,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+687,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+688,allopregnanolol,allopregnanolone,False,False,False,,-1
+689,allopregnanolon,allopregnanolone,False,False,True,,1
+690,allopregnanal,allopregnanolone,False,False,False,,-1
+691,allopregnanon,allopregnanolone,False,False,False,,-1
+692,allopregnanediol,allopregnanolone,False,False,True,,1
+693,allopregnanetriol,allopregnanolone,False,False,True,,9
+694,allopregnatriol,allopregnanolone,False,False,False,,-1
+695,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+696,allopregnanolol,allopregnanolone,False,False,False,,-1
+697,allopregnanolon,allopregnanolone,False,False,True,,1
+698,allopreg-nanolone,allopregnanolone,False,False,True,,1
+699,5-alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+700,allopregnan-3-ol-20-one,allopregnanolone,False,False,True,,5
+701,allopregnanolol,allopregnanolone,False,False,False,,-1
+702,allopregnenalone,allopregnanolone,False,False,True,,2
+703,allopregnenalone,allopregnanolone,False,False,True,,2
+704,allopregnanolol,allopregnanolone,False,False,False,,-1
+705,allopregnenolol,allopregnanolone,False,False,False,,-1
+706,allopregnanalong,allopregnanolone,False,False,False,,-1
+707,allopregnenalong,allopregnanolone,False,False,False,,-1
+708,allopregnanalamine,allopregnanolone,False,False,False,,-1
+709,allopregnenalamine,allopregnanolone,False,False,False,,-1
+710,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+711,allopregnenalone,allopregnanolone,False,False,True,,2
+712,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+713,"allopregna-4,9-dien-3-one",allopregnanolone,False,False,False,,-1
+714,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+715,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+716,"3α,5α-tetrahydroprogesterone",allopregnanolone,False,False,True,,1
+717,allopregnanalon,allopregnanolone,False,False,False,,-1
+718,allopregnanalol,allopregnanolone,False,False,False,,-1
+719,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+720,"allopregnan-3-ol-7,15-dione",allopregnanolone,False,False,True, pill,2
+721,allopregnenalone,allopregnanolone,False,False,True,,2
+722,allopregnenol,allopregnanolone,False,False,False,,-1
+723,allopregnane,allopregnanolone,False,False,True, pill,3
+724,allopregnan,allopregnanolone,False,False,True,,9
+725,allopregnadione,allopregnanolone,False,False,False,,-1
+726,allopregnanediol,allopregnanolone,False,False,True,,1
+727,allopregnanetriol,allopregnanolone,False,False,True,,9
+728,allopregnanolol,allopregnanolone,False,False,False,,-1
+729,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+730,allopregnolone,allopregnanolone,False,False,True,,7
+731,allopregnanolol,allopregnanolone,False,False,False,,-1
+732,allopregnanoloxide,allopregnanolone,False,False,False,,-1
+733,allopregnanetriol,allopregnanolone,False,False,True,,9
+734,allopregnanediol,allopregnanolone,False,False,True,,1
+735,allopregnanetrioxide,allopregnanolone,False,False,False,,-1
+736,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+737,allopregnanone,allopregnanolone,False,False,True,,1
+738,allopregnanol,allopregnanolone,False,False,True,,4
+739,allopregna,allopregnanolone,False,False,True,,1
+740,allopregn,allopregnanolone,False,False,True,,1
+741,allopreg,allopregnanolone,False,False,True,,2
+742,allopr,allopregnanolone,False,False,True,,5
+743,allo,allopregnanolone,False,False,False,,-1
+744,allopregnolone,allopregnanolone,False,False,True,,7
+745,"allopregna-4,9-dien-3,20-dione",allopregnanolone,False,False,False,,-1
+746,allopregnanolol,allopregnanolone,False,False,False,,-1
+747,allopregnanolon,allopregnanolone,False,False,True,,1
+748,allopregnanolone_acetate,allopregnanolone,False,True,True,,1
+749,allopregnanolone_propionate,allopregnanolone,False,True,True,,1
+750,allopregnanolone_butyrate,allopregnanolone,False,True,True,,2
+751,allopregnanolone_valerate,allopregnanolone,False,True,True,,1
+752,allopregnanolone_enanthate,allopregnanolone,False,True,True,,1
+753,allopregnanolol,allopregnanolone,False,False,False,,-1
+754,allopregnenolol,allopregnanolone,False,False,False,,-1
+755,allopregnaloneol,allopregnanolone,False,False,False,,-1
+756,allopregnanaloneol,allopregnanolone,False,False,False,,-1
+757,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+758,allopregnalone,allopregnanolone,allopregnanolone,True,True,,6
+759,allopregnanlone,allopregnanolone,False,False,True,,2
+760,5_alpha-pregnan-3_alpha-ol-20-one,allopregnanolone,False,False,True, pill,3
+761,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+762,allopregnanolon,allopregnanolone,False,False,True,,1
+763,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+764,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+765,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+766,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+767,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+768,allopregnenalone,allopregnanolone,False,False,True,,2
+769,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+770,allopregnolone,allopregnanolone,False,False,True,,7
+771,allopregnenalone,allopregnanolone,False,False,True,,2
+772,"allopregna-4,9-dien-3,20-dione",allopregnanolone,False,False,False,,-1
+773,"5alpha-pregnan-3α,20α-diol",allopregnanolone,False,False,True,,5
+774,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+775,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+776,allopregnanolol,allopregnanolone,False,False,False,,-1
+777,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+778,allopregnenalone,allopregnanolone,False,False,True,,2
+779,allopregn-enolone,allopregnanolone,False,False,True,,8
+780,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+781,allopregnolone,allopregnanolone,False,False,True,,7
+782,tetrahydrodeoxycorticosterone,allopregnanolone,False,False,False,,-1
+783,allopregnan-olone,allopregnanolone,False,False,True,,1
+784,allopregnanlone,allopregnanolone,False,False,True,,2
+785,allopregnane,allopregnanolone,False,False,True, pill,3
+786,allopregnan,allopregnanolone,False,False,True,,9
+787,allopregn,allopregnanolone,False,False,True,,1
+788,allopreg,allopregnanolone,False,False,True,,2
+789,allopr,allopregnanolone,False,False,True,,5
+790,allo,allopregnanolone,False,False,False,,-1
+791,al,allopregnanolone,albendazole,False,False,,-1
+792,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+793,allopreg-nanolone,allopregnanolone,False,False,True,,1
+794,allo-pregnenolone,allopregnanolone,False,False,True,,1
+795,9-allopregnanolone,allopregnanolone,False,False,True,,1
+796,5-allopregnanolone,allopregnanolone,False,False,True,,1
+797,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+798,allopregnalone,allopregnanolone,allopregnanolone,True,True,,6
+799,allopregnolone,allopregnanolone,False,False,True,,7
+800,allopregnane,allopregnanolone,False,False,True, pill,3
+801,allopregnan,allopregnanolone,False,False,True,,9
+802,allopregnanol,allopregnanolone,False,False,True,,4
+803,5_alpha-pregnan-3_alpha-ol-20-one,allopregnanolone,False,False,True, pill,3
+804,5-alpha-pregnan-3-alpha-ol-20-one,allopregnanolone,False,False,True, pill,3
+805,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+806,alloportunolone,allopregnanolone,False,False,False,,-1
+807,allopregnenalone,allopregnanolone,False,False,True,,2
+808,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+809,"allopregna-4,9-dien-3-one",allopregnanolone,False,False,False,,-1
+810,"allopregna-16,16-diol",allopregnanolone,False,False,True,,7
+811,"5alpha-pregnan-16alpha-ol-3,20-dione",allopregnanolone,False,False,True, pill,2
+812,allopregnan,allopregnanolone,False,False,True,,9
+813,allopreg,allopregnanolone,False,False,True,,2
+814,allo-preg,allopregnanolone,False,False,True,,1
+815,allo-pregnenolone,allopregnanolone,False,False,True,,1
+816,allopregnanolol,allopregnanolone,False,False,False,,-1
+817,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+818,allopregna-5-en-3-ol-20-one,allopregnanolone,False,False,True,,1
+819,allopregnenol,allopregnanolone,False,False,False,,-1
+820,allopreg-17-en-3-ol,allopregnanolone,False,False,True,,1
+821,5alpha-pregnan-17-ol,allopregnanolone,False,False,False,,-1
+822,allopregnanalolone,allopregnanolone,False,False,False,,-1
+823,allopregnananolone,allopregnanolone,False,False,False,,-1
+824,allopregnan,allopregnanolone,False,False,True,,9
+825,allopregn,allopregnanolone,False,False,True,,1
+826,allopreg,allopregnanolone,False,False,True,,2
+827,allopr,allopregnanolone,False,False,True,,5
+828,allop,allopregnanolone,False,False,True,,3
+829,allo,allopregnanolone,False,False,False,,-1
+830,all,allopregnanolone,False,False,False,,-1
+831,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+832,allopregnan,allopregnanolone,False,False,True,,9
+833,allopregnanol,allopregnanolone,False,False,True,,4
+834,allopregnanolol,allopregnanolone,False,False,False,,-1
+835,allopregnenalone,allopregnanolone,False,False,True,,2
+836,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+837,allopregnanamide,allopregnanolone,False,False,False,,-1
+838,allopregnanol,allopregnanolone,False,False,True,,4
+839,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+840,allopregnanolol,allopregnanolone,False,False,False,,-1
+841,allopregnenolol,allopregnanolone,False,False,False,,-1
+842,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+843,5alpha-pregnane-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+844,5alpha-pregnen-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,3
+845,"allopregna-3,5-dien-20-one",allopregnanolone,False,False,False,,-1
+846,"allopregna-4,16-dien-3-ol",allopregnanolone,False,False,False,,-1
+847,5-alpha-pregnan-3_alpha-ol-20-one,allopregnanolone,False,False,True, pill,3
+848,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+849,allopregnanolone.,allopregnanolone,False,False,True,,1
+850,allopreg,allopregnanolone,False,False,True,,2
+851,allo-pregnenolone,allopregnanolone,False,False,True,,1
+852,allo-pregnalone,allopregnanolone,False,False,True,,1
+853,allo-pregnanolone,allopregnanolone,False,False,True,,2
+854,allo-preg,allopregnanolone,False,False,True,,1
+855,5_alpha-pregnane-3_alpha-ol-20-one,allopregnanolone,False,False,True, pill,4
+856,5-alpha-pregnane-3-alpha-ol-20-one,allopregnanolone,False,False,True, pill,4
+857,allopregnenalone,allopregnanolone,False,False,True,,2
+858,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+859,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+860,allopregnanol,allopregnanolone,False,False,True,,4
+861,allopregna,allopregnanolone,False,False,True,,1
+862,allopregn,allopregnanolone,False,False,True,,1
+863,allopreg,allopregnanolone,False,False,True,,2
+864,allopr,allopregnanolone,False,False,True,,5
+865,allo,allopregnanolone,False,False,False,,-1
+866,allo-pregnenolone,allopregnanolone,False,False,True,,1
+867,allo-pregnanalone,allopregnanolone,False,False,True,,1
+868,allo-pregnalone,allopregnanolone,False,False,True,,1
+869,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+870,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+871,allo-pregnenolone,allopregnanolone,False,False,True,,1
+872,allo-pregnanolone,allopregnanolone,False,False,True,,2
+873,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+874,allopregnanon,allopregnanolone,False,False,False,,-1
+875,allopregnenone,allopregnanolone,False,False,False,,-1
+876,allopregnan|olone,allopregnanolone,False,False,False,,-1
+877,pregnenolone,allopregnanolone,pregnenolone,False,True,,8
+878,allopregnanon,allopregnanolone,False,False,False,,-1
+879,allopregnenalone,allopregnanolone,False,False,True,,2
+880,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+881,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+882,allopregnanolol,allopregnanolone,False,False,False,,-1
+883,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+884,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+885,allopreg-nanolone,allopregnanolone,False,False,True,,1
+886,allopregnanolol,allopregnanolone,False,False,False,,-1
+887,allopregnenolol,allopregnanolone,False,False,False,,-1
+888,allopregnanolol,allopregnanolone,False,False,False,,-1
+889,alloprenolone,allopregnanolone,False,False,False,,-1
+890,allopretiolone,allopregnanolone,False,False,False,,-1
+891,allopregnanolol,allopregnanolone,False,False,False,,-1
+892,allopregnenalone,allopregnanolone,False,False,True,,2
+893,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+894,allopreg-nanolone,allopregnanolone,False,False,True,,1
+895,allo-pregnenolone,allopregnanolone,False,False,True,,1
+896,allo-pregnalone,allopregnanolone,False,False,True,,1
+897,allo-pregnanolone,allopregnanolone,False,False,True,,2
+898,allo-preg-nanolone,allopregnanolone,False,False,True,,2
+899,allopregnalone,allopregnanolone,allopregnanolone,True,True,,6
+900,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+901,allopregnanolol,allopregnanolone,False,False,False,,-1
+902,allopregnanon,allopregnanolone,False,False,False,,-1
+903,allopregnan,allopregnanolone,False,False,True,,9
+904,allopreg,allopregnanolone,False,False,True,,2
+905,allo-pregnane,allopregnanolone,False,False,True, pill,1
+906,allo-pregnanolone,allopregnanolone,False,False,True,,2
+907,allopregnenalone,allopregnanolone,False,False,True,,2
+908,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+909,allopregnan,allopregnanolone,False,False,True,,9
+910,allopregnen,allopregnanolone,False,False,True, pill,3
+911,allopreg,allopregnanolone,False,False,True,,2
+912,alloprene,allopregnanolone,False,False,False,,-1
+913,allop,allopregnanolone,False,False,True,,3
+914,allopregnan,allopregnanolone,False,False,True,,9
+915,allopregnenalone,allopregnanolone,False,False,True,,2
+916,allopregnanolol,allopregnanolone,False,False,False,,-1
+917,allopregnenolol,allopregnanolone,False,False,False,,-1
+918,"allopregna-4,9-diene-3,20-dione",allopregnanolone,False,False,False,,-1
+919,4alpha-allopregnan-3alpha-ol-20-one,allopregnanolone,False,False,False,,-1
+920,allopregnenalone,allopregnanolone,False,False,True,,2
+921,5alpha-pregnane-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+922,allopregnan,allopregnanolone,False,False,True,,9
+923,allopreg,allopregnanolone,False,False,True,,2
+924,allo-pregnan-3-ol-20-one,allopregnanolone,False,False,True,,4
+925,5alpha-pregnan-3-ol-20-one,allopregnanolone,False,False,True, pill,3
+926,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+927,allopregnenalone,allopregnanolone,False,False,True,,2
+928,allo-pregnanolone,allopregnanolone,False,False,True,,2
+929,allo-pregnanalone,allopregnanolone,False,False,True,,1
+930,5_alpha-pregnan-3_alpha-ol-20-one,allopregnanolone,False,False,True, pill,3
+931,allopregnanolone_sulfate,allopregnanolone,False,True,True,,1
+932,5alpha-dihydroprogesterone,allopregnanolone,False,False,True,,1
+933,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+934,allopregnan_9-ol,allopregnanolone,False,False,True,,10
+935,allopregnanone,allopregnanolone,False,False,True,,1
+936,allopregnane,allopregnanolone,False,False,True, pill,3
+937,allopregnan,allopregnanolone,False,False,True,,9
+938,allopreg,allopregnanolone,False,False,True,,2
+939,allopr,allopregnanolone,False,False,True,,5
+940,allo,allopregnanolone,False,False,False,,-1
+941,al,allopregnanolone,albendazole,False,False,,-1
+942,a,allopregnanolone,False,False,False,,-1
+943,allopregnenalone,allopregnanolone,False,False,True,,2
+944,allopregnanolol,allopregnanolone,False,False,False,,-1
+945,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+946,allopregnanolon,allopregnanolone,False,False,True,,1
+947,allopregnanolol,allopregnanolone,False,False,False,,-1
+948,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+949,allopregnanolol,allopregnanolone,False,False,False,,-1
+950,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+951,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+952,allopregnanophenone,allopregnanolone,False,False,False,,-1
+953,allopregnolone,allopregnanolone,False,False,True,,7
+954,allo-pregnenolone,allopregnanolone,False,False,True,,1
+955,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+956,allopregnanolol,allopregnanolone,False,False,False,,-1
+957,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+958,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+959,allopregnanolol,allopregnanolone,False,False,False,,-1
+960,allopregnenalone,allopregnanolone,False,False,True,,2
+961,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+962,allopregnan-ol-one,allopregnanolone,False,False,True,,2
+963,allo-pregnan-ol-one,allopregnanolone,False,False,True,,1
+964,"(5alpha,6alpha)-pregnan-3-ol-19-one",allopregnanolone,False,False,False,,-1
+965,allopregnanolol,allopregnanolone,False,False,False,,-1
+966,allopregnenolol,allopregnanolone,False,False,False,,-1
+967,allopregnaloneol,allopregnanolone,False,False,False,,-1
+968,allopregnanaloneol,allopregnanolone,False,False,False,,-1
+969,allopregnenalone,allopregnanolone,False,False,True,,2
+970,allopregananolone,allopregnanolone,False,False,True,,6
+971,allopreganalone,allopregnanolone,False,False,False,,-1
+972,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+973,5α-allopregnan-3α-ol-20-one,allopregnanolone,False,False,True,,4
+974,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+975,allopregolone,allopregnanolone,False,False,False,,-1
+976,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+977,allopregnan,allopregnanolone,False,False,True,,9
+978,allopreg,allopregnanolone,False,False,True,,2
+979,allop,allopregnanolone,False,False,True,,3
+980,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+981,allopregnanepione,allopregnanolone,False,False,False,,-1
+982,allopregnanediol,allopregnanolone,False,False,True,,1
+983,allopregneneline,allopregnanolone,False,False,False,,-1
+984,allopregnendiene,allopregnanolone,False,False,False,,-1
+985,allopregnanetriol,allopregnanolone,False,False,True,,9
+986,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+987,allopregnenolol,allopregnanolone,False,False,False,,-1
+988,allopregnanediol,allopregnanolone,False,False,True,,1
+989,allopregnanetriol,allopregnanolone,False,False,True,,9
+990,epipregnanediol,allopregnanolone,False,False,False,,-1
+991,epipregnanetriol,allopregnanolone,False,False,False,,-1
+992,pregnanediol,allopregnanolone,False,False,False,,-1
+993,pregnanetriol,allopregnanolone,False,False,False,,-1
+994,allopregnolone,allopregnanolone,False,False,True,,7
+995,allopregnanolol,allopregnanolone,False,False,False,,-1
+996,allopregnenolol,allopregnanolone,False,False,False,,-1
+997,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+998,allopregnanolon,allopregnanolone,False,False,True,,1
+999,allopregnanolol,allopregnanolone,False,False,False,,-1
+1000,allopregnanolol,allopregnanolone,False,False,False,,-1
+1001,allopregnanamide,allopregnanolone,False,False,False,,-1
+1002,allopregnanolon,allopregnanolone,False,False,True,,1
+1003,allopregn,allopregnanolone,False,False,True,,1
+1004,allopregnan,allopregnanolone,False,False,True,,9
+1005,allopregnanol,allopregnanolone,False,False,True,,4
+1006,allopregnanalol,allopregnanolone,False,False,False,,-1
+1007,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1008,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1009,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1010,allopregnanolol,allopregnanolone,False,False,False,,-1
+1011,allopregnanolamine,allopregnanolone,False,False,False,,-1
+1012,allopregnenalone,allopregnanolone,False,False,True,,2
+1013,allopregnanolol,allopregnanolone,False,False,False,,-1
+1014,allopregnenolol,allopregnanolone,False,False,False,,-1
+1015,allopregnanapon,allopregnanolone,False,False,False,,-1
+1016,allopregnenapon,allopregnanolone,False,False,False,,-1
+1017,allopregnenalone,allopregnanolone,False,False,True,,2
+1018,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1019,allopregnan,allopregnanolone,False,False,True,,9
+1020,allopregnane,allopregnanolone,False,False,True, pill,3
+1021,allopregnan-4-ol,allopregnanolone,False,False,True,,9
+1022,allopregnanol,allopregnanolone,False,False,True,,4
+1023,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1024,allopregnan-3-ol-17-one,allopregnanolone,False,False,True,,4
+1025,3alpha-hydroxy-5alpha-pregnan-20-one,allopregnanolone,False,False,True, pill,2
+1026,"allopregna-4,16-dien-3-ol",allopregnanolone,False,False,False,,-1
+1027,"4,16-dien-3-ol-pregn-5-ene",allopregnanolone,False,False,False,,-1
+1028,allopregnenalone,allopregnanolone,False,False,True,,2
+1029,allopregnan,allopregnanolone,False,False,True,,9
+1030,allopregnane,allopregnanolone,False,False,True, pill,3
+1031,allopregnane,allopregnanolone,False,False,True, pill,3
+1032,allopreg,allopregnanolone,False,False,True,,2
+1033,allopregnanolone_acetate,allopregnanolone,False,True,True,,1
+1034,allopregnanolone_sulfate,allopregnanolone,False,True,True,,1
+1035,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+1036,allopregnanolol,allopregnanolone,False,False,False,,-1
+1037,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1038,allopregnanediol,allopregnanolone,False,False,True,,1
+1039,allopregnenodiol,allopregnanolone,False,False,False,,-1
+1040,allopregnanalolone,allopregnanolone,False,False,False,,-1
+1041,allopregnenalone,allopregnanolone,False,False,True,,2
+1042,allopregnenolon,allopregnanolone,False,False,True, pill,6
+1043,allopregnanolonate,allopregnanolone,False,False,False,,-1
+1044,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1045,allopregnaalone,allopregnanolone,False,False,False,,-1
+1046,allopregnenolol,allopregnanolone,False,False,False,,-1
+1047,allopregnan,allopregnanolone,False,False,True,,9
+1048,allopregnanolol,allopregnanolone,False,False,False,,-1
+1049,allopregnanol,allopregnanolone,False,False,True,,4
+1050,allopregnanalon,allopregnanolone,False,False,False,,-1
+1051,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1052,allopregnan-3alpha-ol-17-one,allopregnanolone,False,False,True,,1
+1053,5alpha-pregnan-3alpha-ol-17-one,allopregnanolone,False,False,True, pill,2
+1054,allopregnanolol,allopregnanolone,False,False,False,,-1
+1055,allopregnenalone,allopregnanolone,False,False,True,,2
+1056,allopregnanolon,allopregnanolone,False,False,True,,1
+1057,allopregnenolol,allopregnanolone,False,False,False,,-1
+1058,allopregnanolol,allopregnanolone,False,False,False,,-1
+1059,allopregnanediol,allopregnanolone,False,False,True,,1
+1060,allopregnenetriol,allopregnanolone,False,False,False,,-1
+1061,allopregnanedione,allopregnanolone,False,False,True, pill,2
+1062,allopregnanetriolone,allopregnanolone,False,False,False,,-1
+1063,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1064,"allopreg-3-ene-7,20-dione",allopregnanolone,False,False,True, pill,3
+1065,"(3α,5α)-7,20-dioxo-pregn-4-ene-21-al",allopregnanolone,False,False,True, pill,3
+1066,"3α,5α-thprog",allopregnanolone,False,False,True,,3
+1067,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1068,allopregnanolol,allopregnanolone,False,False,False,,-1
+1069,watermelon_rain,allopregnanolone,False,False,False,,-1
+1070,allo_pregnane-3-ol-20-one,allopregnanolone,False,False,True,,3
+1071,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1072,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1073,allopregnanon,allopregnanolone,False,False,False,,-1
+1074,allopregnan-ol-one,allopregnanolone,False,False,True,,2
+1075,allopregna-nol-one,allopregnanolone,False,False,True,,2
+1076,all-trans-5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True, pill,2
+1077,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1078,allopregnan,allopregnanolone,False,False,True,,9
+1079,allopregnane,allopregnanolone,False,False,True, pill,3
+1080,allopregnadienolone,allopregnanolone,False,False,False,,-1
+1081,allopregnatriene,allopregnanolone,False,False,False,,-1
+1082,pregnanolone,allopregnanolone,eltanolone,False,True,,10
+1083,3alpha-hydroxy-5alpha-pregnan-20-one,allopregnanolone,False,False,True, pill,2
+1084,allopregnanol,allopregnanolone,False,False,True,,4
+1085,allopregnan,allopregnanolone,False,False,True,,9
+1086,allopreg,allopregnanolone,False,False,True,,2
+1087,allopreganolone,allopregnanolone,False,False,True,,2
+1088,allopregnenalone,allopregnanolone,False,False,True,,2
+1089,allopregnenol,allopregnanolone,False,False,False,,-1
+1090,allopregn,allopregnanolone,False,False,True,,1
+1091,allopregnolone,allopregnanolone,False,False,True,,7
+1092,"5α-pregnane-3α,21-diol-20-one",allopregnanolone,False,False,True, pill,3
+1093,allopregnanolol,allopregnanolone,False,False,False,,-1
+1094,allocmenone,allopregnanolone,False,False,False,,-1
+1095,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1096,allopregnanol,allopregnanolone,False,False,True,,4
+1097,allopregnol,allopregnanolone,False,False,False,,-1
+1098,allopregna,allopregnanolone,False,False,True,,1
+1099,alloprene,allopregnanolone,False,False,False,,-1
+1100,alloprenol,allopregnanolone,False,False,False,,-1
+1101,alloprenalone,allopregnanolone,False,False,False,,-1
+1102,allopregnanolon,allopregnanolone,False,False,True,,1
+1103,allopregnenol,allopregnanolone,False,False,False,,-1
+1104,allopregnan,allopregnanolone,False,False,True,,9
+1105,allopregnanolol,allopregnanolone,False,False,False,,-1
+1106,allopregnanediol,allopregnanolone,False,False,True,,1
+1107,5α-allopregnan-3α-ol,allopregnanolone,False,False,True,,4
+1108,"3α,5α-allopregnan-17β-ol",allopregnanolone,False,False,True,,2
+1109,"5α-pregnane-3α,17β-diol",allopregnanolone,False,False,False,,-1
+1110,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+1111,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+1112,"(3α,5α)-pregnane-3,20-dione",allopregnanolone,False,False,True, pill,4
+1113,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1114,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1115,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1116,allopregnanolol,allopregnanolone,False,False,False,,-1
+1117,allopregnanolone_oxide,allopregnanolone,False,True,True,,1
+1118,allopregnanolone_sulfate,allopregnanolone,False,True,True,,1
+1119,5alpha-allopregnan-3alpha-ol-20-one,allopregnanolone,False,False,True,,1
+1120,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+1121,allopregnan,allopregnanolone,False,False,True,,9
+1122,allopresanolone,allopregnanolone,False,False,False,,-1
+1123,allopresanol,allopregnanolone,False,False,False,,-1
+1124,allopregnanolne,allopregnanolone,False,False,True,,1
+1125,allopregnenolne,allopregnanolone,False,False,True,,1
+1126,allopregnan-3-ol-17-one,allopregnanolone,False,False,True,,4
+1127,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+1128,5alpha-pregnane-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+1129,allopregnenalone,allopregnanolone,False,False,True,,2
+1130,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+1131,5α-pregnane-3α-ol-20-one,allopregnanolone,False,False,True, pill,1
+1132,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+1133,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1134,allopregnan,allopregnanolone,False,False,True,,9
+1135,allopreg,allopregnanolone,False,False,True,,2
+1136,allopr,allopregnanolone,False,False,True,,5
+1137,allo,allopregnanolone,False,False,False,,-1
+1138,allopregnolone,allopregnanolone,False,False,True,,7
+1139,allopregnan,allopregnanolone,False,False,True,,9
+1140,allopregna,allopregnanolone,False,False,True,,1
+1141,allopregn,allopregnanolone,False,False,True,,1
+1142,allopreg,allopregnanolone,False,False,True,,2
+1143,allopre,allopregnanolone,False,False,False,,-1
+1144,allopr,allopregnanolone,False,False,True,,5
+1145,allopregnenalone,allopregnanolone,False,False,True,,2
+1146,allopregnanolon,allopregnanolone,False,False,True,,1
+1147,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1148,allopregnan,allopregnanolone,False,False,True,,9
+1149,allopreg,allopregnanolone,False,False,True,,2
+1150,allo-pregnenolone,allopregnanolone,False,False,True,,1
+1151,allo-pregnenol,allopregnanolone,False,False,True,,1
+1152,allo-pregnan,allopregnanolone,False,False,True,,5
+1153,allo-pregn,allopregnanolone,False,False,True, pill,6
+1154,allo-preg,allopregnanolone,False,False,True,,1
+1155,allopregnanolol,allopregnanolone,False,False,False,,-1
+1156,allopregnanolon,allopregnanolone,False,False,True,,1
+1157,allopregnanolamine,allopregnanolone,False,False,False,,-1
+1158,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1159,allopregnenalone,allopregnanolone,False,False,True,,2
+1160,allopregnanediol,allopregnanolone,False,False,True,,1
+1161,allopregnanediol,allopregnanolone,False,False,True,,1
+1162,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1163,allopregnan,allopregnanolone,False,False,True,,9
+1164,allopreg,allopregnanolone,False,False,True,,2
+1165,allo-pregnenolone,allopregnanolone,False,False,True,,1
+1166,allo-pregnenalone,allopregnanolone,False,False,True,,1
+1167,allo-pregnane,allopregnanolone,False,False,True, pill,1
+1168,allo-pregnanolone,allopregnanolone,False,False,True,,2
+1169,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1170,allopregnanolol,allopregnanolone,False,False,False,,-1
+1171,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1172,allopregnanonolone,allopregnanolone,False,False,False,,-1
+1173,pregnanolone,allopregnanolone,eltanolone,False,True,,10
+1174,allopregnanol,allopregnanolone,False,False,True,,4
+1175,allopregnan,allopregnanolone,False,False,True,,9
+1176,allopregnane,allopregnanolone,False,False,True, pill,3
+1177,allopregnan,allopregnanolone,False,False,True,,9
+1178,allopregnen,allopregnanolone,False,False,True, pill,3
+1179,allopregnanol,allopregnanolone,False,False,True,,4
+1180,allopregnenalone,allopregnanolone,False,False,True,,2
+1181,allopregnanolol,allopregnanolone,False,False,False,,-1
+1182,alloprednanolone,allopregnanolone,False,False,False,,-1
+1183,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1184,allopregnan,allopregnanolone,False,False,True,,9
+1185,allopregnen,allopregnanolone,False,False,True, pill,3
+1186,allopregnenalone,allopregnanolone,False,False,True,,2
+1187,allopregnanolol,allopregnanolone,False,False,False,,-1
+1188,allopregnanolon,allopregnanolone,False,False,True,,1
+1189,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1190,allopregnenolol,allopregnanolone,False,False,False,,-1
+1191,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1192,allopregnanalolone,allopregnanolone,False,False,False,,-1
+1193,allopregnanadione,allopregnanolone,False,False,False,,-1
+1194,allopregnenalone,allopregnanolone,False,False,True,,2
+1195,allopregnenalone,allopregnanolone,False,False,True,,2
+1196,allopregnenalone,allopregnanolone,False,False,True,,2
+1197,allopreg-nanolone,allopregnanolone,False,False,True,,1
+1198,allopregnan-olone,allopregnanolone,False,False,True,,1
+1199,allopregn-anolone,allopregnanolone,False,False,True,,2
+1200,allopregna-nolone,allopregnanolone,False,False,True,,1
+1201,allopre-gnanolone,allopregnanolone,False,False,True,,1
+1202,allo-pregnanolone,allopregnanolone,False,False,True,,2
+1203,al-lopregnanolone,allopregnanolone,False,False,True,,2
+1204,a-llopregnanolone,allopregnanolone,False,False,True,,2
+1205,allopregna-olone,allopregnanolone,False,False,True,,1
+1206,allopregn-analone,allopregnanolone,False,False,True, slang,1
+1207,allopregna-nalone,allopregnanolone,False,False,True,,3
+1208,allopregn-ananalone,allopregnanolone,False,False,False,,-1
+1209,allopregn-analone,allopregnanolone,False,False,True, slang,1
+1210,allopregnenalone,allopregnanolone,False,False,True,,2
+1211,"allopregna-4,9-dien-3,20-dione",allopregnanolone,False,False,False,,-1
+1212,"4,9-pregnadien-3,20-dione",allopregnanolone,False,False,False,,-1
+1213,allopregnenalone,allopregnanolone,False,False,True,,2
+1214,"allopregna-4-ene-3,20-dione",allopregnanolone,False,False,True,,6
+1215,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+1216,allopregnanolol,allopregnanolone,False,False,False,,-1
+1217,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1218,allopregnanon,allopregnanolone,False,False,False,,-1
+1219,allopregnane,allopregnanolone,False,False,True, pill,3
+1220,allopregnanediol,allopregnanolone,False,False,True,,1
+1221,allopregnane_glucuronide,allopregnanolone,False,False,True,,3
+1222,allopregnanedione,allopregnanolone,False,False,True, pill,2
+1223,allopregnanolol,allopregnanolone,False,False,False,,-1
+1224,allopregnanedione,allopregnanolone,False,False,True, pill,2
+1225,allopregnenol,allopregnanolone,False,False,False,,-1
+1226,allopregnane,allopregnanolone,False,False,True, pill,3
+1227,allopregnanetriol,allopregnanolone,False,False,True,,9
+1228,allopregnatriene,allopregnanolone,False,False,False,,-1
+1229,allopregnanetriene,allopregnanolone,False,False,False,,-1
+1230,allopregn-4-en-3-one,allopregnanolone,False,False,True,,2
+1231,4-allopregnen-3-one,allopregnanolone,False,False,True,,6
+1232,"allopregna-4,9-dien-3-one",allopregnanolone,False,False,False,,-1
+1233,allopregnan-3-ol,allopregnanolone,False,False,True, pill,3
+1234,allopregnanol,allopregnanolone,False,False,True,,4
+1235,allopregnane,allopregnanolone,False,False,True, pill,3
+1236,allopregna,allopregnanolone,False,False,True,,1
+1237,allopregn,allopregnanolone,False,False,True,,1
+1238,allopreg,allopregnanolone,False,False,True,,2
+1239,allopr,allopregnanolone,False,False,True,,5
+1240,allo,allopregnanolone,False,False,False,,-1
+1241,allopregnolone,allopregnanolone,False,False,True,,7
+1242,allopregnenalone,allopregnanolone,False,False,True,,2
+1243,allopregnanolom,allopregnanolone,False,False,False,,-1
+1244,allopregnenolom,allopregnanolone,False,False,False,,-1
+1245,allopregnenalone,allopregnanolone,False,False,True,,2
+1246,"allopregna-4,9-dien-17-ol-3-one",allopregnanolone,False,False,False,,-1
+1247,allopregnanalolone,allopregnanolone,False,False,False,,-1
+1248,allopregnanonalone,allopregnanolone,False,False,False,,-1
+1249,allopreganenolone,allopregnanolone,False,False,False,,-1
+1250,allopregnenalone,allopregnanolone,False,False,True,,2
+1251,allo-pregnanolone,allopregnanolone,False,False,True,,2
+1252,allo-pregnenolone,allopregnanolone,False,False,True,,1
+1253,allo-pregnalone,allopregnanolone,False,False,True,,1
+1254,allopregnenol,allopregnanolone,False,False,False,,-1
+1255,allopregnane,allopregnanolone,False,False,True, pill,3
+1256,allopreg,allopregnanolone,False,False,True,,2
+1257,allo-pregnane,allopregnanolone,False,False,True, pill,1
+1258,allo-pregnen-4-ol-3-one,allopregnanolone,False,False,False,,-1
+1259,allo-pregn-4-en-3-ol-one,allopregnanolone,False,False,True,,4
+1260,allopregnenalone,allopregnanolone,False,False,True,,2
+1261,"allopregna-4,9-dien-3-one",allopregnanolone,False,False,False,,-1
+1262,allopregnanedione,allopregnanolone,False,False,True, pill,2
+1263,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+1264,"3α,5α-tetrahydroprogesterone",allopregnanolone,False,False,True,,1
+1265,allopregnenalone,allopregnanolone,False,False,True,,2
+1266,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1267,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1268,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1269,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+1270,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1271,allopreraenolone,allopregnanolone,False,False,False,,-1
+1272,allopregnanolol,allopregnanolone,False,False,False,,-1
+1273,allopregnanon,allopregnanolone,False,False,False,,-1
+1274,allopregnanolon,allopregnanolone,False,False,True,,1
+1275,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1276,allopregnane,allopregnanolone,False,False,True, pill,3
+1277,allopregnanediol,allopregnanolone,False,False,True,,1
+1278,allopregnanetriol,allopregnanolone,False,False,True,,9
+1279,pregnanolone,allopregnanolone,eltanolone,False,True,,10
+1280,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+1281,5β-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,8
+1282,3α-hydroxy-5β-pregnan-20-one,allopregnanolone,False,False,True, pill,1
+1283,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1284,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1285,allopregnolone,allopregnanolone,False,False,True,,7
+1286,pregnenolone,allopregnanolone,pregnenolone,False,True,,8
+1287,5alpha-pregnane-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+1288,allopregnan-ol-one,allopregnanolone,False,False,True,,2
+1289,allopregnenalone,allopregnanolone,False,False,True,,2
+1290,alloreganolone,allopregnanolone,False,False,False,,-1
+1291,"6-allyl-5α-pregnane-3,20-dione",allopregnanolone,False,False,True,,6
+1292,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+1293,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+1294,5α-pregnane-3α-ol-20-one,allopregnanolone,False,False,True, pill,1
+1295,5α-pregnane-3β-ol-20-one,allopregnanolone,False,False,True,,8
+1296,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1297,allopregnanenolone,allopregnanolone,False,False,False,,-1
+1298,allopregna,allopregnanolone,False,False,True,,1
+1299,allopregnan,allopregnanolone,False,False,True,,9
+1300,allopreganolone,allopregnanolone,False,False,True,,2
+1301,allopregnenalone,allopregnanolone,False,False,True,,2
+1302,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+1303,5alpha-pregnane-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+1304,5-alpha-pregnan-3-alpha-ol-20-one,allopregnanolone,False,False,True, pill,3
+1305,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1306,allopregnan,allopregnanolone,False,False,True,,9
+1307,allopregnane,allopregnanolone,False,False,True, pill,3
+1308,allopregnaneolone,allopregnanolone,False,False,False,,-1
+1309,"(all-(5α,17β)-pregnan-3α-ol-20-one)",allopregnanolone,False,False,True, pill,5
+1310,allopreg,allopregnanolone,False,False,True,,2
+1311,allopregna,allopregnanolone,False,False,True,,1
+1312,allopregn,allopregnanolone,False,False,True,,1
+1313,allopregnaol,allopregnanolone,False,False,False,,-1
+1314,allopregnan,allopregnanolone,False,False,True,,9
+1315,allopregnanolo,allopregnanolone,False,False,True,,1
+1316,allopregnanolol,allopregnanolone,False,False,False,,-1
+1317,allopregnenalone,allopregnanolone,False,False,True,,2
+1318,allopregnanolol,allopregnanolone,False,False,False,,-1
+1319,allopregnanalolone,allopregnanolone,False,False,False,,-1
+1320,allopregnananolone,allopregnanolone,False,False,False,,-1
+1321,alloprenolone,allopregnanolone,False,False,False,,-1
+1322,allopregn-4-en-3-one,allopregnanolone,False,False,True,,2
+1323,allopregnenol,allopregnanolone,False,False,False,,-1
+1324,allopregnanol,allopregnanolone,False,False,True,,4
+1325,allopregnenalone,allopregnanolone,False,False,True,,2
+1326,5-allopregnanolone,allopregnanolone,False,False,True,,1
+1327,allopreg-5-enolone,allopregnanolone,False,False,True,,1
+1328,5α-allopregnan-3α-ol-17β-one,allopregnanolone,False,False,True,,2
+1329,allopregnanol,allopregnanolone,False,False,True,,4
+1330,allopregna-n-ol,allopregnanolone,False,False,True,,4
+1331,allopregnenalone,allopregnanolone,False,False,True,,2
+1332,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1333,allopregnanone,allopregnanolone,False,False,True,,1
+1334,allopregnanolol,allopregnanolone,False,False,False,,-1
+1335,allopregnanetriol,allopregnanolone,False,False,True,,9
+1336,"allopregnane-3α,20β-diol",allopregnanolone,False,False,True,,8
+1337,"allopregnane-3β,20α-diol",allopregnanolone,False,False,True,,7
+1338,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+1339,5α-pregnan-3β-ol-20-one,allopregnanolone,False,False,True, pill,1
+1340,5β-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,8
+1341,allopregnanalon,allopregnanolone,False,False,False,,-1
+1342,allopregnanol,allopregnanolone,False,False,True,,4
+1343,allopregn,allopregnanolone,False,False,True,,1
+1344,allopreg,allopregnanolone,False,False,True,,2
+1345,allopr,allopregnanolone,False,False,True,,5
+1346,allo,allopregnanolone,False,False,False,,-1
+1347,allopregnanolol,allopregnanolone,False,False,False,,-1
+1348,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1349,allopregnalanone,allopregnanolone,False,False,False,,-1
+1350,allopregnanolene,allopregnanolone,False,False,False,,-1
+1351,allopregnanolol,allopregnanolone,False,False,False,,-1
+1352,allopregnenalone,allopregnanolone,False,False,True,,2
+1353,allopregnenolol,allopregnanolone,False,False,False,,-1
+1354,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1355,allopregnan,allopregnanolone,False,False,True,,9
+1356,allopregnane,allopregnanolone,False,False,True, pill,3
+1357,allopregnan-3_alpha-ol,allopregnanolone,False,False,True,,2
+1358,allopregnan-3_alpha-ole,allopregnanolone,False,False,True,,2
+1359,allopregnan-3_beta-ol,allopregnanolone,False,False,True, pill,2
+1360,3_alpha-hydroxy-5_alpha-pregnan-20-one,allopregnanolone,False,False,True, pill,6
+1361,3_beta-hydroxy-5_alpha-pregnan-20-one,allopregnanolone,False,False,True, pill,2
+1362,5_alpha-pregnan-3_alpha-ol-20-one,allopregnanolone,False,False,True, pill,3
+1363,5_alpha-pregnan-3_beta-ol-20-one,allopregnanolone,False,False,True, pill,2
+1364,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1365,allopregnolone,allopregnanolone,False,False,True,,7
+1366,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1367,alloprgnanlone,allopregnanolone,False,False,False,,-1
+1368,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1369,allopregnan-3alpha-ol-20-one,allopregnanolone,False,False,True,,2
+1370,allopregnanolon,allopregnanolone,False,False,True,,1
+1371,allopregnan-3α-ol-20-one,allopregnanolone,False,False,True,,4
+1372,allopregnanolon,allopregnanolone,False,False,True,,1
+1373,allopregnanal,allopregnanolone,False,False,False,,-1
+1374,allopregnenone,allopregnanolone,False,False,False,,-1
+1375,allopreganolone,allopregnanolone,False,False,True,,2
+1376,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1377,allopregnanediol,allopregnanolone,False,False,True,,1
+1378,allopregnanedione,allopregnanolone,False,False,True, pill,2
+1379,allopregnanetriol,allopregnanolone,False,False,True,,9
+1380,alloprenetriol,allopregnanolone,False,False,False,,-1
+1381,allopregnanolol,allopregnanolone,False,False,False,,-1
+1382,allopregnanepine,allopregnanolone,False,False,False,,-1
+1383,allopregnenapine,allopregnanolone,False,False,False,,-1
+1384,allopregnolone,allopregnanolone,False,False,True,,7
+1385,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1386,allopregnenalone,allopregnanolone,False,False,True,,2
+1387,allopregnanolol,allopregnanolone,False,False,False,,-1
+1388,allopregnanolol,allopregnanolone,False,False,False,,-1
+1389,allopregnenolol,allopregnanolone,False,False,False,,-1
+1390,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1391,allopregmenalone,allopregnanolone,False,False,False,,-1
+1392,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1393,allo-pregnen-3alpha-ol-20-one,allopregnanolone,False,False,True,,3
+1394,allopregnanolol,allopregnanolone,False,False,False,,-1
+1395,alloprenolone,allopregnanolone,False,False,False,,-1
+1396,allopregnan,allopregnanolone,False,False,True,,9
+1397,allopregnanolone_sulfate,allopregnanolone,False,True,True,,1
+1398,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+1399,allopregnanolol,allopregnanolone,False,False,False,,-1
+1400,allopregnanalol,allopregnanolone,False,False,False,,-1
+1401,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1402,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1403,allopregnanolol,allopregnanolone,False,False,False,,-1
+1404,allopregnenalone,allopregnanolone,False,False,True,,2
+1405,allopregnenalone,allopregnanolone,False,False,True,,2
+1406,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1407,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1408,allopregnanolona,allopregnanolone,False,False,True,,4
+1409,allopregnanolol,allopregnanolone,False,False,False,,-1
+1410,allopregnenyl_alcohol,allopregnanolone,False,False,False,,-1
+1411,allopregnanediol,allopregnanolone,False,False,True,,1
+1412,allopregnenyl_diol,allopregnanolone,False,False,False,,-1
+1413,allopregnolone,allopregnanolone,False,False,True,,7
+1414,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1415,"allopregna-4,9-diene-3,20-dione",allopregnanolone,False,False,False,,-1
+1416,"4-allopregnan-3,6,17-trione",allopregnanolone,False,False,True, slang,2
+1417,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1418,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1419,"allopregna-3,5-dien-20-one",allopregnanolone,False,False,False,,-1
+1420,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+1421,5α-pregnane-3α-ol-20-one,allopregnanolone,False,False,True, pill,1
+1422,5α-pregnane-3β-ol-20-one,allopregnanolone,False,False,True,,8
+1423,5-deoxyprogesterone,allopregnanolone,False,False,False,,-1
+1424,allopregnenalone,allopregnanolone,False,False,True,,2
+1425,allopregnanolol,allopregnanolone,False,False,False,,-1
+1426,allopregnanolon,allopregnanolone,False,False,True,,1
+1427,allopregnanolol,allopregnanolone,False,False,False,,-1
+1428,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1429,allopregnanonolone,allopregnanolone,False,False,False,,-1
+1430,allopregnonanolone,allopregnanolone,False,False,False,,-1
+1431,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1432,allopregnanediol,allopregnanolone,False,False,True,,1
+1433,allopregnenol,allopregnanolone,False,False,False,,-1
+1434,allopregnane,allopregnanolone,False,False,True, pill,3
+1435,"allopregna-3,5-dien-20-one",allopregnanolone,False,False,False,,-1
+1436,"allopregna-3,5-dione",allopregnanolone,False,False,True, pill,2
+1437,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1438,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1439,allopregnenolol,allopregnanolone,False,False,False,,-1
+1440,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1441,allopreg-nanalone,allopregnanolone,False,False,True,,1
+1442,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1443,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1444,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1445,allopregnenalone,allopregnanolone,False,False,True,,2
+1446,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+1447,5alpha-pregnane-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+1448,3alpha-hydroxy-5alpha-pregnan-20-one,allopregnanolone,False,False,True, pill,2
+1449,3alpha-hydroxy-5alpha-pregnane-20-one,allopregnanolone,False,False,True, pill,2
+1450,allopregnenalone,allopregnanolone,False,False,True,,2
+1451,allopregnenone,allopregnanolone,False,False,False,,-1
+1452,allopregnan,allopregnanolone,False,False,True,,9
+1453,allopreg,allopregnanolone,False,False,True,,2
+1454,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1455,allopregna-4-en-3-one,allopregnanolone,False,False,True,,2
+1456,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+1457,allopregnan,allopregnanolone,False,False,True,,9
+1458,allopregnanol,allopregnanolone,False,False,True,,4
+1459,allopregnanenolone,allopregnanolone,False,False,False,,-1
+1460,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+1461,5α-pregnane-3α-ol-20-one,allopregnanolone,False,False,True, pill,1
+1462,5α-pregnane-3β-ol-20-one,allopregnanolone,False,False,True,,8
+1463,"(3α,5α)-pregnan-20-one",allopregnanolone,False,False,True, pill,2
+1464,"(3β,5α)-pregnan-20-one",allopregnanolone,False,False,True, pill,3
+1465,allopregnanone,allopregnanolone,False,False,True,,1
+1466,allopregnenalone,allopregnanolone,False,False,True,,2
+1467,allopregnanolol,allopregnanolone,False,False,False,,-1
+1468,allopregnanalon,allopregnanolone,False,False,False,,-1
+1469,allopregnanolone_oxide,allopregnanolone,False,True,True,,1
+1470,allopregnanolone_sulfate,allopregnanolone,False,True,True,,1
+1471,allopregnenalone,allopregnanolone,False,False,True,,2
+1472,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1473,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1474,allopregnanolol,allopregnanolone,False,False,False,,-1
+1475,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1476,"5α-pregnane-3α,20α-diol",allopregnanolone,False,False,True,,1
+1477,allopregnanolol,allopregnanolone,False,False,False,,-1
+1478,allopregnenolol,allopregnanolone,False,False,False,,-1
+1479,allopregnenol,allopregnanolone,False,False,False,,-1
+1480,allopregnan,allopregnanolone,False,False,True,,9
+1481,allopregnane,allopregnanolone,False,False,True, pill,3
+1482,allopregnanol,allopregnanolone,False,False,True,,4
+1483,allopregnanolol,allopregnanolone,False,False,False,,-1
+1484,allopregnalone,allopregnanolone,allopregnanolone,True,True,,6
+1485,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1486,allopregnanon,allopregnanolone,False,False,False,,-1
+1487,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1488,allopregnon,allopregnanolone,False,False,False,,-1
+1489,allopregnan,allopregnanolone,False,False,True,,9
+1490,9-allopregnanolone,allopregnanolone,False,False,True,,1
+1491,10-allopregnanolone,allopregnanolone,False,False,True,,1
+1492,5-allopregnanolone,allopregnanolone,False,False,True,,1
+1493,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1494,5_alpha_allopregnanolone,allopregnanolone,False,True,True,,1
+1495,5-alpha_allopregnanolone,allopregnanolone,False,True,True,,1
+1496,5α-allopregnanolone,allopregnanolone,False,False,True,,1
+1497,allopregnenalone,allopregnanolone,False,False,True,,2
+1498,allopregnanolol,allopregnanolone,False,False,False,,-1
+1499,allopregnenol,allopregnanolone,False,False,False,,-1
+1500,allopregnane,allopregnanolone,False,False,True, pill,3
+1501,allopregnan,allopregnanolone,False,False,True,,9
+1502,allopreg,allopregnanolone,False,False,True,,2
+1503,allopr,allopregnanolone,False,False,True,,5
+1504,allo,allopregnanolone,False,False,False,,-1
+1505,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1506,allopregnanone,allopregnanolone,False,False,True,,1
+1507,allopregnanerolone,allopregnanolone,False,False,False,,-1
+1508,allopregnenalone,allopregnanolone,False,False,True,,2
+1509,allopregnanone,allopregnanolone,False,False,True,,1
+1510,allopregnanecol,allopregnanolone,False,False,False,,-1
+1511,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1512,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1513,allopregennalone,allopregnanolone,False,False,False,,-1
+1514,allopregnenalone,allopregnanolone,False,False,True,,2
+1515,allopreg-nanolone,allopregnanolone,False,False,True,,1
+1516,allopregnanolol,allopregnanolone,False,False,False,,-1
+1517,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1518,allopregnenalone,allopregnanolone,False,False,True,,2
+1519,allopregnenol,allopregnanolone,False,False,False,,-1
+1520,"allopregna-4,17-dien-3-one",allopregnanolone,False,False,False,,-1
+1521,"4,17-dien-3-one",allopregnanolone,False,False,False,,-1
+1522,allopregnenalone,allopregnanolone,False,False,True,,2
+1523,allo-pregnanolone,allopregnanolone,False,False,True,,2
+1524,allo-pregnenolone,allopregnanolone,False,False,True,,1
+1525,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+1526,5alpha-pregnane-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+1527,5alpha-pregnane-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+1528,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1529,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1530,allo-pregnane-3alpha-ol-20-one,allopregnanolone,False,False,True,,1
+1531,allo-pregnane-3beta-ol-20-one,allopregnanolone,False,False,True,,2
+1532,3alpha-hydroxy-5alpha-pregnan-20-one,allopregnanolone,False,False,True, pill,2
+1533,3beta-hydroxy-5alpha-pregnan-20-one,allopregnanolone,False,False,True,,8
+1534,5alpha-pregnane-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+1535,5alpha-pregnane-3beta-ol-20-one,allopregnanolone,False,False,True, pill,2
+1536,5beta-pregnane-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+1537,5beta-pregnane-3beta-ol-20-one,allopregnanolone,False,False,True, pill,2
+1538,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1539,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1540,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1541,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1542,allopregnanalon,allopregnanolone,False,False,False,,-1
+1543,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1544,allopregnenalone,allopregnanolone,False,False,True,,2
+1545,allopregnolone,allopregnanolone,False,False,True,,7
+1546,allopregna-4-en-3-one,allopregnanolone,False,False,True,,2
+1547,"allopregna-4,9-diene-3,20-dione",allopregnanolone,False,False,False,,-1
+1548,allopregnenalone,allopregnanolone,False,False,True,,2
+1549,allopreg-5-en-3-ol-one,allopregnanolone,False,False,True,,1
+1550,"allopreg-5-ene-3,20-diol-one",allopregnanolone,False,False,True,,4
+1551,allopregn-5-en-3-ol-one,allopregnanolone,False,False,True,,1
+1552,"allopregn-5-ene-3,20-diol-one",allopregnanolone,False,False,True,,6
+1553,allopregnenalone,allopregnanolone,False,False,True,,2
+1554,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+1555,5α-pregnane-3α-ol-20-one,allopregnanolone,False,False,True, pill,1
+1556,3α-hydroxy-5α-pregnan-20-one,allopregnanolone,False,False,True,,3
+1557,3α-hydroxy-5α-pregnane-20-one,allopregnanolone,False,False,True, pill,1
+1558,allopregnanolol,allopregnanolone,False,False,False,,-1
+1559,allopregnanalol,allopregnanolone,False,False,False,,-1
+1560,allopregnanediol,allopregnanolone,False,False,True,,1
+1561,allopregnanetriol,allopregnanolone,False,False,True,,9
+1562,allopregnenetriol,allopregnanolone,False,False,False,,-1
+1563,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1564,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1565,"allopregna-4-en-3,6-dione",allopregnanolone,False,False,True,,2
+1566,allopregnanolol,allopregnanolone,False,False,False,,-1
+1567,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1568,allopregnanonolone,allopregnanolone,False,False,False,,-1
+1569,tetrahydrodeoxycorticosterone,allopregnanolone,False,False,False,,-1
+1570,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1571,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1572,"allopregna-4,9-diene-3,20-dione",allopregnanolone,False,False,False,,-1
+1573,"allopregnane-3,20-dione",allopregnanolone,False,False,True, pill,6
+1574,"5α-pregnane-3,20-dione",allopregnanolone,False,False,False,,-1
+1575,allopregnanolol,allopregnanolone,False,False,False,,-1
+1576,allopregnanalol,allopregnanolone,False,False,False,,-1
+1577,allopregnenolol,allopregnanolone,False,False,False,,-1
+1578,5-allopregnan-3-ol-20-one,allopregnanolone,False,False,True,,4
+1579,allopregnenalone,allopregnanolone,False,False,True,,2
+1580,5-allopregnanolone,allopregnanolone,False,False,True,,1
+1581,5-pregnan-3-ol-20-one,allopregnanolone,False,False,True, pill,1
+1582,5alpha-pregnan-3-ol-20-one,allopregnanolone,False,False,True, pill,3
+1583,3alpha-hydroxy-5alpha-pregnan-20-one,allopregnanolone,False,False,True, pill,2
+1584,allopregnane,allopregnanolone,False,False,True, pill,3
+1585,allopregnan,allopregnanolone,False,False,True,,9
+1586,allopregn,allopregnanolone,False,False,True,,1
+1587,allopreg,allopregnanolone,False,False,True,,2
+1588,allopr,allopregnanolone,False,False,True,,5
+1589,allo,allopregnanolone,False,False,False,,-1
+1590,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1591,alloprognanolone,allopregnanolone,False,False,False,,-1
+1592,allomergestrone,allopregnanolone,False,False,False,,-1
+1593,epiallopregnanolone,allopregnanolone,False,False,True,,1
+1594,allopregnanone,allopregnanolone,False,False,True,,1
+1595,allopregnenalone,allopregnanolone,False,False,True,,2
+1596,allopregnanolol,allopregnanolone,False,False,False,,-1
+1597,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1598,allopregnan,allopregnanolone,False,False,True,,9
+1599,allopreg,allopregnanolone,False,False,True,,2
+1600,allopregn-5-en-3-ol-20-one,allopregnanolone,False,False,True,,1
+1601,allopregnanolol,allopregnanolone,False,False,False,,-1
+1602,"allopregna-4,9-dien-17-ol",allopregnanolone,False,False,False,,-1
+1603,allopregnanediol,allopregnanolone,False,False,True,,1
+1604,4-allopregnanediol,allopregnanolone,False,False,True,,1
+1605,"4-allopregnane-3,20-diol",allopregnanolone,False,False,True, pill,8
+1606,allopregnanolol,allopregnanolone,False,False,False,,-1
+1607,allopregnanonoate,allopregnanolone,False,False,False,,-1
+1608,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1609,allopregnenalone,allopregnanolone,False,False,True,,2
+1610,allopregnalone,allopregnanolone,allopregnanolone,True,True,,6
+1611,allopregnolone,allopregnanolone,False,False,True,,7
+1612,allopregnenalone,allopregnanolone,False,False,True,,2
+1613,"allopregna-3,5-dien-20-one",allopregnanolone,False,False,False,,-1
+1614,"pregn-4-en-3,20-dione",allopregnanolone,False,False,False,,-1
+1615,allo-pregnenolone,allopregnanolone,False,False,True,,1
+1616,5-alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+1617,3_alpha-hydroxy-5_alpha-pregnan-20-one,allopregnanolone,False,False,True, pill,6
+1618,allopregnenalone,allopregnanolone,False,False,True,,2
+1619,allopregnanolol,allopregnanolone,False,False,False,,-1
+1620,allopregnenolol,allopregnanolone,False,False,False,,-1
+1621,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1622,allopregnanolane,allopregnanolone,False,False,False,,-1
+1623,allopregnenalone,allopregnanolone,False,False,True,,2
+1624,allopregnanolon,allopregnanolone,False,False,True,,1
+1625,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1626,allopregnanolon,allopregnanolone,False,False,True,,1
+1627,allopregnenolon,allopregnanolone,False,False,True, pill,6
+1628,allopregnenalone,allopregnanolone,False,False,True,,2
+1629,allopregna-4-en-3-one,allopregnanolone,False,False,True,,2
+1630,allopregn-4-en-3-one,allopregnanolone,False,False,True,,2
+1631,allopreganolone,allopregnanolone,False,False,True,,2
+1632,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1633,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1634,allopregnanol,allopregnanolone,False,False,True,,4
+1635,allopregnan,allopregnanolone,False,False,True,,9
+1636,allopregna,allopregnanolone,False,False,True,,1
+1637,allopregn,allopregnanolone,False,False,True,,1
+1638,allopreg,allopregnanolone,False,False,True,,2
+1639,allopre,allopregnanolone,False,False,False,,-1
+1640,allopr,allopregnanolone,False,False,True,,5
+1641,allop,allopregnanolone,False,False,True,,3
+1642,allo,allopregnanolone,False,False,False,,-1
+1643,all,allopregnanolone,False,False,False,,-1
+1644,allopregnenalone,allopregnanolone,False,False,True,,2
+1645,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1646,allopregnanol,allopregnanolone,False,False,True,,4
+1647,allopreg,allopregnanolone,False,False,True,,2
+1648,allopregnolone,allopregnanolone,False,False,True,,7
+1649,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1650,allopregnanolol,allopregnanolone,False,False,False,,-1
+1651,allopregnanerone,allopregnanolone,False,False,False,,-1
+1652,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1653,allopregnenalone,allopregnanolone,False,False,True,,2
+1654,"allopregna-4,9-diene-3,20-dione",allopregnanolone,False,False,False,,-1
+1655,allopregnenalone,allopregnanolone,False,False,True,,2
+1656,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1657,"allopregna-4,16-dien-3-ol",allopregnanolone,False,False,False,,-1
+1658,"allopregna-3,16-dien-17-ol",allopregnanolone,False,False,False,,-1
+1659,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+1660,5-alpha-dihydroprogesterone,allopregnanolone,False,False,True,,3
+1661,5-beta-pregnan-3-alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+1662,allopregnanediol,allopregnanolone,False,False,True,,1
+1663,allopregnanetriol,allopregnanolone,False,False,True,,9
+1664,allopregnenetetraol,allopregnanolone,False,False,False,,-1
+1665,allopregnenetriol,allopregnanolone,False,False,False,,-1
+1666,allopregnenetetraol,allopregnanolone,False,False,False,,-1
+1667,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1668,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1669,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1670,allopregnolone,allopregnanolone,False,False,True,,7
+1671,allopregnanolol,allopregnanolone,False,False,False,,-1
+1672,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+1673,allopregnan,allopregnanolone,False,False,True,,9
+1674,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+1675,5α-pregnane-3α-ol-20-one,allopregnanolone,False,False,True, pill,1
+1676,"(3α,5α)-3-hydroxy-5α-pregnan-20-one",allopregnanolone,False,False,True,,3
+1677,allopregnanolol,allopregnanolone,False,False,False,,-1
+1678,allopregnenalone,allopregnanolone,False,False,True,,2
+1679,allopregnanone,allopregnanolone,False,False,True,,1
+1680,allopregnanol,allopregnanolone,False,False,True,,4
+1681,allopregnolone,allopregnanolone,False,False,True,,7
+1682,allopreg-ne-alone,allopregnanolone,False,False,True,,1
+1683,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1684,allopregnanon,allopregnanolone,False,False,False,,-1
+1685,allopregnenalone,allopregnanolone,False,False,True,,2
+1686,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1687,pregnenolone,allopregnanolone,pregnenolone,False,True,,8
+1688,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1689,allopregnenalone,allopregnanolone,False,False,True,,2
+1690,allopregnanolol,allopregnanolone,False,False,False,,-1
+1691,allopreganolone,allopregnanolone,False,False,True,,2
+1692,allopregnenalone,allopregnanolone,False,False,True,,2
+1693,allopregnenol,allopregnanolone,False,False,False,,-1
+1694,allopregnenonal,allopregnanolone,False,False,False,,-1
+1695,allopregnanon,allopregnanolone,False,False,False,,-1
+1696,allopregoranes,allopregnanolone,False,False,False,,-1
+1697,pregnenolone,allopregnanolone,pregnenolone,False,True,,8
+1698,allopregnanolol,allopregnanolone,False,False,False,,-1
+1699,allopregnenalone,allopregnanolone,False,False,True,,2
+1700,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1701,5alpha-pregnan-3alpha-ol-17-one,allopregnanolone,False,False,True, pill,2
+1702,5-alpha-pregnane-3-alpha-ol-17-one,allopregnanolone,False,False,False,,-1
+1703,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1704,allopregnanolol,allopregnanolone,False,False,False,,-1
+1705,allopregnanolol,allopregnanolone,False,False,False,,-1
+1706,allopregnanediol,allopregnanolone,False,False,True,,1
+1707,alloprégénal,allopregnanolone,False,False,False,,-1
+1708,allopregnanépoxide,allopregnanolone,False,False,False,,-1
+1709,alloprégnanes,allopregnanolone,False,False,False,,-1
+1710,allopregnanol,allopregnanolone,False,False,True,,4
+1711,allopregnanolon,allopregnanolone,False,False,True,,1
+1712,allopregnanal,allopregnanolone,False,False,False,,-1
+1713,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1714,allopregnane,allopregnanolone,False,False,True, pill,3
+1715,allopregnanol,allopregnanolone,False,False,True,,4
+1716,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1717,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1718,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1719,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1720,allopregnenalone,allopregnanolone,False,False,True,,2
+1721,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+1722,5alpha-pregnan-3alpha-olone,allopregnanolone,False,False,True,,1
+1723,5-_alpha-pregnan-3-_alpha-ol-20-one,allopregnanolone,False,False,True, pill,3
+1724,5-_alpha-pregnan-3-_alpha-olone,allopregnanolone,False,False,False,,-1
+1725,5_alpha-pregnan-3_alpha-ol-20-one,allopregnanolone,False,False,True, pill,3
+1726,5_alpha-pregnan-3_alpha-olone,allopregnanolone,False,False,False,,-1
+1727,"5alpha-pregnane-3alpha,21-diol-20-one",allopregnanolone,False,False,True, pill,4
+1728,"5α-pregnane-3α,21-diol-20-one",allopregnanolone,False,False,True, pill,3
+1729,allopregnan,allopregnanolone,False,False,True,,9
+1730,allopreg,allopregnanolone,False,False,True,,2
+1731,allop,allopregnanolone,False,False,True,,3
+1732,allopregnenalone,allopregnanolone,False,False,True,,2
+1733,allopregnanolol,allopregnanolone,False,False,False,,-1
+1734,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1735,allopregnanolon,allopregnanolone,False,False,True,,1
+1736,allopregonolone,allopregnanolone,False,False,False,,-1
+1737,allopregnenalone,allopregnanolone,False,False,True,,2
+1738,allopregnenolol,allopregnanolone,False,False,False,,-1
+1739,allopregnanone,allopregnanolone,False,False,True,,1
+1740,allopreganonolone,allopregnanolone,False,False,False,,-1
+1741,allopregnanololone,allopregnanolone,False,False,False,,-1
+1742,allopregnanoxolone,allopregnanolone,False,False,False,,-1
+1743,allopregnenalone,allopregnanolone,False,False,True,,2
+1744,allopregnenololone,allopregnanolone,False,False,False,,-1
+1745,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1746,allopregnanolol,allopregnanolone,False,False,False,,-1
+1747,allopregnanolol,allopregnanolone,False,False,False,,-1
+1748,allopregnenalone,allopregnanolone,False,False,True,,2
+1749,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1750,alloprepegenolone,allopregnanolone,False,False,False,,-1
+1751,allopregnanonolone,allopregnanolone,False,False,False,,-1
+1752,allopregnanepoxide,allopregnanolone,False,False,False,,-1
+1753,allopregnanediol,allopregnanolone,False,False,True,,1
+1754,allopregnanetriol,allopregnanolone,False,False,True,,9
+1755,"5α-pregnane-3α,21-diol",allopregnanolone,False,False,True, pill,1
+1756,allopregnanedione,allopregnanolone,False,False,True, pill,2
+1757,allopregnenalone,allopregnanolone,False,False,True,,2
+1758,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1759,allopregnanolol,allopregnanolone,False,False,False,,-1
+1760,allopregnanediol,allopregnanolone,False,False,True,,1
+1761,allopregnanetriol,allopregnanolone,False,False,True,,9
+1762,allopregnatriol,allopregnanolone,False,False,False,,-1
+1763,allopregnanetetrol,allopregnanolone,False,False,False,,-1
+1764,allopregnenetetrol,allopregnanolone,False,False,False,,-1
+1765,allopregna-4-ol-3-one,allopregnanolone,False,False,True,,7
+1766,4-allopregn-3-ol-17-one,allopregnanolone,False,False,True,,8
+1767,5-allopregnan-3-ol-20-one,allopregnanolone,False,False,True,,4
+1768,5-allopregnan-3-ol,allopregnanolone,False,False,True, pill,2
+1769,3-hydroxy-5-allopregnan-20-one,allopregnanolone,False,False,True,,4
+1770,3-hydroxy-5-allopregnan-21-one,allopregnanolone,False,False,True,,6
+1771,3-hydroxy-5-pregn-20-en-20-one,allopregnanolone,False,False,True, pill,2
+1772,5alpha-pregnane-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+1773,5alpha-pregnane-3beta-ol-20-one,allopregnanolone,False,False,True, pill,2
+1774,5beta-pregnane-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+1775,5beta-pregnane-3beta-ol-20-one,allopregnanolone,False,False,True, pill,2
+1776,allopregnanolol,allopregnanolone,False,False,False,,-1
+1777,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1778,allopregnenalone,allopregnanolone,False,False,True,,2
+1779,allopregnanolol,allopregnanolone,False,False,False,,-1
+1780,allopregnanadiol,allopregnanolone,False,False,False,,-1
+1781,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+1782,5alpha-pregnane-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+1783,allopregnanol,allopregnanolone,False,False,True,,4
+1784,allopregonolone,allopregnanolone,False,False,False,,-1
+1785,allopregnanon,allopregnanolone,False,False,False,,-1
+1786,allopregnenone,allopregnanolone,False,False,False,,-1
+1787,alloprostane,allopregnanolone,False,False,False,,-1
+1788,allopregnanediol,allopregnanolone,False,False,True,,1
+1789,allopregnanetriol,allopregnanolone,False,False,True,,9
+1790,allopregnanedione,allopregnanolone,False,False,True, pill,2
+1791,allopregnenone,allopregnanolone,False,False,False,,-1
+1792,allopregna-4-en-3-one,allopregnanolone,False,False,True,,2
+1793,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+1794,allopregnanolol,allopregnanolone,False,False,False,,-1
+1795,allopregnenalone,allopregnanolone,False,False,True,,2
+1796,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+1797,5α-pregnane-3α-ol-20-one,allopregnanolone,False,False,True, pill,1
+1798,3α-hydroxy-5α-pregnan-20-one,allopregnanolone,False,False,True,,3
+1799,alloprgnanolone,allopregnanolone,False,False,True,,1
+1800,allopregnolone,allopregnanolone,False,False,True,,7
+1801,allopreg-nanolone,allopregnanolone,False,False,True,,1
+1802,allo-pregnanolone,allopregnanolone,False,False,True,,2
+1803,allopregn-anolone,allopregnanolone,False,False,True,,2
+1804,allopregnano-lone,allopregnanolone,False,False,True,,1
+1805,allopregnanolo-ne,allopregnanolone,False,False,True,,2
+1806,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1807,allopregnanolol,allopregnanolone,False,False,False,,-1
+1808,allopregnenolol,allopregnanolone,False,False,False,,-1
+1809,allopregnanetriol,allopregnanolone,False,False,True,,9
+1810,allopregnenetriol,allopregnanolone,False,False,False,,-1
+1811,allopreg-n-olone,allopregnanolone,False,False,True,,2
+1812,allo-pregn-anolone,allopregnanolone,False,False,True,,1
+1813,allopregnan,allopregnanolone,False,False,True,,9
+1814,allopreg,allopregnanolone,False,False,True,,2
+1815,allopregn,allopregnanolone,False,False,True,,1
+1816,allopregna,allopregnanolone,False,False,True,,1
+1817,allopregnen,allopregnanolone,False,False,True, pill,3
+1818,allopregnane,allopregnanolone,False,False,True, pill,3
+1819,allopregnanolol,allopregnanolone,False,False,False,,-1
+1820,allopregnenalone,allopregnanolone,False,False,True,,2
+1821,allopregnanolol,allopregnanolone,False,False,False,,-1
+1822,allopregnanolol,allopregnanolone,False,False,False,,-1
+1823,allopregnenalone,allopregnanolone,False,False,True,,2
+1824,allopregnenalone,allopregnanolone,False,False,True,,2
+1825,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1826,allopregnanolol,allopregnanolone,False,False,False,,-1
+1827,allopregnan-3-ol-17-one,allopregnanolone,False,False,True,,4
+1828,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1829,allopregnenalone,allopregnanolone,False,False,True,,2
+1830,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1831,allopregnan-ol-one,allopregnanolone,False,False,True,,2
+1832,allopregnenalone,allopregnanolone,False,False,True,,2
+1833,5-allopregnanolone,allopregnanolone,False,False,True,,1
+1834,5-allopregnalone,allopregnanolone,False,False,True,,1
+1835,5-allopregnanalone,allopregnanolone,False,False,True,,1
+1836,3-allopregnanolone,allopregnanolone,False,False,True,,1
+1837,3-allopregnalone,allopregnanolone,False,False,True,,1
+1838,3-allopregnanalone,allopregnanolone,False,False,True,,1
+1839,5α-allopregnanolone,allopregnanolone,False,False,True,,1
+1840,5α-allopregnalone,allopregnanolone,False,False,True,,1
+1841,5α-allopregnanalone,allopregnanolone,False,False,True,,1
+1842,5β-allopregnanolone,allopregnanolone,False,False,True,,1
+1843,5β-allopregnalone,allopregnanolone,False,False,True,,1
+1844,5β-allopregnanalone,allopregnanolone,False,False,True,,1
+1845,ep_allopregnanolone,allopregnanolone,False,True,True,,3
+1846,epi_allopregnanolone,allopregnanolone,False,True,True,,2
+1847,ep_allopregnanolone,allopregnanolone,False,True,True,,3
+1848,epi_allopregnanolone,allopregnanolone,False,True,True,,2
+1849,allo-pregnanolone,allopregnanolone,False,False,True,,2
+1850,allo-pregnalone,allopregnanolone,False,False,True,,1
+1851,allo-pregnanalone,allopregnanolone,False,False,True,,1
+1852,5-allo-pregnanolone,allopregnanolone,False,False,True,,1
+1853,5-allo-pregnalone,allopregnanolone,False,False,True,,1
+1854,5-allo-pregnanalone,allopregnanolone,False,False,True,,1
+1855,3-allo-pregnanolone,allopregnanolone,False,False,True,,1
+1856,3-allo-pregnalone,allopregnanolone,False,False,True,,1
+1857,3-allo-pregnanalone,allopregnanolone,False,False,True,,1
+1858,5α-allo-pregnanolone,allopregnanolone,False,False,True,,1
+1859,5α-allo-pregnalone,allopregnanolone,False,False,True,,1
+1860,5α-allo-pregnanalone,allopregnanolone,False,False,True,,1
+1861,5β-allo-pregnanolone,allopregnanolone,False,False,True,,1
+1862,5β-allo-pregnalone,allopregnanolone,False,False,True,,1
+1863,5β-allo-pregnanalone,allopregnanolone,False,False,True,,1
+1864,ep_allo-pregnanolone,allopregnanolone,False,False,True,,3
+1865,epi_allo-pregnanolone,allopregnanolone,False,False,True,,4
+1866,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+1867,5α-pregnane-3α-ol-20-one,allopregnanolone,False,False,True, pill,1
+1868,5β-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,8
+1869,5β-pregnane-3α-ol-20-one,allopregnanolone,False,False,True, pill,1
+1870,5α-pregnan-3β-ol-20-one,allopregnanolone,False,False,True, pill,1
+1871,5α-pregnane-3β-ol-20-one,allopregnanolone,False,False,True,,8
+1872,5β-pregnan-3β-ol-20-one,allopregnanolone,False,False,True, pill,2
+1873,5β-pregnane-3β-ol-20-one,allopregnanolone,False,False,True, pill,3
+1874,"(3α,5α)-pregnan-20-ol-3-one",allopregnanolone,False,False,True, pill,2
+1875,"(3α,5α)-pregnane-20-ol-3-one",allopregnanolone,False,False,True, pill,1
+1876,"(3β,5α)-pregnan-20-ol-3-one",allopregnanolone,False,False,True, pill,3
+1877,"(3β,5α)-pregnane-20-ol-3-one",allopregnanolone,False,False,True, pill,2
+1878,"(3α,5β)-pregnan-20-ol-3-one",allopregnanolone,False,False,True, pill,1
+1879,"(3α,5β)-pregnane-20-ol-3-one",allopregnanolone,False,False,True,,10
+1880,"(3β,5β)-pregnan-20-ol-3-one",allopregnanolone,False,False,True, pill,1
+1881,"(3β,5β)-pregnane-20-ol-3-one",allopregnanolone,False,False,True, pill,1
+1882,"5α-pregnan-3-ol-11,20-dione",allopregnanolone,False,False,True, pill,7
+1883,"5α-pregnane-3-ol-11,20-dione",allopregnanolone,False,False,True, pill,9
+1884,"5β-pregnan-3-ol-11,20-dione",allopregnanolone,False,False,True, pill,3
+1885,"5β-pregnane-3-ol-11,20-dione",allopregnanolone,False,False,True, pill,4
+1886,"(3α,5α)-pregnan-11,20-diol-3-one",allopregnanolone,False,False,True, pill,7
+1887,"(3α,5α)-pregnane-11,20-diol-3-one",allopregnanolone,False,False,True, pill,6
+1888,"(3β,5α)-pregnan-11,20-diol-3-one",allopregnanolone,False,False,True, pill,7
+1889,"(3β,5α)-pregnane-11,20-diol-3-one",allopregnanolone,False,False,True, pill,6
+1890,"(3α,5β)-pregnan-11,20-diol-3-one",allopregnanolone,False,False,True, pill,9
+1891,"(3α,5β)-pregnane-11,20-diol-3-one",allopregnanolone,False,False,True, pill,4
+1892,"(3β,5β)-pregnan-11,20-diol-3-one",allopregnanolone,False,False,True, pill,9
+1893,"(3β,5β)-pregnane-11,20-diol-3-one",allopregnanolone,False,False,True, pill,7
+1894,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1895,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1896,allopregnolone,allopregnanolone,False,False,True,,7
+1897,allopregnanalolone,allopregnanolone,False,False,False,,-1
+1898,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1899,allo-pregnanolone,allopregnanolone,False,False,True,,2
+1900,allo-pregnenolone,allopregnanolone,False,False,True,,1
+1901,allopregnanepione,allopregnanolone,False,False,False,,-1
+1902,allopregnanolol,allopregnanolone,False,False,False,,-1
+1903,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1904,allopregnenalone,allopregnanolone,False,False,True,,2
+1905,allopregnanerolone,allopregnanolone,False,False,False,,-1
+1906,allopregnenenolone,allopregnanolone,False,False,False,,-1
+1907,allopregnanetetrolone,allopregnanolone,False,False,False,,-1
+1908,allopregnenetetrane,allopregnanolone,False,False,False,,-1
+1909,allopregnenetetraol,allopregnanolone,False,False,False,,-1
+1910,5-allopregnanolone,allopregnanolone,False,False,True,,1
+1911,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1912,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1913,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1914,allopregnalone,allopregnanolone,allopregnanolone,True,True,,6
+1915,allopregnanolol,allopregnanolone,False,False,False,,-1
+1916,allopregnanerone,allopregnanolone,False,False,False,,-1
+1917,8-allopregnanolone,allopregnanolone,False,False,True,,1
+1918,3α-hydroxy-5α-pregnan-20-one,allopregnanolone,False,False,True,,3
+1919,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+1920,5_alpha_allopregnanolone,allopregnanolone,False,True,True,,1
+1921,5-alpha_allopregnanolone,allopregnanolone,False,True,True,,1
+1922,allopregnan-5-ol-3-one,allopregnanolone,False,False,True,,3
+1923,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1924,allopregnanolol,allopregnanolone,False,False,False,,-1
+1925,allopregnancy_hormone,allopregnanolone,False,False,False,,-1
+1926,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1927,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+1928,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1929,allopregnanon,allopregnanolone,False,False,False,,-1
+1930,allopregnan,allopregnanolone,False,False,True,,9
+1931,allopregn,allopregnanolone,False,False,True,,1
+1932,allopreg,allopregnanolone,False,False,True,,2
+1933,allopre,allopregnanolone,False,False,False,,-1
+1934,allopr,allopregnanolone,False,False,True,,5
+1935,allop,allopregnanolone,False,False,True,,3
+1936,allopregnanolol,allopregnanolone,False,False,False,,-1
+1937,allopregnanolone_hydroxyprogesterone,allopregnanolone,False,True,True,,1
+1938,allopregnanedione,allopregnanolone,False,False,True, pill,2
+1939,allopregnanolol,allopregnanolone,False,False,False,,-1
+1940,allopregnanonolone,allopregnanolone,False,False,False,,-1
+1941,allopregnanonalone,allopregnanolone,False,False,False,,-1
+1942,allopregnane,allopregnanolone,False,False,True, pill,3
+1943,allopregnan,allopregnanolone,False,False,True,,9
+1944,allopregn,allopregnanolone,False,False,True,,1
+1945,allopreg,allopregnanolone,False,False,True,,2
+1946,allopr,allopregnanolone,False,False,True,,5
+1947,allo,allopregnanolone,False,False,False,,-1
+1948,allopregnanol,allopregnanolone,False,False,True,,4
+1949,allopregna,allopregnanolone,False,False,True,,1
+1950,allopreg,allopregnanolone,False,False,True,,2
+1951,allopr,allopregnanolone,False,False,True,,5
+1952,allo,allopregnanolone,False,False,False,,-1
+1953,all,allopregnanolone,False,False,False,,-1
+1954,al,allopregnanolone,albendazole,False,False,,-1
+1955,a,allopregnanolone,False,False,False,,-1
+1956,allopregnan,allopregnanolone,False,False,True,,9
+1957,allopregnane,allopregnanolone,False,False,True, pill,3
+1958,allopreg,allopregnanolone,False,False,True,,2
+1959,allopregn,allopregnanolone,False,False,True,,1
+1960,allopregna,allopregnanolone,False,False,True,,1
+1961,allopregnaneolone,allopregnanolone,False,False,False,,-1
+1962,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1963,allopregnan-3-ol-one,allopregnanolone,False,False,True,,8
+1964,allopregnenalone,allopregnanolone,False,False,True,,2
+1965,"allopregna-4,5-dien-3-ol",allopregnanolone,False,False,False,,-1
+1966,"allopregna-4,5-diene-3-ol",allopregnanolone,False,False,False,,-1
+1967,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1968,allopregnenalone,allopregnanolone,False,False,True,,2
+1969,5-allopregnanolone,allopregnanolone,False,False,True,,1
+1970,5-allopregnenolone,allopregnanolone,False,False,True,,1
+1971,3_alpha-hydroxy-5_alpha-pregnan-20-one,allopregnanolone,False,False,True, pill,6
+1972,5_alpha-pregnan-3_alpha-ol-20-one,allopregnanolone,False,False,True, pill,3
+1973,3_alpha-hydroxy-5_alpha-pregnane-20-one,allopregnanolone,False,False,True, pill,7
+1974,5_alpha-pregnane-3_alpha-ol-20-one,allopregnanolone,False,False,True, pill,4
+1975,allopregnanolol,allopregnanolone,False,False,False,,-1
+1976,allopregnenalone,allopregnanolone,False,False,True,,2
+1977,"allopregna-4,16-dien-3-one",allopregnanolone,False,False,False,,-1
+1978,"allopregn-4-en-3,16-dione",allopregnanolone,False,False,True,,1
+1979,allopregnanolon,allopregnanolone,False,False,True,,1
+1980,allopregnenalone,allopregnanolone,False,False,True,,2
+1981,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1982,all-trans-pregnanolone,allopregnanolone,False,False,True,,3
+1983,"(3α,5α)-3-hydroxypregnan-20-one",allopregnanolone,False,False,True,,10
+1984,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+1985,"all-trans-4-allopregnane-3,20-dione",allopregnanolone,False,False,True, slang,2
+1986,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+1987,allopregnan,allopregnanolone,False,False,True,,9
+1988,allopregnen,allopregnanolone,False,False,True, pill,3
+1989,allopregananolone,allopregnanolone,False,False,True,,6
+1990,allopregnanon,allopregnanolone,False,False,False,,-1
+1991,allopregna,allopregnanolone,False,False,True,,1
+1992,allopregn,allopregnanolone,False,False,True,,1
+1993,allopregnolone,allopregnanolone,False,False,True,,7
+1994,allopregnenalone,allopregnanolone,False,False,True,,2
+1995,allopregnenol,allopregnanolone,False,False,False,,-1
+1996,allopregnane,allopregnanolone,False,False,True, pill,3
+1997,allopregnan,allopregnanolone,False,False,True,,9
+1998,allopregn,allopregnanolone,False,False,True,,1
+1999,allopreg,allopregnanolone,False,False,True,,2
+2000,allopr,allopregnanolone,False,False,True,,5
+2001,allopregnenone,allopregnanolone,False,False,False,,-1
+2002,allopregnadione,allopregnanolone,False,False,False,,-1
+2003,allopregnanediol,allopregnanolone,False,False,True,,1
+2004,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+2005,allopregnenalone,allopregnanolone,False,False,True,,2
+2006,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+2007,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2008,allopregnenalone,allopregnanolone,False,False,True,,2
+2009,allopregnanolol,allopregnanolone,False,False,False,,-1
+2010,allopregnenolol,allopregnanolone,False,False,False,,-1
+2011,allopregnanonol,allopregnanolone,False,False,False,,-1
+2012,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+2013,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2014,all-trans-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,False,,-1
+2015,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+2016,"allopregna-4,9-dien-3,20-dione",allopregnanolone,False,False,False,,-1
+2017,allopreg-nanolone,allopregnanolone,False,False,True,,1
+2018,allo-pregnanolone,allopregnanolone,False,False,True,,2
+2019,"5alpha-pregnane-3alpha,21-diol-20-one",allopregnanolone,False,False,True, pill,4
+2020,5alpha-pregnane-3alpha-hydroxy-21-one,allopregnanolone,False,False,True, pill,4
+2021,allopregnanlone,allopregnanolone,False,False,True,,2
+2022,allopreganolone,allopregnanolone,False,False,True,,2
+2023,allopregaenolone,allopregnanolone,False,False,False,,-1
+2024,allopregonolone,allopregnanolone,False,False,False,,-1
+2025,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+2026,allopregnanolone.,allopregnanolone,False,False,True,,1
+2027,allopreg-nanolone,allopregnanolone,False,False,True,,1
+2028,allo-pregnanolone,allopregnanolone,False,False,True,,2
+2029,a-llopregnanolone,allopregnanolone,False,False,True,,2
+2030,allopregnenalone,allopregnanolone,False,False,True,,2
+2031,allo-pregnanolone,allopregnanolone,False,False,True,,2
+2032,allo-pregnanalone,allopregnanolone,False,False,True,,1
+2033,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+2034,5α-pregnan-3α-olone,allopregnanolone,False,False,True, pill,3
+2035,"3α,5α-tetrahydroprogesterone",allopregnanolone,False,False,True,,1
+2036,allopregnanolol,allopregnanolone,False,False,False,,-1
+2037,allopregnenolol,allopregnanolone,False,False,False,,-1
+2038,allopregnanolon,allopregnanolone,False,False,True,,1
+2039,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2040,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2041,allopregnenalone,allopregnanolone,False,False,True,,2
+2042,allopregnan,allopregnanolone,False,False,True,,9
+2043,allopregnen,allopregnanolone,False,False,True, pill,3
+2044,allopreg,allopregnanolone,False,False,True,,2
+2045,allopregnanon,allopregnanolone,False,False,False,,-1
+2046,allopregnanol,allopregnanolone,False,False,True,,4
+2047,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+2048,allopregnaneolone,allopregnanolone,False,False,False,,-1
+2049,allopregnanolol,allopregnanolone,False,False,False,,-1
+2050,5-alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+2051,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+2052,allopregnolone,allopregnanolone,False,False,True,,7
+2053,allopregnanolol,allopregnanolone,False,False,False,,-1
+2054,allopregnanon,allopregnanolone,False,False,False,,-1
+2055,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2056,allopregnenalone,allopregnanolone,False,False,True,,2
+2057,allopregnenolol,allopregnanolone,False,False,False,,-1
+2058,allopregnanolol,allopregnanolone,False,False,False,,-1
+2059,allopregnenalone,allopregnanolone,False,False,True,,2
+2060,allopregnanolol,allopregnanolone,False,False,False,,-1
+2061,allopregnanolon,allopregnanolone,False,False,True,,1
+2062,allopregnenalone,allopregnanolone,False,False,True,,2
+2063,allopregnane,allopregnanolone,False,False,True, pill,3
+2064,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2065,allopregnanolol,allopregnanolone,False,False,False,,-1
+2066,allopregnolone,allopregnanolone,False,False,True,,7
+2067,allopregnanolone_acetate,allopregnanolone,False,True,True,,1
+2068,allopregnanolone_sulfate,allopregnanolone,False,True,True,,1
+2069,allopregnanolone_enanthate,allopregnanolone,False,True,True,,1
+2070,allopregnanolone_propionate,allopregnanolone,False,True,True,,1
+2071,allopregnanolone_butyrate,allopregnanolone,False,True,True,,2
+2072,allopregnanolone_valerate,allopregnanolone,False,True,True,,1
+2073,allopregnanolone_caproate,allopregnanolone,False,True,True,,5
+2074,allopregnanone,allopregnanolone,False,False,True,,1
+2075,allopregnenalone,allopregnanolone,False,False,True,,2
+2076,allopregnanolol,allopregnanolone,False,False,False,,-1
+2077,allopregnanolon,allopregnanolone,False,False,True,,1
+2078,allopregnanolon,allopregnanolone,False,False,True,,1
+2079,allopregnanalol,allopregnanolone,False,False,False,,-1
+2080,allopregnenolol,allopregnanolone,False,False,False,,-1
+2081,allopregnanolon,allopregnanolone,False,False,True,,1
+2082,allopregnenalone,allopregnanolone,False,False,True,,2
+2083,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+2084,allopregnanon,allopregnanolone,False,False,False,,-1
+2085,allopregnane,allopregnanolone,False,False,True, pill,3
+2086,allopregnan,allopregnanolone,False,False,True,,9
+2087,allopregn,allopregnanolone,False,False,True,,1
+2088,allopreg,allopregnanolone,False,False,True,,2
+2089,allopre,allopregnanolone,False,False,False,,-1
+2090,allopr,allopregnanolone,False,False,True,,5
+2091,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2092,allopregnenalone,allopregnanolone,False,False,True,,2
+2093,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2094,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+2095,allopregnanlone,allopregnanolone,False,False,True,,2
+2096,allopregnenalone,allopregnanolone,False,False,True,,2
+2097,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2098,allo-pregnanolone,allopregnanolone,False,False,True,,2
+2099,allopregnenalone,allopregnanolone,False,False,True,,2
+2100,alloprognanolone,allopregnanolone,False,False,False,,-1
+2101,alloprognanalone,allopregnanolone,False,False,False,,-1
+2102,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+2103,5α-pregnane-3α-ol-20-one,allopregnanolone,False,False,True, pill,1
+2104,3α-hydroxy-5α-pregnan-20-one,allopregnanolone,False,False,True,,3
+2105,3α-hydroxy-5α-pregnane-20-one,allopregnanolone,False,False,True, pill,1
+2106,allopregnanolol,allopregnanolone,False,False,False,,-1
+2107,allopregnenol,allopregnanolone,False,False,False,,-1
+2108,allopregnenalone,allopregnanolone,False,False,True,,2
+2109,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+2110,allopregnanolol,allopregnanolone,False,False,False,,-1
+2111,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+2112,allopregnenalone,allopregnanolone,False,False,True,,2
+2113,allopregnan-3-ol-17-one,allopregnanolone,False,False,True,,4
+2114,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+2115,allopregnanlone,allopregnanolone,False,False,True,,2
+2116,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+2117,allopregnanolol,allopregnanolone,False,False,False,,-1
+2118,allopregnanalon,allopregnanolone,False,False,False,,-1
+2119,allopregnanalol,allopregnanolone,False,False,False,,-1
+2120,allopregnanerol,allopregnanolone,False,False,False,,-1
+2121,allopregnenalone,allopregnanolone,False,False,True,,2
+2122,allopregnane,allopregnanolone,False,False,True, pill,3
+2123,allopregnanol,allopregnanolone,False,False,True,,4
+2124,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2125,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+2126,allopregnanediol,allopregnanolone,False,False,True,,1
+2127,allopregnanetriol,allopregnanolone,False,False,True,,9
+2128,allopregnanetriene,allopregnanolone,False,False,False,,-1
+2129,allopregnenetriol,allopregnanolone,False,False,False,,-1
+2130,allopregnanedione,allopregnanolone,False,False,True, pill,2
+2131,allopreganolone,allopregnanolone,False,False,True,,2
+2132,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+2133,allopregnanolol,allopregnanolone,False,False,False,,-1
+2134,allopregnanolon,allopregnanolone,False,False,True,,1
+2135,allopregnanolone_acetate,allopregnanolone,False,True,True,,1
+2136,allopregnanolone_sulfate,allopregnanolone,False,True,True,,1
+2137,pregnenolone,allopregnanolone,pregnenolone,False,True,,8
+2138,allopregnanolol,allopregnanolone,False,False,False,,-1
+2139,allopregnanestrol,allopregnanolone,False,False,False,,-1
+2140,allopregnenecol,allopregnanolone,False,False,False,,-1
+2141,allopregnenetriol,allopregnanolone,False,False,False,,-1
+2142,allopregnetriol,allopregnanolone,False,False,False,,-1
+2143,allopregmenone,allopregnanolone,False,False,False,,-1
+2144,allopregnenol,allopregnanolone,False,False,False,,-1
+2145,allopreg,allopregnanolone,False,False,True,,2
+2146,allo-pregnenolone,allopregnanolone,False,False,True,,1
+2147,allo-pregnenol,allopregnanolone,False,False,True,,1
+2148,allopregnanediol,allopregnanolone,False,False,True,,1
+2149,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+2150,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+2151,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+2152,allopregnan-3-ol-17-one,allopregnanolone,False,False,True,,4
+2153,3alpha-hydroxy-5alpha-pregnane-20-one,allopregnanolone,False,False,True, pill,2
+2154,allopregnolone,allopregnanolone,False,False,True,,7
+2155,allopregnenalone,allopregnanolone,False,False,True,,2
+2156,allopregnanolol,allopregnanolone,False,False,False,,-1
+2157,alloprenalone,allopregnanolone,False,False,False,,-1
+2158,alloprenolone,allopregnanolone,False,False,False,,-1
+2159,all-trans-5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True, pill,2
+2160,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+2161,allopregnanone,allopregnanolone,False,False,True,,1
+2162,5_alpha-pregnan-3_alpha-ol-20-one,allopregnanolone,False,False,True, pill,3
+2163,5_alpha-pregnane-3_alpha-ol-20-one,allopregnanolone,False,False,True, pill,4
+2164,allopregnenalone,allopregnanolone,False,False,True,,2
+2165,allopregnanolol,allopregnanolone,False,False,False,,-1
+2166,allopregnanenolone,allopregnanolone,False,False,False,,-1
+2167,allopregnanenalone,allopregnanolone,False,False,False,,-1
+2168,allopreganolone,allopregnanolone,False,False,True,,2
+2169,allopregnenalone,allopregnanolone,False,False,True,,2
+2170,allopregnanolol,allopregnanolone,False,False,False,,-1
+2171,allopregnenolol,allopregnanolone,False,False,False,,-1
+2172,allopregnanalonol,allopregnanolone,False,False,False,,-1
+2173,allopregnenalonol,allopregnanolone,False,False,False,,-1
+2174,allopregnanadiol,allopregnanolone,False,False,False,,-1
+2175,allopregnendiol,allopregnanolone,False,False,False,,-1
+2176,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+2177,allopregnane,allopregnanolone,False,False,True, pill,3
+2178,allopregnan-3-ol-20-one,allopregnanolone,False,False,True,,5
+2179,3alpha-hydroxy-5alpha-pregnan-20-one,allopregnanolone,False,False,True, pill,2
+2180,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+2181,"3alpha,5alpha-dihydroxy-pregnan-20-one",allopregnanolone,False,False,True, pill,5
+2182,allopregnolone,allopregnanolone,False,False,True,,7
+2183,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+2184,3α-hydroxy-5α-pregnan-20-one,allopregnanolone,False,False,True,,3
+2185,allopregnanolol,allopregnanolone,False,False,False,,-1
+2186,5α-pregnane-3α-ol-20-one,allopregnanolone,False,False,True, pill,1
+2187,5α-pregnane-3α-ol-20-one,allopregnanolone,False,False,True, pill,1
+2188,"allopregna-4,9-dien-3-one",allopregnanolone,False,False,False,,-1
+2189,allopregnan-3-ol,allopregnanolone,False,False,True, pill,3
+2190,4-allopregnan-3-ol,allopregnanolone,False,False,True,,10
+2191,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+2192,5alpha-pregnane-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+2193,allopregnanediol,allopregnanolone,False,False,True,,1
+2194,allopregnanetriol,allopregnanolone,False,False,True,,9
+2195,allopregnadienol,allopregnanolone,False,False,False,,-1
+2196,allopregnatriol,allopregnanolone,False,False,False,,-1
+2197,allopregnanetriene,allopregnanolone,False,False,False,,-1
+2198,allopregnanedione,allopregnanolone,False,False,True, pill,2
+2199,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+2200,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2201,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+2202,allopregnanolol,allopregnanolone,False,False,False,,-1
+2203,allopregnanamide,allopregnanolone,False,False,False,,-1
+2204,allopregna-4-en-3-one,allopregnanolone,False,False,True,,2
+2205,all-trans-5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,9
+2206,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+2207,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+2208,allopregnanon,allopregnanolone,False,False,False,,-1
+2209,allopregnanen,allopregnanolone,False,False,False,,-1
+2210,allopregnane,allopregnanolone,False,False,True, pill,3
+2211,allopregnanal,allopregnanolone,False,False,False,,-1
+2212,allopregnaner,allopregnanolone,False,False,False,,-1
+2213,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2214,allopregnan,allopregnanolone,False,False,True,,9
+2215,allopregnen,allopregnanolone,False,False,True, pill,3
+2216,allopregnetriol,allopregnanolone,False,False,False,,-1
+2217,allopregmatriol,allopregnanolone,False,False,False,,-1
+2218,allopregnenalone,allopregnanolone,False,False,True,,2
+2219,allopregnanlone,allopregnanolone,False,False,True,,2
+2220,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2221,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2222,allopreg-3-en-17-ol,allopregnanolone,False,False,True,,1
+2223,allopregnanolol,allopregnanolone,False,False,False,,-1
+2224,allopregnenolol,allopregnanolone,False,False,False,,-1
+2225,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+2226,allopregnan,allopregnanolone,False,False,True,,9
+2227,allopregnen,allopregnanolone,False,False,True, pill,3
+2228,"allopregna-4,9-dien-3-one",allopregnanolone,False,False,False,,-1
+2229,allopregnan-3-ol,allopregnanolone,False,False,True, pill,3
+2230,allopregn-4-en-3-one,allopregnanolone,False,False,True,,2
+2231,4-allopregnan-3-ol,allopregnanolone,False,False,True,,10
+2232,allopregnenalone,allopregnanolone,False,False,True,,2
+2233,alloprenanolone,allopregnanolone,False,False,True,,2
+2234,alloprenalone,allopregnanolone,False,False,False,,-1
+2235,allopregnane,allopregnanolone,False,False,True, pill,3
+2236,alloprene,allopregnanolone,False,False,False,,-1
+2237,"allopregna-4,9-diene-3,20-dione",allopregnanolone,False,False,False,,-1
+2238,allopregnenalone,allopregnanolone,False,False,True,,2
+2239,allopregnanolol,allopregnanolone,False,False,False,,-1
+2240,allopregnenolol,allopregnanolone,False,False,False,,-1
+2241,allopregnanalonol,allopregnanolone,False,False,False,,-1
+2242,allopregnenalonol,allopregnanolone,False,False,False,,-1
+2243,allopregnenalone,allopregnanolone,False,False,True,,2
+2244,allopregnanolonel,allopregnanolone,False,False,True,,1
+2245,allopregnel,allopregnanolone,False,False,False,,-1
+2246,allopregnene,allopregnanolone,False,False,False,,-1
+2247,allopregnenal,allopregnanolone,False,False,False,,-1
+2248,allopregneneline,allopregnanolone,False,False,False,,-1
+2249,allopregnanolol,allopregnanolone,False,False,False,,-1
+2250,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2251,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+2252,allopregnanolol,allopregnanolone,False,False,False,,-1
+2253,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+2254,allopregnanolol,allopregnanolone,False,False,False,,-1
+2255,allopregnanolon,allopregnanolone,False,False,True,,1
+2256,allopregnenalone,allopregnanolone,False,False,True,,2
+2257,allopregnanol,allopregnanolone,False,False,True,,4
+2258,allopregnan,allopregnanolone,False,False,True,,9
+2259,allopregna,allopregnanolone,False,False,True,,1
+2260,allopreg,allopregnanolone,False,False,True,,2
+2261,allopr,allopregnanolone,False,False,True,,5
+2262,allop,allopregnanolone,False,False,True,,3
+2263,allo,allopregnanolone,False,False,False,,-1
+2264,allopregnenolol,allopregnanolone,False,False,False,,-1
+2265,allopregnanonolone,allopregnanolone,False,False,False,,-1
+2266,allopregnanenolone,allopregnanolone,False,False,False,,-1
+2267,allopregnanapregnanolone,allopregnanolone,False,False,False,,-1
+2268,allopregnenecololone,allopregnanolone,False,False,False,,-1
+2269,allopregnanecolone,allopregnanolone,False,False,False,,-1
+2270,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2271,allopregnanolol,allopregnanolone,False,False,False,,-1
+2272,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2273,allopregnonolone,allopregnanolone,False,False,True, pill,1
+2274,allopregnanonolone,allopregnanolone,False,False,False,,-1
+2275,allopregnenalone,allopregnanolone,False,False,True,,2
+2276,allopregnenalone,allopregnanolone,False,False,True,,2
+2277,"allopregna-3,5-diol",allopregnanolone,False,False,True, pill,1
+2278,"allopregn-3,5-diol",allopregnanolone,False,False,True, pill,1
+2279,"allopregna-4,9-dien-3,5-diol",allopregnanolone,False,False,False,,-1
+2280,"allopregn-4,9-dien-3,5-diol",allopregnanolone,False,False,False,,-1
+2281,"5α-pregnane-3α,4α,5α-triol",allopregnanolone,False,False,False,,-1
+2282,"5α-pregn-3α,4α,5α-triol",allopregnanolone,False,False,False,,-1
+2283,allopregnenalone,allopregnanolone,False,False,True,,2
+2284,"allopregna-4,9-dien-3,20-dione",allopregnanolone,False,False,False,,-1
+2285,"4,9-dihydroprogesterone",allopregnanolone,False,False,False,,-1
+2286,alloprerganolone,allopregnanolone,False,False,False,,-1
+2287,allopregnan,allopregnanolone,False,False,True,,9
+2288,allopregnen,allopregnanolone,False,False,True, pill,3
+2289,alloprergan,allopregnanolone,False,False,False,,-1
+2290,allopregnanol,allopregnanolone,False,False,True,,4
+2291,allopregnenol,allopregnanolone,False,False,False,,-1
+2292,allopregnan,allopregnanolone,False,False,True,,9
+2293,allopregnanol,allopregnanolone,False,False,True,,4
+2294,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+2295,"allopregna-4,9-dien-3,20-dione",allopregnanolone,False,False,False,,-1
+2296,"allopregnane-4,9-dien-3,20-dione",allopregnanolone,False,False,True,,6
+2297,"4,9-pregnadien-3,20-dione",allopregnanolone,False,False,False,,-1
+2298,allopregnanolol,allopregnanolone,False,False,False,,-1
+2299,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2300,allopregnenalone,allopregnanolone,False,False,True,,2
+2301,allobetanetetrol,allopregnanolone,False,False,False,,-1
+2302,allopregnenalone,allopregnanolone,False,False,True,,2
+2303,allopregnanolol,allopregnanolone,False,False,False,,-1
+2304,allopregnenolol,allopregnanolone,False,False,False,,-1
+2305,allopregnaloneol,allopregnanolone,False,False,False,,-1
+2306,allopregnanaloneol,allopregnanolone,False,False,False,,-1
+2307,allopregnanoloneol,allopregnanolone,False,False,False,,-1
+2308,allopregnolone,allopregnanolone,False,False,True,,7
+2309,allopregnan,allopregnanolone,False,False,True,,9
+2310,allopregnane,allopregnanolone,False,False,True, pill,3
+2311,allopregnanol,allopregnanolone,False,False,True,,4
+2312,allopregnanoln,allopregnanolone,False,False,False,,-1
+2313,all-trans-pregnen-3-ol-20-one,allopregnanolone,False,False,True, pill,8
+2314,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+2315,"allopregna-4-ene-3,20-dione",allopregnanolone,False,False,True,,6
+2316,"allopregn-4-ene-3,20-dione",allopregnanolone,False,False,True,,3
+2317,"(3alpha,5alpha)-pregnan-20-one",allopregnanolone,False,False,True,,8
+2318,allospregnenolone,allopregnanolone,False,False,False,,-1
+2319,allopregnenalone,allopregnanolone,False,False,True,,2
+2320,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+2321,allopregnolone,allopregnanolone,False,False,True,,7
+2322,allopreganolone,allopregnanolone,False,False,True,,2
+2323,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+2324,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+2325,allopregnenalone,allopregnanolone,False,False,True,,2
+2326,allo-pregnanolone,allopregnanolone,False,False,True,,2
+2327,allo-pregnanalone,allopregnanolone,False,False,True,,1
+2328,5α-preg-3α-ol-20-one,allopregnanolone,False,False,True,,6
+2329,pregnenolone,allopregnanolone,pregnenolone,False,True,,8
+2330,"allopregna-4,16-dien-3-one",allopregnanolone,False,False,False,,-1
+2331,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+2332,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+2333,allopregnanolon,allopregnanolone,False,False,True,,1
+2334,allopregnenalone,allopregnanolone,False,False,True,,2
+2335,allopregnetriol,allopregnanolone,False,False,False,,-1
+2336,allopregnanolol,allopregnanolone,False,False,False,,-1
+2337,allopregnenalone,allopregnanolone,False,False,True,,2
+2338,allopregnanalon,allopregnanolone,False,False,False,,-1
+2339,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+2340,allopregnenanolone,allopregnanolone,False,False,True,,1
+2341,allopregnenalone,allopregnanolone,False,False,True,,2
+2342,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+2343,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2344,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+2345,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2346,allopregnenalone,allopregnanolone,False,False,True,,2
+2347,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+2348,5alpha-pregnane-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+2349,5beta-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+2350,5-pregnen-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,4
+2351,5-pregnane-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+2352,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+2353,"allopregna-4,9-diene-3,20-dione",allopregnanolone,False,False,False,,-1
+2354,4α-pregnan-3α-ol-20-one,allopregnanolone,False,False,False,,-1
+2355,allopregnanediol,allopregnanolone,False,False,True,,1
+2356,allopregnanediol,allopregnanolone,False,False,True,,1
+2357,allopregnanolol,allopregnanolone,False,False,False,,-1
+2358,allopregnenalone,allopregnanolone,False,False,True,,2
+2359,allopregnanol,allopregnanolone,False,False,True,,4
+2360,allopregnanetriol,allopregnanolone,False,False,True,,9
+2361,allopregnenolol,allopregnanolone,False,False,False,,-1
+2362,allopregnanetetrol,allopregnanolone,False,False,False,,-1
+2363,allopregnanetriol,allopregnanolone,False,False,True,,9
+2364,allopregnanolol,allopregnanolone,False,False,False,,-1
+2365,allopregnanonol,allopregnanolone,False,False,False,,-1
+2366,alloprepnanolone,allopregnanolone,False,False,False,,-1
+2367,allopregnitol,allopregnanolone,False,False,False,,-1
+2368,alloprenalone,allopregnanolone,False,False,False,,-1
+2369,allopregnolone,allopregnanolone,False,False,True,,7
+2370,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+2371,allopregnenalone,allopregnanolone,False,False,True,,2
+2372,allopregnanolol,allopregnanolone,False,False,False,,-1
+2373,allopregnadiol,allopregnanolone,False,False,False,,-1
+2374,allopregnatriol,allopregnanolone,False,False,False,,-1
+2375,allopregnanetriol,allopregnanolone,False,False,True,,9
+2376,allopregnahexol,allopregnanolone,False,False,False,,-1
+2377,allopregnapentol,allopregnanolone,False,False,False,,-1
+2378,allopregnanalol,allopregnanolone,False,False,False,,-1
+2379,allopregnananol,allopregnanolone,False,False,False,,-1
+2380,allopregnenalone,allopregnanolone,False,False,True,,2
+2381,allopregnanolon,allopregnanolone,False,False,True,,1
+2382,allopregnenalone,allopregnanolone,False,False,True,,2
+2383,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+2384,allopregnan,allopregnanolone,False,False,True,,9
+2385,allopregnanal,allopregnanolone,False,False,False,,-1
+2386,allopregnanol,allopregnanolone,False,False,True,,4
+2387,allopregnen,allopregnanolone,False,False,True, pill,3
+2388,allopregnanoid,allopregnanolone,False,False,False,,-1
+2389,allopregnanon,allopregnanolone,False,False,False,,-1
+2390,allopregnenalone,allopregnanolone,False,False,True,,2
+2391,allopregnenalone,allopregnanolone,False,False,True,,2
+2392,allopregnane,allopregnanolone,False,False,True, pill,3
+2393,allopregnanediol,allopregnanolone,False,False,True,,1
+2394,allopregnanediolone,allopregnanolone,False,False,False,,-1
+2395,allopregnanedione,allopregnanolone,False,False,True, pill,2
+2396,allopregnanetriol,allopregnanolone,False,False,True,,9
+2397,"allopregnane-3,20-dione",allopregnanolone,False,False,True, pill,6
+2398,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+2399,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+2400,allopregnolone,allopregnanolone,False,False,True,,7
+2401,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2402,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2403,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+2404,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2405,allopregnanolol,allopregnanolone,False,False,False,,-1
+2406,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+2407,allopregnolone,allopregnanolone,False,False,True,,7
+2408,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+2409,allopregnolone,allopregnanolone,False,False,True,,7
+2410,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+2411,allopregnenalone,allopregnanolone,False,False,True,,2
+2412,allopregnanolol,allopregnanolone,False,False,False,,-1
+2413,allopregnane,allopregnanolone,False,False,True, pill,3
+2414,allopregnan,allopregnanolone,False,False,True,,9
+2415,allo-pregnane,allopregnanolone,False,False,True, pill,1
+2416,allopreg,allopregnanolone,False,False,True,,2
+2417,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+2418,allopregnenolol,allopregnanolone,False,False,False,,-1
+2419,allopregnanediol,allopregnanolone,False,False,True,,1
+2420,allopregnenetriol,allopregnanolone,False,False,False,,-1
+2421,allopregnanetriene,allopregnanolone,False,False,False,,-1
+2422,allopregnenol,allopregnanolone,False,False,False,,-1
+2423,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+2424,5α-pregnane-3α-ol-20-one,allopregnanolone,False,False,True, pill,1
+2425,3α-hydroxy-5α-pregnan-20-one,allopregnanolone,False,False,True,,3
+2426,"3α,5α-pregnan-20-one",allopregnanolone,False,False,True, pill,2
+2427,"(3α,5α)-pregnan-20-one",allopregnanolone,False,False,True, pill,2
+2428,pregnan-3α-ol-20-one,allopregnanolone,False,False,True, pill,2
+2429,allopregnanone,allopregnanolone,False,False,True,,1
+2430,allopreg,allopregnanolone,False,False,True,,2
+2431,allop,allopregnanolone,False,False,True,,3
+2432,allopregnenalone,allopregnanolone,False,False,True,,2
+2433,allo-pregnanolone,allopregnanolone,False,False,True,,2
+2434,allo-pregnenolone,allopregnanolone,False,False,True,,1
+2435,allopregnenalone,allopregnanolone,False,False,True,,2
+2436,allopregnan,allopregnanolone,False,False,True,,9
+2437,allopreg,allopregnanolone,False,False,True,,2
+2438,allopregnanonolone,allopregnanolone,False,False,False,,-1
+2439,allopregmanolone,allopregnanolone,False,False,False,,-1
+2440,allopreganolone,allopregnanolone,False,False,True,,2
+2441,allopregnalone,allopregnanolone,allopregnanolone,True,True,,6
+2442,allopregnenalone,allopregnanolone,False,False,True,,2
+2443,allopregnenalone,allopregnanolone,False,False,True,,2
+2444,allopregnantalone,allopregnanolone,False,False,False,,-1
+2445,allopregnenalone,allopregnanolone,False,False,True,,2
+2446,alloprernanolone,allopregnanolone,False,False,False,,-1
+2447,alloprernanalone,allopregnanolone,False,False,False,,-1
+2448,pregnenolone,allopregnanolone,pregnenolone,False,True,,8
+2449,allopregnanolol,allopregnanolone,False,False,False,,-1
+2450,allopregnenalone,allopregnanolone,False,False,True,,2
+2451,5-allopregnan-3alpha-ol-20-one,allopregnanolone,False,False,True,,1
+2452,5-allopregnan-3α-ol-20-one,allopregnanolone,False,False,True,,3
+2453,"(3α,5α)-allopregnan-20-one",allopregnanolone,False,False,True,,3
+2454,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+2455,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+2456,allopregnanon,allopregnanolone,False,False,False,,-1
+2457,allopregnanol,allopregnanolone,False,False,True,,4
+2458,allopregnan_one,allopregnanolone,False,False,True,,10
+2459,allopregnon,allopregnanolone,False,False,False,,-1
+2460,allopregnen,allopregnanolone,False,False,True, pill,3
+2461,allopreg,allopregnanolone,False,False,True,,2
+2462,alloenergen,allopregnanolone,False,False,False,,-1
+2463,allopresanolone,allopregnanolone,False,False,False,,-1
+2464,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2465,allopresanol,allopregnanolone,False,False,False,,-1
+2466,allopregnane,allopregnanolone,False,False,True, pill,3
+2467,allopresan,allopregnanolone,False,False,False,,-1
+2468,allopregnane,allopregnanolone,False,False,True, pill,3
+2469,allopregnan,allopregnanolone,False,False,True,,9
+2470,allopregn,allopregnanolone,False,False,True,,1
+2471,allopreg,allopregnanolone,False,False,True,,2
+2472,allopre,allopregnanolone,False,False,False,,-1
+2473,allopr,allopregnanolone,False,False,True,,5
+2474,allo,allopregnanolone,False,False,False,,-1
+2475,allopregnanolol,allopregnanolone,False,False,False,,-1
+2476,allopregnanalone,allopregnanolone,allopregnanolone,True,True, pill,1
+2477,allopregnanon,allopregnanolone,False,False,False,,-1
+2478,allopreganolone,allopregnanolone,False,False,True,,2
+2479,allopreganalone,allopregnanolone,False,False,False,,-1
+2480,allopregnenalone,allopregnanolone,False,False,True,,2
+2481,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2482,allopregnan,allopregnanolone,False,False,True,,9
+2483,allopregnen,allopregnanolone,False,False,True, pill,3
+2484,allopreg,allopregnanolone,False,False,True,,2
+2485,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2486,allopregnan-3alpha-ol-20-one,allopregnanolone,False,False,True,,2
+2487,allopregnanolone_sulfate,allopregnanolone,False,True,True,,1
+2488,3alpha-oh-5alpha-pregnan-20-one,allopregnanolone,False,False,True, pill,3
+2489,5alpha-pregnane-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+2490,5alpha-pregn-5-en-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,3
+2491,allopregnenalone,allopregnanolone,False,False,True,,2
+2492,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+2493,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2494,allopregnalone,allopregnanolone,allopregnanolone,True,True,,6
+2495,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+2496,allopregn-4-en-3-one,allopregnanolone,False,False,True,,2
+2497,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+2498,allopregnolone,allopregnanolone,False,False,True,,7
+2499,allopregnanol,allopregnanolone,False,False,True,,4
+2500,allopregnan,allopregnanolone,False,False,True,,9
+2501,allopreg,allopregnanolone,False,False,True,,2
+2502,allopr,allopregnanolone,False,False,True,,5
+2503,allo,allopregnanolone,False,False,False,,-1
+2504,al,allopregnanolone,albendazole,False,False,,-1
+2505,a,allopregnanolone,False,False,False,,-1
+2506,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+2507,allopregnanalolone,allopregnanolone,False,False,False,,-1
+2508,allopregnanenolone,allopregnanolone,False,False,False,,-1
+2509,allopregnanone,allopregnanolone,False,False,True,,1
+2510,allopregnolone,allopregnanolone,False,False,True,,7
+2511,allopregnanolol,allopregnanolone,False,False,False,,-1
+2512,allopregnanonol,allopregnanolone,False,False,False,,-1
+2513,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2514,allopregnenalone,allopregnanolone,False,False,True,,2
+2515,allopreganolone,allopregnanolone,False,False,True,,2
+2516,allopreganalone,allopregnanolone,False,False,False,,-1
+2517,alloprogesterone,allopregnanolone,False,False,True,,1
+2518,allopregnanolol,allopregnanolone,False,False,False,,-1
+2519,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2520,alopregnanolone,allopregnanolone,False,False,True,,2
+2521,alloregenolone,allopregnanolone,False,False,False,,-1
+2522,allopregna-4-en-3-one,allopregnanolone,False,False,True,,2
+2523,allopregnan-4-en-3-one,allopregnanolone,False,False,True,,5
+2524,allopregn-4-en-3-one,allopregnanolone,False,False,True,,2
+2525,5α-pregnan-3α-ol-20-one,allopregnanolone,False,False,True,,9
+2526,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2527,allopregnenol,allopregnanolone,False,False,False,,-1
+2528,allo-pregnanolone,allopregnanolone,False,False,True,,2
+2529,allopregnen-3-ol-20-one,allopregnanolone,False,False,True,,4
+2530,allopregnenolone,allopregnanolone,allopregnanolone,True,True,,9
+2531,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+2532,allopregnanolone_sulfate,allopregnanolone,False,True,True,,1
+2533,5alpha-pregnan-3alpha-ol-20-one,allopregnanolone,False,False,True, pill,2
+2534,allopregnanolone,allopregnanolone,allopregnanolone,True,True,,1
+2535,allopregnenalone,allopregnanolone,False,False,True,,2
+2536,pregnanolone,allopregnanolone,eltanolone,False,True,,10
+2537,pregnenolone,allopregnanolone,pregnenolone,False,True,,8
+2538,5α-pregnane-3α-ol-20-one,allopregnanolone,False,False,True, pill,1
+2539,allopregnenalone,allopregnanolone,False,False,True,,2

@@ -1,0 +1,4361 @@
+,GPT-3 term,seed for prompt,Seed of GPT-3 term in RedMed,RedMed term inside GPT-3 term,Google,Google added token,Google depth
+0,coca_leaves,cocaine,False,False,True,,1
+1,flake,cocaine,False,False,False,,-1
+2,freebase,cocaine,cocaine,False,True,,9
+3,nose_candy,cocaine,cocaine,False,True, pill,3
+4,powder,cocaine,False,False,True, drug,1
+5,snow,cocaine,False,False,True,,3
+6,contains_cocaine,cocaine,False,True,True,,1
+7,c-note,cocaine,False,False,False,,-1
+8,candy,cocaine,False,False,False,,-1
+9,charlie,cocaine,False,False,True,,7
+10,coke,cocaine,False,False,True,,4
+11,crack,cocaine,False,False,True,,2
+12,flake,cocaine,False,False,False,,-1
+13,freebase,cocaine,cocaine,False,True,,9
+14,highway_colombiana,cocaine,False,False,True, pill,4
+15,lacrimosa,cocaine,False,False,False,,-1
+16,lady,cocaine,False,False,False,,-1
+17,mojo,cocaine,False,False,False,,-1
+18,nose_candy,cocaine,cocaine,False,True, pill,3
+19,nose_powder,cocaine,False,False,True, pill,9
+20,perica,cocaine,False,False,True, slang,1
+21,peruvian,cocaine,False,False,False,,-1
+22,pisa,cocaine,False,False,False,,-1
+23,rock,cocaine,False,False,False,,-1
+24,snow,cocaine,False,False,True,,3
+25,stardust,cocaine,False,False,False,,-1
+26,sugar,cocaine,False,False,False,,-1
+27,sweet,cocaine,False,False,True, drug,8
+28,white,cocaine,filgrastim,False,False,,-1
+29,white_devil,cocaine,False,False,True, slang,6
+30,kola,cocaine,False,False,False,,-1
+31,koka,cocaine,False,False,True, drug,4
+32,koke,cocaine,False,False,True, slang,3
+33,kole,cocaine,False,False,False,,-1
+34,koral,cocaine,False,False,False,,-1
+35,korat,cocaine,False,False,False,,-1
+36,korban,cocaine,False,False,False,,-1
+37,cocaine_fluoride,cocaine,False,True,True,,1
+38,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+39,cocainize,cocaine,False,False,True,,4
+40,cocainomimetic,cocaine,False,False,False,,-1
+41,cocainophagia,cocaine,False,False,True,,1
+42,cocainotherapy,cocaine,False,False,False,,-1
+43,cocainize,cocaine,False,False,True,,4
+44,kokain,cocaine,cocaine,True,True,,1
+45,cocaina,cocaine,cocaine,True,True,,2
+46,kokaino,cocaine,False,False,True, pill,1
+47,rock,cocaine,False,False,False,,-1
+48,blow,cocaine,False,False,True,,2
+49,powder,cocaine,False,False,True, drug,1
+50,white,cocaine,filgrastim,False,False,,-1
+51,nose_candy,cocaine,cocaine,False,True, pill,3
+52,peruvian_marching_powder,cocaine,False,False,True,,1
+53,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+54,quaaludes,cocaine,methaqualone,False,False,,-1
+55,pilocarpine,cocaine,pilocarpine,False,False,,-1
+56,phencyclidine,cocaine,phencyclidine,False,False,,-1
+57,scopolamine,cocaine,scopolamine,False,False,,-1
+58,strychnine,cocaine,False,False,False,,-1
+59,atropine,cocaine,hyoscyamine,False,True,,7
+60,nose_candy,cocaine,cocaine,False,True, pill,3
+61,coccredit,cocaine,False,False,False,,-1
+62,coccry,cocaine,False,False,False,,-1
+63,cockie,cocaine,False,False,True, drug,10
+64,coken,cocaine,False,False,True, pill,4
+65,cola,cocaine,False,False,True,,8
+66,came,cocaine,False,False,False,,-1
+67,candy,cocaine,False,False,False,,-1
+68,kokain,cocaine,cocaine,True,True,,1
+69,koka,cocaine,False,False,True, drug,4
+70,kola,cocaine,False,False,False,,-1
+71,yopo,cocaine,False,False,False,,-1
+72,ercotics,cocaine,False,False,False,,-1
+73,fiontaine,cocaine,False,False,False,,-1
+74,conway,cocaine,False,False,False,,-1
+75,cordiac,cocaine,False,False,False,,-1
+76,cork,cocaine,False,False,False,,-1
+77,correct,cocaine,False,False,False,,-1
+78,cossack,cocaine,False,False,False,,-1
+79,costa,cocaine,False,False,False,,-1
+80,court,cocaine,False,False,False,,-1
+81,coke,cocaine,False,False,True,,4
+82,crack,cocaine,False,False,True,,2
+83,freebase,cocaine,cocaine,False,True,,9
+84,nose_candy,cocaine,cocaine,False,True, pill,3
+85,snow,cocaine,False,False,True,,3
+86,toot,cocaine,False,False,True, drug,6
+87,white,cocaine,filgrastim,False,False,,-1
+88,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+89,cain,cocaine,False,False,True, drug,5
+90,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+91,cocaina,cocaine,cocaine,True,True,,2
+92,cocain,cocaine,cocaine,True,True,,2
+93,kokain,cocaine,cocaine,True,True,,1
+94,kokaïn,cocaine,False,False,True,,6
+95,cocaïne,cocaine,False,False,True,,2
+96,cocaine,cocaine,cocaine,True,True,,4
+97,perico,cocaine,cocaine,False,True,,5
+98,polvo,cocaine,False,False,False,,-1
+99,paco,cocaine,False,False,True,,4
+100,yayo,cocaine,cocaine,False,True, pill,5
+101,c,cocaine,False,False,False,,-1
+102,white_horse,cocaine,filgrastim,False,True, drug,7
+103,tractor,cocaine,False,False,True, drug,9
+104,crack_cocaine,cocaine,False,True,True,,1
+105,crystal_meth,cocaine,methamphetamine,False,False,,-1
+106,laine,cocaine,False,False,False,,-1
+107,cocain,cocaine,cocaine,True,True,,2
+108,coke,cocaine,False,False,True,,4
+109,cocainum,cocaine,cocaine,True,True, pill,1
+110,cocain,cocaine,cocaine,True,True,,2
+111,cocaine,cocaine,cocaine,True,True,,4
+112,crack_cocaine,cocaine,False,True,True,,1
+113,freebase_cocaine,cocaine,False,True,True,,1
+114,flake,cocaine,False,False,False,,-1
+115,nose_candy,cocaine,cocaine,False,True, pill,3
+116,powder,cocaine,False,False,True, drug,1
+117,snow,cocaine,False,False,True,,3
+118,coke,cocaine,False,False,True,,4
+119,blow,cocaine,False,False,True,,2
+120,nose_candy,cocaine,cocaine,False,True, pill,3
+121,white,cocaine,filgrastim,False,False,,-1
+122,powder,cocaine,False,False,True, drug,1
+123,bergamot,cocaine,False,False,False,,-1
+124,crack_cocaine,cocaine,False,True,True,,1
+125,peruvian_flake,cocaine,False,False,True, pill,7
+126,peruvian_marching_powder,cocaine,False,False,True,,1
+127,boliviana,cocaine,False,False,True, drug,5
+128,chalk,cocaine,calcium_carbonate,False,False,,-1
+129,peruvian,cocaine,False,False,False,,-1
+130,cocain,cocaine,cocaine,True,True,,2
+131,cocaine,cocaine,cocaine,True,True,,4
+132,coke,cocaine,False,False,True,,4
+133,crack,cocaine,False,False,True,,2
+134,cocaating,cocaine,False,False,True, pill,3
+135,cocating,cocaine,False,False,False,,-1
+136,cokeine,cocaine,False,False,True, pill,1
+137,cocane,cocaine,cocaine,True,True,,1
+138,kokaine,cocaine,cocaine,True,True, pill,1
+139,cacaine,cocaine,cocaine,True,True,,8
+140,cocain,cocaine,cocaine,True,True,,2
+141,coke,cocaine,False,False,True,,4
+142,crak,cocaine,False,False,True, pill,2
+143,blow,cocaine,False,False,True,,2
+144,nose_candy,cocaine,cocaine,False,True, pill,3
+145,white,cocaine,filgrastim,False,False,,-1
+146,yayo,cocaine,cocaine,False,True, pill,5
+147,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+148,codine,cocaine,False,False,False,,-1
+149,caine,cocaine,lidocaine,False,True, drug,4
+150,codene,cocaine,codeine,False,False,,-1
+151,kethan,cocaine,False,False,False,,-1
+152,quaalude,cocaine,methaqualone,False,False,,-1
+153,speed,cocaine,False,False,True,,4
+154,uppers,cocaine,False,False,False,,-1
+155,cocaina,cocaine,cocaine,True,True,,2
+156,cocaline,cocaine,False,False,True, pill,1
+157,cdevil's_dandruff,cocaine,False,False,True, drug,1
+158,flake,cocaine,False,False,False,,-1
+159,snow,cocaine,False,False,True,,3
+160,white,cocaine,filgrastim,False,False,,-1
+161,nose_candy,cocaine,cocaine,False,True, pill,3
+162,cocain,cocaine,cocaine,True,True,,2
+163,cocaine,cocaine,cocaine,True,True,,4
+164,cocainum,cocaine,cocaine,True,True, pill,1
+165,hydracin,cocaine,False,False,False,,-1
+166,novacaine,cocaine,procaine,False,False,,-1
+167,procaine,cocaine,procaine,False,True,,4
+168,crack,cocaine,False,False,True,,2
+169,dust,cocaine,False,False,True,,4
+170,flake,cocaine,False,False,False,,-1
+171,freebase,cocaine,cocaine,False,True,,9
+172,nose_candy,cocaine,cocaine,False,True, pill,3
+173,powder,cocaine,False,False,True, drug,1
+174,rock,cocaine,False,False,False,,-1
+175,speedball,cocaine,False,False,True,,1
+176,cocain,cocaine,cocaine,True,True,,2
+177,cocaine,cocaine,cocaine,True,True,,4
+178,dihydrocodeinone,cocaine,hydrocodone,False,False,,-1
+179,codeine,cocaine,codeine,False,False,,-1
+180,the_white,cocaine,False,False,True, slang,6
+181,perk,cocaine,False,False,False,,-1
+182,powder,cocaine,False,False,True, drug,1
+183,white,cocaine,filgrastim,False,False,,-1
+184,blow,cocaine,False,False,True,,2
+185,nose_candy,cocaine,cocaine,False,True, pill,3
+186,flake,cocaine,False,False,False,,-1
+187,freebase,cocaine,cocaine,False,True,,9
+188,cocaethylene,cocaine,False,False,True,,2
+189,levamisole,cocaine,levamisole,False,True,,5
+190,kokain,cocaine,cocaine,True,True,,1
+191,koka,cocaine,False,False,True, drug,4
+192,koakain,cocaine,False,False,True, pill,1
+193,kokaina,cocaine,False,False,True,,5
+194,kokaïn,cocaine,False,False,True,,6
+195,kokayin,cocaine,False,False,True,,1
+196,koke,cocaine,False,False,True, slang,3
+197,coca,cocaine,False,False,True,,4
+198,crack,cocaine,False,False,True,,2
+199,cocainium,cocaine,False,False,False,,-1
+200,cockain,cocaine,False,False,True, pill,1
+201,kokain,cocaine,cocaine,True,True,,1
+202,koke,cocaine,False,False,True, slang,3
+203,koks,cocaine,False,False,True, pill,5
+204,cocain,cocaine,cocaine,True,True,,2
+205,cocainum,cocaine,cocaine,True,True, pill,1
+206,kokain,cocaine,cocaine,True,True,,1
+207,kokainu,cocaine,False,False,True,,6
+208,coke,cocaine,False,False,True,,4
+209,vicodin,cocaine,hydrocodone,False,False,,-1
+210,oxycontin,cocaine,oxycodone,False,False,,-1
+211,morphine,cocaine,morphine,False,False,,-1
+212,cocainen,cocaine,False,False,True,,1
+213,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+214,crack,cocaine,False,False,True,,2
+215,cocci-na,cocaine,False,False,False,,-1
+216,coci-nae,cocaine,False,False,True, pill,1
+217,cocainum,cocaine,cocaine,True,True, pill,1
+218,cocaine,cocaine,cocaine,True,True,,4
+219,cocaine,cocaine,cocaine,True,True,,4
+220,caine,cocaine,lidocaine,False,True, drug,4
+221,cocainum,cocaine,cocaine,True,True, pill,1
+222,cocainehydrochloride,cocaine,False,False,True,,1
+223,coke,cocaine,False,False,True,,4
+224,speedball,cocaine,False,False,True,,1
+225,white_powder,cocaine,False,False,True, pill,6
+226,nose_candy,cocaine,cocaine,False,True, pill,3
+227,powder,cocaine,False,False,True, drug,1
+228,charlie,cocaine,False,False,True,,7
+229,dragon,cocaine,False,False,False,,-1
+230,koka,cocaine,False,False,True, drug,4
+231,rocks,cocaine,False,False,True,,1
+232,blow,cocaine,False,False,True,,2
+233,nose_candy,cocaine,cocaine,False,True, pill,3
+234,white,cocaine,filgrastim,False,False,,-1
+235,yayo,cocaine,cocaine,False,True, pill,5
+236,powder,cocaine,False,False,True, drug,1
+237,coke,cocaine,False,False,True,,4
+238,koke,cocaine,False,False,True, slang,3
+239,cocaethylene,cocaine,False,False,True,,2
+240,coca,cocaine,False,False,True,,4
+241,crack,cocaine,False,False,True,,2
+242,kocaine,cocaine,False,False,True, pill,1
+243,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+244,cocain,cocaine,cocaine,True,True,,2
+245,kokaïne,cocaine,False,False,True,,1
+246,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+247,crack,cocaine,False,False,True,,2
+248,cocainist,cocaine,False,False,True,,1
+249,cocainize,cocaine,False,False,True,,4
+250,cocainomania,cocaine,False,False,True,,1
+251,cocainomaniac,cocaine,False,False,True,,1
+252,cocainophilia,cocaine,False,False,False,,-1
+253,cocainophilic,cocaine,False,False,False,,-1
+254,cocal,cocaine,False,False,True, pill,4
+255,peruvian_flake,cocaine,False,False,True, pill,7
+256,marching_powder,cocaine,False,False,True,,5
+257,bolivian_marching_powder,cocaine,False,False,True,,3
+258,peruvian_snow,cocaine,False,False,True, pill,5
+259,sheeba,cocaine,False,False,False,,-1
+260,peruvian,cocaine,False,False,False,,-1
+261,coke,cocaine,False,False,True,,4
+262,cocainezine,cocaine,False,False,True,,10
+263,cola,cocaine,False,False,True,,8
+264,powder,cocaine,False,False,True, drug,1
+265,rock,cocaine,False,False,False,,-1
+266,crack,cocaine,False,False,True,,2
+267,moraine,cocaine,False,False,False,,-1
+268,vermaine,cocaine,False,False,False,,-1
+269,kokaine,cocaine,cocaine,True,True, pill,1
+270,koke,cocaine,False,False,True, slang,3
+271,koker,cocaine,False,False,False,,-1
+272,kola,cocaine,False,False,False,,-1
+273,kolly,cocaine,False,False,False,,-1
+274,kora,cocaine,False,False,False,,-1
+275,korker,cocaine,False,False,False,,-1
+276,methylbenzoylecgonine,cocaine,False,False,True,,2
+277,cocain,cocaine,cocaine,True,True,,2
+278,cocainum,cocaine,cocaine,True,True, pill,1
+279,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+280,cocaina,cocaine,cocaine,True,True,,2
+281,soda,cocaine,False,False,False,,-1
+282,blow,cocaine,False,False,True,,2
+283,yayo,cocaine,cocaine,False,True, pill,5
+284,white,cocaine,filgrastim,False,False,,-1
+285,powder,cocaine,False,False,True, drug,1
+286,kokain,cocaine,cocaine,True,True,,1
+287,kokaine,cocaine,cocaine,True,True, pill,1
+288,koke,cocaine,False,False,True, slang,3
+289,kokey,cocaine,False,False,True, drug,2
+290,koks,cocaine,False,False,True, pill,5
+291,koky,cocaine,False,False,False,,-1
+292,kokee,cocaine,False,False,False,,-1
+293,dulcine,cocaine,False,False,False,,-1
+294,laudanum,cocaine,morphine,False,False,,-1
+295,cocain,cocaine,cocaine,True,True,,2
+296,kocaine,cocaine,False,False,True, pill,1
+297,cocainomine,cocaine,False,False,True,,4
+298,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+299,koke,cocaine,False,False,True, slang,3
+300,kakain,cocaine,False,False,True, pill,4
+301,coke,cocaine,False,False,True,,4
+302,cocain,cocaine,cocaine,True,True,,2
+303,cocainum,cocaine,cocaine,True,True, pill,1
+304,coccu,cocaine,False,False,True, slang,6
+305,krak,cocaine,False,False,True, pill,5
+306,kokane,cocaine,False,False,True, pill,2
+307,kokine,cocaine,False,False,True,,9
+308,cain,cocaine,False,False,True, drug,5
+309,cocain,cocaine,cocaine,True,True,,2
+310,cocainum,cocaine,cocaine,True,True, pill,1
+311,c,cocaine,False,False,False,,-1
+312,blow,cocaine,False,False,True,,2
+313,charlie,cocaine,False,False,True,,7
+314,coke,cocaine,False,False,True,,4
+315,crack,cocaine,False,False,True,,2
+316,freebase,cocaine,cocaine,False,True,,9
+317,nose_candy,cocaine,cocaine,False,True, pill,3
+318,powder,cocaine,False,False,True, drug,1
+319,rock,cocaine,False,False,False,,-1
+320,snow,cocaine,False,False,True,,3
+321,white,cocaine,filgrastim,False,False,,-1
+322,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+323,white_gold,cocaine,gold,False,True, drug,3
+324,cristal,cocaine,False,False,False,,-1
+325,powder,cocaine,False,False,True, drug,1
+326,bolivian_marching_powder,cocaine,False,False,True,,3
+327,peruvian_flake,cocaine,False,False,True, pill,7
+328,peruvian_lady,cocaine,False,False,True, drug,5
+329,alice,cocaine,False,False,False,,-1
+330,cain,cocaine,False,False,True, drug,5
+331,coco,cocaine,False,False,False,,-1
+332,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+333,korrigan,cocaine,False,False,True, drug,2
+334,cost,cocaine,False,False,False,,-1
+335,cracked_out,cocaine,False,False,True,,4
+336,dangled,cocaine,False,False,False,,-1
+337,dusted,cocaine,False,False,False,,-1
+338,frazzled,cocaine,False,False,False,,-1
+339,garbage,cocaine,False,False,False,,-1
+340,gloomy,cocaine,False,False,False,,-1
+341,high_octane,cocaine,False,False,False,,-1
+342,hopped_up,cocaine,False,False,True, pill,2
+343,hyped_up,cocaine,False,False,False,,-1
+344,jacked_up,cocaine,False,False,False,,-1
+345,messed_up,cocaine,False,False,False,,-1
+346,on_a_bender,cocaine,False,False,True, drug,10
+347,on_a_tear,cocaine,False,False,False,,-1
+348,perverse,cocaine,False,False,False,,-1
+349,philippines,cocaine,False,False,False,,-1
+350,sheen,cocaine,False,False,True, drug,3
+351,trashed,cocaine,False,False,False,,-1
+352,nose_candy,cocaine,cocaine,False,True, pill,3
+353,white_powder,cocaine,False,False,True, pill,6
+354,corsac,cocaine,False,False,False,,-1
+355,crack,cocaine,False,False,True,,2
+356,kokains,cocaine,False,False,True,,1
+357,koke,cocaine,False,False,True, slang,3
+358,kokes,cocaine,False,False,False,,-1
+359,kokey,cocaine,False,False,True, drug,2
+360,kokai,cocaine,False,False,False,,-1
+361,koka,cocaine,False,False,True, drug,4
+362,kok_found,cocaine,False,False,False,,-1
+363,cocain,cocaine,cocaine,True,True,,2
+364,cocktails,cocaine,False,False,False,,-1
+365,koke,cocaine,False,False,True, slang,3
+366,koco,cocaine,False,False,False,,-1
+367,koks,cocaine,False,False,True, pill,5
+368,kokaine,cocaine,cocaine,True,True, pill,1
+369,cocains,cocaine,cocaine,True,True, pill,1
+370,coccydynia,cocaine,False,False,False,,-1
+371,dockle,cocaine,False,False,False,,-1
+372,dockyard,cocaine,False,False,False,,-1
+373,javelin,cocaine,False,False,True, drug,10
+374,lance,cocaine,False,False,False,,-1
+375,pike,cocaine,northern_pike,False,False,,-1
+376,cocaina,cocaine,cocaine,True,True,,2
+377,cocainum,cocaine,cocaine,True,True, pill,1
+378,coke,cocaine,False,False,True,,4
+379,spanish_fly,cocaine,False,False,False,,-1
+380,kain,cocaine,False,False,False,,-1
+381,coke,cocaine,False,False,True,,4
+382,cocain,cocaine,cocaine,True,True,,2
+383,coca,cocaine,False,False,True,,4
+384,coke,cocaine,False,False,True,,4
+385,kokaïne,cocaine,False,False,True,,1
+386,cocaina,cocaine,cocaine,True,True,,2
+387,cocaine,cocaine,cocaine,True,True,,4
+388,coccidioides,cocaine,False,False,False,,-1
+389,coccidiomorphus,cocaine,False,False,False,,-1
+390,coccidiotoxin,cocaine,False,False,False,,-1
+391,coccidiostat,cocaine,False,False,False,,-1
+392,coccidiolytic,cocaine,False,False,False,,-1
+393,coccidiophage,cocaine,False,False,False,,-1
+394,coccidiocidal,cocaine,False,False,False,,-1
+395,coccidia,cocaine,False,False,False,,-1
+396,coccus,cocaine,False,False,False,,-1
+397,corsar,cocaine,False,False,False,,-1
+398,costrel,cocaine,False,False,False,,-1
+399,coryza,cocaine,False,False,False,,-1
+400,covaid,cocaine,False,False,False,,-1
+401,crack,cocaine,False,False,True,,2
+402,cox,cocaine,False,False,False,,-1
+403,coxa,cocaine,False,False,False,,-1
+404,ideagens,cocaine,False,False,False,,-1
+405,crack,cocaine,False,False,True,,2
+406,cocainization,cocaine,False,False,True,,1
+407,cocainizations,cocaine,False,False,True,,2
+408,cocainize,cocaine,False,False,True,,4
+409,cocainizes,cocaine,False,False,True,,3
+410,cocainizing,cocaine,False,False,True,,2
+411,cocaine_free_base,cocaine,False,True,True,,1
+412,cocainism,cocaine,cocaine,True,True,,1
+413,cocaethylene,cocaine,False,False,True,,2
+414,crack,cocaine,False,False,True,,2
+415,cocaina,cocaine,cocaine,True,True,,2
+416,cocaineum,cocaine,False,False,True,,10
+417,cocainum,cocaine,cocaine,True,True, pill,1
+418,cocbreak,cocaine,False,False,False,,-1
+419,cocaethylene,cocaine,False,False,True,,2
+420,cocain,cocaine,cocaine,True,True,,2
+421,crack,cocaine,False,False,True,,2
+422,coke,cocaine,False,False,True,,4
+423,caocaine,cocaine,False,False,True,,2
+424,cocain,cocaine,cocaine,True,True,,2
+425,coccaine,cocaine,cocaine,True,True,,5
+426,cocainne,cocaine,False,False,True, pill,1
+427,coke,cocaine,False,False,True,,4
+428,sniff,cocaine,False,False,True, pill,6
+429,cocain,cocaine,cocaine,True,True,,2
+430,cocainehydrochloride,cocaine,False,False,True,,1
+431,nose_candy,cocaine,cocaine,False,True, pill,3
+432,white_powder,cocaine,False,False,True, pill,6
+433,crack,cocaine,False,False,True,,2
+434,cocain,cocaine,cocaine,True,True,,2
+435,coke,cocaine,False,False,True,,4
+436,freebase_cocaine,cocaine,False,True,True,,1
+437,crack,cocaine,False,False,True,,2
+438,kolaine,cocaine,False,False,True, pill,8
+439,kloein,cocaine,False,False,True, drug,6
+440,kloeine,cocaine,False,False,False,,-1
+441,klonein,cocaine,False,False,False,,-1
+442,kloine,cocaine,False,False,False,,-1
+443,caine,cocaine,lidocaine,False,True, drug,4
+444,crack,cocaine,False,False,True,,2
+445,k_cocaine,cocaine,False,True,True,,1
+446,ace,cocaine,False,False,False,,-1
+447,coke,cocaine,False,False,True,,4
+448,chars,cocaine,False,False,False,,-1
+449,happy_dust,cocaine,False,False,True,,5
+450,white_stuff,cocaine,False,False,True, drug,5
+451,nose_candy,cocaine,cocaine,False,True, pill,3
+452,flake,cocaine,False,False,False,,-1
+453,powder,cocaine,False,False,True, drug,1
+454,hydrochloride,cocaine,False,False,True,,3
+455,cocainum,cocaine,cocaine,True,True, pill,1
+456,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+457,caine,cocaine,lidocaine,False,True, drug,4
+458,crack,cocaine,False,False,True,,2
+459,koke,cocaine,False,False,True, slang,3
+460,coscorrona,cocaine,False,False,False,,-1
+461,coke,cocaine,False,False,True,,4
+462,coca,cocaine,False,False,True,,4
+463,snuff,cocaine,False,False,False,,-1
+464,diacetylmorphine,cocaine,heroin,False,True,,1
+465,lysergic_acid_diethylamide,cocaine,lysergic_acid_diethylamide,False,False,,-1
+466,codeine,cocaine,codeine,False,False,,-1
+467,heroin,cocaine,heroin,False,True,,1
+468,barbiturates,cocaine,False,False,False,,-1
+469,amphetamines,cocaine,dextroamphetamine,False,True,,3
+470,coke,cocaine,False,False,True,,4
+471,crack,cocaine,False,False,True,,2
+472,crystal,cocaine,False,False,True,,7
+473,flake,cocaine,False,False,False,,-1
+474,pep,cocaine,caffeine,False,False,,-1
+475,rock,cocaine,False,False,False,,-1
+476,snow,cocaine,False,False,True,,3
+477,ccaine,cocaine,cocaine,True,True,,2
+478,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+479,crack,cocaine,False,False,True,,2
+480,krokodil,cocaine,desomorphine,False,False,,-1
+481,blow,cocaine,False,False,True,,2
+482,powder,cocaine,False,False,True, drug,1
+483,freebase,cocaine,cocaine,False,True,,9
+484,peruvian_flake,cocaine,False,False,True, pill,7
+485,bolivian_marching_flake,cocaine,False,False,True,,2
+486,peruvian_marching_flake,cocaine,False,False,True,,3
+487,marching_powder,cocaine,False,False,True,,5
+488,kokain,cocaine,cocaine,True,True,,1
+489,julcaine,cocaine,False,False,False,,-1
+490,cocain,cocaine,cocaine,True,True,,2
+491,coke,cocaine,False,False,True,,4
+492,blow,cocaine,False,False,True,,2
+493,white,cocaine,filgrastim,False,False,,-1
+494,powder,cocaine,False,False,True, drug,1
+495,nose_candy,cocaine,cocaine,False,True, pill,3
+496,peruvian_marching_powder,cocaine,False,False,True,,1
+497,coecum,cocaine,False,False,False,,-1
+498,coccum,cocaine,False,False,True, slang,5
+499,methylbenzoylecgonine,cocaine,False,False,True,,2
+500,coca,cocaine,False,False,True,,4
+501,peruvian_marching_powder,cocaine,False,False,True,,1
+502,cocaine,cocaine,cocaine,True,True,,4
+503,cocainum,cocaine,cocaine,True,True, pill,1
+504,cocain,cocaine,cocaine,True,True,,2
+505,cocaina,cocaine,cocaine,True,True,,2
+506,cocaineum,cocaine,False,False,True,,10
+507,methylbenzoylecgonine,cocaine,False,False,True,,2
+508,ecgonine_methyl_ester,cocaine,methylecgonine,False,True,,2
+509,cocain,cocaine,cocaine,True,True,,2
+510,coke,cocaine,False,False,True,,4
+511,nose_candy,cocaine,cocaine,False,True, pill,3
+512,crack,cocaine,False,False,True,,2
+513,chardine,cocaine,False,False,True, drug,2
+514,crack,cocaine,False,False,True,,2
+515,crack,cocaine,False,False,True,,2
+516,crack,cocaine,False,False,True,,2
+517,snow,cocaine,False,False,True,,3
+518,flake,cocaine,False,False,False,,-1
+519,powder,cocaine,False,False,True, drug,1
+520,white,cocaine,filgrastim,False,False,,-1
+521,nose_candy,cocaine,cocaine,False,True, pill,3
+522,coke,cocaine,False,False,True,,4
+523,blow,cocaine,False,False,True,,2
+524,"coke,_cokey",cocaine,False,False,True,,10
+525,"freebase,_freebased",cocaine,False,False,True,,3
+526,"nose_candy,_flake,_snow,_powder,_toot",cocaine,False,False,True,,1
+527,"peruvian_lady,_peruvian_flake,_peruvian_marching_powder",cocaine,False,False,True,,4
+528,cain,cocaine,False,False,True, drug,5
+529,cainum,cocaine,False,False,False,,-1
+530,cocain,cocaine,cocaine,True,True,,2
+531,cocaina,cocaine,cocaine,True,True,,2
+532,cocainea,cocaine,False,False,True,,2
+533,cocainum,cocaine,cocaine,True,True, pill,1
+534,koke,cocaine,False,False,True, slang,3
+535,kokeine,cocaine,False,False,True, pill,2
+536,kolas,cocaine,False,False,False,,-1
+537,cola,cocaine,False,False,True,,8
+538,caine,cocaine,lidocaine,False,True, drug,4
+539,snow,cocaine,False,False,True,,3
+540,white,cocaine,filgrastim,False,False,,-1
+541,blow,cocaine,False,False,True,,2
+542,nose_candy,cocaine,cocaine,False,True, pill,3
+543,snow,cocaine,False,False,True,,3
+544,white,cocaine,filgrastim,False,False,,-1
+545,rock,cocaine,False,False,False,,-1
+546,kokain,cocaine,cocaine,True,True,,1
+547,cocain,cocaine,cocaine,True,True,,2
+548,coke,cocaine,False,False,True,,4
+549,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+550,cocaine_base,cocaine,False,True,True,,1
+551,cocainization,cocaine,False,False,True,,1
+552,cocainize,cocaine,False,False,True,,4
+553,cocainomania,cocaine,False,False,True,,1
+554,cocainophilia,cocaine,False,False,False,,-1
+555,cocainophagia,cocaine,False,False,True,,1
+556,cocainomania,cocaine,False,False,True,,1
+557,cocainum,cocaine,cocaine,True,True, pill,1
+558,ecgonine,cocaine,ecgonine,False,True,,3
+559,tobacco,cocaine,nicotine,False,False,,-1
+560,lactate,cocaine,False,False,False,,-1
+561,dwest,cocaine,False,False,False,,-1
+562,nose_candy,cocaine,cocaine,False,True, pill,3
+563,blow,cocaine,False,False,True,,2
+564,white_dragon,cocaine,False,False,False,,-1
+565,powder,cocaine,False,False,True, drug,1
+566,yeyo,cocaine,False,False,True, drug,4
+567,peruvian_marching_powder,cocaine,False,False,True,,1
+568,coke,cocaine,False,False,True,,4
+569,crack,cocaine,False,False,True,,2
+570,zacatin,cocaine,False,False,False,,-1
+571,koks,cocaine,False,False,True, pill,5
+572,percocet,cocaine,oxycodone,False,False,,-1
+573,lortab,cocaine,hydrocodone,False,False,,-1
+574,roxicet,cocaine,oxycodone,False,False,,-1
+575,xanax,cocaine,alprazolam,False,False,,-1
+576,oxycontin,cocaine,oxycodone,False,False,,-1
+577,mojo,cocaine,False,False,False,,-1
+578,rock,cocaine,False,False,False,,-1
+579,white,cocaine,filgrastim,False,False,,-1
+580,yayo,cocaine,cocaine,False,True, pill,5
+581,nose_candy,cocaine,cocaine,False,True, pill,3
+582,powder,cocaine,False,False,True, drug,1
+583,flake,cocaine,False,False,False,,-1
+584,coca,cocaine,False,False,True,,4
+585,cocaina,cocaine,cocaine,True,True,,2
+586,cocaine,cocaine,cocaine,True,True,,4
+587,cocainum,cocaine,cocaine,True,True, pill,1
+588,crack,cocaine,False,False,True,,2
+589,le_coke,cocaine,False,False,True,,2
+590,nose_candy,cocaine,cocaine,False,True, pill,3
+591,bang,cocaine,False,False,False,,-1
+592,bazerk,cocaine,False,False,False,,-1
+593,beak,cocaine,False,False,True, drug,7
+594,bindle,cocaine,False,False,False,,-1
+595,blast,cocaine,False,False,False,,-1
+596,bliss,cocaine,False,False,False,,-1
+597,c,cocaine,False,False,False,,-1
+598,charlie,cocaine,False,False,True,,7
+599,china_white,cocaine,filgrastim,False,False,,-1
+600,crack,cocaine,False,False,True,,2
+601,devil's_dandruff,cocaine,False,False,True, pill,8
+602,dib,cocaine,False,False,False,,-1
+603,dose,cocaine,False,False,False,,-1
+604,toot,cocaine,False,False,True, drug,6
+605,zambi,cocaine,False,False,False,,-1
+606,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+607,cocainum,cocaine,cocaine,True,True, pill,1
+608,cocaine,cocaine,cocaine,True,True,,4
+609,lidocaine,cocaine,lidocaine,False,True,,1
+610,mepivacaine,cocaine,mepivacaine,False,False,,-1
+611,cacaine,cocaine,cocaine,True,True,,8
+612,cocain,cocaine,cocaine,True,True,,2
+613,cockaine,cocaine,cocaine,True,True,,2
+614,pokeen,cocaine,False,False,False,,-1
+615,cocain,cocaine,cocaine,True,True,,2
+616,cocaine,cocaine,cocaine,True,True,,4
+617,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+618,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+619,codecaine,cocaine,False,False,True, pill,3
+620,cocaine_sulfate,cocaine,False,True,True,,1
+621,cocaine_tartrate,cocaine,False,True,True,,2
+622,cocaine_base,cocaine,False,True,True,,1
+623,koka,cocaine,False,False,True, drug,4
+624,koke,cocaine,False,False,True, slang,3
+625,koka,cocaine,False,False,True, drug,4
+626,cola,cocaine,False,False,True,,8
+627,perico,cocaine,cocaine,False,True,,5
+628,basuco,cocaine,False,False,True,,1
+629,cocaines,cocaine,cocaine,True,True,,1
+630,cocain,cocaine,cocaine,True,True,,2
+631,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+632,cocaine_sulphate,cocaine,False,True,True,,1
+633,cocainebase,cocaine,False,False,True,,1
+634,cocainize,cocaine,False,False,True,,4
+635,cocainise,cocaine,False,False,True,,1
+636,nose_candy,cocaine,cocaine,False,True, pill,3
+637,happy_powder,cocaine,False,False,True,,2
+638,flake,cocaine,False,False,False,,-1
+639,white,cocaine,filgrastim,False,False,,-1
+640,sugar,cocaine,False,False,False,,-1
+641,coc_aine,cocaine,False,False,True,,1
+642,c,cocaine,False,False,False,,-1
+643,8,cocaine,False,False,False,,-1
+644,codiene,cocaine,False,False,False,,-1
+645,caine,cocaine,lidocaine,False,True, drug,4
+646,krokodil,cocaine,desomorphine,False,False,,-1
+647,crack,cocaine,False,False,True,,2
+648,crystal_meth,cocaine,methamphetamine,False,False,,-1
+649,methamphetamine,cocaine,methamphetamine,False,False,,-1
+650,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+651,coke,cocaine,False,False,True,,4
+652,nose_candy,cocaine,cocaine,False,True, pill,3
+653,blow,cocaine,False,False,True,,2
+654,white_powder,cocaine,False,False,True, pill,6
+655,cocain,cocaine,cocaine,True,True,,2
+656,coniine,cocaine,clonidine,False,False,,-1
+657,white_powder,cocaine,False,False,True, pill,6
+658,peruvian_marching_powder,cocaine,False,False,True,,1
+659,nose_candy,cocaine,cocaine,False,True, pill,3
+660,flake,cocaine,False,False,False,,-1
+661,white,cocaine,filgrastim,False,False,,-1
+662,coke,cocaine,False,False,True,,4
+663,cocainus,cocaine,False,False,True,,1
+664,cocaine,cocaine,cocaine,True,True,,4
+665,snow,cocaine,False,False,True,,3
+666,flake,cocaine,False,False,False,,-1
+667,nose_candy,cocaine,cocaine,False,True, pill,3
+668,white_powder,cocaine,False,False,True, pill,6
+669,coke,cocaine,False,False,True,,4
+670,crack,cocaine,False,False,True,,2
+671,freebase,cocaine,cocaine,False,True,,9
+672,flake,cocaine,False,False,False,,-1
+673,nose_candy,cocaine,cocaine,False,True, pill,3
+674,powdered_cocaine,cocaine,False,True,True,,1
+675,snow,cocaine,False,False,True,,3
+676,cocain,cocaine,cocaine,True,True,,2
+677,cocoa_leaves,cocaine,False,False,True,,4
+678,peruvian_marching_powder,cocaine,False,False,True,,1
+679,cocainum,cocaine,cocaine,True,True, pill,1
+680,ecgonine_methyl_ester,cocaine,methylecgonine,False,True,,2
+681,cocaethylene,cocaine,False,False,True,,2
+682,crack_cocaine,cocaine,False,True,True,,1
+683,coke,cocaine,False,False,True,,4
+684,blow,cocaine,False,False,True,,2
+685,charlie,cocaine,False,False,True,,7
+686,nose_candy,cocaine,cocaine,False,True, pill,3
+687,powder,cocaine,False,False,True, drug,1
+688,white,cocaine,filgrastim,False,False,,-1
+689,rock,cocaine,False,False,False,,-1
+690,corydon,cocaine,False,False,False,,-1
+691,cosey_corner,cocaine,False,False,False,,-1
+692,cosmea,cocaine,False,False,False,,-1
+693,cosset,cocaine,False,False,False,,-1
+694,crake,cocaine,False,False,True, pill,7
+695,crane,cocaine,False,False,False,,-1
+696,croaker,cocaine,False,False,False,,-1
+697,crypt,cocaine,False,False,False,,-1
+698,culver,cocaine,False,False,False,,-1
+699,cwm,cocaine,False,False,False,,-1
+700,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+701,cocainum,cocaine,cocaine,True,True, pill,1
+702,caine,cocaine,lidocaine,False,True, drug,4
+703,nose_candy,cocaine,cocaine,False,True, pill,3
+704,flake,cocaine,False,False,False,,-1
+705,powder,cocaine,False,False,True, drug,1
+706,freebase,cocaine,cocaine,False,True,,9
+707,cocain,cocaine,cocaine,True,True,,2
+708,ccaine,cocaine,cocaine,True,True,,2
+709,cocein,cocaine,False,False,True, pill,1
+710,coca_in,cocaine,False,False,True,,3
+711,caino,cocaine,False,False,False,,-1
+712,cano,cocaine,False,False,False,,-1
+713,cocaino,cocaine,False,False,True,,1
+714,cokehead,cocaine,False,False,True,,2
+715,crack,cocaine,False,False,True,,2
+716,dope,cocaine,False,False,True,,3
+717,nose_candy,cocaine,cocaine,False,True, pill,3
+718,speedball,cocaine,False,False,True,,1
+719,up,cocaine,False,False,False,,-1
+720,cockaine,cocaine,cocaine,True,True,,2
+721,cocain,cocaine,cocaine,True,True,,2
+722,coke,cocaine,False,False,True,,4
+723,coca_paste,cocaine,False,False,True,,1
+724,coca_tea,cocaine,False,False,True,,2
+725,crack,cocaine,False,False,True,,2
+726,freebase,cocaine,cocaine,False,True,,9
+727,nose_candy,cocaine,cocaine,False,True, pill,3
+728,powder,cocaine,False,False,True, drug,1
+729,snow,cocaine,False,False,True,,3
+730,crack_cocaine,cocaine,False,True,True,,1
+731,freebase_cocaine,cocaine,False,True,True,,1
+732,powdered_cocaine,cocaine,False,True,True,,1
+733,rock_cocaine,cocaine,False,True,True,,1
+734,koke,cocaine,False,False,True, slang,3
+735,kolaun,cocaine,False,False,True, slang,2
+736,crack,cocaine,False,False,True,,2
+737,flake,cocaine,False,False,False,,-1
+738,freebase,cocaine,cocaine,False,True,,9
+739,nose_candy,cocaine,cocaine,False,True, pill,3
+740,powder,cocaine,False,False,True, drug,1
+741,white,cocaine,filgrastim,False,False,,-1
+742,cocainum,cocaine,cocaine,True,True, pill,1
+743,kokainos,cocaine,False,False,True, pill,4
+744,white_gold,cocaine,gold,False,True, drug,3
+745,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+746,tokayo,cocaine,False,False,True, drug,5
+747,kays,cocaine,False,False,False,,-1
+748,k-rock,cocaine,False,False,False,,-1
+749,k-rock_cocaine,cocaine,False,True,True,,1
+750,k-bur,cocaine,False,False,False,,-1
+751,bing,cocaine,False,False,False,,-1
+752,line,cocaine,False,False,False,,-1
+753,nose_candy,cocaine,cocaine,False,True, pill,3
+754,blow,cocaine,False,False,True,,2
+755,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+756,blow,cocaine,False,False,True,,2
+757,toot,cocaine,False,False,True, drug,6
+758,powder,cocaine,False,False,True, drug,1
+759,8-ball,cocaine,False,False,True, drug,4
+760,nose_candy,cocaine,cocaine,False,True, pill,3
+761,white,cocaine,filgrastim,False,False,,-1
+762,peruvian,cocaine,False,False,False,,-1
+763,coke,cocaine,False,False,True,,4
+764,crack,cocaine,False,False,True,,2
+765,crystal_meth,cocaine,methamphetamine,False,False,,-1
+766,freebase,cocaine,cocaine,False,True,,9
+767,speed,cocaine,False,False,True,,4
+768,coke,cocaine,False,False,True,,4
+769,cain,cocaine,False,False,True, drug,5
+770,k-hole,cocaine,False,False,False,,-1
+771,cochaine,cocaine,False,False,True, pill,1
+772,kochaine,cocaine,False,False,False,,-1
+773,percocets,cocaine,oxycodone,False,False,,-1
+774,vicodins,cocaine,hydrocodone,False,False,,-1
+775,lortabs,cocaine,hydrocodone,False,False,,-1
+776,oxycontin,cocaine,oxycodone,False,False,,-1
+777,tramadol,cocaine,tramadol,False,False,,-1
+778,coke,cocaine,False,False,True,,4
+779,cola,cocaine,False,False,True,,8
+780,snow,cocaine,False,False,True,,3
+781,peruvian_marching_powder,cocaine,False,False,True,,1
+782,bolivian_marching_powder,cocaine,False,False,True,,3
+783,white_powder,cocaine,False,False,True, pill,6
+784,nose_candy,cocaine,cocaine,False,True, pill,3
+785,yayo,cocaine,cocaine,False,True, pill,5
+786,powder,cocaine,False,False,True, drug,1
+787,kokaïn,cocaine,False,False,True,,6
+788,kokaina,cocaine,False,False,True,,5
+789,kokaïna,cocaine,False,False,True,,3
+790,kokanin,cocaine,False,False,True,,3
+791,kokayin,cocaine,False,False,True,,1
+792,kokeyna,cocaine,False,False,False,,-1
+793,kokiana,cocaine,False,False,True, slang,1
+794,methylbenzoylecgonine,cocaine,False,False,True,,2
+795,kline,cocaine,False,False,True, slang,3
+796,nose_candy,cocaine,cocaine,False,True, pill,3
+797,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+798,naphtalene,cocaine,False,False,False,,-1
+799,nefellin,cocaine,False,False,False,,-1
+800,coke,cocaine,False,False,True,,4
+801,nose_candy,cocaine,cocaine,False,True, pill,3
+802,powder,cocaine,False,False,True, drug,1
+803,white,cocaine,filgrastim,False,False,,-1
+804,peruvian_flake,cocaine,False,False,True, pill,7
+805,bolivian_marching_powder,cocaine,False,False,True,,3
+806,lady,cocaine,False,False,False,,-1
+807,peruvian,cocaine,False,False,False,,-1
+808,coke,cocaine,False,False,True,,4
+809,blow,cocaine,False,False,True,,2
+810,white,cocaine,filgrastim,False,False,,-1
+811,powder,cocaine,False,False,True, drug,1
+812,rock,cocaine,False,False,False,,-1
+813,coke,cocaine,False,False,True,,4
+814,cocaine,cocaine,cocaine,True,True,,4
+815,cocainum,cocaine,cocaine,True,True, pill,1
+816,cocaine,cocaine,cocaine,True,True,,4
+817,kokain,cocaine,cocaine,True,True,,1
+818,alkaloid,cocaine,False,False,False,,-1
+819,corifeum,cocaine,False,False,False,,-1
+820,flake,cocaine,False,False,False,,-1
+821,freebase,cocaine,cocaine,False,True,,9
+822,nose_candy,cocaine,cocaine,False,True, pill,3
+823,powder,cocaine,False,False,True, drug,1
+824,snow,cocaine,False,False,True,,3
+825,white,cocaine,filgrastim,False,False,,-1
+826,peruvian_flake,cocaine,False,False,True, pill,7
+827,peruvian_powder,cocaine,False,False,True, drug,7
+828,yayo,cocaine,cocaine,False,True, pill,5
+829,8-ball,cocaine,False,False,True, drug,4
+830,snow,cocaine,False,False,True,,3
+831,flake,cocaine,False,False,False,,-1
+832,nose_candy,cocaine,cocaine,False,True, pill,3
+833,cocainum,cocaine,cocaine,True,True, pill,1
+834,cocain,cocaine,cocaine,True,True,,2
+835,coacane,cocaine,False,False,True,,1
+836,caine,cocaine,lidocaine,False,True, drug,4
+837,ccoaine,cocaine,False,False,True,,2
+838,kokaine,cocaine,cocaine,True,True, pill,1
+839,kakain,cocaine,False,False,True, pill,4
+840,kokaen,cocaine,False,False,True,,2
+841,kokein,cocaine,False,False,True, pill,1
+842,cocool,cocaine,False,False,False,,-1
+843,doradilla,cocaine,False,False,True, pill,10
+844,flake,cocaine,False,False,False,,-1
+845,freebase,cocaine,cocaine,False,True,,9
+846,nose_candy,cocaine,cocaine,False,True, pill,3
+847,powder,cocaine,False,False,True, drug,1
+848,speedball,cocaine,False,False,True,,1
+849,cocaper,cocaine,False,False,True,,7
+850,cocaine_addict,cocaine,False,True,True,,1
+851,cocaine_abuse,cocaine,False,True,True,,1
+852,cocaine_habit,cocaine,False,True,True,,1
+853,cocaine_use,cocaine,False,True,True,,1
+854,cocaine_user,cocaine,False,True,True,,1
+855,coke,cocaine,False,False,True,,4
+856,blow,cocaine,False,False,True,,2
+857,dust,cocaine,False,False,True,,4
+858,8_ball,cocaine,False,False,True, drug,4
+859,white,cocaine,filgrastim,False,False,,-1
+860,powder,cocaine,False,False,True, drug,1
+861,koke,cocaine,False,False,True, slang,3
+862,nose_candy,cocaine,cocaine,False,True, pill,3
+863,peru,cocaine,False,False,True, drug,4
+864,white_powder,cocaine,False,False,True, pill,6
+865,d_cocaine,cocaine,False,True,True,,5
+866,l_cocaine,cocaine,False,True,True,,1
+867,ll_cocaine,cocaine,False,True,True,,1
+868,c_cocaine,cocaine,False,True,True,,1
+869,k_cocaine,cocaine,False,True,True,,1
+870,ko_cocaine,cocaine,False,True,True,,1
+871,koka_cocaine,cocaine,False,True,True,,5
+872,cochlea,cocaine,False,False,False,,-1
+873,elegiac,cocaine,False,False,False,,-1
+874,lachrymal,cocaine,False,False,False,,-1
+875,lacrimal,cocaine,False,False,False,,-1
+876,nasopharyngeal,cocaine,False,False,False,,-1
+877,olfactory,cocaine,False,False,False,,-1
+878,rhinal,cocaine,False,False,False,,-1
+879,rhino-,cocaine,False,False,False,,-1
+880,septal,cocaine,False,False,False,,-1
+881,crak,cocaine,False,False,True, pill,2
+882,freebase,cocaine,cocaine,False,True,,9
+883,nose_candy,cocaine,cocaine,False,True, pill,3
+884,snortablecocaine,cocaine,False,False,False,,-1
+885,white_powder,cocaine,False,False,True, pill,6
+886,d-lysergic_acid_diethylamide,cocaine,False,False,False,,-1
+887,lysergic_acid_diethylamide,cocaine,lysergic_acid_diethylamide,False,False,,-1
+888,k_cocain,cocaine,False,True,True,,1
+889,kokain,cocaine,cocaine,True,True,,1
+890,kokaine,cocaine,cocaine,True,True, pill,1
+891,kookain,cocaine,False,False,True, pill,2
+892,kookaine,cocaine,False,False,False,,-1
+893,coucain,cocaine,False,False,True,,4
+894,kokain,cocaine,cocaine,True,True,,1
+895,kokaïn,cocaine,False,False,True,,6
+896,cocaine,cocaine,cocaine,True,True,,4
+897,coke,cocaine,False,False,True,,4
+898,crack,cocaine,False,False,True,,2
+899,cocain,cocaine,cocaine,True,True,,2
+900,cocaine,cocaine,cocaine,True,True,,4
+901,seabag,cocaine,False,False,False,,-1
+902,snowbird,cocaine,False,False,True, slang,4
+903,yahoo,cocaine,False,False,False,,-1
+904,dendrobine,cocaine,False,False,True, slang,4
+905,euphorbia,cocaine,False,False,False,,-1
+906,harmaline,cocaine,harmaline,False,False,,-1
+907,maricopa,cocaine,False,False,False,,-1
+908,nuciferine,cocaine,False,False,False,,-1
+909,pelletierine,cocaine,False,False,True, drug,6
+910,trichocarpine,cocaine,False,False,False,,-1
+911,crack_cocaine,cocaine,False,True,True,,1
+912,flake,cocaine,False,False,False,,-1
+913,freebase,cocaine,cocaine,False,True,,9
+914,nose_candy,cocaine,cocaine,False,True, pill,3
+915,powder_cocaine,cocaine,cocaine,True,True,,1
+916,rock,cocaine,False,False,False,,-1
+917,snow,cocaine,False,False,True,,3
+918,coka,cocaine,False,False,True, pill,4
+919,crack,cocaine,False,False,True,,2
+920,majik,cocaine,False,False,False,,-1
+921,nose_candy,cocaine,cocaine,False,True, pill,3
+922,snow,cocaine,False,False,True,,3
+923,white_powder,cocaine,False,False,True, pill,6
+924,kokaina,cocaine,False,False,True,,5
+925,kokains,cocaine,False,False,True,,1
+926,cocaina,cocaine,cocaine,True,True,,2
+927,koka,cocaine,False,False,True, drug,4
+928,kokaina,cocaine,False,False,True,,5
+929,kokan,cocaine,False,False,True, pill,6
+930,kokayne,cocaine,False,False,True,,2
+931,koke,cocaine,False,False,True, slang,3
+932,kokey,cocaine,False,False,True, drug,2
+933,kokayne,cocaine,False,False,True,,2
+934,cocain,cocaine,cocaine,True,True,,2
+935,kkokain,cocaine,False,False,True,,3
+936,kakain,cocaine,False,False,True, pill,4
+937,kokan,cocaine,False,False,True, pill,6
+938,kokaen,cocaine,False,False,True,,2
+939,kokane,cocaine,False,False,True, pill,2
+940,kakaine,cocaine,False,False,True, pill,1
+941,coryza,cocaine,False,False,False,,-1
+942,cossack,cocaine,False,False,False,,-1
+943,creosote,cocaine,wood_creosote,False,False,,-1
+944,crenation,cocaine,creatine,False,False,,-1
+945,crimson,cocaine,False,False,False,,-1
+946,crisco,cocaine,False,False,True, pill,2
+947,crosby,cocaine,False,False,False,,-1
+948,cocillana,cocaine,False,False,False,,-1
+949,cola,cocaine,False,False,True,,8
+950,crack,cocaine,False,False,True,,2
+951,freebase,cocaine,cocaine,False,True,,9
+952,nose_candy,cocaine,cocaine,False,True, pill,3
+953,snow,cocaine,False,False,True,,3
+954,white,cocaine,filgrastim,False,False,,-1
+955,cocaina,cocaine,cocaine,True,True,,2
+956,china_white,cocaine,filgrastim,False,False,,-1
+957,kokaen,cocaine,False,False,True,,2
+958,kolaene,cocaine,False,False,False,,-1
+959,koakaine,cocaine,False,False,True,,7
+960,koacaine,cocaine,False,False,True, pill,7
+961,cocain,cocaine,cocaine,True,True,,2
+962,cocaine,cocaine,cocaine,True,True,,4
+963,cocain,cocaine,cocaine,True,True,,2
+964,cocainum,cocaine,cocaine,True,True, pill,1
+965,kokaïn,cocaine,False,False,True,,6
+966,kokain,cocaine,cocaine,True,True,,1
+967,kokaina,cocaine,False,False,True,,5
+968,coca,cocaine,False,False,True,,4
+969,brah,cocaine,False,False,False,,-1
+970,cocaine,cocaine,cocaine,True,True,,4
+971,codens,cocaine,False,False,False,,-1
+972,cods,cocaine,False,False,False,,-1
+973,coles,cocaine,False,False,False,,-1
+974,cokes,cocaine,False,False,True, pill,5
+975,cue,cocaine,False,False,True, drug,4
+976,k,cocaine,False,False,True, drug,2
+977,keys,cocaine,False,False,True,,1
+978,kit,cocaine,False,False,False,,-1
+979,sacks,cocaine,False,False,False,,-1
+980,saks,cocaine,False,False,False,,-1
+981,stash,cocaine,False,False,False,,-1
+982,toot,cocaine,False,False,True, drug,6
+983,blow,cocaine,False,False,True,,2
+984,nose_candy,cocaine,cocaine,False,True, pill,3
+985,white_powder,cocaine,False,False,True, pill,6
+986,cocainize,cocaine,False,False,True,,4
+987,cocaineate,cocaine,False,False,True,,2
+988,cocaineify,cocaine,False,False,False,,-1
+989,cocainism,cocaine,cocaine,True,True,,1
+990,cocain,cocaine,cocaine,True,True,,2
+991,cocainomane,cocaine,False,False,True,,2
+992,cokehead,cocaine,False,False,True,,2
+993,codependency,cocaine,False,False,False,,-1
+994,enabler,cocaine,False,False,False,,-1
+995,crack,cocaine,False,False,True,,2
+996,crack,cocaine,False,False,True,,2
+997,freebase,cocaine,cocaine,False,True,,9
+998,tocaine,cocaine,False,False,True, drug,8
+999,kokain,cocaine,cocaine,True,True,,1
+1000,kokaïn,cocaine,False,False,True,,6
+1001,cocaine,cocaine,cocaine,True,True,,4
+1002,divinorum,cocaine,False,False,False,,-1
+1003,dregs,cocaine,False,False,False,,-1
+1004,flake,cocaine,False,False,False,,-1
+1005,freebase,cocaine,cocaine,False,True,,9
+1006,grain,cocaine,False,False,False,,-1
+1007,hash,cocaine,False,False,False,,-1
+1008,kif,cocaine,False,False,False,,-1
+1009,leaf,cocaine,False,False,False,,-1
+1010,lipid,cocaine,False,False,False,,-1
+1011,marc,cocaine,False,False,False,,-1
+1012,meph,cocaine,mephedrone,False,False,,-1
+1013,meth,cocaine,methamphetamine,False,False,,-1
+1014,mundungo,cocaine,False,False,False,,-1
+1015,nose_candy,cocaine,cocaine,False,True, pill,3
+1016,paste,cocaine,False,False,True, drug,2
+1017,pep,cocaine,caffeine,False,False,,-1
+1018,peruvian,cocaine,False,False,False,,-1
+1019,peruvian_flake,cocaine,False,False,True, pill,7
+1020,permafrost,cocaine,False,False,False,,-1
+1021,powder,cocaine,False,False,True, drug,1
+1022,kabul,cocaine,False,False,False,,-1
+1023,snow,cocaine,False,False,True,,3
+1024,blow,cocaine,False,False,True,,2
+1025,candy,cocaine,False,False,False,,-1
+1026,charlie,cocaine,False,False,True,,7
+1027,cola,cocaine,False,False,True,,8
+1028,dukes,cocaine,False,False,False,,-1
+1029,frost,cocaine,False,False,False,,-1
+1030,nose_powder,cocaine,False,False,True, pill,9
+1031,rail,cocaine,False,False,False,,-1
+1032,salt,cocaine,False,False,True, drug,2
+1033,sniff,cocaine,False,False,True, pill,6
+1034,toot,cocaine,False,False,True, drug,6
+1035,nose_candy,cocaine,cocaine,False,True, pill,3
+1036,snort,cocaine,False,False,True, pill,6
+1037,toot,cocaine,False,False,True, drug,6
+1038,blow,cocaine,False,False,True,,2
+1039,cocainum,cocaine,cocaine,True,True, pill,1
+1040,coke,cocaine,False,False,True,,4
+1041,c,cocaine,False,False,False,,-1
+1042,nose_candy,cocaine,cocaine,False,True, pill,3
+1043,flake,cocaine,False,False,False,,-1
+1044,snow,cocaine,False,False,True,,3
+1045,white,cocaine,filgrastim,False,False,,-1
+1046,powder,cocaine,False,False,True, drug,1
+1047,coke,cocaine,False,False,True,,4
+1048,crack,cocaine,False,False,True,,2
+1049,powder,cocaine,False,False,True, drug,1
+1050,coceine,cocaine,False,False,True,,1
+1051,cocainism,cocaine,cocaine,True,True,,1
+1052,cocainize,cocaine,False,False,True,,4
+1053,cocainization,cocaine,False,False,True,,1
+1054,cocainochondria,cocaine,False,False,False,,-1
+1055,cocainization,cocaine,False,False,True,,1
+1056,cocainomania,cocaine,False,False,True,,1
+1057,rocks,cocaine,False,False,True,,1
+1058,blow,cocaine,False,False,True,,2
+1059,peruvian_flake,cocaine,False,False,True, pill,7
+1060,geest,cocaine,False,False,False,,-1
+1061,skag,cocaine,False,False,False,,-1
+1062,white_powder,cocaine,False,False,True, pill,6
+1063,nose_candy,cocaine,cocaine,False,True, pill,3
+1064,narcolepsy,cocaine,False,False,False,,-1
+1065,sleep_apnea,cocaine,False,False,False,,-1
+1066,respiratory_depression,cocaine,False,False,False,,-1
+1067,anorexia,cocaine,False,False,False,,-1
+1068,hypertension,cocaine,False,False,False,,-1
+1069,tachycardia,cocaine,False,False,False,,-1
+1070,seizures,cocaine,False,False,False,,-1
+1071,coca,cocaine,False,False,True,,4
+1072,cocain,cocaine,cocaine,True,True,,2
+1073,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+1074,koka,cocaine,False,False,True, drug,4
+1075,koline,cocaine,False,False,False,,-1
+1076,peruvian_flake,cocaine,False,False,True, pill,7
+1077,bolivian_marching_powder,cocaine,False,False,True,,3
+1078,peruvian_marching_powder,cocaine,False,False,True,,1
+1079,peruvian_cocaine,cocaine,False,True,True,,1
+1080,white_powder,cocaine,False,False,True, pill,6
+1081,cocain,cocaine,cocaine,True,True,,2
+1082,cocaine,cocaine,cocaine,True,True,,4
+1083,sniff,cocaine,False,False,True, pill,6
+1084,blow,cocaine,False,False,True,,2
+1085,snow,cocaine,False,False,True,,3
+1086,white,cocaine,filgrastim,False,False,,-1
+1087,sugar,cocaine,False,False,False,,-1
+1088,percocet,cocaine,oxycodone,False,False,,-1
+1089,speedball,cocaine,False,False,True,,1
+1090,cockaine,cocaine,cocaine,True,True,,2
+1091,cocainne,cocaine,False,False,True, pill,1
+1092,kuccaine,cocaine,False,False,False,,-1
+1093,kukaine,cocaine,False,False,False,,-1
+1094,crack,cocaine,False,False,True,,2
+1095,crystal_meth,cocaine,methamphetamine,False,False,,-1
+1096,heroin,cocaine,heroin,False,True,,1
+1097,meth,cocaine,methamphetamine,False,False,,-1
+1098,coke,cocaine,False,False,True,,4
+1099,cocainum,cocaine,cocaine,True,True, pill,1
+1100,cocaine,cocaine,cocaine,True,True,,4
+1101,kokaime,cocaine,False,False,False,,-1
+1102,coken,cocaine,False,False,True, pill,4
+1103,koka,cocaine,False,False,True, drug,4
+1104,kokaina,cocaine,False,False,True,,5
+1105,kokain,cocaine,cocaine,True,True,,1
+1106,toke,cocaine,False,False,False,,-1
+1107,blow,cocaine,False,False,True,,2
+1108,white,cocaine,filgrastim,False,False,,-1
+1109,powder,cocaine,False,False,True, drug,1
+1110,nose_candy,cocaine,cocaine,False,True, pill,3
+1111,yayo,cocaine,cocaine,False,True, pill,5
+1112,kokain,cocaine,cocaine,True,True,,1
+1113,coke,cocaine,False,False,True,,4
+1114,cocaino,cocaine,False,False,True,,1
+1115,cocaine,cocaine,cocaine,True,True,,4
+1116,crack,cocaine,False,False,True,,2
+1117,freebase,cocaine,cocaine,False,True,,9
+1118,speedball,cocaine,False,False,True,,1
+1119,cocaine,cocaine,cocaine,True,True,,4
+1120,crack,cocaine,False,False,True,,2
+1121,caine,cocaine,lidocaine,False,True, drug,4
+1122,rock,cocaine,False,False,False,,-1
+1123,white,cocaine,filgrastim,False,False,,-1
+1124,nose_candy,cocaine,cocaine,False,True, pill,3
+1125,blow,cocaine,False,False,True,,2
+1126,powder,cocaine,False,False,True, drug,1
+1127,kolatin,cocaine,False,False,False,,-1
+1128,kolapin,cocaine,False,False,False,,-1
+1129,kolask,cocaine,False,False,False,,-1
+1130,kolasin,cocaine,False,False,False,,-1
+1131,kolagram,cocaine,False,False,False,,-1
+1132,kolahydrin,cocaine,False,False,False,,-1
+1133,kolaitin,cocaine,False,False,False,,-1
+1134,cocainum,cocaine,cocaine,True,True, pill,1
+1135,cocaleen,cocaine,False,False,False,,-1
+1136,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+1137,cocaine_sulfate,cocaine,False,True,True,,1
+1138,crystalline_cocaine,cocaine,False,True,True,,1
+1139,powdered_cocaine,cocaine,False,True,True,,1
+1140,freebase_cocaine,cocaine,False,True,True,,1
+1141,crack_cocaine,cocaine,False,True,True,,1
+1142,costco,cocaine,False,False,False,,-1
+1143,caine,cocaine,lidocaine,False,True, drug,4
+1144,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+1145,caine,cocaine,lidocaine,False,True, drug,4
+1146,cocaine,cocaine,cocaine,True,True,,4
+1147,murray,cocaine,False,False,False,,-1
+1148,dust,cocaine,False,False,True,,4
+1149,white_lady,cocaine,False,False,True, drug,5
+1150,nose_candy,cocaine,cocaine,False,True, pill,3
+1151,k-hole,cocaine,False,False,False,,-1
+1152,lady_snow,cocaine,False,False,True, drug,5
+1153,cocanna,cocaine,False,False,True, pill,2
+1154,cocaineum,cocaine,False,False,True,,10
+1155,coke,cocaine,False,False,True,,4
+1156,crack,cocaine,False,False,True,,2
+1157,methylbenzoylecgonine,cocaine,False,False,True,,2
+1158,cocaethylene,cocaine,False,False,True,,2
+1159,ethylcocaine,cocaine,False,False,True,,1
+1160,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+1161,crack_cocaine,cocaine,False,True,True,,1
+1162,coka,cocaine,False,False,True, pill,4
+1163,koks,cocaine,False,False,True, pill,5
+1164,koke,cocaine,False,False,True, slang,3
+1165,crack,cocaine,False,False,True,,2
+1166,jove's_nectar,cocaine,False,False,False,,-1
+1167,peruvian_marching_powder,cocaine,False,False,True,,1
+1168,bolivian_nose-candy,cocaine,False,False,True,,1
+1169,peruvian_flaky,cocaine,False,False,True,,5
+1170,argentinian_marching_powder,cocaine,False,False,True,,1
+1171,marching_powder,cocaine,False,False,True,,5
+1172,nose_powder,cocaine,False,False,True, pill,9
+1173,ecgonine_methyl_ester,cocaine,methylecgonine,False,True,,2
+1174,methyl_ecgonine,cocaine,False,False,True,,3
+1175,coke,cocaine,False,False,True,,4
+1176,blow,cocaine,False,False,True,,2
+1177,yayo,cocaine,cocaine,False,True, pill,5
+1178,power,cocaine,False,False,False,,-1
+1179,march_powder,cocaine,False,False,True, drug,10
+1180,c-dust,cocaine,False,False,True, slang,2
+1181,bouncing_powder,cocaine,False,False,True, drug,3
+1182,hydrochloride,cocaine,False,False,True,,3
+1183,percocet,cocaine,oxycodone,False,False,,-1
+1184,ritalin,cocaine,methylphenidate,False,True,,1
+1185,ko_but_not_to_be_confused_with_the_classic_knock-out_drug,cocaine,False,False,False,,-1
+1186,special_k,cocaine,ketamine,False,False,,-1
+1187,cocaethylene,cocaine,False,False,True,,2
+1188,coca,cocaine,False,False,True,,4
+1189,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+1190,kokain,cocaine,cocaine,True,True,,1
+1191,koka,cocaine,False,False,True, drug,4
+1192,kola,cocaine,False,False,False,,-1
+1193,koke,cocaine,False,False,True, slang,3
+1194,toke,cocaine,False,False,False,,-1
+1195,cocainx,cocaine,False,False,True, pill,3
+1196,kokaine,cocaine,cocaine,True,True, pill,1
+1197,koka,cocaine,False,False,True, drug,4
+1198,kokaine,cocaine,cocaine,True,True, pill,1
+1199,koke,cocaine,False,False,True, slang,3
+1200,kaya,cocaine,False,False,True, drug,9
+1201,khat,cocaine,False,False,True, pill,1
+1202,kit,cocaine,False,False,False,,-1
+1203,kofe,cocaine,False,False,False,,-1
+1204,kola,cocaine,False,False,False,,-1
+1205,coain,cocaine,False,False,True,,1
+1206,cain,cocaine,False,False,True, drug,5
+1207,cocain,cocaine,cocaine,True,True,,2
+1208,cocaine,cocaine,cocaine,True,True,,4
+1209,cocain,cocaine,cocaine,True,True,,2
+1210,cocaine,cocaine,cocaine,True,True,,4
+1211,cristal,cocaine,False,False,False,,-1
+1212,flake,cocaine,False,False,False,,-1
+1213,freebase,cocaine,cocaine,False,True,,9
+1214,nose_candy,cocaine,cocaine,False,True, pill,3
+1215,powder,cocaine,False,False,True, drug,1
+1216,snow,cocaine,False,False,True,,3
+1217,white,cocaine,filgrastim,False,False,,-1
+1218,cocaine,cocaine,cocaine,True,True,,4
+1219,cocn_given,cocaine,False,False,False,,-1
+1220,coke,cocaine,False,False,True,,4
+1221,cockaine,cocaine,cocaine,True,True,,2
+1222,caughcane,cocaine,False,False,False,,-1
+1223,kokaine,cocaine,cocaine,True,True, pill,1
+1224,kochaine,cocaine,False,False,False,,-1
+1225,kockaine,cocaine,False,False,True, pill,1
+1226,crait,cocaine,False,False,False,,-1
+1227,crak,cocaine,False,False,True, pill,2
+1228,crack_cocaine,cocaine,False,True,True,,1
+1229,freebase,cocaine,cocaine,False,True,,9
+1230,girl,cocaine,False,False,True, drug,2
+1231,nose_candy,cocaine,cocaine,False,True, pill,3
+1232,powdered_cocaine,cocaine,False,True,True,,1
+1233,rock,cocaine,False,False,False,,-1
+1234,snow,cocaine,False,False,True,,3
+1235,speedball,cocaine,False,False,True,,1
+1236,white,cocaine,filgrastim,False,False,,-1
+1237,yahootie,cocaine,False,False,False,,-1
+1238,corsine,cocaine,False,False,False,,-1
+1239,crac,cocaine,False,False,True, pill,7
+1240,crack,cocaine,False,False,True,,2
+1241,rock,cocaine,False,False,False,,-1
+1242,cockain,cocaine,False,False,True, pill,1
+1243,cockayne,cocaine,False,False,False,,-1
+1244,cockswan,cocaine,False,False,False,,-1
+1245,coke,cocaine,False,False,True,,4
+1246,cola,cocaine,False,False,True,,8
+1247,flake,cocaine,False,False,False,,-1
+1248,nose_candy,cocaine,cocaine,False,True, pill,3
+1249,powder,cocaine,False,False,True, drug,1
+1250,stone,cocaine,False,False,False,,-1
+1251,coke,cocaine,False,False,True,,4
+1252,blow,cocaine,False,False,True,,2
+1253,white,cocaine,filgrastim,False,False,,-1
+1254,crack,cocaine,False,False,True,,2
+1255,ceramic,cocaine,False,False,False,,-1
+1256,chalk,cocaine,calcium_carbonate,False,False,,-1
+1257,charlie,cocaine,False,False,True,,7
+1258,dust,cocaine,False,False,True,,4
+1259,flake,cocaine,False,False,False,,-1
+1260,freebase,cocaine,cocaine,False,True,,9
+1261,nose_candy,cocaine,cocaine,False,True, pill,3
+1262,powder,cocaine,False,False,True, drug,1
+1263,rock,cocaine,False,False,False,,-1
+1264,cocaina,cocaine,cocaine,True,True,,2
+1265,cociaina,cocaine,False,False,True,,9
+1266,cocaina,cocaine,cocaine,True,True,,2
+1267,crack,cocaine,False,False,True,,2
+1268,colchicine,cocaine,colchicine,False,False,,-1
+1269,curare,cocaine,False,False,False,,-1
+1270,cocciopside,cocaine,False,False,False,,-1
+1271,coccidium,cocaine,False,False,False,,-1
+1272,coccigerum,cocaine,False,False,False,,-1
+1273,coccinogenesis,cocaine,False,False,False,,-1
+1274,coccobacillus,cocaine,False,False,False,,-1
+1275,cocaina,cocaine,cocaine,True,True,,2
+1276,cocaine,cocaine,cocaine,True,True,,4
+1277,cocamama,cocaine,False,False,True,,2
+1278,cocanine,cocaine,False,False,True,,1
+1279,cocainum,cocaine,cocaine,True,True, pill,1
+1280,cocainize,cocaine,False,False,True,,4
+1281,cocainomaniac,cocaine,False,False,True,,1
+1282,cocainomania,cocaine,False,False,True,,1
+1283,cocainergic,cocaine,False,False,False,,-1
+1284,cocainophagia,cocaine,False,False,True,,1
+1285,cocainophilia,cocaine,False,False,False,,-1
+1286,cocainophobia,cocaine,False,False,True,,3
+1287,coke,cocaine,False,False,True,,4
+1288,crack,cocaine,False,False,True,,2
+1289,cocain,cocaine,cocaine,True,True,,2
+1290,cocaines,cocaine,cocaine,True,True,,1
+1291,coke,cocaine,False,False,True,,4
+1292,crack,cocaine,False,False,True,,2
+1293,freebase,cocaine,cocaine,False,True,,9
+1294,nose_candy,cocaine,cocaine,False,True, pill,3
+1295,peru,cocaine,False,False,True, drug,4
+1296,powder,cocaine,False,False,True, drug,1
+1297,snort,cocaine,False,False,True, pill,6
+1298,crack,cocaine,False,False,True,,2
+1299,crack,cocaine,False,False,True,,2
+1300,bernan,cocaine,False,False,False,,-1
+1301,coke,cocaine,False,False,True,,4
+1302,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+1303,tropacocaine,cocaine,False,False,True, pill,2
+1304,cocain,cocaine,cocaine,True,True,,2
+1305,coca,cocaine,False,False,True,,4
+1306,cocaine_patch,cocaine,False,True,True,,1
+1307,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+1308,crack_cocaine,cocaine,False,True,True,,1
+1309,koks,cocaine,False,False,True, pill,5
+1310,koke,cocaine,False,False,True, slang,3
+1311,kopi,cocaine,False,False,False,,-1
+1312,nooch,cocaine,False,False,True, drug,6
+1313,toke,cocaine,False,False,False,,-1
+1314,cocainus,cocaine,False,False,True,,1
+1315,nose_candy,cocaine,cocaine,False,True, pill,3
+1316,toot,cocaine,False,False,True, drug,6
+1317,flake,cocaine,False,False,False,,-1
+1318,powder,cocaine,False,False,True, drug,1
+1319,cocane,cocaine,cocaine,True,True,,1
+1320,white_girl,cocaine,False,False,True,,3
+1321,coca_leaves,cocaine,False,False,True,,1
+1322,cocain,cocaine,cocaine,True,True,,2
+1323,nose_candy,cocaine,cocaine,False,True, pill,3
+1324,flake,cocaine,False,False,False,,-1
+1325,snow,cocaine,False,False,True,,3
+1326,coke,cocaine,False,False,True,,4
+1327,crack,cocaine,False,False,True,,2
+1328,freebase,cocaine,cocaine,False,True,,9
+1329,nose_candy,cocaine,cocaine,False,True, pill,3
+1330,snow,cocaine,False,False,True,,3
+1331,toot,cocaine,False,False,True, drug,6
+1332,white,cocaine,filgrastim,False,False,,-1
+1333,cocaine,cocaine,cocaine,True,True,,4
+1334,cocainum,cocaine,cocaine,True,True, pill,1
+1335,kokain,cocaine,cocaine,True,True,,1
+1336,kokaïn,cocaine,False,False,True,,6
+1337,cocaïne,cocaine,False,False,True,,2
+1338,cocaine,cocaine,cocaine,True,True,,4
+1339,cocainum,cocaine,cocaine,True,True, pill,1
+1340,cocain,cocaine,cocaine,True,True,,2
+1341,coca,cocaine,False,False,True,,4
+1342,erythroxylon_coca,cocaine,False,False,True,,3
+1343,cocains,cocaine,cocaine,True,True, pill,1
+1344,cocal,cocaine,False,False,True, pill,4
+1345,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+1346,cocaine_base,cocaine,False,True,True,,1
+1347,crack,cocaine,False,False,True,,2
+1348,coccus,cocaine,False,False,False,,-1
+1349,cocaineum,cocaine,False,False,True,,10
+1350,flake,cocaine,False,False,False,,-1
+1351,nose_candy,cocaine,cocaine,False,True, pill,3
+1352,white_powder,cocaine,False,False,True, pill,6
+1353,georgetown__8.snow__9.casper_10._peruvian,cocaine,False,False,False,,-1
+1354,kokaina,cocaine,False,False,True,,5
+1355,kokain,cocaine,cocaine,True,True,,1
+1356,kokaïne,cocaine,False,False,True,,1
+1357,cocaine,cocaine,cocaine,True,True,,4
+1358,coke,cocaine,False,False,True,,4
+1359,blow,cocaine,False,False,True,,2
+1360,powder,cocaine,False,False,True, drug,1
+1361,crack,cocaine,False,False,True,,2
+1362,freebase,cocaine,cocaine,False,True,,9
+1363,nose_candy,cocaine,cocaine,False,True, pill,3
+1364,powder,cocaine,False,False,True, drug,1
+1365,snow,cocaine,False,False,True,,3
+1366,toot,cocaine,False,False,True, drug,6
+1367,white,cocaine,filgrastim,False,False,,-1
+1368,methylbenzoylecgonine,cocaine,False,False,True,,2
+1369,coke,cocaine,False,False,True,,4
+1370,blow,cocaine,False,False,True,,2
+1371,powder,cocaine,False,False,True, drug,1
+1372,freebase,cocaine,cocaine,False,True,,9
+1373,nose_candy,cocaine,cocaine,False,True, pill,3
+1374,white_powder,cocaine,False,False,True, pill,6
+1375,kokaine,cocaine,cocaine,True,True, pill,1
+1376,koka,cocaine,False,False,True, drug,4
+1377,koko,cocaine,False,False,False,,-1
+1378,koke,cocaine,False,False,True, slang,3
+1379,kokee,cocaine,False,False,False,,-1
+1380,koking,cocaine,False,False,True, drug,4
+1381,ckokaine,cocaine,False,False,False,,-1
+1382,cxocaine,cocaine,False,False,True, pill,1
+1383,cocart,cocaine,False,False,False,,-1
+1384,cocaina,cocaine,cocaine,True,True,,2
+1385,flake,cocaine,False,False,False,,-1
+1386,snow,cocaine,False,False,True,,3
+1387,nose_candy,cocaine,cocaine,False,True, pill,3
+1388,white,cocaine,filgrastim,False,False,,-1
+1389,cocain,cocaine,cocaine,True,True,,2
+1390,cocci-sneezing,cocaine,False,False,False,,-1
+1391,craze,cocaine,False,False,False,,-1
+1392,nose_candy,cocaine,cocaine,False,True, pill,3
+1393,powder,cocaine,False,False,True, drug,1
+1394,snow,cocaine,False,False,True,,3
+1395,white,cocaine,filgrastim,False,False,,-1
+1396,skake,cocaine,False,False,False,,-1
+1397,krakain,cocaine,False,False,False,,-1
+1398,jib,cocaine,False,False,False,,-1
+1399,nose_candy,cocaine,cocaine,False,True, pill,3
+1400,white_girl,cocaine,False,False,True,,3
+1401,blow,cocaine,False,False,True,,2
+1402,cocaine,cocaine,cocaine,True,True,,4
+1403,blow,cocaine,False,False,True,,2
+1404,white,cocaine,filgrastim,False,False,,-1
+1405,powder,cocaine,False,False,True, drug,1
+1406,lady,cocaine,False,False,False,,-1
+1407,nose_candy,cocaine,cocaine,False,True, pill,3
+1408,coke,cocaine,False,False,True,,4
+1409,kokaína,cocaine,False,False,True,,2
+1410,kokaina,cocaine,False,False,True,,5
+1411,kokaïna,cocaine,False,False,True,,3
+1412,koks,cocaine,False,False,True, pill,5
+1413,kokaina,cocaine,False,False,True,,5
+1414,yayo,cocaine,cocaine,False,True, pill,5
+1415,pow,cocaine,False,False,False,,-1
+1416,white,cocaine,filgrastim,False,False,,-1
+1417,line,cocaine,False,False,False,,-1
+1418,blow,cocaine,False,False,True,,2
+1419,nose_candy,cocaine,cocaine,False,True, pill,3
+1420,peruvian_flake,cocaine,False,False,True, pill,7
+1421,kokain,cocaine,cocaine,True,True,,1
+1422,kokaïne,cocaine,False,False,True,,1
+1423,cocainum,cocaine,cocaine,True,True, pill,1
+1424,cocain,cocaine,cocaine,True,True,,2
+1425,coke,cocaine,False,False,True,,4
+1426,crak,cocaine,False,False,True, pill,2
+1427,freebase,cocaine,cocaine,False,True,,9
+1428,nose_candy,cocaine,cocaine,False,True, pill,3
+1429,powdered_sugar,cocaine,False,False,True, drug,4
+1430,snow,cocaine,False,False,True,,3
+1431,cocagne,cocaine,False,False,False,,-1
+1432,cocainum,cocaine,cocaine,True,True, pill,1
+1433,flake_,cocaine,False,False,True, drug,2
+1434,nose_candy,cocaine,cocaine,False,True, pill,3
+1435,white_powder,cocaine,False,False,True, pill,6
+1436,coke,cocaine,False,False,True,,4
+1437,toot,cocaine,False,False,True, drug,6
+1438,blow,cocaine,False,False,True,,2
+1439,yayo,cocaine,cocaine,False,True, pill,5
+1440,contac,cocaine,albendazole,False,False,,-1
+1441,coca,cocaine,False,False,True,,4
+1442,candy,cocaine,False,False,False,,-1
+1443,charlie,cocaine,False,False,True,,7
+1444,nose_candy,cocaine,cocaine,False,True, pill,3
+1445,snow,cocaine,False,False,True,,3
+1446,white,cocaine,filgrastim,False,False,,-1
+1447,kokomine,cocaine,False,False,False,,-1
+1448,koke,cocaine,False,False,True, slang,3
+1449,kokey,cocaine,False,False,True, drug,2
+1450,koks,cocaine,False,False,True, pill,5
+1451,kokeymajig,cocaine,False,False,False,,-1
+1452,kook,cocaine,False,False,False,,-1
+1453,kookaracha,cocaine,False,False,False,,-1
+1454,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+1455,neurectasy,cocaine,False,False,False,,-1
+1456,cocain,cocaine,cocaine,True,True,,2
+1457,cocainum,cocaine,cocaine,True,True, pill,1
+1458,snow,cocaine,False,False,True,,3
+1459,flake,cocaine,False,False,False,,-1
+1460,nose_candy,cocaine,cocaine,False,True, pill,3
+1461,white,cocaine,filgrastim,False,False,,-1
+1462,ghane,cocaine,False,False,False,,-1
+1463,flake,cocaine,False,False,False,,-1
+1464,nose_candy,cocaine,cocaine,False,True, pill,3
+1465,white,cocaine,filgrastim,False,False,,-1
+1466,snow,cocaine,False,False,True,,3
+1467,powder,cocaine,False,False,True, drug,1
+1468,malkan,cocaine,False,False,False,,-1
+1469,peruvian_flake,cocaine,False,False,True, pill,7
+1470,cochineal,cocaine,False,False,False,,-1
+1471,peruvian_marching_powder,cocaine,False,False,True,,1
+1472,bolivian_marching_powder,cocaine,False,False,True,,3
+1473,colombian_marching_powder,cocaine,False,False,True,,2
+1474,peruvian,cocaine,False,False,False,,-1
+1475,kokaine,cocaine,cocaine,True,True, pill,1
+1476,coke,cocaine,False,False,True,,4
+1477,crack,cocaine,False,False,True,,2
+1478,freebase,cocaine,cocaine,False,True,,9
+1479,rock,cocaine,False,False,False,,-1
+1480,cocain,cocaine,cocaine,True,True,,2
+1481,cain,cocaine,False,False,True, drug,5
+1482,coke,cocaine,False,False,True,,4
+1483,coke,cocaine,False,False,True,,4
+1484,blow,cocaine,False,False,True,,2
+1485,white,cocaine,filgrastim,False,False,,-1
+1486,lady,cocaine,False,False,False,,-1
+1487,peruvian,cocaine,False,False,False,,-1
+1488,peruvian_flake,cocaine,False,False,True, pill,7
+1489,chilean,cocaine,False,False,True, drug,9
+1490,bolivian,cocaine,False,False,True, drug,6
+1491,yayo,cocaine,cocaine,False,True, pill,5
+1492,coco,cocaine,False,False,False,,-1
+1493,bazooko,cocaine,False,False,True, drug,2
+1494,base,cocaine,False,False,True,,2
+1495,koka,cocaine,False,False,True, drug,4
+1496,koke,cocaine,False,False,True, slang,3
+1497,kokaïne,cocaine,False,False,True,,1
+1498,kokayin,cocaine,False,False,True,,1
+1499,koksy,cocaine,False,False,False,,-1
+1500,koks,cocaine,False,False,True, pill,5
+1501,kokaina,cocaine,False,False,True,,5
+1502,cacoine,cocaine,False,False,True,,2
+1503,cockayne,cocaine,False,False,False,,-1
+1504,cocknoy,cocaine,False,False,False,,-1
+1505,rock(cocaine),cocaine,False,False,True,,1
+1506,nose_candy,cocaine,cocaine,False,True, pill,3
+1507,white_lady,cocaine,False,False,True, drug,5
+1508,coke,cocaine,False,False,True,,4
+1509,kokaen,cocaine,False,False,True,,2
+1510,kolaimeo,cocaine,False,False,False,,-1
+1511,cokaan,cocaine,False,False,False,,-1
+1512,kolaitrom,cocaine,False,False,False,,-1
+1513,colestrom,cocaine,False,False,False,,-1
+1514,colchar,cocaine,False,False,False,,-1
+1515,kokaineh,cocaine,False,False,False,,-1
+1516,kokains,cocaine,False,False,True,,1
+1517,kokayine,cocaine,False,False,True,,4
+1518,kokayne,cocaine,False,False,True,,2
+1519,coca,cocaine,False,False,True,,4
+1520,coke,cocaine,False,False,True,,4
+1521,cochette,cocaine,False,False,True, drug,10
+1522,collie,cocaine,False,False,False,,-1
+1523,columbian,cocaine,False,False,True, drug,7
+1524,coke,cocaine,False,False,True,,4
+1525,crack,cocaine,False,False,True,,2
+1526,freebase,cocaine,cocaine,False,True,,9
+1527,nose_candy,cocaine,cocaine,False,True, pill,3
+1528,coke,cocaine,False,False,True,,4
+1529,coccend,cocaine,False,False,False,,-1
+1530,coccienne,cocaine,False,False,False,,-1
+1531,coke,cocaine,False,False,True,,4
+1532,cola,cocaine,False,False,True,,8
+1533,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+1534,cocaine_sulphate,cocaine,False,True,True,,1
+1535,cocainum,cocaine,cocaine,True,True, pill,1
+1536,subcaine,cocaine,False,False,False,,-1
+1537,percocaine,cocaine,False,False,True,,2
+1538,ritalin,cocaine,methylphenidate,False,True,,1
+1539,speed,cocaine,False,False,True,,4
+1540,adderall,cocaine,amphetamine,False,False,,-1
+1541,meth,cocaine,methamphetamine,False,False,,-1
+1542,peruvian_marching_powder,cocaine,False,False,True,,1
+1543,nose_candy,cocaine,cocaine,False,True, pill,3
+1544,white_powder,cocaine,False,False,True, pill,6
+1545,lauroxine,cocaine,False,False,False,,-1
+1546,levamisole,cocaine,levamisole,False,True,,5
+1547,meperidine,cocaine,pethidine,False,False,,-1
+1548,methadone,cocaine,methadone,False,False,,-1
+1549,heroin,cocaine,heroin,False,True,,1
+1550,phendimetrazine,cocaine,phendimetrazine,False,False,,-1
+1551,phenmetrazine,cocaine,phenmetrazine,False,False,,-1
+1552,codine,cocaine,False,False,False,,-1
+1553,comaine,cocaine,False,False,False,,-1
+1554,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+1555,cocaine_sulfate,cocaine,False,True,True,,1
+1556,cokeine,cocaine,False,False,True, pill,1
+1557,cooks,cocaine,False,False,True, drug,5
+1558,crack,cocaine,False,False,True,,2
+1559,freebase,cocaine,cocaine,False,True,,9
+1560,girl,cocaine,False,False,True, drug,2
+1561,nose_candy,cocaine,cocaine,False,True, pill,3
+1562,snow,cocaine,False,False,True,,3
+1563,spiff,cocaine,False,False,False,,-1
+1564,charlie,cocaine,False,False,True,,7
+1565,mojo,cocaine,False,False,False,,-1
+1566,snowball,cocaine,False,False,True, drug,1
+1567,nose_candy,cocaine,cocaine,False,True, pill,3
+1568,crack,cocaine,False,False,True,,2
+1569,cocainum,cocaine,cocaine,True,True, pill,1
+1570,c-note,cocaine,False,False,False,,-1
+1571,peruvian_marching_powder,cocaine,False,False,True,,1
+1572,bolivian_marching_powder,cocaine,False,False,True,,3
+1573,peruvian_flake,cocaine,False,False,True, pill,7
+1574,peruvian_lady,cocaine,False,False,True, drug,5
+1575,peruvian_nose_candy,cocaine,False,False,True,,1
+1576,peruvian,cocaine,False,False,False,,-1
+1577,blow,cocaine,False,False,True,,2
+1578,nose_candy,cocaine,cocaine,False,True, pill,3
+1579,powder,cocaine,False,False,True, drug,1
+1580,8-ball,cocaine,False,False,True, drug,4
+1581,white,cocaine,filgrastim,False,False,,-1
+1582,coke,cocaine,False,False,True,,4
+1583,cristal,cocaine,False,False,False,,-1
+1584,dama_blanca,cocaine,False,False,True,,7
+1585,freebase,cocaine,cocaine,False,True,,9
+1586,merla,cocaine,False,False,True, pill,3
+1587,nevisa,cocaine,False,False,False,,-1
+1588,perico,cocaine,cocaine,False,True,,5
+1589,polvo_blanco,cocaine,False,False,True, slang,4
+1590,crack,cocaine,False,False,True,,2
+1591,freebase,cocaine,cocaine,False,True,,9
+1592,nose_candy,cocaine,cocaine,False,True, pill,3
+1593,powder,cocaine,False,False,True, drug,1
+1594,rocks,cocaine,False,False,True,,1
+1595,snow,cocaine,False,False,True,,3
+1596,white,cocaine,filgrastim,False,False,,-1
+1597,scocaine,cocaine,False,False,True,,1
+1598,qcocaine,cocaine,False,False,True,,2
+1599,cocainum,cocaine,cocaine,True,True, pill,1
+1600,cocaine,cocaine,cocaine,True,True,,4
+1601,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+1602,crack,cocaine,False,False,True,,2
+1603,koke,cocaine,False,False,True, slang,3
+1604,k-hole,cocaine,False,False,False,,-1
+1605,speedball,cocaine,False,False,True,,1
+1606,cocainum,cocaine,cocaine,True,True, pill,1
+1607,cocain,cocaine,cocaine,True,True,,2
+1608,coca_leaves,cocaine,False,False,True,,1
+1609,cocaleaves,cocaine,False,False,True,,3
+1610,crack,cocaine,False,False,True,,2
+1611,white_powder,cocaine,False,False,True, pill,6
+1612,peruvian_marching_powder,cocaine,False,False,True,,1
+1613,bolivian_marching_powder,cocaine,False,False,True,,3
+1614,cocaine,cocaine,cocaine,True,True,,4
+1615,kokain,cocaine,cocaine,True,True,,1
+1616,kokaïne,cocaine,False,False,True,,1
+1617,kokayin,cocaine,False,False,True,,1
+1618,kokeyne,cocaine,False,False,True,,7
+1619,snow_blow,cocaine,False,False,True, pill,10
+1620,nose_candy,cocaine,cocaine,False,True, pill,3
+1621,toot,cocaine,False,False,True, drug,6
+1622,white,cocaine,filgrastim,False,False,,-1
+1623,flake,cocaine,False,False,False,,-1
+1624,powder,cocaine,False,False,True, drug,1
+1625,kokanin,cocaine,False,False,True,,3
+1626,kokannee,cocaine,False,False,False,,-1
+1627,kokannet,cocaine,False,False,True, drug,1
+1628,kokannol,cocaine,False,False,False,,-1
+1629,kokannum,cocaine,False,False,False,,-1
+1630,snorting,cocaine,False,False,True,,6
+1631,coke,cocaine,False,False,True,,4
+1632,hydroxyethylbenzoylecgonine,cocaine,False,False,False,,-1
+1633,ecgonine,cocaine,ecgonine,False,True,,3
+1634,crack,cocaine,False,False,True,,2
+1635,toluidine,cocaine,False,False,True, slang,10
+1636,cocaine5._kcocaine,cocaine,False,False,True,,1
+1637,cocain,cocaine,cocaine,True,True,,2
+1638,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+1639,caine,cocaine,lidocaine,False,True, drug,4
+1640,coca,cocaine,False,False,True,,4
+1641,cocaine_base,cocaine,False,True,True,,1
+1642,freebase_cocaine,cocaine,False,True,True,,1
+1643,blow,cocaine,False,False,True,,2
+1644,charlie,cocaine,False,False,True,,7
+1645,coke,cocaine,False,False,True,,4
+1646,powder,cocaine,False,False,True, drug,1
+1647,snow,cocaine,False,False,True,,3
+1648,white,cocaine,filgrastim,False,False,,-1
+1649,cocainize,cocaine,False,False,True,,4
+1650,cocainoid,cocaine,False,False,False,,-1
+1651,cocainomania,cocaine,False,False,True,,1
+1652,cocaineism,cocaine,False,False,True,,3
+1653,cocaine_intoxication,cocaine,False,True,True,,1
+1654,cocaine_poisoning,cocaine,False,True,True,,1
+1655,cocaine_habit,cocaine,False,True,True,,1
+1656,ecgonine,cocaine,ecgonine,False,True,,3
+1657,cocain,cocaine,cocaine,True,True,,2
+1658,cocaine,cocaine,cocaine,True,True,,4
+1659,coke,cocaine,False,False,True,,4
+1660,dexedrine,cocaine,dextroamphetamine,False,False,,-1
+1661,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+1662,crocaine,cocaine,False,False,True, pill,1
+1663,devolatilized_cocaine,cocaine,False,True,True, pill,1
+1664,freebase,cocaine,cocaine,False,True,,9
+1665,paste,cocaine,False,False,True, drug,2
+1666,rock,cocaine,False,False,False,,-1
+1667,cocainia,cocaine,False,False,True, pill,1
+1668,cocainum,cocaine,cocaine,True,True, pill,1
+1669,candy,cocaine,False,False,False,,-1
+1670,white,cocaine,filgrastim,False,False,,-1
+1671,snow,cocaine,False,False,True,,3
+1672,flake,cocaine,False,False,False,,-1
+1673,peruvian,cocaine,False,False,False,,-1
+1674,marching,cocaine,False,False,False,,-1
+1675,coc,cocaine,False,False,True, drug,2
+1676,kakain,cocaine,False,False,True, pill,4
+1677,kokain,cocaine,cocaine,True,True,,1
+1678,k-kain,cocaine,False,False,False,,-1
+1679,ca-kain,cocaine,False,False,False,,-1
+1680,kykain,cocaine,False,False,False,,-1
+1681,beta-eucaine,cocaine,False,False,True,,1
+1682,beta-keto-tetrahydrocannabinol,cocaine,False,False,False,,-1
+1683,cocain,cocaine,cocaine,True,True,,2
+1684,crack,cocaine,False,False,True,,2
+1685,kokain,cocaine,cocaine,True,True,,1
+1686,koks,cocaine,False,False,True, pill,5
+1687,schnaps,cocaine,False,False,False,,-1
+1688,flugels,cocaine,False,False,False,,-1
+1689,charlie,cocaine,False,False,True,,7
+1690,coke,cocaine,False,False,True,,4
+1691,toot,cocaine,False,False,True, drug,6
+1692,cocainum,cocaine,cocaine,True,True, pill,1
+1693,coke,cocaine,False,False,True,,4
+1694,cocaethylene,cocaine,False,False,True,,2
+1695,crack,cocaine,False,False,True,,2
+1696,caines,cocaine,lidocaine,False,True, drug,5
+1697,cake,cocaine,False,False,False,,-1
+1698,"nac,",cocaine,False,False,False,,-1
+1699,"nose_candy,",cocaine,False,False,True, pill,3
+1700,"flake,",cocaine,False,False,True, drug,2
+1701,powder,cocaine,False,False,True, drug,1
+1702,coke,cocaine,False,False,True,,4
+1703,crack,cocaine,False,False,True,,2
+1704,cocaine_salt,cocaine,False,True,True,,1
+1705,cocainism,cocaine,cocaine,True,True,,1
+1706,cocainize,cocaine,False,False,True,,4
+1707,cocainomana,cocaine,False,False,True, pill,1
+1708,cocainophilia,cocaine,False,False,False,,-1
+1709,cocainephilia,cocaine,False,False,False,,-1
+1710,cocainomania,cocaine,False,False,True,,1
+1711,cocain,cocaine,cocaine,True,True,,2
+1712,coka,cocaine,False,False,True, pill,4
+1713,rap_blow,cocaine,False,False,True, pill,6
+1714,toot,cocaine,False,False,True, drug,6
+1715,whiteout,cocaine,False,False,True, drug,3
+1716,cocaina,cocaine,cocaine,True,True,,2
+1717,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+1718,cocainum,cocaine,cocaine,True,True, pill,1
+1719,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+1720,cocaine_sulfate,cocaine,False,True,True,,1
+1721,coryza,cocaine,False,False,False,,-1
+1722,coumarin,cocaine,coumarin,False,False,,-1
+1723,croup,cocaine,False,False,False,,-1
+1724,crypton,cocaine,False,False,False,,-1
+1725,dumfound,cocaine,False,False,False,,-1
+1726,floccose,cocaine,False,False,False,,-1
+1727,gurge,cocaine,False,False,False,,-1
+1728,hatshepsut,cocaine,False,False,False,,-1
+1729,immure,cocaine,False,False,False,,-1
+1730,inebriant,cocaine,False,False,False,,-1
+1731,jamestown,cocaine,False,False,False,,-1
+1732,jato,cocaine,False,False,False,,-1
+1733,k_rigged,cocaine,False,False,False,,-1
+1734,lance,cocaine,False,False,False,,-1
+1735,nacarat,cocaine,False,False,False,,-1
+1736,nettle,cocaine,urtica_dioica_pollen,False,False,,-1
+1737,ottar,cocaine,False,False,False,,-1
+1738,parana,cocaine,False,False,True, drug,1
+1739,patsy,cocaine,False,False,True, drug,5
+1740,quetzal,cocaine,False,False,True, drug,9
+1741,raku,cocaine,False,False,False,,-1
+1742,rococo,cocaine,False,False,False,,-1
+1743,soho,cocaine,False,False,False,,-1
+1744,tore,cocaine,False,False,False,,-1
+1745,tsetses,cocaine,False,False,False,,-1
+1746,veldt,cocaine,False,False,False,,-1
+1747,xanthate,cocaine,xanthine,False,False,,-1
+1748,kokaine,cocaine,cocaine,True,True, pill,1
+1749,koke,cocaine,False,False,True, slang,3
+1750,peruvian_marching_powder,cocaine,False,False,True,,1
+1751,freebase,cocaine,cocaine,False,True,,9
+1752,nose_candy,cocaine,cocaine,False,True, pill,3
+1753,blow,cocaine,False,False,True,,2
+1754,powder,cocaine,False,False,True, drug,1
+1755,coke,cocaine,False,False,True,,4
+1756,flake,cocaine,False,False,False,,-1
+1757,freebase,cocaine,cocaine,False,True,,9
+1758,nose_candy,cocaine,cocaine,False,True, pill,3
+1759,powder,cocaine,False,False,True, drug,1
+1760,rock,cocaine,False,False,False,,-1
+1761,toot,cocaine,False,False,True, drug,6
+1762,krokain,cocaine,False,False,False,,-1
+1763,kokain,cocaine,cocaine,True,True,,1
+1764,kokaïne,cocaine,False,False,True,,1
+1765,cocain,cocaine,cocaine,True,True,,2
+1766,kokaïn,cocaine,False,False,True,,6
+1767,koakain,cocaine,False,False,True, pill,1
+1768,koakaine,cocaine,False,False,True,,7
+1769,koke,cocaine,False,False,True, slang,3
+1770,koka,cocaine,False,False,True, drug,4
+1771,koko,cocaine,False,False,False,,-1
+1772,cocaine,cocaine,cocaine,True,True,,4
+1773,cracked,cocaine,False,False,True, drug,8
+1774,cristy,cocaine,False,False,False,,-1
+1775,flake,cocaine,False,False,False,,-1
+1776,freebase,cocaine,cocaine,False,True,,9
+1777,nose_candy,cocaine,cocaine,False,True, pill,3
+1778,peruvian_marching_powder,cocaine,False,False,True,,1
+1779,snow_white,cocaine,False,False,True, drug,9
+1780,stepped_on,cocaine,False,False,True, drug,1
+1781,cocain,cocaine,cocaine,True,True,,2
+1782,cain,cocaine,False,False,True, drug,5
+1783,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+1784,nose_candy,cocaine,cocaine,False,True, pill,3
+1785,coke,cocaine,False,False,True,,4
+1786,flake,cocaine,False,False,False,,-1
+1787,white,cocaine,filgrastim,False,False,,-1
+1788,peruvian,cocaine,False,False,False,,-1
+1789,spcp,cocaine,False,False,False,,-1
+1790,white_powder,cocaine,False,False,True, pill,6
+1791,sukaina,cocaine,False,False,False,,-1
+1792,cocaina,cocaine,cocaine,True,True,,2
+1793,coka,cocaine,False,False,True, pill,4
+1794,koka,cocaine,False,False,True, drug,4
+1795,kokaina,cocaine,False,False,True,,5
+1796,kokaïne,cocaine,False,False,True,,1
+1797,kokain,cocaine,cocaine,True,True,,1
+1798,koke,cocaine,False,False,True, slang,3
+1799,coke,cocaine,False,False,True,,4
+1800,crack,cocaine,False,False,True,,2
+1801,kokain,cocaine,cocaine,True,True,,1
+1802,kakain,cocaine,False,False,True, pill,4
+1803,kauain,cocaine,False,False,False,,-1
+1804,kofein,cocaine,False,False,False,,-1
+1805,kafein,cocaine,False,False,False,,-1
+1806,kefein,cocaine,False,False,False,,-1
+1807,kofain,cocaine,False,False,False,,-1
+1808,katin,cocaine,False,False,False,,-1
+1809,octen,cocaine,False,False,False,,-1
+1810,quain,cocaine,False,False,False,,-1
+1811,scain,cocaine,False,False,False,,-1
+1812,septen,cocaine,False,False,False,,-1
+1813,tain,cocaine,False,False,False,,-1
+1814,crack,cocaine,False,False,True,,2
+1815,freebase,cocaine,cocaine,False,True,,9
+1816,nose_candy,cocaine,cocaine,False,True, pill,3
+1817,peruvian_flake,cocaine,False,False,True, pill,7
+1818,rock,cocaine,False,False,False,,-1
+1819,toot,cocaine,False,False,True, drug,6
+1820,white_dragon,cocaine,False,False,False,,-1
+1821,cochees,cocaine,False,False,True, drug,10
+1822,cocaine,cocaine,cocaine,True,True,,4
+1823,cola,cocaine,False,False,True,,8
+1824,crack,cocaine,False,False,True,,2
+1825,flake,cocaine,False,False,False,,-1
+1826,freebase,cocaine,cocaine,False,True,,9
+1827,nose_candy,cocaine,cocaine,False,True, pill,3
+1828,rock,cocaine,False,False,False,,-1
+1829,snort,cocaine,False,False,True, pill,6
+1830,cocainum,cocaine,cocaine,True,True, pill,1
+1831,cocaine,cocaine,cocaine,True,True,,4
+1832,coke,cocaine,False,False,True,,4
+1833,blow,cocaine,False,False,True,,2
+1834,white,cocaine,filgrastim,False,False,,-1
+1835,snow,cocaine,False,False,True,,3
+1836,nose_candy,cocaine,cocaine,False,True, pill,3
+1837,powder,cocaine,False,False,True, drug,1
+1838,crack_cocaine,cocaine,False,True,True,,1
+1839,freebase_cocaine,cocaine,False,True,True,,1
+1840,nose_candy,cocaine,cocaine,False,True, pill,3
+1841,flake,cocaine,False,False,False,,-1
+1842,girl,cocaine,False,False,True, drug,2
+1843,sugar,cocaine,False,False,False,,-1
+1844,ti_cocaina,cocaine,False,True,True, pill,1
+1845,kokain,cocaine,cocaine,True,True,,1
+1846,kokana,cocaine,False,False,False,,-1
+1847,koka,cocaine,False,False,True, drug,4
+1848,kokaina,cocaine,False,False,True,,5
+1849,cocaine,cocaine,cocaine,True,True,,4
+1850,cocainum,cocaine,cocaine,True,True, pill,1
+1851,coka,cocaine,False,False,True, pill,4
+1852,kokay,cocaine,False,False,False,,-1
+1853,koke,cocaine,False,False,True, slang,3
+1854,kola,cocaine,False,False,False,,-1
+1855,kolly,cocaine,False,False,False,,-1
+1856,perico,cocaine,cocaine,False,True,,5
+1857,pepsi,cocaine,False,False,False,,-1
+1858,kokaïn,cocaine,False,False,True,,6
+1859,cocainum,cocaine,cocaine,True,True, pill,1
+1860,kokaine,cocaine,cocaine,True,True, pill,1
+1861,cocainum,cocaine,cocaine,True,True, pill,1
+1862,cocainist,cocaine,False,False,True,,1
+1863,cocainize,cocaine,False,False,True,,4
+1864,cocaineism,cocaine,False,False,True,,3
+1865,cocainize,cocaine,False,False,True,,4
+1866,cooninism,cocaine,False,False,False,,-1
+1867,cocanum,cocaine,False,False,True, pill,1
+1868,coka,cocaine,False,False,True, pill,4
+1869,cocain,cocaine,cocaine,True,True,,2
+1870,cocaine,cocaine,cocaine,True,True,,4
+1871,cocainum,cocaine,cocaine,True,True, pill,1
+1872,rock,cocaine,False,False,False,,-1
+1873,peruvian_flake,cocaine,False,False,True, pill,7
+1874,bolivian_marching_powder,cocaine,False,False,True,,3
+1875,lady,cocaine,False,False,False,,-1
+1876,kokain,cocaine,cocaine,True,True,,1
+1877,kokaïn,cocaine,False,False,True,,6
+1878,cocain,cocaine,cocaine,True,True,,2
+1879,cocaïne,cocaine,False,False,True,,2
+1880,crack,cocaine,False,False,True,,2
+1881,supracaine,cocaine,False,False,False,,-1
+1882,ultracaine,cocaine,tetracaine,False,False,,-1
+1883,coteine,cocaine,False,False,True, slang,8
+1884,crocaine,cocaine,False,False,True, pill,1
+1885,cafeteria,cocaine,False,False,False,,-1
+1886,charlie,cocaine,False,False,True,,7
+1887,flake,cocaine,False,False,False,,-1
+1888,freebase,cocaine,cocaine,False,True,,9
+1889,sugar,cocaine,False,False,False,,-1
+1890,ecology,cocaine,False,False,False,,-1
+1891,geometrid,cocaine,False,False,False,,-1
+1892,hypothesize,cocaine,False,False,True, pill,5
+1893,hypsometer,cocaine,False,False,False,,-1
+1894,inebriant,cocaine,False,False,False,,-1
+1895,mesmerism,cocaine,False,False,False,,-1
+1896,psychotomimetic,cocaine,False,False,False,,-1
+1897,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+1898,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+1899,procaine,cocaine,procaine,False,True,,4
+1900,percocet,cocaine,oxycodone,False,False,,-1
+1901,vicodin,cocaine,hydrocodone,False,False,,-1
+1902,lortab,cocaine,hydrocodone,False,False,,-1
+1903,xanax,cocaine,alprazolam,False,False,,-1
+1904,ativan,cocaine,lorazepam,False,False,,-1
+1905,valium,cocaine,diazepam,False,False,,-1
+1906,crack_cocaine,cocaine,False,True,True,,1
+1907,freebase_cocaine,cocaine,False,True,True,,1
+1908,cain,cocaine,False,False,True, drug,5
+1909,caines,cocaine,lidocaine,False,True, drug,5
+1910,coain,cocaine,False,False,True,,1
+1911,coucaine,cocaine,False,False,True,,1
+1912,cocainne,cocaine,False,False,True, pill,1
+1913,kokain,cocaine,cocaine,True,True,,1
+1914,kokaïne,cocaine,False,False,True,,1
+1915,cocainum,cocaine,cocaine,True,True, pill,1
+1916,cocain,cocaine,cocaine,True,True,,2
+1917,khokain,cocaine,False,False,False,,-1
+1918,katain,cocaine,False,False,True, drug,4
+1919,kadaain,cocaine,False,False,False,,-1
+1920,kokkarain,cocaine,False,False,False,,-1
+1921,kolkarain,cocaine,False,False,False,,-1
+1922,kokyrain,cocaine,False,False,False,,-1
+1923,kokeain,cocaine,False,False,True,,2
+1924,cocceine,cocaine,False,False,True,,2
+1925,cocain,cocaine,cocaine,True,True,,2
+1926,cocaina,cocaine,cocaine,True,True,,2
+1927,kokaina,cocaine,False,False,True,,5
+1928,koecain,cocaine,False,False,True, pill,1
+1929,coke,cocaine,False,False,True,,4
+1930,crack,cocaine,False,False,True,,2
+1931,rock,cocaine,False,False,False,,-1
+1932,nose_candy,cocaine,cocaine,False,True, pill,3
+1933,blow,cocaine,False,False,True,,2
+1934,white_girl,cocaine,False,False,True,,3
+1935,peruvian_marching_powder,cocaine,False,False,True,,1
+1936,couchon,cocaine,False,False,False,,-1
+1937,koke,cocaine,False,False,True, slang,3
+1938,kitu,cocaine,False,False,False,,-1
+1939,khat,cocaine,False,False,True, pill,1
+1940,sifaka,cocaine,False,False,False,,-1
+1941,yayo,cocaine,cocaine,False,True, pill,5
+1942,coke,cocaine,False,False,True,,4
+1943,cocain,cocaine,cocaine,True,True,,2
+1944,cocane,cocaine,cocaine,True,True,,1
+1945,crack_cocaine,cocaine,False,True,True,,1
+1946,freebase_cocaine,cocaine,False,True,True,,1
+1947,powdered_cocaine,cocaine,False,True,True,,1
+1948,crack,cocaine,False,False,True,,2
+1949,nose_candy,cocaine,cocaine,False,True, pill,3
+1950,coke,cocaine,False,False,True,,4
+1951,flake,cocaine,False,False,False,,-1
+1952,white,cocaine,filgrastim,False,False,,-1
+1953,powder,cocaine,False,False,True, drug,1
+1954,cocain,cocaine,cocaine,True,True,,2
+1955,caine,cocaine,lidocaine,False,True, drug,4
+1956,crack,cocaine,False,False,True,,2
+1957,kokan,cocaine,False,False,True, pill,6
+1958,kokaina,cocaine,False,False,True,,5
+1959,kokaïne,cocaine,False,False,True,,1
+1960,k-k-k-k-k-k-k-k-k-k!,cocaine,False,False,False,,-1
+1961,crack,cocaine,False,False,True,,2
+1962,peruvian_marching_powder,cocaine,False,False,True,,1
+1963,bolivian_marching_powder,cocaine,False,False,True,,3
+1964,coca,cocaine,False,False,True,,4
+1965,flake,cocaine,False,False,False,,-1
+1966,freebase,cocaine,cocaine,False,True,,9
+1967,nose_candy,cocaine,cocaine,False,True, pill,3
+1968,snow,cocaine,False,False,True,,3
+1969,cockain,cocaine,False,False,True, pill,1
+1970,cocan,cocaine,False,False,True,,4
+1971,kokain,cocaine,cocaine,True,True,,1
+1972,crack,cocaine,False,False,True,,2
+1973,meth,cocaine,methamphetamine,False,False,,-1
+1974,tocha,cocaine,False,False,True, pill,1
+1975,bazuca,cocaine,False,False,True, drug,1
+1976,contrabando,cocaine,False,False,True, drug,9
+1977,laja,cocaine,False,False,False,,-1
+1978,estupefaciente,cocaine,False,False,False,,-1
+1979,merca,cocaine,False,False,True, slang,7
+1980,narco,cocaine,False,False,False,,-1
+1981,kokaïne,cocaine,False,False,True,,1
+1982,percocet,cocaine,oxycodone,False,False,,-1
+1983,smack,cocaine,False,False,False,,-1
+1984,heroin,cocaine,heroin,False,True,,1
+1985,pcp,cocaine,phencyclidine,False,False,,-1
+1986,lsd,cocaine,lysergic_acid_diethylamide,False,False,,-1
+1987,mdma,cocaine,midomafetamine,False,False,,-1
+1988,speed,cocaine,False,False,True,,4
+1989,cocain,cocaine,cocaine,True,True,,2
+1990,cain,cocaine,False,False,True, drug,5
+1991,kain,cocaine,False,False,False,,-1
+1992,peruvian_flake,cocaine,False,False,True, pill,7
+1993,bolivian_marching_powder,cocaine,False,False,True,,3
+1994,chile_rules,cocaine,False,False,False,,-1
+1995,crank,cocaine,False,False,False,,-1
+1996,dust,cocaine,False,False,True,,4
+1997,flake,cocaine,False,False,False,,-1
+1998,freebase,cocaine,cocaine,False,True,,9
+1999,cocain,cocaine,cocaine,True,True,,2
+2000,crack,cocaine,False,False,True,,2
+2001,kokain,cocaine,cocaine,True,True,,1
+2002,koketta,cocaine,False,False,False,,-1
+2003,kokaino,cocaine,False,False,True, pill,1
+2004,koksa,cocaine,False,False,False,,-1
+2005,koka,cocaine,False,False,True, drug,4
+2006,koke,cocaine,False,False,True, slang,3
+2007,kokaina,cocaine,False,False,True,,5
+2008,koke,cocaine,False,False,True, slang,3
+2009,kokee,cocaine,False,False,False,,-1
+2010,kokey,cocaine,False,False,True, drug,2
+2011,koka,cocaine,False,False,True, drug,4
+2012,koko,cocaine,False,False,False,,-1
+2013,kokaine,cocaine,cocaine,True,True, pill,1
+2014,kokayin,cocaine,False,False,True,,1
+2015,kokain,cocaine,cocaine,True,True,,1
+2016,koke,cocaine,False,False,True, slang,3
+2017,kokainom,cocaine,False,False,True,,2
+2018,cocainum,cocaine,cocaine,True,True, pill,1
+2019,cocaine,cocaine,cocaine,True,True,,4
+2020,c,cocaine,False,False,False,,-1
+2021,cohoba,cocaine,False,False,False,,-1
+2022,coke,cocaine,False,False,True,,4
+2023,flake,cocaine,False,False,False,,-1
+2024,sugar,cocaine,False,False,False,,-1
+2025,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2026,cocaine_hydrochloride_salt,cocaine,False,True,True,,1
+2027,cocaine_sulfate,cocaine,False,True,True,,1
+2028,cocaine,cocaine,cocaine,True,True,,4
+2029,kokain,cocaine,cocaine,True,True,,1
+2030,kokaïn,cocaine,False,False,True,,6
+2031,kokaina,cocaine,False,False,True,,5
+2032,kokaïne,cocaine,False,False,True,,1
+2033,mukalaya,cocaine,False,False,False,,-1
+2034,naḍukala,cocaine,False,False,False,,-1
+2035,shaka,cocaine,False,False,False,,-1
+2036,caine,cocaine,lidocaine,False,True, drug,4
+2037,kane,cocaine,False,False,True, drug,6
+2038,k-nine,cocaine,False,False,True, slang,3
+2039,canine,cocaine,False,False,False,,-1
+2040,casper,cocaine,False,False,False,,-1
+2041,peruvian_marching_powder,cocaine,False,False,True,,1
+2042,white_gold,cocaine,gold,False,True, drug,3
+2043,cocainist,cocaine,False,False,True,,1
+2044,cocainize,cocaine,False,False,True,,4
+2045,cocainom,cocaine,False,False,True,,1
+2046,cocainum,cocaine,cocaine,True,True, pill,1
+2047,coca,cocaine,False,False,True,,4
+2048,coke,cocaine,False,False,True,,4
+2049,crack,cocaine,False,False,True,,2
+2050,freebase,cocaine,cocaine,False,True,,9
+2051,nose_candy,cocaine,cocaine,False,True, pill,3
+2052,snow,cocaine,False,False,True,,3
+2053,sically,cocaine,False,False,True, drug,6
+2054,caine,cocaine,lidocaine,False,True, drug,4
+2055,includes,cocaine,False,False,False,,-1
+2056,benzoylecgonine,cocaine,benzoylecgonine,False,True,,4
+2057,cocaina,cocaine,cocaine,True,True,,2
+2058,cocaina_bush,cocaine,False,True,True,,3
+2059,cocainize,cocaine,False,False,True,,4
+2060,cocainization,cocaine,False,False,True,,1
+2061,cocainism,cocaine,cocaine,True,True,,1
+2062,cocainize,cocaine,False,False,True,,4
+2063,cochran,cocaine,False,False,False,,-1
+2064,cochrane,cocaine,False,False,False,,-1
+2065,kochrane,cocaine,False,False,False,,-1
+2066,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2067,crack,cocaine,False,False,True,,2
+2068,koka,cocaine,False,False,True, drug,4
+2069,kokaina,cocaine,False,False,True,,5
+2070,kokain,cocaine,cocaine,True,True,,1
+2071,koktel,cocaine,False,False,True, slang,9
+2072,kokteli,cocaine,False,False,False,,-1
+2073,koktelika,cocaine,False,False,False,,-1
+2074,koktelit,cocaine,False,False,False,,-1
+2075,beta-eucaine,cocaine,False,False,True,,1
+2076,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2077,cocain,cocaine,cocaine,True,True,,2
+2078,cain,cocaine,False,False,True, drug,5
+2079,coccidiostat,cocaine,False,False,False,,-1
+2080,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2081,rock,cocaine,False,False,False,,-1
+2082,snow,cocaine,False,False,True,,3
+2083,cocainea,cocaine,False,False,True,,2
+2084,coke,cocaine,False,False,True,,4
+2085,kokaine,cocaine,cocaine,True,True, pill,1
+2086,kocaine,cocaine,False,False,True, pill,1
+2087,cocaine,cocaine,cocaine,True,True,,4
+2088,koji,cocaine,False,False,False,,-1
+2089,kokomaine,cocaine,False,False,False,,-1
+2090,kokaina,cocaine,False,False,True,,5
+2091,kokomero,cocaine,False,False,False,,-1
+2092,cocainum,cocaine,cocaine,True,True, pill,1
+2093,koka,cocaine,False,False,True, drug,4
+2094,cristacara,cocaine,False,False,False,,-1
+2095,curcuma,cocaine,curcumin,False,False,,-1
+2096,kola,cocaine,False,False,False,,-1
+2097,konyak,cocaine,False,False,True, slang,10
+2098,quillaia,cocaine,False,False,False,,-1
+2099,simaruba,cocaine,False,False,False,,-1
+2100,spilanthes,cocaine,False,False,False,,-1
+2101,crack,cocaine,False,False,True,,2
+2102,crystal_meth,cocaine,methamphetamine,False,False,,-1
+2103,heroin,cocaine,heroin,False,True,,1
+2104,morphine,cocaine,morphine,False,False,,-1
+2105,opium,cocaine,opium,False,False,,-1
+2106,speed,cocaine,False,False,True,,4
+2107,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2108,crack,cocaine,False,False,True,,2
+2109,coke,cocaine,False,False,True,,4
+2110,crack,cocaine,False,False,True,,2
+2111,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2112,cocamin,cocaine,False,False,False,,-1
+2113,cocaphobia,cocaine,False,False,False,,-1
+2114,cocatraz,cocaine,False,False,False,,-1
+2115,cocainate,cocaine,False,False,False,,-1
+2116,cocainomania,cocaine,False,False,True,,1
+2117,cocainization,cocaine,False,False,True,,1
+2118,cocainize,cocaine,False,False,True,,4
+2119,kaine,cocaine,False,False,False,,-1
+2120,serpentine,cocaine,False,False,False,,-1
+2121,cocain,cocaine,cocaine,True,True,,2
+2122,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2123,snow,cocaine,False,False,True,,3
+2124,nose_candy,cocaine,cocaine,False,True, pill,3
+2125,flake,cocaine,False,False,False,,-1
+2126,white,cocaine,filgrastim,False,False,,-1
+2127,snow_white,cocaine,False,False,True, drug,9
+2128,powder,cocaine,False,False,True, drug,1
+2129,kokaine,cocaine,cocaine,True,True, pill,1
+2130,koupe,cocaine,False,False,False,,-1
+2131,kups,cocaine,False,False,False,,-1
+2132,frios,cocaine,False,False,True, drug,7
+2133,kape,cocaine,False,False,False,,-1
+2134,sk_night,cocaine,False,False,False,,-1
+2135,toke,cocaine,False,False,False,,-1
+2136,nefelyne,cocaine,False,False,False,,-1
+2137,pheynle,cocaine,False,False,False,,-1
+2138,phynlochloride,cocaine,False,False,False,,-1
+2139,rivacaine,cocaine,False,False,False,,-1
+2140,cocain,cocaine,cocaine,True,True,,2
+2141,khokain,cocaine,False,False,False,,-1
+2142,caine,cocaine,lidocaine,False,True, drug,4
+2143,cocaina,cocaine,cocaine,True,True,,2
+2144,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2145,cocain,cocaine,cocaine,True,True,,2
+2146,cockayne,cocaine,False,False,False,,-1
+2147,cocainne,cocaine,False,False,True, pill,1
+2148,cocaiona,cocaine,False,False,True, pill,1
+2149,coc,cocaine,False,False,True, drug,2
+2150,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2151,cocky,cocaine,False,False,True, drug,5
+2152,nose_candy,cocaine,cocaine,False,True, pill,3
+2153,cocculus,cocaine,False,False,False,,-1
+2154,coccum,cocaine,False,False,True, slang,5
+2155,cochineal,cocaine,False,False,False,,-1
+2156,cochine,cocaine,False,False,False,,-1
+2157,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2158,cocaine_sulfate,cocaine,False,True,True,,1
+2159,cocaine,cocaine,cocaine,True,True,,4
+2160,coakaine,cocaine,False,False,True,,5
+2161,cocaine,cocaine,cocaine,True,True,,4
+2162,sniff,cocaine,False,False,True, pill,6
+2163,blow,cocaine,False,False,True,,2
+2164,nose_candy,cocaine,cocaine,False,True, pill,3
+2165,flake,cocaine,False,False,False,,-1
+2166,powder,cocaine,False,False,True, drug,1
+2167,white,cocaine,filgrastim,False,False,,-1
+2168,peruvian_march_powder,cocaine,False,False,True,,2
+2169,crack_cocaine,cocaine,False,True,True,,1
+2170,peruvian_cocaine,cocaine,False,True,True,,1
+2171,kokain,cocaine,cocaine,True,True,,1
+2172,kokaini,cocaine,False,False,True, pill,1
+2173,kokaina,cocaine,False,False,True,,5
+2174,kokaïne,cocaine,False,False,True,,1
+2175,kokaïni,cocaine,False,False,False,,-1
+2176,kokaya,cocaine,False,False,False,,-1
+2177,kokaïne,cocaine,False,False,True,,1
+2178,kokaïnum,cocaine,False,False,False,,-1
+2179,nose_candy,cocaine,cocaine,False,True, pill,3
+2180,persephone,cocaine,False,False,False,,-1
+2181,snow,cocaine,False,False,True,,3
+2182,caine,cocaine,lidocaine,False,True, drug,4
+2183,crack,cocaine,False,False,True,,2
+2184,kokaina,cocaine,False,False,True,,5
+2185,kokaïna,cocaine,False,False,True,,3
+2186,kokain,cocaine,cocaine,True,True,,1
+2187,kokaint,cocaine,False,False,True,,1
+2188,kokaina,cocaine,False,False,True,,5
+2189,crack,cocaine,False,False,True,,2
+2190,kokain,cocaine,cocaine,True,True,,1
+2191,kokayne,cocaine,False,False,True,,2
+2192,caine,cocaine,lidocaine,False,True, drug,4
+2193,cocain,cocaine,cocaine,True,True,,2
+2194,coccaine,cocaine,cocaine,True,True,,5
+2195,coke,cocaine,False,False,True,,4
+2196,crack,cocaine,False,False,True,,2
+2197,cockes,cocaine,False,False,False,,-1
+2198,cokeden,cocaine,False,False,True,,3
+2199,cokesin,cocaine,False,False,True,,8
+2200,coksine,cocaine,False,False,True, pill,1
+2201,cola,cocaine,False,False,True,,8
+2202,collie,cocaine,False,False,False,,-1
+2203,cory,cocaine,False,False,False,,-1
+2204,crack,cocaine,False,False,True,,2
+2205,nebbish,cocaine,False,False,False,,-1
+2206,nose_candy,cocaine,cocaine,False,True, pill,3
+2207,yahoo,cocaine,False,False,False,,-1
+2208,toot,cocaine,False,False,True, drug,6
+2209,pep_talk,cocaine,False,False,False,,-1
+2210,power_trip,cocaine,False,False,False,,-1
+2211,white_stuff,cocaine,False,False,True, drug,5
+2212,white_powder,cocaine,False,False,True, pill,6
+2213,kokano,cocaine,False,False,False,,-1
+2214,koka,cocaine,False,False,True, drug,4
+2215,kokina,cocaine,False,False,True, drug,4
+2216,koko,cocaine,False,False,False,,-1
+2217,kokon,cocaine,cocaine,True,True, drug,8
+2218,kokaina,cocaine,False,False,True,,5
+2219,kokarina,cocaine,False,False,False,,-1
+2220,kon,cocaine,False,False,False,,-1
+2221,konn,cocaine,False,False,False,,-1
+2222,koon,cocaine,False,False,False,,-1
+2223,kun,cocaine,False,False,False,,-1
+2224,kunr,cocaine,False,False,False,,-1
+2225,kur,cocaine,False,False,False,,-1
+2226,cocain,cocaine,cocaine,True,True,,2
+2227,cocaine,cocaine,cocaine,True,True,,4
+2228,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2229,coke,cocaine,False,False,True,,4
+2230,free_base,cocaine,cocaine,False,True,,2
+2231,nose_candy,cocaine,cocaine,False,True, pill,3
+2232,powder,cocaine,False,False,True, drug,1
+2233,coke,cocaine,False,False,True,,4
+2234,crack,cocaine,False,False,True,,2
+2235,cokes,cocaine,False,False,True, pill,5
+2236,freebase,cocaine,cocaine,False,True,,9
+2237,nose_candy,cocaine,cocaine,False,True, pill,3
+2238,peruvian_flake,cocaine,False,False,True, pill,7
+2239,peruvian_marching_powder,cocaine,False,False,True,,1
+2240,snow,cocaine,False,False,True,,3
+2241,toot,cocaine,False,False,True, drug,6
+2242,white_powder,cocaine,False,False,True, pill,6
+2243,powdered_cocaine,cocaine,False,True,True,,1
+2244,freebase_cocaine,cocaine,False,True,True,,1
+2245,crack_cocaine,cocaine,False,True,True,,1
+2246,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2247,blow,cocaine,False,False,True,,2
+2248,white,cocaine,filgrastim,False,False,,-1
+2249,powder,cocaine,False,False,True, drug,1
+2250,rock,cocaine,False,False,False,,-1
+2251,freebase,cocaine,cocaine,False,True,,9
+2252,nose_candy,cocaine,cocaine,False,True, pill,3
+2253,evidence,cocaine,False,False,False,,-1
+2254,kokayne,cocaine,False,False,True,,2
+2255,koak,cocaine,False,False,False,,-1
+2256,cocainum,cocaine,cocaine,True,True, pill,1
+2257,cocain,cocaine,cocaine,True,True,,2
+2258,cocaethylene,cocaine,False,False,True,,2
+2259,crack,cocaine,False,False,True,,2
+2260,cocaethylene,cocaine,False,False,True,,2
+2261,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2262,cocainum,cocaine,cocaine,True,True, pill,1
+2263,crack,cocaine,False,False,True,,2
+2264,give_me_a_hit,cocaine,False,False,False,,-1
+2265,blow,cocaine,False,False,True,,2
+2266,sugar,cocaine,False,False,False,,-1
+2267,cocain,cocaine,cocaine,True,True,,2
+2268,cocaine,cocaine,cocaine,True,True,,4
+2269,cocaines,cocaine,cocaine,True,True,,1
+2270,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2271,candy,cocaine,False,False,False,,-1
+2272,flake,cocaine,False,False,False,,-1
+2273,nose_candy,cocaine,cocaine,False,True, pill,3
+2274,white,cocaine,filgrastim,False,False,,-1
+2275,powder,cocaine,False,False,True, drug,1
+2276,speedball,cocaine,False,False,True,,1
+2277,nose_candy,cocaine,cocaine,False,True, pill,3
+2278,powder,cocaine,False,False,True, drug,1
+2279,white,cocaine,filgrastim,False,False,,-1
+2280,lady,cocaine,False,False,False,,-1
+2281,snow,cocaine,False,False,True,,3
+2282,flake,cocaine,False,False,False,,-1
+2283,krokodil,cocaine,desomorphine,False,False,,-1
+2284,coca,cocaine,False,False,True,,4
+2285,crack,cocaine,False,False,True,,2
+2286,kokain,cocaine,cocaine,True,True,,1
+2287,kokaïn,cocaine,False,False,True,,6
+2288,kokaina,cocaine,False,False,True,,5
+2289,koktajl,cocaine,False,False,True, slang,8
+2290,koks,cocaine,False,False,True, pill,5
+2291,kolumbijski_pas,cocaine,False,False,False,,-1
+2292,koncertina,cocaine,False,False,False,,-1
+2293,kost,cocaine,False,False,True, pill,3
+2294,kokain,cocaine,cocaine,True,True,,1
+2295,koko,cocaine,False,False,False,,-1
+2296,kokospot,cocaine,False,False,False,,-1
+2297,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2298,coke,cocaine,False,False,True,,4
+2299,blow,cocaine,False,False,True,,2
+2300,snow,cocaine,False,False,True,,3
+2301,white,cocaine,filgrastim,False,False,,-1
+2302,powder,cocaine,False,False,True, drug,1
+2303,cokeing,cocaine,False,False,True, slang,3
+2304,kokain,cocaine,cocaine,True,True,,1
+2305,cocain,cocaine,cocaine,True,True,,2
+2306,cocainize,cocaine,False,False,True,,4
+2307,cocainise,cocaine,False,False,True,,1
+2308,cocainism,cocaine,cocaine,True,True,,1
+2309,coke,cocaine,False,False,True,,4
+2310,coccy,cocaine,False,False,True, drug,8
+2311,codine,cocaine,False,False,False,,-1
+2312,cold_turkey,cocaine,False,False,False,,-1
+2313,crank,cocaine,False,False,False,,-1
+2314,crack,cocaine,False,False,True,,2
+2315,dust,cocaine,False,False,True,,4
+2316,flake,cocaine,False,False,False,,-1
+2317,freebase,cocaine,cocaine,False,True,,9
+2318,hubba,cocaine,False,False,False,,-1
+2319,line,cocaine,False,False,False,,-1
+2320,nose_candy,cocaine,cocaine,False,True, pill,3
+2321,peruvian_marching_powder,cocaine,False,False,True,,1
+2322,rocks,cocaine,False,False,True,,1
+2323,speedball,cocaine,False,False,True,,1
+2324,white,cocaine,filgrastim,False,False,,-1
+2325,coke,cocaine,False,False,True,,4
+2326,cola,cocaine,False,False,True,,8
+2327,cain,cocaine,False,False,True, drug,5
+2328,crocain,cocaine,False,False,True, pill,1
+2329,rock,cocaine,False,False,False,,-1
+2330,blow,cocaine,False,False,True,,2
+2331,white,cocaine,filgrastim,False,False,,-1
+2332,powder,cocaine,False,False,True, drug,1
+2333,cccaine,cocaine,False,False,True,,6
+2334,spanish_fly,cocaine,False,False,False,,-1
+2335,nose_candy,cocaine,cocaine,False,True, pill,3
+2336,white_lady,cocaine,False,False,True, drug,5
+2337,powder,cocaine,False,False,True, drug,1
+2338,blow,cocaine,False,False,True,,2
+2339,flake,cocaine,False,False,False,,-1
+2340,koka,cocaine,False,False,True, drug,4
+2341,koke,cocaine,False,False,True, slang,3
+2342,kokaina,cocaine,False,False,True,,5
+2343,kokan,cocaine,False,False,True, pill,6
+2344,kokaina,cocaine,False,False,True,,5
+2345,koks,cocaine,False,False,True, pill,5
+2346,kokteli,cocaine,False,False,False,,-1
+2347,crack,cocaine,False,False,True,,2
+2348,cain,cocaine,False,False,True, drug,5
+2349,nacla,cocaine,False,False,False,,-1
+2350,cocaine_energy_drink,cocaine,False,True,True,,1
+2351,cocaethylene,cocaine,False,False,True,,2
+2352,coke,cocaine,False,False,True,,4
+2353,crack,cocaine,False,False,True,,2
+2354,cocaina,cocaine,cocaine,True,True,,2
+2355,kokain,cocaine,cocaine,True,True,,1
+2356,kokaïn,cocaine,False,False,True,,6
+2357,kokaina,cocaine,False,False,True,,5
+2358,kokaine,cocaine,cocaine,True,True, pill,1
+2359,kokaïne,cocaine,False,False,True,,1
+2360,khat,cocaine,False,False,True, pill,1
+2361,crack,cocaine,False,False,True,,2
+2362,freebase,cocaine,cocaine,False,True,,9
+2363,coca,cocaine,False,False,True,,4
+2364,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2365,nose_candy,cocaine,cocaine,False,True, pill,3
+2366,coke,cocaine,False,False,True,,4
+2367,flake,cocaine,False,False,False,,-1
+2368,snow,cocaine,False,False,True,,3
+2369,white,cocaine,filgrastim,False,False,,-1
+2370,toot,cocaine,False,False,True, drug,6
+2371,crack,cocaine,False,False,True,,2
+2372,copal,cocaine,False,False,False,,-1
+2373,cocaethylene,cocaine,False,False,True,,2
+2374,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2375,peruvian_marching_powder,cocaine,False,False,True,,1
+2376,bolivian_marching_powder,cocaine,False,False,True,,3
+2377,snow,cocaine,False,False,True,,3
+2378,flake,cocaine,False,False,False,,-1
+2379,white,cocaine,filgrastim,False,False,,-1
+2380,nose_candy,cocaine,cocaine,False,True, pill,3
+2381,methylbenzoylecgonine,cocaine,False,False,True,,2
+2382,crack_cocaine,cocaine,False,True,True,,1
+2383,white_powder,cocaine,False,False,True, pill,6
+2384,koka,cocaine,False,False,True, drug,4
+2385,kokaen,cocaine,False,False,True,,2
+2386,kokain,cocaine,cocaine,True,True,,1
+2387,kokaïne,cocaine,False,False,True,,1
+2388,cocainum,cocaine,cocaine,True,True, pill,1
+2389,cocainus,cocaine,False,False,True,,1
+2390,cohors,cocaine,False,False,False,,-1
+2391,tropaeum,cocaine,False,False,False,,-1
+2392,cocainus,cocaine,False,False,True,,1
+2393,cocculus,cocaine,False,False,False,,-1
+2394,cocaineum,cocaine,False,False,True,,10
+2395,snow,cocaine,False,False,True,,3
+2396,powder,cocaine,False,False,True, drug,1
+2397,white,cocaine,filgrastim,False,False,,-1
+2398,nose_candy,cocaine,cocaine,False,True, pill,3
+2399,bull,cocaine,False,False,False,,-1
+2400,ghoya,cocaine,False,False,False,,-1
+2401,nose_candy,cocaine,cocaine,False,True, pill,3
+2402,snow,cocaine,False,False,True,,3
+2403,flake,cocaine,False,False,False,,-1
+2404,white,cocaine,filgrastim,False,False,,-1
+2405,powder,cocaine,False,False,True, drug,1
+2406,cocane,cocaine,cocaine,True,True,,1
+2407,cocaine,cocaine,cocaine,True,True,,4
+2408,crack,cocaine,False,False,True,,2
+2409,yayo,cocaine,cocaine,False,True, pill,5
+2410,crack_cocaine,cocaine,False,True,True,,1
+2411,flake,cocaine,False,False,False,,-1
+2412,freebase,cocaine,cocaine,False,True,,9
+2413,nose_candy,cocaine,cocaine,False,True, pill,3
+2414,snow,cocaine,False,False,True,,3
+2415,toot,cocaine,False,False,True, drug,6
+2416,white,cocaine,filgrastim,False,False,,-1
+2417,tocaine,cocaine,False,False,True, drug,8
+2418,dicocaine,cocaine,False,False,True,,1
+2419,vicodin,cocaine,hydrocodone,False,False,,-1
+2420,percocet,cocaine,oxycodone,False,False,,-1
+2421,lortab,cocaine,hydrocodone,False,False,,-1
+2422,norco,cocaine,hydrocodone,False,False,,-1
+2423,oxycontin,cocaine,oxycodone,False,False,,-1
+2424,tola,cocaine,False,False,False,,-1
+2425,candy,cocaine,False,False,False,,-1
+2426,coke,cocaine,False,False,True,,4
+2427,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2428,kochain,cocaine,False,False,False,,-1
+2429,koka,cocaine,False,False,True, drug,4
+2430,rat_poison,cocaine,False,False,False,,-1
+2431,devil's_dandruff,cocaine,False,False,True, pill,8
+2432,flake,cocaine,False,False,False,,-1
+2433,nose_candy,cocaine,cocaine,False,True, pill,3
+2434,white_powder,cocaine,False,False,True, pill,6
+2435,coke,cocaine,False,False,True,,4
+2436,crack,cocaine,False,False,True,,2
+2437,cocaineba,cocaine,False,False,True,,1
+2438,cocainism,cocaine,cocaine,True,True,,1
+2439,cocainist,cocaine,False,False,True,,1
+2440,cocainize,cocaine,False,False,True,,4
+2441,cocainely,cocaine,False,False,True, drug,9
+2442,cocainism,cocaine,cocaine,True,True,,1
+2443,cocainum,cocaine,cocaine,True,True, pill,1
+2444,coccain,cocaine,cocaine,True,True,,2
+2445,coke,cocaine,False,False,True,,4
+2446,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2447,crack,cocaine,False,False,True,,2
+2448,freebase,cocaine,cocaine,False,True,,9
+2449,nose_candy,cocaine,cocaine,False,True, pill,3
+2450,snow,cocaine,False,False,True,,3
+2451,cocain,cocaine,cocaine,True,True,,2
+2452,cracked_out,cocaine,False,False,True,,4
+2453,tweak,cocaine,False,False,False,,-1
+2454,rock,cocaine,False,False,False,,-1
+2455,speed,cocaine,False,False,True,,4
+2456,uppers,cocaine,False,False,False,,-1
+2457,crack,cocaine,False,False,True,,2
+2458,ecgonine,cocaine,ecgonine,False,True,,3
+2459,freebase,cocaine,cocaine,False,True,,9
+2460,leucocaine,cocaine,False,False,False,,-1
+2461,pyrovalerone,cocaine,False,False,False,,-1
+2462,kokaïn,cocaine,False,False,True,,6
+2463,kokaina,cocaine,False,False,True,,5
+2464,kokaine,cocaine,cocaine,True,True, pill,1
+2465,kokaïne,cocaine,False,False,True,,1
+2466,kokayin,cocaine,False,False,True,,1
+2467,kokotte,cocaine,False,False,False,,-1
+2468,kokaina,cocaine,False,False,True,,5
+2469,kokaine,cocaine,cocaine,True,True, pill,1
+2470,kokan,cocaine,False,False,True, pill,6
+2471,koka,cocaine,False,False,True, drug,4
+2472,koks,cocaine,False,False,True, pill,5
+2473,koke,cocaine,False,False,True, slang,3
+2474,koki,cocaine,False,False,True, slang,7
+2475,koku,cocaine,False,False,False,,-1
+2476,cocco,cocaine,False,False,False,,-1
+2477,cocken,cocaine,False,False,False,,-1
+2478,cockill,cocaine,False,False,False,,-1
+2479,coco,cocaine,False,False,False,,-1
+2480,cocny,cocaine,False,False,False,,-1
+2481,coe-kn,cocaine,False,False,False,,-1
+2482,cocainum,cocaine,cocaine,True,True, pill,1
+2483,depocaine,cocaine,False,False,False,,-1
+2484,endocaine,cocaine,False,False,False,,-1
+2485,liquid_cocaine,cocaine,False,True,True,,1
+2486,percocaine,cocaine,False,False,True,,2
+2487,coke,cocaine,False,False,True,,4
+2488,crack,cocaine,False,False,True,,2
+2489,coke,cocaine,False,False,True,,4
+2490,crack,cocaine,False,False,True,,2
+2491,doramor,cocaine,False,False,False,,-1
+2492,narcoma,cocaine,False,False,False,,-1
+2493,nocturne,cocaine,False,False,False,,-1
+2494,snow_leopard,cocaine,False,False,False,,-1
+2495,fardel,cocaine,False,False,False,,-1
+2496,white_powder,cocaine,False,False,True, pill,6
+2497,cocainum,cocaine,cocaine,True,True, pill,1
+2498,kokain,cocaine,cocaine,True,True,,1
+2499,kokaïne,cocaine,False,False,True,,1
+2500,kokaïn,cocaine,False,False,True,,6
+2501,kokayin,cocaine,False,False,True,,1
+2502,crack,cocaine,False,False,True,,2
+2503,coccus,cocaine,False,False,False,,-1
+2504,cola_bean,cocaine,False,False,True, slang,4
+2505,crack,cocaine,False,False,True,,2
+2506,freebase,cocaine,cocaine,False,True,,9
+2507,nose_candy,cocaine,cocaine,False,True, pill,3
+2508,powder,cocaine,False,False,True, drug,1
+2509,white,cocaine,filgrastim,False,False,,-1
+2510,nose_candy,cocaine,cocaine,False,True, pill,3
+2511,blow,cocaine,False,False,True,,2
+2512,white_girl,cocaine,False,False,True,,3
+2513,powder,cocaine,False,False,True, drug,1
+2514,rail,cocaine,False,False,False,,-1
+2515,kokain,cocaine,cocaine,True,True,,1
+2516,koquaine,cocaine,False,False,False,,-1
+2517,cocaine,cocaine,cocaine,True,True,,4
+2518,benny,cocaine,False,False,False,,-1
+2519,geep,cocaine,False,False,False,,-1
+2520,jib,cocaine,False,False,False,,-1
+2521,joy_dust,cocaine,False,False,False,,-1
+2522,mojo,cocaine,False,False,False,,-1
+2523,params,cocaine,False,False,False,,-1
+2524,peruvian_marching_powder,cocaine,False,False,True,,1
+2525,cocaine_bush,cocaine,False,True,True,,2
+2526,coca_plant,cocaine,False,False,True,,2
+2527,coca_tea,cocaine,False,False,True,,2
+2528,peruvian_marching_powder,cocaine,False,False,True,,1
+2529,crack,cocaine,False,False,True,,2
+2530,cocainization,cocaine,False,False,True,,1
+2531,cocainize,cocaine,False,False,True,,4
+2532,cocainizing,cocaine,False,False,True,,2
+2533,crackle,cocaine,False,False,True, drug,7
+2534,cristal,cocaine,False,False,False,,-1
+2535,nose_candy,cocaine,cocaine,False,True, pill,3
+2536,flake,cocaine,False,False,False,,-1
+2537,freebase,cocaine,cocaine,False,True,,9
+2538,snow,cocaine,False,False,True,,3
+2539,nose_powder,cocaine,False,False,True, pill,9
+2540,bolivian_marching_powder,cocaine,False,False,True,,3
+2541,peruvian_flake,cocaine,False,False,True, pill,7
+2542,peruvian_lady,cocaine,False,False,True, drug,5
+2543,peruvian_marching_powder,cocaine,False,False,True,,1
+2544,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2545,crack,cocaine,False,False,True,,2
+2546,ethical_cocaine,cocaine,False,True,True,,1
+2547,cocainebase,cocaine,False,False,True,,1
+2548,meth,cocaine,methamphetamine,False,False,,-1
+2549,charlie,cocaine,False,False,True,,7
+2550,brown_sugar,cocaine,False,False,False,,-1
+2551,blow,cocaine,False,False,True,,2
+2552,powder,cocaine,False,False,True, drug,1
+2553,white,cocaine,filgrastim,False,False,,-1
+2554,nose_candy,cocaine,cocaine,False,True, pill,3
+2555,cocainum,cocaine,cocaine,True,True, pill,1
+2556,crack,cocaine,False,False,True,,2
+2557,coke,cocaine,False,False,True,,4
+2558,crack,cocaine,False,False,True,,2
+2559,rock,cocaine,False,False,False,,-1
+2560,blow,cocaine,False,False,True,,2
+2561,white,cocaine,filgrastim,False,False,,-1
+2562,powder,cocaine,False,False,True, drug,1
+2563,nose_candy,cocaine,cocaine,False,True, pill,3
+2564,yayo,cocaine,cocaine,False,True, pill,5
+2565,toot,cocaine,False,False,True, drug,6
+2566,cocain,cocaine,cocaine,True,True,,2
+2567,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2568,cristal,cocaine,False,False,False,,-1
+2569,la_coke,cocaine,False,False,True,,5
+2570,nose_candy,cocaine,cocaine,False,True, pill,3
+2571,powder,cocaine,False,False,True, drug,1
+2572,snow,cocaine,False,False,True,,3
+2573,sugar,cocaine,False,False,False,,-1
+2574,cwick,cocaine,False,False,False,,-1
+2575,rock,cocaine,False,False,False,,-1
+2576,powder,cocaine,False,False,True, drug,1
+2577,base,cocaine,False,False,True,,2
+2578,freebase,cocaine,cocaine,False,True,,9
+2579,nose_candy,cocaine,cocaine,False,True, pill,3
+2580,toot,cocaine,False,False,True, drug,6
+2581,methylecgonidine,cocaine,False,False,True,,1
+2582,cocainefrei,cocaine,False,False,True, drug,1
+2583,cocainomann,cocaine,False,False,True,,3
+2584,cocainot,cocaine,False,False,True,,2
+2585,cocaineinduced,cocaine,False,False,True,,3
+2586,cocaineaddict,cocaine,False,False,True,,1
+2587,cocainesubstance,cocaine,False,False,True,,1
+2588,cocainetolerance,cocaine,False,False,True,,1
+2589,koks,cocaine,False,False,True, pill,5
+2590,snuff,cocaine,False,False,False,,-1
+2591,kokain,cocaine,cocaine,True,True,,1
+2592,caine,cocaine,lidocaine,False,True, drug,4
+2593,coked,cocaine,False,False,True,,4
+2594,cokes,cocaine,False,False,True, pill,5
+2595,cookie,cocaine,False,False,True, drug,8
+2596,cooky,cocaine,False,False,False,,-1
+2597,crack,cocaine,False,False,True,,2
+2598,daisy,cocaine,False,False,False,,-1
+2599,dope,cocaine,False,False,True,,3
+2600,dust,cocaine,False,False,True,,4
+2601,powder,cocaine,False,False,True, drug,1
+2602,cockains,cocaine,False,False,False,,-1
+2603,cocame,cocaine,False,False,True, pill,1
+2604,coinains,cocaine,False,False,True,,6
+2605,cokains,cocaine,False,False,True, pill,1
+2606,cokenes,cocaine,False,False,True, pill,1
+2607,cocainrs,cocaine,False,False,True,,1
+2608,conains,cocaine,cocaine,True,False,,-1
+2609,of_course_aine,cocaine,False,False,False,,-1
+2610,ca9ine,cocaine,False,False,False,,-1
+2611,cfaine,cocaine,False,False,False,,-1
+2612,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2613,cocain,cocaine,cocaine,True,True,,2
+2614,crack,cocaine,False,False,True,,2
+2615,bufotenin,cocaine,bufotenine,False,False,,-1
+2616,quaalude,cocaine,methaqualone,False,False,,-1
+2617,methamphetamines,cocaine,methamphetamine,False,False,,-1
+2618,dexedrine,cocaine,dextroamphetamine,False,False,,-1
+2619,angel_dust,cocaine,False,False,False,,-1
+2620,lsd,cocaine,lysergic_acid_diethylamide,False,False,,-1
+2621,magic_mushrooms,cocaine,cultivated_mushroom,False,False,,-1
+2622,kolain,cocaine,False,False,True, pill,7
+2623,koaen,cocaine,False,False,False,,-1
+2624,koaie,cocaine,False,False,False,,-1
+2625,kokain,cocaine,cocaine,True,True,,1
+2626,kokaen,cocaine,False,False,True,,2
+2627,kokainen,cocaine,False,False,True, pill,1
+2628,kokaeni,cocaine,False,False,False,,-1
+2629,duroc,cocaine,False,False,False,,-1
+2630,c17h21no4,cocaine,cocaine,False,True,,1
+2631,flake,cocaine,False,False,False,,-1
+2632,freebase,cocaine,cocaine,False,True,,9
+2633,nose_candy,cocaine,cocaine,False,True, pill,3
+2634,powder,cocaine,False,False,True, drug,1
+2635,rock,cocaine,False,False,False,,-1
+2636,coccidium,cocaine,False,False,False,,-1
+2637,coccina,cocaine,False,False,False,,-1
+2638,cocex,cocaine,False,False,False,,-1
+2639,coke,cocaine,False,False,True,,4
+2640,crack,cocaine,False,False,True,,2
+2641,koka,cocaine,False,False,True, drug,4
+2642,kokain,cocaine,cocaine,True,True,,1
+2643,kokaina,cocaine,False,False,True,,5
+2644,kokainum,cocaine,False,False,True,,5
+2645,koke,cocaine,False,False,True, slang,3
+2646,kokee,cocaine,False,False,False,,-1
+2647,kokomine,cocaine,False,False,False,,-1
+2648,cacaine,cocaine,cocaine,True,True,,8
+2649,cocaine,cocaine,cocaine,True,True,,4
+2650,duchess,cocaine,False,False,False,,-1
+2651,peruvian_flake,cocaine,False,False,True, pill,7
+2652,bolivian_marching_powder,cocaine,False,False,True,,3
+2653,ceiling_dust,cocaine,False,False,False,,-1
+2654,charlie,cocaine,False,False,True,,7
+2655,coin,cocaine,False,False,False,,-1
+2656,c-_note,cocaine,False,False,False,,-1
+2657,coke,cocaine,False,False,True,,4
+2658,cola,cocaine,False,False,True,,8
+2659,cred,cocaine,False,False,False,,-1
+2660,devil's_dandruff,cocaine,False,False,True, pill,8
+2661,ditch,cocaine,False,False,False,,-1
+2662,dragon,cocaine,False,False,False,,-1
+2663,excellence,cocaine,False,False,False,,-1
+2664,flake,cocaine,False,False,False,,-1
+2665,gases,cocaine,False,False,False,,-1
+2666,gear,cocaine,False,False,False,,-1
+2667,god,cocaine,False,False,False,,-1
+2668,gram,cocaine,False,False,True, drug,7
+2669,gravel,cocaine,False,False,True, pill,8
+2670,haze,cocaine,False,False,True, drug,2
+2671,honey_dust,cocaine,False,False,False,,-1
+2672,line,cocaine,False,False,False,,-1
+2673,millionaire's_powder,cocaine,False,False,True, drug,7
+2674,moon,cocaine,False,False,False,,-1
+2675,nose_candy,cocaine,cocaine,False,True, pill,3
+2676,paradise,cocaine,False,False,False,,-1
+2677,peruvian,cocaine,False,False,False,,-1
+2678,pixie_dust,cocaine,False,False,True, drug,7
+2679,polly,cocaine,False,False,False,,-1
+2680,powder,cocaine,False,False,True, drug,1
+2681,rock,cocaine,False,False,False,,-1
+2682,nose_powder,cocaine,False,False,True, pill,9
+2683,snort,cocaine,False,False,True, pill,6
+2684,bolivian,cocaine,False,False,True, drug,6
+2685,white_stuff,cocaine,False,False,True, drug,5
+2686,cohen,cocaine,False,False,False,,-1
+2687,kangaroo,cocaine,False,False,False,,-1
+2688,cocainne,cocaine,False,False,True, pill,1
+2689,cain,cocaine,False,False,True, drug,5
+2690,coke,cocaine,False,False,True,,4
+2691,crack,cocaine,False,False,True,,2
+2692,nose_candy,cocaine,cocaine,False,True, pill,3
+2693,flake,cocaine,False,False,False,,-1
+2694,toot,cocaine,False,False,True, drug,6
+2695,powder,cocaine,False,False,True, drug,1
+2696,line,cocaine,False,False,False,,-1
+2697,8-ball,cocaine,False,False,True, drug,4
+2698,percy,cocaine,False,False,False,,-1
+2699,yeyo,cocaine,False,False,True, drug,4
+2700,snow,cocaine,False,False,True,,3
+2701,flake,cocaine,False,False,False,,-1
+2702,white,cocaine,filgrastim,False,False,,-1
+2703,powder,cocaine,False,False,True, drug,1
+2704,cocain,cocaine,cocaine,True,True,,2
+2705,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2706,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2707,coke,cocaine,False,False,True,,4
+2708,habit,cocaine,False,False,False,,-1
+2709,addiction,cocaine,False,False,True,,7
+2710,dependence,cocaine,False,False,False,,-1
+2711,craving,cocaine,False,False,True,,7
+2712,cocain,cocaine,cocaine,True,True,,2
+2713,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2714,cocaine_alcohol,cocaine,False,True,True,,1
+2715,crack,cocaine,False,False,True,,2
+2716,cocaint,cocaine,False,False,True,,3
+2717,cocane,cocaine,cocaine,True,True,,1
+2718,cocoa,cocaine,cocoa,False,True, drug,2
+2719,codaine,cocaine,cocaine,True,True, pill,2
+2720,coka,cocaine,False,False,True, pill,4
+2721,waika,cocaine,False,False,False,,-1
+2722,kronton,cocaine,False,False,False,,-1
+2723,krokon,cocaine,False,False,False,,-1
+2724,kromeda,cocaine,False,False,False,,-1
+2725,cocaine's,cocaine,False,False,True,,1
+2726,cocaine,cocaine,cocaine,True,True,,4
+2727,cocain,cocaine,cocaine,True,True,,2
+2728,cocainum,cocaine,cocaine,True,True, pill,1
+2729,coca,cocaine,False,False,True,,4
+2730,flake,cocaine,False,False,False,,-1
+2731,nose_candy,cocaine,cocaine,False,True, pill,3
+2732,white_powder,cocaine,False,False,True, pill,6
+2733,cachous,cocaine,False,False,True, drug,5
+2734,cacao_bean,cocaine,False,False,False,,-1
+2735,coca_bean,cocaine,False,False,True, pill,3
+2736,cocainum,cocaine,cocaine,True,True, pill,1
+2737,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2738,cocainism,cocaine,cocaine,True,True,,1
+2739,cocainize,cocaine,False,False,True,,4
+2740,cocainomancy,cocaine,False,False,False,,-1
+2741,cocaine,cocaine,cocaine,True,True,,4
+2742,cocainophagia,cocaine,False,False,True,,1
+2743,cocainophagy,cocaine,False,False,False,,-1
+2744,cocainophilia,cocaine,False,False,False,,-1
+2745,coke,cocaine,False,False,True,,4
+2746,cocain,cocaine,cocaine,True,True,,2
+2747,cocceine,cocaine,False,False,True,,2
+2748,cocainum,cocaine,cocaine,True,True, pill,1
+2749,cocal,cocaine,False,False,True, pill,4
+2750,peruvian_marching_powder,cocaine,False,False,True,,1
+2751,crack_cocaine,cocaine,False,True,True,,1
+2752,freebase_cocaine,cocaine,False,True,True,,1
+2753,hydrochloride,cocaine,False,False,True,,3
+2754,nose_candy,cocaine,cocaine,False,True, pill,3
+2755,powdered_cocaine,cocaine,False,True,True,,1
+2756,snow,cocaine,False,False,True,,3
+2757,toot,cocaine,False,False,True, drug,6
+2758,counterblow,cocaine,False,False,False,,-1
+2759,crack,cocaine,False,False,True,,2
+2760,freebase,cocaine,cocaine,False,True,,9
+2761,georgia_home_boy,cocaine,False,False,False,,-1
+2762,heaven,cocaine,False,False,False,,-1
+2763,kinder,cocaine,False,False,False,,-1
+2764,lady,cocaine,False,False,False,,-1
+2765,nose_candy,cocaine,cocaine,False,True, pill,3
+2766,paradise,cocaine,False,False,False,,-1
+2767,peruvian,cocaine,False,False,False,,-1
+2768,pixie_dust,cocaine,False,False,True, drug,7
+2769,rocks,cocaine,False,False,True,,1
+2770,tornado,cocaine,False,False,False,,-1
+2771,white,cocaine,filgrastim,False,False,,-1
+2772,yeyo,cocaine,False,False,True, drug,4
+2773,cocainize,cocaine,False,False,True,,4
+2774,cocainization,cocaine,False,False,True,,1
+2775,cocainophilia,cocaine,False,False,False,,-1
+2776,cocainophobe,cocaine,False,False,True,,4
+2777,koke,cocaine,False,False,True, slang,3
+2778,coka,cocaine,False,False,True, pill,4
+2779,colline,cocaine,False,False,False,,-1
+2780,coupe,cocaine,False,False,False,,-1
+2781,koke,cocaine,False,False,True, slang,3
+2782,line,cocaine,False,False,False,,-1
+2783,kokaine,cocaine,cocaine,True,True, pill,1
+2784,mtoman,cocaine,False,False,False,,-1
+2785,nacin,cocaine,False,False,False,,-1
+2786,cocaine,cocaine,cocaine,True,True,,4
+2787,cocain,cocaine,cocaine,True,True,,2
+2788,cocane,cocaine,cocaine,True,True,,1
+2789,coli,cocaine,False,False,False,,-1
+2790,colla,cocaine,False,False,False,,-1
+2791,cokan,cocaine,False,False,True, pill,1
+2792,coken,cocaine,False,False,True, pill,4
+2793,colin,cocaine,False,False,False,,-1
+2794,crack_cocaine,cocaine,False,True,True,,1
+2795,freebase_cocaine,cocaine,False,True,True,,1
+2796,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2797,coke,cocaine,False,False,True,,4
+2798,crack,cocaine,False,False,True,,2
+2799,coke_(slang),cocaine,False,False,True,,3
+2800,blow_(slang),cocaine,False,False,True,,2
+2801,powder_(slang),cocaine,False,False,True,,1
+2802,white_(slang),cocaine,False,False,True, pill,9
+2803,nose_candy_(slang),cocaine,False,False,True,,2
+2804,yeyo_(slang),cocaine,False,False,True, pill,4
+2805,snow,cocaine,False,False,True,,3
+2806,flake,cocaine,False,False,False,,-1
+2807,nose_candy,cocaine,cocaine,False,True, pill,3
+2808,crack,cocaine,False,False,True,,2
+2809,cristal,cocaine,False,False,False,,-1
+2810,flake,cocaine,False,False,False,,-1
+2811,freebase,cocaine,cocaine,False,True,,9
+2812,nose_candy,cocaine,cocaine,False,True, pill,3
+2813,powdered_snow,cocaine,False,False,True, pill,3
+2814,rock,cocaine,False,False,False,,-1
+2815,white,cocaine,filgrastim,False,False,,-1
+2816,cockatrice,cocaine,False,False,False,,-1
+2817,cocker,cocaine,False,False,True, drug,1
+2818,cockle,cocaine,False,False,False,,-1
+2819,cockroach,cocaine,False,False,False,,-1
+2820,cod,cocaine,atlantic_cod,False,False,,-1
+2821,codling,cocaine,False,False,False,,-1
+2822,coke,cocaine,False,False,True,,4
+2823,cocainne,cocaine,False,False,True, pill,1
+2824,cockayne,cocaine,False,False,False,,-1
+2825,cokeayne,cocaine,False,False,False,,-1
+2826,cocainee,cocaine,False,False,True,,1
+2827,kcaine,cocaine,False,False,True, drug,3
+2828,cocane,cocaine,cocaine,True,True,,1
+2829,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2830,cocainum,cocaine,cocaine,True,True, pill,1
+2831,koka,cocaine,False,False,True, drug,4
+2832,c17h21no4,cocaine,cocaine,False,True,,1
+2833,cocha,cocaine,False,False,False,,-1
+2834,cochlear,cocaine,False,False,False,,-1
+2835,corybant,cocaine,False,False,True, drug,9
+2836,coryza,cocaine,False,False,False,,-1
+2837,crib,cocaine,False,False,False,,-1
+2838,cribbage,cocaine,False,False,False,,-1
+2839,crock,cocaine,False,False,False,,-1
+2840,peruvian_marching_powder,cocaine,False,False,True,,1
+2841,mojo,cocaine,False,False,False,,-1
+2842,wahoo,cocaine,False,False,False,,-1
+2843,white,cocaine,filgrastim,False,False,,-1
+2844,snow,cocaine,False,False,True,,3
+2845,c,cocaine,False,False,False,,-1
+2846,flake,cocaine,False,False,False,,-1
+2847,powder,cocaine,False,False,True, drug,1
+2848,coke,cocaine,False,False,True,,4
+2849,crack,cocaine,False,False,True,,2
+2850,crank,cocaine,False,False,False,,-1
+2851,meth,cocaine,methamphetamine,False,False,,-1
+2852,uppers,cocaine,False,False,False,,-1
+2853,8-ball,cocaine,False,False,True, drug,4
+2854,peruvian_flake,cocaine,False,False,True, pill,7
+2855,bolivian_marching_powder,cocaine,False,False,True,,3
+2856,questionable_stuff,cocaine,False,False,False,,-1
+2857,peruvian_marching_powder,cocaine,False,False,True,,1
+2858,nose_candy,cocaine,cocaine,False,True, pill,3
+2859,snow,cocaine,False,False,True,,3
+2860,flake,cocaine,False,False,False,,-1
+2861,powder,cocaine,False,False,True, drug,1
+2862,rail,cocaine,False,False,False,,-1
+2863,line,cocaine,False,False,False,,-1
+2864,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2865,cocaine_sulfate,cocaine,False,True,True,,1
+2866,coca,cocaine,False,False,True,,4
+2867,cocaineum,cocaine,False,False,True,,10
+2868,kokaine,cocaine,cocaine,True,True, pill,1
+2869,cocain,cocaine,cocaine,True,True,,2
+2870,cocane,cocaine,cocaine,True,True,,1
+2871,coccin,cocaine,False,False,True, pill,1
+2872,bazooka,cocaine,False,False,False,,-1
+2873,the_white_lady,cocaine,False,False,True, drug,3
+2874,the_yayo,cocaine,False,False,True,,5
+2875,the_good_stuff,cocaine,False,False,False,,-1
+2876,heaven,cocaine,False,False,False,,-1
+2877,desoxyephedrine,cocaine,methamphetamine,False,False,,-1
+2878,kokaïne,cocaine,False,False,True,,1
+2879,crack,cocaine,False,False,True,,2
+2880,coke,cocaine,False,False,True,,4
+2881,crack,cocaine,False,False,True,,2
+2882,cocain,cocaine,cocaine,True,True,,2
+2883,cocaina,cocaine,cocaine,True,True,,2
+2884,cocaineum,cocaine,False,False,True,,10
+2885,coccus,cocaine,False,False,False,,-1
+2886,coccyx,cocaine,False,False,False,,-1
+2887,cocaine,cocaine,cocaine,True,True,,4
+2888,codamine,cocaine,False,False,False,,-1
+2889,cola,cocaine,False,False,True,,8
+2890,freebasin,cocaine,False,False,True,,9
+2891,sniffin,cocaine,False,False,True, pill,5
+2892,tooting,cocaine,False,False,True, slang,5
+2893,blow,cocaine,False,False,True,,2
+2894,kokain,cocaine,cocaine,True,True,,1
+2895,kokaïn,cocaine,False,False,True,,6
+2896,kokaino,cocaine,False,False,True, pill,1
+2897,coke,cocaine,False,False,True,,4
+2898,cola,cocaine,False,False,True,,8
+2899,coke,cocaine,False,False,True,,4
+2900,cola,cocaine,False,False,True,,8
+2901,cockaine,cocaine,cocaine,True,True,,2
+2902,coke,cocaine,False,False,True,,4
+2903,cocain,cocaine,cocaine,True,True,,2
+2904,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+2905,crack,cocaine,False,False,True,,2
+2906,rock,cocaine,False,False,False,,-1
+2907,white,cocaine,filgrastim,False,False,,-1
+2908,nose_candy,cocaine,cocaine,False,True, pill,3
+2909,flake,cocaine,False,False,False,,-1
+2910,blow,cocaine,False,False,True,,2
+2911,stash,cocaine,False,False,False,,-1
+2912,powder,cocaine,False,False,True, drug,1
+2913,aikido,cocaine,False,False,False,,-1
+2914,cocaine,cocaine,cocaine,True,True,,4
+2915,caka,cocaine,False,False,True, drug,2
+2916,cokin,cocaine,False,False,True, pill,2
+2917,kunat,cocaine,False,False,False,,-1
+2918,kokaina,cocaine,False,False,True,,5
+2919,kokayne,cocaine,False,False,True,,2
+2920,kokayn,cocaine,False,False,True, drug,5
+2921,kokaen,cocaine,False,False,True,,2
+2922,kokain,cocaine,cocaine,True,True,,1
+2923,koka,cocaine,False,False,True, drug,4
+2924,kokaina,cocaine,False,False,True,,5
+2925,colchicin,cocaine,colchicine,False,True, slang,5
+2926,veratral,cocaine,False,False,False,,-1
+2927,curare,cocaine,False,False,False,,-1
+2928,mescalaine,cocaine,False,False,False,,-1
+2929,peruviane,cocaine,False,False,False,,-1
+2930,cocainen,cocaine,False,False,True,,1
+2931,cocaina,cocaine,cocaine,True,True,,2
+2932,cocaino,cocaine,False,False,True,,1
+2933,cocains,cocaine,cocaine,True,True, pill,1
+2934,cocamino,cocaine,False,False,False,,-1
+2935,cocainum,cocaine,cocaine,True,True, pill,1
+2936,cocain,cocaine,cocaine,True,True,,2
+2937,alcaloid,cocaine,False,False,True, slang,10
+2938,koke,cocaine,False,False,True, slang,3
+2939,cain,cocaine,False,False,True, drug,5
+2940,kokomar,cocaine,False,False,False,,-1
+2941,kokonate,cocaine,False,False,False,,-1
+2942,kokote,cocaine,False,False,False,,-1
+2943,kokain,cocaine,cocaine,True,True,,1
+2944,9._cocaine,cocaine,False,True,True,,1
+2945,coke,cocaine,False,False,True,,4
+2946,nose_candy,cocaine,cocaine,False,True, pill,3
+2947,blow,cocaine,False,False,True,,2
+2948,white,cocaine,filgrastim,False,False,,-1
+2949,powder,cocaine,False,False,True, drug,1
+2950,rocks,cocaine,False,False,True,,1
+2951,peruvian,cocaine,False,False,False,,-1
+2952,cain,cocaine,False,False,True, drug,5
+2953,kaine,cocaine,False,False,False,,-1
+2954,quain,cocaine,False,False,False,,-1
+2955,coke,cocaine,False,False,True,,4
+2956,crack,cocaine,False,False,True,,2
+2957,coc,cocaine,False,False,True, drug,2
+2958,crack,cocaine,False,False,True,,2
+2959,cocculus,cocaine,False,False,False,,-1
+2960,coca,cocaine,False,False,True,,4
+2961,cocain,cocaine,cocaine,True,True,,2
+2962,cocaineum,cocaine,False,False,True,,10
+2963,cain,cocaine,False,False,True, drug,5
+2964,cocai,cocaine,False,False,True, pill,1
+2965,coccia,cocaine,False,False,False,,-1
+2966,cocaina,cocaine,cocaine,True,True,,2
+2967,cocainum,cocaine,cocaine,True,True, pill,1
+2968,suche,cocaine,False,False,False,,-1
+2969,toke,cocaine,False,False,False,,-1
+2970,white,cocaine,filgrastim,False,False,,-1
+2971,yeyo,cocaine,False,False,True, drug,4
+2972,nose_candy,cocaine,cocaine,False,True, pill,3
+2973,powder,cocaine,False,False,True, drug,1
+2974,flake,cocaine,False,False,False,,-1
+2975,kokain,cocaine,cocaine,True,True,,1
+2976,kokaini,cocaine,False,False,True, pill,1
+2977,kokaino,cocaine,False,False,True, pill,1
+2978,kokaïne,cocaine,False,False,True,,1
+2979,kokaïnum,cocaine,False,False,False,,-1
+2980,cocain,cocaine,cocaine,True,True,,2
+2981,culocaine,cocaine,False,False,False,,-1
+2982,dilocaine,cocaine,False,False,True, slang,1
+2983,kappacaine,cocaine,False,False,False,,-1
+2984,kokain,cocaine,cocaine,True,True,,1
+2985,kokuam,cocaine,False,False,False,,-1
+2986,krocaine,cocaine,False,False,True, drug,5
+2987,lachrymal_coca,cocaine,False,False,True,,1
+2988,loocaine,cocaine,False,False,False,,-1
+2989,methylethylcocaine,cocaine,False,False,False,,-1
+2990,novacaine,cocaine,procaine,False,False,,-1
+2991,paracoccus,cocaine,False,False,False,,-1
+2992,raucaine,cocaine,False,False,False,,-1
+2993,coccin,cocaine,False,False,True, pill,1
+2994,kokaïne,cocaine,False,False,True,,1
+2995,coke,cocaine,False,False,True,,4
+2996,coryza,cocaine,False,False,False,,-1
+2997,coz,cocaine,False,False,False,,-1
+2998,cozza,cocaine,False,False,False,,-1
+2999,crista,cocaine,False,False,False,,-1
+3000,dactylopius,cocaine,False,False,False,,-1
+3001,deoxyribonucleic,cocaine,False,False,False,,-1
+3002,ethyl,cocaine,False,False,False,,-1
+3003,coco,cocaine,False,False,False,,-1
+3004,coka,cocaine,False,False,True, pill,4
+3005,cola,cocaine,False,False,True,,8
+3006,cocainum,cocaine,cocaine,True,True, pill,1
+3007,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+3008,toke,cocaine,False,False,False,,-1
+3009,blow,cocaine,False,False,True,,2
+3010,nose_candy,cocaine,cocaine,False,True, pill,3
+3011,yayo,cocaine,cocaine,False,True, pill,5
+3012,white_dragon,cocaine,False,False,False,,-1
+3013,powder,cocaine,False,False,True, drug,1
+3014,constitutional,cocaine,False,False,False,,-1
+3015,c-note,cocaine,False,False,False,,-1
+3016,cain,cocaine,False,False,True, drug,5
+3017,candy,cocaine,False,False,False,,-1
+3018,nose_candy,cocaine,cocaine,False,True, pill,3
+3019,white_powder,cocaine,False,False,True, pill,6
+3020,cocainum,cocaine,cocaine,True,True, pill,1
+3021,coccus,cocaine,False,False,False,,-1
+3022,corticosteroids,cocaine,False,False,False,,-1
+3023,depressants,cocaine,False,False,False,,-1
+3024,narcotics,cocaine,False,False,True,,7
+3025,stimulants,cocaine,False,False,True,,7
+3026,psychotomimetics,cocaine,False,False,False,,-1
+3027,consecotane,cocaine,False,False,False,,-1
+3028,cusincocan,cocaine,False,False,False,,-1
+3029,d00d,cocaine,False,False,False,,-1
+3030,flake,cocaine,False,False,False,,-1
+3031,freebase,cocaine,cocaine,False,True,,9
+3032,nose_candy,cocaine,cocaine,False,True, pill,3
+3033,powder,cocaine,False,False,True, drug,1
+3034,rock,cocaine,False,False,False,,-1
+3035,speedball,cocaine,False,False,True,,1
+3036,white,cocaine,filgrastim,False,False,,-1
+3037,kokain,cocaine,cocaine,True,True,,1
+3038,caine,cocaine,lidocaine,False,True, drug,4
+3039,cristal,cocaine,False,False,False,,-1
+3040,blow,cocaine,False,False,True,,2
+3041,white,cocaine,filgrastim,False,False,,-1
+3042,nose_candy,cocaine,cocaine,False,True, pill,3
+3043,powder,cocaine,False,False,True, drug,1
+3044,scarface,cocaine,False,False,True, pill,9
+3045,nose_candy,cocaine,cocaine,False,True, pill,3
+3046,blow,cocaine,False,False,True,,2
+3047,powder,cocaine,False,False,True, drug,1
+3048,white,cocaine,filgrastim,False,False,,-1
+3049,peruvian_flake,cocaine,False,False,True, pill,7
+3050,8-ball,cocaine,False,False,True, drug,4
+3051,cockayne,cocaine,False,False,False,,-1
+3052,kokaine,cocaine,cocaine,True,True, pill,1
+3053,kokayne,cocaine,False,False,True,,2
+3054,coughing_up_a_lung,cocaine,False,False,False,,-1
+3055,chalk,cocaine,calcium_carbonate,False,False,,-1
+3056,snow,cocaine,False,False,True,,3
+3057,flake,cocaine,False,False,False,,-1
+3058,powder,cocaine,False,False,True, drug,1
+3059,dust,cocaine,False,False,True,,4
+3060,nose_candy,cocaine,cocaine,False,True, pill,3
+3061,blow,cocaine,False,False,True,,2
+3062,nose_candy,cocaine,cocaine,False,True, pill,3
+3063,white_girl,cocaine,False,False,True,,3
+3064,yayo,cocaine,cocaine,False,True, pill,5
+3065,flake,cocaine,False,False,False,,-1
+3066,powder,cocaine,False,False,True, drug,1
+3067,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+3068,crack_cocaine,cocaine,False,True,True,,1
+3069,freebase_cocaine,cocaine,False,True,True,,1
+3070,nose_candy,cocaine,cocaine,False,True, pill,3
+3071,peruvian_flake,cocaine,False,False,True, pill,7
+3072,snow,cocaine,False,False,True,,3
+3073,toot,cocaine,False,False,True, drug,6
+3074,white,cocaine,filgrastim,False,False,,-1
+3075,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+3076,cocaethylene,cocaine,False,False,True,,2
+3077,cocaethylene,cocaine,False,False,True,,2
+3078,crack,cocaine,False,False,True,,2
+3079,morphia,cocaine,morphine,False,False,,-1
+3080,crack,cocaine,False,False,True,,2
+3081,cocaine_erat,cocaine,False,True,True,,1
+3082,cocaine_crudum,cocaine,False,True,True,,2
+3083,alcaloides,cocaine,False,False,False,,-1
+3084,anfetaminas,cocaine,False,False,True,,7
+3085,fenetilina,cocaine,False,False,False,,-1
+3086,metilamfetamina,cocaine,False,False,False,,-1
+3087,pemolina,cocaine,False,False,False,,-1
+3088,crack,cocaine,False,False,True,,2
+3089,freebase,cocaine,cocaine,False,True,,9
+3090,nose_candy,cocaine,cocaine,False,True, pill,3
+3091,powder,cocaine,False,False,True, drug,1
+3092,snow,cocaine,False,False,True,,3
+3093,crack,cocaine,False,False,True,,2
+3094,crack_cocaine,cocaine,False,True,True,,1
+3095,freebase,cocaine,cocaine,False,True,,9
+3096,nose_candy,cocaine,cocaine,False,True, pill,3
+3097,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+3098,cocainum,cocaine,cocaine,True,True, pill,1
+3099,crack,cocaine,False,False,True,,2
+3100,crack_cocaine,cocaine,False,True,True,,1
+3101,coke,cocaine,False,False,True,,4
+3102,nose_candy,cocaine,cocaine,False,True, pill,3
+3103,flake,cocaine,False,False,False,,-1
+3104,powder,cocaine,False,False,True, drug,1
+3105,peruvian_marching_powder,cocaine,False,False,True,,1
+3106,bolivian_marching_powder,cocaine,False,False,True,,3
+3107,cockstones,cocaine,False,False,False,,-1
+3108,coke-a-nose,cocaine,False,False,True,,1
+3109,coniine,cocaine,clonidine,False,False,,-1
+3110,coryline,cocaine,False,False,False,,-1
+3111,nose_candy,cocaine,cocaine,False,True, pill,3
+3112,methylbenzoylecgonine,cocaine,False,False,True,,2
+3113,blow,cocaine,False,False,True,,2
+3114,charlie,cocaine,False,False,True,,7
+3115,coke,cocaine,False,False,True,,4
+3116,crack,cocaine,False,False,True,,2
+3117,freebase,cocaine,cocaine,False,True,,9
+3118,nose_candy,cocaine,cocaine,False,True, pill,3
+3119,white,cocaine,filgrastim,False,False,,-1
+3120,cocain,cocaine,cocaine,True,True,,2
+3121,cocaethylene,cocaine,False,False,True,,2
+3122,coca,cocaine,False,False,True,,4
+3123,crack,cocaine,False,False,True,,2
+3124,cristy,cocaine,False,False,False,,-1
+3125,peruvian_flake,cocaine,False,False,True, pill,7
+3126,peruvian_marching_powder,cocaine,False,False,True,,1
+3127,bolivian_cocaine,cocaine,False,True,True,,2
+3128,colombian_cocaine,cocaine,False,True,True,,3
+3129,crack_cocaine,cocaine,False,True,True,,1
+3130,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+3131,levant,cocaine,False,False,False,,-1
+3132,nevin,cocaine,False,False,False,,-1
+3133,nose_candy,cocaine,cocaine,False,True, pill,3
+3134,powder,cocaine,False,False,True, drug,1
+3135,snow,cocaine,False,False,True,,3
+3136,toke,cocaine,False,False,False,,-1
+3137,white,cocaine,filgrastim,False,False,,-1
+3138,coke,cocaine,False,False,True,,4
+3139,crack,cocaine,False,False,True,,2
+3140,kokain,cocaine,cocaine,True,True,,1
+3141,kokaдќina,cocaine,False,False,False,,-1
+3142,kokaг­novг©_prгўеўky,cocaine,False,False,False,,-1
+3143,kokaг­novг©_vlny,cocaine,False,False,False,,-1
+3144,kokaг­novгў_pilulka,cocaine,False,False,False,,-1
+3145,kokaг­novгў_injekce,cocaine,False,False,False,,-1
+3146,kokaг­novгў_fuga,cocaine,False,False,False,,-1
+3147,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+3148,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+3149,blow,cocaine,False,False,True,,2
+3150,charlie,cocaine,False,False,True,,7
+3151,coke,cocaine,False,False,True,,4
+3152,white_powder,cocaine,False,False,True, pill,6
+3153,peruvian_marching_powder,cocaine,False,False,True,,1
+3154,yayo,cocaine,cocaine,False,True, pill,5
+3155,crack_cocaine,cocaine,False,True,True,,1
+3156,white_powder,cocaine,False,False,True, pill,6
+3157,cockomine,cocaine,False,False,False,,-1
+3158,cocane,cocaine,cocaine,True,True,,1
+3159,cash,cocaine,False,False,False,,-1
+3160,caine,cocaine,lidocaine,False,True, drug,4
+3161,nose_candy,cocaine,cocaine,False,True, pill,3
+3162,white_powder,cocaine,False,False,True, pill,6
+3163,blow,cocaine,False,False,True,,2
+3164,cocapee,cocaine,False,False,False,,-1
+3165,cocaethylene,cocaine,False,False,True,,2
+3166,crack,cocaine,False,False,True,,2
+3167,coke,cocaine,False,False,True,,4
+3168,go-fast,cocaine,False,False,False,,-1
+3169,marching_powder,cocaine,False,False,True,,5
+3170,nose_candy,cocaine,cocaine,False,True, pill,3
+3171,snow,cocaine,False,False,True,,3
+3172,toot,cocaine,False,False,True, drug,6
+3173,white,cocaine,filgrastim,False,False,,-1
+3174,cocainia,cocaine,False,False,True, pill,1
+3175,cockaine,cocaine,cocaine,True,True,,2
+3176,cockayne,cocaine,False,False,False,,-1
+3177,cokaine,cocaine,cocaine,True,True, pill,1
+3178,cokayne,cocaine,False,False,True, drug,7
+3179,kokaine,cocaine,cocaine,True,True, pill,1
+3180,kokain,cocaine,cocaine,True,True,,1
+3181,kokaine,cocaine,cocaine,True,True, pill,1
+3182,kokaïne,cocaine,False,False,True,,1
+3183,kokaïn,cocaine,False,False,True,,6
+3184,el_narco,cocaine,False,False,True, slang,10
+3185,er_der_koks,cocaine,False,False,True, pill,2
+3186,cocainum,cocaine,cocaine,True,True, pill,1
+3187,c,cocaine,False,False,False,,-1
+3188,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+3189,peruvian_marching_powder,cocaine,False,False,True,,1
+3190,bolivian_marching_powder,cocaine,False,False,True,,3
+3191,marching_powder,cocaine,False,False,True,,5
+3192,crack_cocaine,cocaine,False,True,True,,1
+3193,powdered_cocaine,cocaine,False,True,True,,1
+3194,freebase_cocaine,cocaine,False,True,True,,1
+3195,nose_candy,cocaine,cocaine,False,True, pill,3
+3196,flake,cocaine,False,False,False,,-1
+3197,snowball,cocaine,False,False,True, drug,1
+3198,toot,cocaine,False,False,True, drug,6
+3199,coke,cocaine,False,False,True,,4
+3200,desoxyephedrine,cocaine,methamphetamine,False,False,,-1
+3201,devil's_dandruff,cocaine,False,False,True, pill,8
+3202,doradad,cocaine,False,False,False,,-1
+3203,flake,cocaine,False,False,False,,-1
+3204,snow,cocaine,False,False,True,,3
+3205,toot,cocaine,False,False,True, drug,6
+3206,white,cocaine,filgrastim,False,False,,-1
+3207,kokain,cocaine,cocaine,True,True,,1
+3208,koke,cocaine,False,False,True, slang,3
+3209,koks,cocaine,False,False,True, pill,5
+3210,kokee,cocaine,False,False,False,,-1
+3211,kokey,cocaine,False,False,True, drug,2
+3212,cocciuto,cocaine,False,False,False,,-1
+3213,coccio,cocaine,False,False,False,,-1
+3214,nose_candy,cocaine,cocaine,False,True, pill,3
+3215,coke,cocaine,False,False,True,,4
+3216,blow,cocaine,False,False,True,,2
+3217,white,cocaine,filgrastim,False,False,,-1
+3218,powder,cocaine,False,False,True, drug,1
+3219,curoen,cocaine,False,False,False,,-1
+3220,curan,cocaine,False,False,False,,-1
+3221,durg,cocaine,False,False,True, slang,7
+3222,ghutka,cocaine,False,False,False,,-1
+3223,intoxicant,cocaine,False,False,False,,-1
+3224,narcotic,cocaine,False,False,True,,6
+3225,substance,cocaine,False,False,True,,3
+3226,cocain,cocaine,cocaine,True,True,,2
+3227,coke,cocaine,False,False,True,,4
+3228,costero,cocaine,False,False,False,,-1
+3229,criollo,cocaine,False,False,False,,-1
+3230,crack,cocaine,False,False,True,,2
+3231,koke,cocaine,False,False,True, slang,3
+3232,coak,cocaine,False,False,True, pill,3
+3233,coke-a-e,cocaine,False,False,True,,7
+3234,cola,cocaine,False,False,True,,8
+3235,kola,cocaine,False,False,False,,-1
+3236,cocal,cocaine,False,False,True, pill,4
+3237,quaalude,cocaine,methaqualone,False,False,,-1
+3238,crack,cocaine,False,False,True,,2
+3239,cash,cocaine,False,False,False,,-1
+3240,blow,cocaine,False,False,True,,2
+3241,powder,cocaine,False,False,True, drug,1
+3242,white,cocaine,filgrastim,False,False,,-1
+3243,nose_candy,cocaine,cocaine,False,True, pill,3
+3244,snow,cocaine,False,False,True,,3
+3245,toke,cocaine,False,False,False,,-1
+3246,coke,cocaine,False,False,True,,4
+3247,diacetylemorphone,cocaine,False,False,False,,-1
+3248,pharmscetamine,cocaine,False,False,False,,-1
+3249,cocainate,cocaine,False,False,False,,-1
+3250,cocainely,cocaine,False,False,True, drug,9
+3251,kaksin,cocaine,False,False,False,,-1
+3252,kokaín,cocaine,False,False,True,,10
+3253,kokain,cocaine,cocaine,True,True,,1
+3254,coke,cocaine,False,False,True,,4
+3255,crack,cocaine,False,False,True,,2
+3256,freebase,cocaine,cocaine,False,True,,9
+3257,nose_candy,cocaine,cocaine,False,True, pill,3
+3258,snow,cocaine,False,False,True,,3
+3259,white_dust,cocaine,False,False,True, drug,2
+3260,white_powder,cocaine,False,False,True, pill,6
+3261,blow,cocaine,False,False,True,,2
+3262,candy,cocaine,False,False,False,,-1
+3263,flake,cocaine,False,False,False,,-1
+3264,freebase,cocaine,cocaine,False,True,,9
+3265,nose_candy,cocaine,cocaine,False,True, pill,3
+3266,powder,cocaine,False,False,True, drug,1
+3267,rock,cocaine,False,False,False,,-1
+3268,methylbenzoylecgonine,cocaine,False,False,True,,2
+3269,(-)-cocaine,cocaine,False,False,True,,1
+3270,"(1r,2r,3s,5s)-3-benzoylecgonine",cocaine,False,False,True,,1
+3271,snuff,cocaine,False,False,False,,-1
+3272,toke,cocaine,False,False,False,,-1
+3273,laudanum,cocaine,morphine,False,False,,-1
+3274,raw_cocaine,cocaine,False,True,True,,1
+3275,crack_cocaine,cocaine,False,True,True,,1
+3276,powdered_cocaine,cocaine,False,True,True,,1
+3277,freebase_cocaine,cocaine,False,True,True,,1
+3278,d-lysergic_acid_diethylamide,cocaine,False,False,False,,-1
+3279,lysergic_acid_diethylamide,cocaine,lysergic_acid_diethylamide,False,False,,-1
+3280,snow,cocaine,False,False,True,,3
+3281,white,cocaine,filgrastim,False,False,,-1
+3282,powder,cocaine,False,False,True, drug,1
+3283,coke,cocaine,False,False,True,,4
+3284,blow,cocaine,False,False,True,,2
+3285,snow,cocaine,False,False,True,,3
+3286,powder,cocaine,False,False,True, drug,1
+3287,white,cocaine,filgrastim,False,False,,-1
+3288,nose_candy,cocaine,cocaine,False,True, pill,3
+3289,yayo,cocaine,cocaine,False,True, pill,5
+3290,cristal,cocaine,False,False,False,,-1
+3291,koks,cocaine,False,False,True, pill,5
+3292,snif,cocaine,False,False,False,,-1
+3293,blow,cocaine,False,False,True,,2
+3294,nose_candy,cocaine,cocaine,False,True, pill,3
+3295,white_powder,cocaine,False,False,True, pill,6
+3296,coke,cocaine,False,False,True,,4
+3297,crack,cocaine,False,False,True,,2
+3298,crosin,cocaine,False,False,False,,-1
+3299,curing,cocaine,False,False,False,,-1
+3300,flash,cocaine,False,False,False,,-1
+3301,freebasing,cocaine,cocaine,False,True,,1
+3302,glass,cocaine,False,False,False,,-1
+3303,goofball,cocaine,False,False,True, drug,6
+3304,haiti,cocaine,False,False,True, drug,1
+3305,ish,cocaine,False,False,False,,-1
+3306,leverage,cocaine,False,False,False,,-1
+3307,nose_candy,cocaine,cocaine,False,True, pill,3
+3308,peruvian,cocaine,False,False,False,,-1
+3309,phet,cocaine,False,False,False,,-1
+3310,rock,cocaine,False,False,False,,-1
+3311,snow,cocaine,False,False,True,,3
+3312,sugar,cocaine,False,False,False,,-1
+3313,kokaine,cocaine,cocaine,True,True, pill,1
+3314,koke,cocaine,False,False,True, slang,3
+3315,kokon,cocaine,cocaine,True,True, drug,8
+3316,kokaina,cocaine,False,False,True,,5
+3317,kokani,cocaine,False,False,False,,-1
+3318,kokanin,cocaine,False,False,True,,3
+3319,kolkain,cocaine,False,False,False,,-1
+3320,cocain,cocaine,cocaine,True,True,,2
+3321,cocainum,cocaine,cocaine,True,True, pill,1
+3322,cocaine,cocaine,cocaine,True,True,,4
+3323,coke,cocaine,False,False,True,,4
+3324,crack,cocaine,False,False,True,,2
+3325,koch,cocaine,False,False,False,,-1
+3326,crack_cocaine,cocaine,False,True,True,,1
+3327,blanca,cocaine,False,False,True, drug,6
+3328,cimmaron,cocaine,False,False,False,,-1
+3329,dinkum,cocaine,False,False,False,,-1
+3330,fill,cocaine,False,False,False,,-1
+3331,horse,cocaine,False,False,False,,-1
+3332,koka,cocaine,False,False,True, drug,4
+3333,cocainum,cocaine,cocaine,True,True, pill,1
+3334,coke,cocaine,False,False,True,,4
+3335,cocaethylene,cocaine,False,False,True,,2
+3336,ecgonine_methyl_ester,cocaine,methylecgonine,False,True,,2
+3337,coke,cocaine,False,False,True,,4
+3338,nose_candy,cocaine,cocaine,False,True, pill,3
+3339,white_powder,cocaine,False,False,True, pill,6
+3340,coke,cocaine,False,False,True,,4
+3341,coque,cocaine,False,False,False,,-1
+3342,cain,cocaine,False,False,True, drug,5
+3343,cash,cocaine,False,False,False,,-1
+3344,charlie,cocaine,False,False,True,,7
+3345,dust,cocaine,False,False,True,,4
+3346,nose_candy,cocaine,cocaine,False,True, pill,3
+3347,coke_nose,cocaine,False,False,True,,1
+3348,crack_cocaine,cocaine,False,True,True,,1
+3349,flake_cocaine,cocaine,False,True,True,,1
+3350,freebase_cocaine,cocaine,False,True,True,,1
+3351,peruvian_marching_powder,cocaine,False,False,True,,1
+3352,kokaini,cocaine,False,False,True, pill,1
+3353,koke,cocaine,False,False,True, slang,3
+3354,koks,cocaine,False,False,True, pill,5
+3355,kolain,cocaine,False,False,True, pill,7
+3356,kolaj,cocaine,False,False,False,,-1
+3357,kolonia,cocaine,False,False,False,,-1
+3358,koloniya,cocaine,False,False,False,,-1
+3359,coke,cocaine,False,False,True,,4
+3360,k-hole,cocaine,False,False,False,,-1
+3361,nose_candy,cocaine,cocaine,False,True, pill,3
+3362,percussion,cocaine,False,False,False,,-1
+3363,rock,cocaine,False,False,False,,-1
+3364,speedball,cocaine,False,False,True,,1
+3365,white,cocaine,filgrastim,False,False,,-1
+3366,cocainum,cocaine,cocaine,True,True, pill,1
+3367,coca,cocaine,False,False,True,,4
+3368,caine,cocaine,lidocaine,False,True, drug,4
+3369,koka,cocaine,False,False,True, drug,4
+3370,kokaina,cocaine,False,False,True,,5
+3371,kokayin,cocaine,False,False,True,,1
+3372,kok,cocaine,False,False,True, slang,9
+3373,koke,cocaine,False,False,True, slang,3
+3374,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+3375,cocaine_sulfate,cocaine,False,True,True,,1
+3376,cocaethylene,cocaine,False,False,True,,2
+3377,crack,cocaine,False,False,True,,2
+3378,okain,cocaine,False,False,False,,-1
+3379,kokaïn,cocaine,False,False,True,,6
+3380,koks,cocaine,False,False,True, pill,5
+3381,kakao,cocaine,False,False,False,,-1
+3382,kalk,cocaine,False,False,False,,-1
+3383,perkakau,cocaine,False,False,False,,-1
+3384,pemikat,cocaine,False,False,False,,-1
+3385,coccine,cocaine,False,False,True, pill,1
+3386,coccinea,cocaine,cocaine,True,False,,-1
+3387,coccinella,cocaine,False,False,False,,-1
+3388,coccineum,cocaine,cocaine,True,False,,-1
+3389,coccidium,cocaine,False,False,False,,-1
+3390,cocculus,cocaine,False,False,False,,-1
+3391,coccus,cocaine,False,False,False,,-1
+3392,cocainum,cocaine,cocaine,True,True, pill,1
+3393,cocaina,cocaine,cocaine,True,True,,2
+3394,kokain,cocaine,cocaine,True,True,,1
+3395,kokaïne,cocaine,False,False,True,,1
+3396,c_cocaine,cocaine,False,True,True,,1
+3397,coca,cocaine,False,False,True,,4
+3398,peruvian_marching_powder,cocaine,False,False,True,,1
+3399,coke,cocaine,False,False,True,,4
+3400,blow,cocaine,False,False,True,,2
+3401,snow,cocaine,False,False,True,,3
+3402,white,cocaine,filgrastim,False,False,,-1
+3403,powder,cocaine,False,False,True, drug,1
+3404,novocaine,cocaine,procaine,False,False,,-1
+3405,lidocaine,cocaine,lidocaine,False,True,,1
+3406,letter-c,cocaine,False,False,False,,-1
+3407,caine,cocaine,lidocaine,False,True, drug,4
+3408,drug,cocaine,False,False,True,,7
+3409,cocaine,cocaine,cocaine,True,True,,4
+3410,cocaineline,cocaine,False,False,True,,1
+3411,cocainidine,cocaine,False,False,True,,4
+3412,nose_candy,cocaine,cocaine,False,True, pill,3
+3413,white_lady,cocaine,False,False,True, drug,5
+3414,cocainum,cocaine,cocaine,True,True, pill,1
+3415,basuco,cocaine,False,False,True,,1
+3416,bong,cocaine,False,False,True, drug,9
+3417,brake,cocaine,False,False,False,,-1
+3418,candy,cocaine,False,False,False,,-1
+3419,charlie,cocaine,False,False,True,,7
+3420,coke,cocaine,False,False,True,,4
+3421,crack,cocaine,False,False,True,,2
+3422,rock,cocaine,False,False,False,,-1
+3423,cops,cocaine,False,False,False,,-1
+3424,blaze,cocaine,False,False,False,,-1
+3425,blow,cocaine,False,False,True,,2
+3426,chili,cocaine,False,False,False,,-1
+3427,dust,cocaine,False,False,True,,4
+3428,flake,cocaine,False,False,False,,-1
+3429,sugar,cocaine,False,False,False,,-1
+3430,fiorinal,cocaine,butalbital,False,False,,-1
+3431,cocaine_abuse,cocaine,False,True,True,,1
+3432,coke,cocaine,False,False,True,,4
+3433,cocain,cocaine,cocaine,True,True,,2
+3434,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+3435,coke,cocaine,False,False,True,,4
+3436,caine,cocaine,lidocaine,False,True, drug,4
+3437,kcain,cocaine,False,False,True, drug,5
+3438,coke,cocaine,False,False,True,,4
+3439,crack,cocaine,False,False,True,,2
+3440,methylbenzoylecgonine,cocaine,False,False,True,,2
+3441,ecgonine_methyl_ester,cocaine,methylecgonine,False,True,,2
+3442,cocaethylene,cocaine,False,False,True,,2
+3443,levamisole,cocaine,levamisole,False,True,,5
+3444,coke,cocaine,False,False,True,,4
+3445,cocain,cocaine,cocaine,True,True,,2
+3446,cocaine,cocaine,cocaine,True,True,,4
+3447,cocaine,cocaine,cocaine,True,True,,4
+3448,contains,cocaine,False,False,False,,-1
+3449,spondylolisthesis,cocaine,False,False,False,,-1
+3450,dolichol,cocaine,False,False,False,,-1
+3451,laminaria,cocaine,False,False,False,,-1
+3452,anesthetists,cocaine,False,False,False,,-1
+3453,novocaine,cocaine,procaine,False,False,,-1
+3454,lidocaine,cocaine,lidocaine,False,True,,1
+3455,crack,cocaine,False,False,True,,2
+3456,coke,cocaine,False,False,True,,4
+3457,blow,cocaine,False,False,True,,2
+3458,nose_candy,cocaine,cocaine,False,True, pill,3
+3459,flake,cocaine,False,False,False,,-1
+3460,powder,cocaine,False,False,True, drug,1
+3461,white,cocaine,filgrastim,False,False,,-1
+3462,peruvian,cocaine,False,False,False,,-1
+3463,coke,cocaine,False,False,True,,4
+3464,flake,cocaine,False,False,False,,-1
+3465,freebase,cocaine,cocaine,False,True,,9
+3466,nose_candy,cocaine,cocaine,False,True, pill,3
+3467,powder,cocaine,False,False,True, drug,1
+3468,skiing,cocaine,False,False,True, drug,9
+3469,white,cocaine,filgrastim,False,False,,-1
+3470,crackle,cocaine,False,False,True, drug,7
+3471,white_powder,cocaine,False,False,True, pill,6
+3472,flake,cocaine,False,False,False,,-1
+3473,nose_candy,cocaine,cocaine,False,True, pill,3
+3474,rails,cocaine,False,False,False,,-1
+3475,toot,cocaine,False,False,True, drug,6
+3476,bolivian_marching_powder,cocaine,False,False,True,,3
+3477,rock,cocaine,False,False,False,,-1
+3478,blow,cocaine,False,False,True,,2
+3479,snow,cocaine,False,False,True,,3
+3480,dust,cocaine,False,False,True,,4
+3481,powder,cocaine,False,False,True, drug,1
+3482,koakain,cocaine,False,False,True, pill,1
+3483,kokain,cocaine,cocaine,True,True,,1
+3484,kokaïne,cocaine,False,False,True,,1
+3485,cocaine,cocaine,cocaine,True,True,,4
+3486,cocainum,cocaine,cocaine,True,True, pill,1
+3487,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+3488,coccus,cocaine,False,False,False,,-1
+3489,cokeine,cocaine,False,False,True, pill,1
+3490,cockatrice,cocaine,False,False,False,,-1
+3491,cocain,cocaine,cocaine,True,True,,2
+3492,crack_cocaine,cocaine,False,True,True,,1
+3493,kokannee,cocaine,False,False,False,,-1
+3494,coke,cocaine,False,False,True,,4
+3495,cocainist,cocaine,False,False,True,,1
+3496,cocainize,cocaine,False,False,True,,4
+3497,cocainizes,cocaine,False,False,True,,3
+3498,cocained,cocaine,False,False,True, pill,1
+3499,cocaining,cocaine,False,False,True,,3
+3500,cocainize,cocaine,False,False,True,,4
+3501,cocaine,cocaine,cocaine,True,True,,4
+3502,coke,cocaine,False,False,True,,4
+3503,cristal,cocaine,False,False,False,,-1
+3504,flake,cocaine,False,False,False,,-1
+3505,freebase,cocaine,cocaine,False,True,,9
+3506,nose_candy,cocaine,cocaine,False,True, pill,3
+3507,powder,cocaine,False,False,True, drug,1
+3508,rocks,cocaine,False,False,True,,1
+3509,snow,cocaine,False,False,True,,3
+3510,sniff,cocaine,False,False,True, pill,6
+3511,blow,cocaine,False,False,True,,2
+3512,powder,cocaine,False,False,True, drug,1
+3513,nose_candy,cocaine,cocaine,False,True, pill,3
+3514,rails,cocaine,False,False,False,,-1
+3515,white,cocaine,filgrastim,False,False,,-1
+3516,peruvian,cocaine,False,False,False,,-1
+3517,marching,cocaine,False,False,False,,-1
+3518,koke,cocaine,False,False,True, slang,3
+3519,peruvian_flake,cocaine,False,False,True, pill,7
+3520,coke,cocaine,False,False,True,,4
+3521,cristy,cocaine,False,False,False,,-1
+3522,dak,cocaine,False,False,False,,-1
+3523,devil's_dandruff,cocaine,False,False,True, pill,8
+3524,earthquake,cocaine,False,False,False,,-1
+3525,flake,cocaine,False,False,False,,-1
+3526,freebase,cocaine,cocaine,False,True,,9
+3527,gems,cocaine,False,False,False,,-1
+3528,girl,cocaine,False,False,True, drug,2
+3529,happy_dust,cocaine,False,False,True,,5
+3530,heaven_powder,cocaine,False,False,True, drug,2
+3531,horn,cocaine,False,False,False,,-1
+3532,ice,cocaine,False,False,False,,-1
+3533,joy_dust,cocaine,False,False,False,,-1
+3534,line,cocaine,False,False,False,,-1
+3535,love_drug,cocaine,False,False,True, slang,5
+3536,nose_candy,cocaine,cocaine,False,True, pill,3
+3537,pearl,cocaine,False,False,False,,-1
+3538,powder,cocaine,False,False,True, drug,1
+3539,rock,cocaine,False,False,False,,-1
+3540,snow,cocaine,False,False,True,,3
+3541,sugar,cocaine,False,False,False,,-1
+3542,sweet,cocaine,False,False,True, drug,8
+3543,toot,cocaine,False,False,True, drug,6
+3544,white,cocaine,filgrastim,False,False,,-1
+3545,white_horse,cocaine,filgrastim,False,True, drug,7
+3546,yayo,cocaine,cocaine,False,True, pill,5
+3547,crack,cocaine,False,False,True,,2
+3548,cocainum,cocaine,cocaine,True,True, pill,1
+3549,cocaine_sulphate,cocaine,False,True,True,,1
+3550,chronicle,cocaine,False,False,False,,-1
+3551,crack_cocaine,cocaine,False,True,True,,1
+3552,freebase_cocaine,cocaine,False,True,True,,1
+3553,leopard's_bane,cocaine,False,False,False,,-1
+3554,peruvian_marching_powder,cocaine,False,False,True,,1
+3555,peruvian_flake,cocaine,False,False,True, pill,7
+3556,peruvian_nose_candy,cocaine,False,False,True,,1
+3557,bolivian_marching_powder,cocaine,False,False,True,,3
+3558,cocain,cocaine,cocaine,True,True,,2
+3559,kokain,cocaine,cocaine,True,True,,1
+3560,kokaïne,cocaine,False,False,True,,1
+3561,coké,cocaine,False,False,True, pill,2
+3562,cocaïne,cocaine,False,False,True,,2
+3563,coke,cocaine,False,False,True,,4
+3564,crack,cocaine,False,False,True,,2
+3565,kokaine,cocaine,cocaine,True,True, pill,1
+3566,cocain,cocaine,cocaine,True,True,,2
+3567,crack,cocaine,False,False,True,,2
+3568,kokop,cocaine,False,False,False,,-1
+3569,kopiko,cocaine,False,False,False,,-1
+3570,snow,cocaine,False,False,True,,3
+3571,flake,cocaine,False,False,False,,-1
+3572,white,cocaine,filgrastim,False,False,,-1
+3573,cocaine,cocaine,cocaine,True,True,,4
+3574,coke,cocaine,False,False,True,,4
+3575,koka,cocaine,False,False,True, drug,4
+3576,kokain,cocaine,cocaine,True,True,,1
+3577,kokaina,cocaine,False,False,True,,5
+3578,kokaon,cocaine,False,False,True,,1
+3579,kokainum,cocaine,False,False,True,,5
+3580,kokainos,cocaine,False,False,True, pill,4
+3581,merck,cocaine,False,False,False,,-1
+3582,cocaine's,cocaine,False,False,True,,1
+3583,codiene,cocaine,False,False,False,,-1
+3584,cain,cocaine,False,False,True, drug,5
+3585,kogain,cocaine,False,False,False,,-1
+3586,koka,cocaine,False,False,True, drug,4
+3587,kokoin,cocaine,False,False,True, pill,2
+3588,koke,cocaine,False,False,True, slang,3
+3589,kokee,cocaine,False,False,False,,-1
+3590,kokey,cocaine,False,False,True, drug,2
+3591,koking,cocaine,False,False,True, drug,4
+3592,nose_candy,cocaine,cocaine,False,True, pill,3
+3593,blow,cocaine,False,False,True,,2
+3594,white_snow,cocaine,False,False,True, drug,9
+3595,peruvian_marching_powder,cocaine,False,False,True,,1
+3596,bolivian_marching_powder,cocaine,False,False,True,,3
+3597,kokaïne,cocaine,False,False,True,,1
+3598,cocaïne,cocaine,False,False,True,,2
+3599,cocaina,cocaine,cocaine,True,True,,2
+3600,kokaina,cocaine,False,False,True,,5
+3601,koakaine,cocaine,False,False,True,,7
+3602,koakaina,cocaine,False,False,False,,-1
+3603,kokaïn,cocaine,False,False,True,,6
+3604,crack_cocaine,cocaine,False,True,True,,1
+3605,nose_candy,cocaine,cocaine,False,True, pill,3
+3606,snow,cocaine,False,False,True,,3
+3607,white_powder,cocaine,False,False,True, pill,6
+3608,kokain,cocaine,cocaine,True,True,,1
+3609,cocainum_hydrochloricum,cocaine,False,True,True,,2
+3610,cocain,cocaine,cocaine,True,True,,2
+3611,cocaine,cocaine,cocaine,True,True,,4
+3612,koffein,cocaine,caffeine,False,False,,-1
+3613,kaffir,cocaine,False,False,False,,-1
+3614,kakker,cocaine,False,False,False,,-1
+3615,kazillion,cocaine,False,False,False,,-1
+3616,kajillion,cocaine,False,False,False,,-1
+3617,kamikaze,cocaine,False,False,False,,-1
+3618,karate,cocaine,False,False,True, drug,7
+3619,crack,cocaine,False,False,True,,2
+3620,coccus,cocaine,False,False,False,,-1
+3621,crocus,cocaine,False,False,False,,-1
+3622,kokan,cocaine,False,False,True, pill,6
+3623,koken,cocaine,False,False,True,,5
+3624,kokarut,cocaine,False,False,False,,-1
+3625,kokain,cocaine,cocaine,True,True,,1
+3626,coccid_loll,cocaine,False,False,False,,-1
+3627,ccaine,cocaine,cocaine,True,True,,2
+3628,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+3629,coke,cocaine,False,False,True,,4
+3630,powder,cocaine,False,False,True, drug,1
+3631,nose_candy,cocaine,cocaine,False,True, pill,3
+3632,white,cocaine,filgrastim,False,False,,-1
+3633,kokain,cocaine,cocaine,True,True,,1
+3634,kokaïne,cocaine,False,False,True,,1
+3635,kokayne,cocaine,False,False,True,,2
+3636,cocaine,cocaine,cocaine,True,True,,4
+3637,no-doz,cocaine,False,False,False,,-1
+3638,goofballs,cocaine,False,False,False,,-1
+3639,craven,cocaine,False,False,False,,-1
+3640,formulism,cocaine,False,False,False,,-1
+3641,methylbenzoylecgonine,cocaine,False,False,True,,2
+3642,ecgonine_methyl_ester,cocaine,methylecgonine,False,True,,2
+3643,caffaine,cocaine,caffeine,False,False,,-1
+3644,coke,cocaine,False,False,True,,4
+3645,cokeform,cocaine,False,False,True, pill,2
+3646,cocainize,cocaine,False,False,True,,4
+3647,kokaïn,cocaine,False,False,True,,6
+3648,kokaina,cocaine,False,False,True,,5
+3649,kokainom,cocaine,False,False,True,,2
+3650,kokainu,cocaine,False,False,True,,6
+3651,khat,cocaine,False,False,True, pill,1
+3652,le_charas,cocaine,False,False,True, drug,6
+3653,peruvian_marching_powder,cocaine,False,False,True,,1
+3654,peruvian_nose_candy,cocaine,False,False,True,,1
+3655,yeyo,cocaine,False,False,True, drug,4
+3656,cocain,cocaine,cocaine,True,True,,2
+3657,crack_cocaine,cocaine,False,True,True,,1
+3658,freebase_cocaine,cocaine,False,True,True,,1
+3659,peruvian_cocaine,cocaine,False,True,True,,1
+3660,bolivian_cocaine,cocaine,False,True,True,,2
+3661,caine,cocaine,lidocaine,False,True, drug,4
+3662,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+3663,coke,cocaine,False,False,True,,4
+3664,blow,cocaine,False,False,True,,2
+3665,powder,cocaine,False,False,True, drug,1
+3666,white,cocaine,filgrastim,False,False,,-1
+3667,nose_candy,cocaine,cocaine,False,True, pill,3
+3668,yayo,cocaine,cocaine,False,True, pill,5
+3669,peruvian_flake,cocaine,False,False,True, pill,7
+3670,cooky,cocaine,False,False,False,,-1
+3671,coke,cocaine,False,False,True,,4
+3672,crack,cocaine,False,False,True,,2
+3673,freebase,cocaine,cocaine,False,True,,9
+3674,nose_candy,cocaine,cocaine,False,True, pill,3
+3675,snow,cocaine,False,False,True,,3
+3676,toot,cocaine,False,False,True, drug,6
+3677,cocait,cocaine,False,False,True,,2
+3678,coke,cocaine,False,False,True,,4
+3679,crack,cocaine,False,False,True,,2
+3680,freebased,cocaine,False,False,True,,2
+3681,nose_candy,cocaine,cocaine,False,True, pill,3
+3682,powdered_cocaine,cocaine,False,True,True,,1
+3683,snow,cocaine,False,False,True,,3
+3684,kokaime,cocaine,False,False,False,,-1
+3685,kokaen,cocaine,False,False,True,,2
+3686,cocain,cocaine,cocaine,True,True,,2
+3687,crack,cocaine,False,False,True,,2
+3688,cocola,cocaine,False,False,True, drug,2
+3689,cocaina,cocaine,cocaine,True,True,,2
+3690,d-lysergic_acid_diethylamide,cocaine,False,False,False,,-1
+3691,tropane,cocaine,atropine,False,True,,6
+3692,coke,cocaine,False,False,True,,4
+3693,kokaine,cocaine,cocaine,True,True, pill,1
+3694,kokaïn,cocaine,False,False,True,,6
+3695,kokain,cocaine,cocaine,True,True,,1
+3696,kokaïne,cocaine,False,False,True,,1
+3697,kokayin,cocaine,False,False,True,,1
+3698,kokeaine,cocaine,False,False,False,,-1
+3699,kokéin,cocaine,False,False,False,,-1
+3700,(ethyl)benzoylecgonine,cocaine,False,False,True,,2
+3701,cocaethylene,cocaine,False,False,True,,2
+3702,ecgonine_methyl_ester,cocaine,methylecgonine,False,True,,2
+3703,(–)-tropacocaine,cocaine,False,False,True, pill,3
+3704,cocainize,cocaine,False,False,True,,4
+3705,cocainizes,cocaine,False,False,True,,3
+3706,cocainizing,cocaine,False,False,True,,2
+3707,kokaine,cocaine,cocaine,True,True, pill,1
+3708,koka,cocaine,False,False,True, drug,4
+3709,kokain,cocaine,cocaine,True,True,,1
+3710,koko,cocaine,False,False,False,,-1
+3711,krakain,cocaine,False,False,False,,-1
+3712,krokaine,cocaine,False,False,True, pill,1
+3713,krokodil,cocaine,desomorphine,False,False,,-1
+3714,cocain,cocaine,cocaine,True,True,,2
+3715,coco,cocaine,False,False,False,,-1
+3716,coke,cocaine,False,False,True,,4
+3717,cockaine,cocaine,cocaine,True,True,,2
+3718,cockayne,cocaine,False,False,False,,-1
+3719,kochaine,cocaine,False,False,False,,-1
+3720,kocaine,cocaine,False,False,True, pill,1
+3721,kokaine,cocaine,cocaine,True,True, pill,1
+3722,kokainom,cocaine,False,False,True,,2
+3723,kokaina,cocaine,False,False,True,,5
+3724,cokaion,cocaine,False,False,False,,-1
+3725,kokaïne,cocaine,False,False,True,,1
+3726,kokiaan,cocaine,False,False,False,,-1
+3727,kokeaine,cocaine,False,False,False,,-1
+3728,koke,cocaine,False,False,True, slang,3
+3729,cocain,cocaine,cocaine,True,True,,2
+3730,cocaina,cocaine,cocaine,True,True,,2
+3731,cocaine,cocaine,cocaine,True,True,,4
+3732,cocainum,cocaine,cocaine,True,True, pill,1
+3733,crack,cocaine,False,False,True,,2
+3734,cocaethylene,cocaine,False,False,True,,2
+3735,crack,cocaine,False,False,True,,2
+3736,coke,cocaine,False,False,True,,4
+3737,crack_cocaine,cocaine,False,True,True,,1
+3738,flake_cocaine,cocaine,False,True,True,,1
+3739,freebase_cocaine,cocaine,False,True,True,,1
+3740,nose_candy,cocaine,cocaine,False,True, pill,3
+3741,peruilia,cocaine,False,False,False,,-1
+3742,peruvian,cocaine,False,False,False,,-1
+3743,peruvianmarchingpowder,cocaine,False,False,True,,4
+3744,whitecoke,cocaine,False,False,True, pill,5
+3745,cocaine,cocaine,cocaine,True,True,,4
+3746,cocain,cocaine,cocaine,True,True,,2
+3747,kokain,cocaine,cocaine,True,True,,1
+3748,kokaina,cocaine,False,False,True,,5
+3749,cocaine_,cocaine,False,True,True,,1
+3750,cain,cocaine,False,False,True, drug,5
+3751,k-hole,cocaine,False,False,False,,-1
+3752,nose_candy,cocaine,cocaine,False,True, pill,3
+3753,coke,cocaine,False,False,True,,4
+3754,flake,cocaine,False,False,False,,-1
+3755,snow,cocaine,False,False,True,,3
+3756,cocain,cocaine,cocaine,True,True,,2
+3757,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+3758,quinine,cocaine,quinine,False,False,,-1
+3759,coupe,cocaine,False,False,False,,-1
+3760,crip,cocaine,False,False,False,,-1
+3761,croak,cocaine,False,False,True, pill,3
+3762,devil's_dandruff,cocaine,False,False,True, pill,8
+3763,dope,cocaine,False,False,True,,3
+3764,flake,cocaine,False,False,False,,-1
+3765,freeze,cocaine,False,False,False,,-1
+3766,girl,cocaine,False,False,True, drug,2
+3767,honey_key,cocaine,False,False,False,,-1
+3768,horn,cocaine,False,False,False,,-1
+3769,lady,cocaine,False,False,False,,-1
+3770,line,cocaine,False,False,False,,-1
+3771,nose_candy,cocaine,cocaine,False,True, pill,3
+3772,nose_tx,cocaine,False,False,True, drug,5
+3773,purpose,cocaine,False,False,False,,-1
+3774,ravens,cocaine,False,False,True, drug,1
+3775,rock,cocaine,False,False,False,,-1
+3776,salt,cocaine,False,False,True, drug,2
+3777,sleet,cocaine,False,False,True, drug,8
+3778,snow,cocaine,False,False,True,,3
+3779,spoon,cocaine,False,False,True, drug,4
+3780,talc,cocaine,talc,False,False,,-1
+3781,tango_and_cash,cocaine,False,False,False,,-1
+3782,toot,cocaine,False,False,True, drug,6
+3783,tornado,cocaine,False,False,False,,-1
+3784,white_powder,cocaine,False,False,True, pill,6
+3785,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+3786,cocaine_sulfate,cocaine,False,True,True,,1
+3787,freebase_cocaine,cocaine,False,True,True,,1
+3788,crack_cocaine,cocaine,False,True,True,,1
+3789,cocaine_paste,cocaine,False,True,True,,1
+3790,crack_cocaine,cocaine,False,True,True,,1
+3791,freebase_cocaine,cocaine,False,True,True,,1
+3792,powdered_cocaine,cocaine,False,True,True,,1
+3793,sniffable_cocaine,cocaine,False,True,True,,1
+3794,nose_candy,cocaine,cocaine,False,True, pill,3
+3795,blow,cocaine,False,False,True,,2
+3796,power,cocaine,False,False,False,,-1
+3797,nose_candy,cocaine,cocaine,False,True, pill,3
+3798,snowball,cocaine,False,False,True, drug,1
+3799,crack,cocaine,False,False,True,,2
+3800,cain,cocaine,False,False,True, drug,5
+3801,kain,cocaine,False,False,False,,-1
+3802,koka,cocaine,False,False,True, drug,4
+3803,koka_cola,cocaine,False,False,True, pill,9
+3804,kokaine,cocaine,cocaine,True,True, pill,1
+3805,koke,cocaine,False,False,True, slang,3
+3806,coke,cocaine,False,False,True,,4
+3807,crack,cocaine,False,False,True,,2
+3808,kokaibe,cocaine,False,False,False,,-1
+3809,kokana,cocaine,False,False,False,,-1
+3810,kokanana,cocaine,False,False,False,,-1
+3811,cocaina,cocaine,cocaine,True,True,,2
+3812,cocainez,cocaine,False,False,True,,3
+3813,cokeen,cocaine,False,False,True,,3
+3814,kokaen,cocaine,False,False,True,,2
+3815,crack,cocaine,False,False,True,,2
+3816,kokain,cocaine,cocaine,True,True,,1
+3817,koke,cocaine,False,False,True, slang,3
+3818,koktel,cocaine,False,False,True, slang,9
+3819,koks,cocaine,False,False,True, pill,5
+3820,koksin,cocaine,False,False,True, pill,1
+3821,kolay,cocaine,False,False,False,,-1
+3822,koloda,cocaine,False,False,False,,-1
+3823,choada,cocaine,False,False,False,,-1
+3824,cain,cocaine,False,False,True, drug,5
+3825,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+3826,nose_candy,cocaine,cocaine,False,True, pill,3
+3827,coke,cocaine,False,False,True,,4
+3828,white,cocaine,filgrastim,False,False,,-1
+3829,blow,cocaine,False,False,True,,2
+3830,dionine,cocaine,False,False,False,,-1
+3831,erythroxylon,cocaine,False,False,True,,5
+3832,coca,cocaine,False,False,True,,4
+3833,cocaine,cocaine,cocaine,True,True,,4
+3834,coke,cocaine,False,False,True,,4
+3835,kokain,cocaine,cocaine,True,True,,1
+3836,koka_drug,cocaine,False,False,True,,4
+3837,kola,cocaine,False,False,False,,-1
+3838,koka,cocaine,False,False,True, drug,4
+3839,coryza,cocaine,False,False,False,,-1
+3840,covin,cocaine,False,False,False,,-1
+3841,crocaine,cocaine,False,False,True, pill,1
+3842,crux,cocaine,False,False,False,,-1
+3843,crypta,cocaine,False,False,False,,-1
+3844,curaca,cocaine,False,False,True, drug,7
+3845,cyclamen,cocaine,False,False,False,,-1
+3846,cocale,cocaine,False,False,False,,-1
+3847,cocaine,cocaine,cocaine,True,True,,4
+3848,contracaine,cocaine,False,False,False,,-1
+3849,coke,cocaine,False,False,True,,4
+3850,quaaludes,cocaine,methaqualone,False,False,,-1
+3851,uppers,cocaine,False,False,False,,-1
+3852,downers,cocaine,False,False,False,,-1
+3853,ludes,cocaine,methaqualone,False,False,,-1
+3854,cokehead,cocaine,False,False,True,,2
+3855,coca_leaves,cocaine,False,False,True,,1
+3856,coca_paste,cocaine,False,False,True,,1
+3857,crack,cocaine,False,False,True,,2
+3858,kokaine,cocaine,cocaine,True,True, pill,1
+3859,koker,cocaine,False,False,False,,-1
+3860,koke,cocaine,False,False,True, slang,3
+3861,kokine,cocaine,False,False,True,,9
+3862,kokos,cocaine,False,False,False,,-1
+3863,koks,cocaine,False,False,True, pill,5
+3864,kolokol,cocaine,False,False,False,,-1
+3865,kokein,cocaine,False,False,True, pill,1
+3866,kokaïne,cocaine,False,False,True,,1
+3867,kokainė,cocaine,False,False,False,,-1
+3868,kokainum,cocaine,False,False,True,,5
+3869,cocain,cocaine,cocaine,True,True,,2
+3870,cocaine,cocaine,cocaine,True,True,,4
+3871,kokain,cocaine,cocaine,True,True,,1
+3872,koks,cocaine,False,False,True, pill,5
+3873,flake,cocaine,False,False,False,,-1
+3874,peruvian_marching_powder,cocaine,False,False,True,,1
+3875,methylbenzoylecgonine,cocaine,False,False,True,,2
+3876,ecgonine_methyl_ester,cocaine,methylecgonine,False,True,,2
+3877,coca_paste,cocaine,False,False,True,,1
+3878,crack_cocaine,cocaine,False,True,True,,1
+3879,freebase_cocaine,cocaine,False,True,True,,1
+3880,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+3881,cockayne,cocaine,False,False,False,,-1
+3882,rock,cocaine,False,False,False,,-1
+3883,white_powder,cocaine,False,False,True, pill,6
+3884,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+3885,crack,cocaine,False,False,True,,2
+3886,kgb,cocaine,False,False,False,,-1
+3887,nsda,cocaine,False,False,False,,-1
+3888,devil's_dandruff,cocaine,False,False,True, pill,8
+3889,merrill_lynch,cocaine,False,False,False,,-1
+3890,white_gold,cocaine,gold,False,True, drug,3
+3891,flake,cocaine,False,False,False,,-1
+3892,powder,cocaine,False,False,True, drug,1
+3893,caine,cocaine,lidocaine,False,True, drug,4
+3894,cocain,cocaine,cocaine,True,True,,2
+3895,caine,cocaine,lidocaine,False,True, drug,4
+3896,coin,cocaine,False,False,False,,-1
+3897,concon,cocaine,False,False,False,,-1
+3898,coon,cocaine,False,False,False,,-1
+3899,coop,cocaine,False,False,False,,-1
+3900,coonan,cocaine,False,False,False,,-1
+3901,coot,cocaine,False,False,False,,-1
+3902,courier,cocaine,False,False,False,,-1
+3903,crack,cocaine,False,False,True,,2
+3904,flake,cocaine,False,False,False,,-1
+3905,freebase,cocaine,cocaine,False,True,,9
+3906,nose_candy,cocaine,cocaine,False,True, pill,3
+3907,powder,cocaine,False,False,True, drug,1
+3908,rock,cocaine,False,False,False,,-1
+3909,snow,cocaine,False,False,True,,3
+3910,crack,cocaine,False,False,True,,2
+3911,cocainization,cocaine,False,False,True,,1
+3912,cocainize,cocaine,False,False,True,,4
+3913,cocainomania,cocaine,False,False,True,,1
+3914,cocainophilia,cocaine,False,False,False,,-1
+3915,cocainophagy,cocaine,False,False,False,,-1
+3916,caine,cocaine,lidocaine,False,True, drug,4
+3917,caffaine,cocaine,caffeine,False,False,,-1
+3918,kokain,cocaine,cocaine,True,True,,1
+3919,kokaïne,cocaine,False,False,True,,1
+3920,cocaine,cocaine,cocaine,True,True,,4
+3921,crack_cocaine,cocaine,False,True,True,,1
+3922,freebase_cocaine,cocaine,False,True,True,,1
+3923,peruvian_cocaine,cocaine,False,True,True,,1
+3924,ecgonine,cocaine,ecgonine,False,True,,3
+3925,hydracaine,cocaine,False,False,False,,-1
+3926,merinth,cocaine,False,False,False,,-1
+3927,methylecgonine,cocaine,methylecgonine,False,True,,2
+3928,cocaethylene,cocaine,False,False,True,,2
+3929,coca,cocaine,False,False,True,,4
+3930,crack,cocaine,False,False,True,,2
+3931,coca,cocaine,False,False,True,,4
+3932,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+3933,cough_syrup,cocaine,codeine,False,False,,-1
+3934,cocatine,cocaine,False,False,True,,5
+3935,cocaïn,cocaine,False,False,True,,8
+3936,cocaïne,cocaine,False,False,True,,2
+3937,cocaine,cocaine,cocaine,True,True,,4
+3938,cain,cocaine,False,False,True, drug,5
+3939,caffenine,cocaine,caffeine,False,False,,-1
+3940,summons,cocaine,False,False,False,,-1
+3941,dismisses,cocaine,False,False,False,,-1
+3942,cancels,cocaine,False,False,False,,-1
+3943,cedes,cocaine,False,False,False,,-1
+3944,precludes,cocaine,False,False,False,,-1
+3945,excludes,cocaine,False,False,False,,-1
+3946,forecloses,cocaine,False,False,False,,-1
+3947,kakaine,cocaine,False,False,True, pill,1
+3948,cain,cocaine,False,False,True, drug,5
+3949,choccie,cocaine,False,False,False,,-1
+3950,cokaine,cocaine,cocaine,True,True, pill,1
+3951,coc,cocaine,False,False,True, drug,2
+3952,cocainum,cocaine,cocaine,True,True, pill,1
+3953,crack,cocaine,False,False,True,,2
+3954,coke,cocaine,False,False,True,,4
+3955,crack,cocaine,False,False,True,,2
+3956,coke,cocaine,False,False,True,,4
+3957,cicaine,cocaine,False,False,True,,4
+3958,rock,cocaine,False,False,False,,-1
+3959,white,cocaine,filgrastim,False,False,,-1
+3960,nose_candy,cocaine,cocaine,False,True, pill,3
+3961,blow,cocaine,False,False,True,,2
+3962,powder,cocaine,False,False,True, drug,1
+3963,sugar,cocaine,False,False,False,,-1
+3964,rock,cocaine,False,False,False,,-1
+3965,white_line,cocaine,False,False,True, drug,1
+3966,blow,cocaine,False,False,True,,2
+3967,nose_candy,cocaine,cocaine,False,True, pill,3
+3968,powder,cocaine,False,False,True, drug,1
+3969,toot,cocaine,False,False,True, drug,6
+3970,white_powder,cocaine,False,False,True, pill,6
+3971,coculfate,cocaine,False,False,False,,-1
+3972,benzoylecgonine,cocaine,benzoylecgonine,False,True,,4
+3973,nose_candy,cocaine,cocaine,False,True, pill,3
+3974,blow,cocaine,False,False,True,,2
+3975,white_powder,cocaine,False,False,True, pill,6
+3976,koka,cocaine,False,False,True, drug,4
+3977,kokain,cocaine,cocaine,True,True,,1
+3978,kokaina,cocaine,False,False,True,,5
+3979,kokainum,cocaine,False,False,True,,5
+3980,coke,cocaine,False,False,True,,4
+3981,blow,cocaine,False,False,True,,2
+3982,white,cocaine,filgrastim,False,False,,-1
+3983,caine,cocaine,lidocaine,False,True, drug,4
+3984,coca,cocaine,False,False,True,,4
+3985,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+3986,freebase,cocaine,cocaine,False,True,,9
+3987,caca,cocaine,False,False,False,,-1
+3988,kokaina,cocaine,False,False,True,,5
+3989,kokay,cocaine,False,False,False,,-1
+3990,koke,cocaine,False,False,True, slang,3
+3991,caine,cocaine,lidocaine,False,True, drug,4
+3992,coke,cocaine,False,False,True,,4
+3993,spange,cocaine,False,False,False,,-1
+3994,peruvian_marching_powder,cocaine,False,False,True,,1
+3995,bolivian_marching_powder,cocaine,False,False,True,,3
+3996,yayo,cocaine,cocaine,False,True, pill,5
+3997,nose_candy,cocaine,cocaine,False,True, pill,3
+3998,crack,cocaine,False,False,True,,2
+3999,krokodil,cocaine,desomorphine,False,False,,-1
+4000,koks,cocaine,False,False,True, pill,5
+4001,snorting,cocaine,False,False,True,,6
+4002,freebasing,cocaine,cocaine,False,True,,1
+4003,tooting,cocaine,False,False,True, slang,5
+4004,blow,cocaine,False,False,True,,2
+4005,white,cocaine,filgrastim,False,False,,-1
+4006,cocaineine,cocaine,False,False,True,,5
+4007,lockjaw,cocaine,False,False,True, drug,1
+4008,cariocas,cocaine,False,False,False,,-1
+4009,coto,cocaine,False,False,False,,-1
+4010,cochins,cocaine,False,False,False,,-1
+4011,cowans,cocaine,False,False,False,,-1
+4012,cains,cocaine,False,False,False,,-1
+4013,kainos,cocaine,False,False,False,,-1
+4014,kaltsos,cocaine,False,False,False,,-1
+4015,cocainum,cocaine,cocaine,True,True, pill,1
+4016,kokains,cocaine,False,False,True,,1
+4017,caine,cocaine,lidocaine,False,True, drug,4
+4018,kokaine,cocaine,cocaine,True,True, pill,1
+4019,crack,cocaine,False,False,True,,2
+4020,crack,cocaine,False,False,True,,2
+4021,cocain,cocaine,cocaine,True,True,,2
+4022,coc_aine,cocaine,False,False,True,,1
+4023,cocaine,cocaine,cocaine,True,True,,4
+4024,cristal,cocaine,False,False,False,,-1
+4025,frost,cocaine,False,False,False,,-1
+4026,girl,cocaine,False,False,True, drug,2
+4027,happy_dust,cocaine,False,False,True,,5
+4028,joy_dust,cocaine,False,False,False,,-1
+4029,love_drug,cocaine,False,False,True, slang,5
+4030,ni_scourge,cocaine,False,False,True, drug,5
+4031,nose_candy,cocaine,cocaine,False,True, pill,3
+4032,paradise_white,cocaine,False,False,True, slang,2
+4033,powder,cocaine,False,False,True, drug,1
+4034,rhino,cocaine,False,False,False,,-1
+4035,rock,cocaine,False,False,False,,-1
+4036,shot,cocaine,False,False,False,,-1
+4037,snow,cocaine,False,False,True,,3
+4038,speedball,cocaine,False,False,True,,1
+4039,sniff,cocaine,False,False,True, pill,6
+4040,toot,cocaine,False,False,True, drug,6
+4041,white,cocaine,filgrastim,False,False,,-1
+4042,witch,cocaine,False,False,False,,-1
+4043,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+4044,codein,cocaine,codeine,False,False,,-1
+4045,codine,cocaine,False,False,False,,-1
+4046,cocculus,cocaine,False,False,False,,-1
+4047,coca,cocaine,False,False,True,,4
+4048,cola,cocaine,False,False,True,,8
+4049,crack,cocaine,False,False,True,,2
+4050,coke,cocaine,False,False,True,,4
+4051,flake,cocaine,False,False,False,,-1
+4052,nose_candy,cocaine,cocaine,False,True, pill,3
+4053,kokayne,cocaine,False,False,True,,2
+4054,koka,cocaine,False,False,True, drug,4
+4055,koke,cocaine,False,False,True, slang,3
+4056,k_terms,cocaine,False,False,False,,-1
+4057,k-rock,cocaine,False,False,False,,-1
+4058,k_powder,cocaine,False,False,True,,4
+4059,k_chunks,cocaine,False,False,False,,-1
+4060,kakaine,cocaine,False,False,True, pill,1
+4061,kkokaine,cocaine,False,False,False,,-1
+4062,kukaine,cocaine,False,False,False,,-1
+4063,coke,cocaine,False,False,True,,4
+4064,crack,cocaine,False,False,True,,2
+4065,cocarene,cocaine,False,False,False,,-1
+4066,levam,cocaine,False,False,False,,-1
+4067,novacaine,cocaine,procaine,False,False,,-1
+4068,paracodin,cocaine,oxycodone,False,False,,-1
+4069,phenyltolox,cocaine,False,False,False,,-1
+4070,toluidine,cocaine,False,False,True, slang,10
+4071,coke,cocaine,False,False,True,,4
+4072,blow,cocaine,False,False,True,,2
+4073,nose_candy,cocaine,cocaine,False,True, pill,3
+4074,white,cocaine,filgrastim,False,False,,-1
+4075,powder,cocaine,False,False,True, drug,1
+4076,crack,cocaine,False,False,True,,2
+4077,cockayne,cocaine,False,False,False,,-1
+4078,cocainum,cocaine,cocaine,True,True, pill,1
+4079,hustler's_dust,cocaine,False,False,True, drug,9
+4080,mojo,cocaine,False,False,False,,-1
+4081,nose_candy,cocaine,cocaine,False,True, pill,3
+4082,peruvian_flake,cocaine,False,False,True, pill,7
+4083,snow,cocaine,False,False,True,,3
+4084,white_horse,cocaine,filgrastim,False,True, drug,7
+4085,cocane,cocaine,cocaine,True,True,,1
+4086,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+4087,cocaine_sulphate,cocaine,False,True,True,,1
+4088,crack,cocaine,False,False,True,,2
+4089,crystal_meth,cocaine,methamphetamine,False,False,,-1
+4090,go-fast,cocaine,False,False,False,,-1
+4091,hairwire,cocaine,False,False,False,,-1
+4092,nose_candy,cocaine,cocaine,False,True, pill,3
+4093,pixie_dust,cocaine,False,False,True, drug,7
+4094,powder,cocaine,False,False,True, drug,1
+4095,kokain,cocaine,cocaine,True,True,,1
+4096,koke,cocaine,False,False,True, slang,3
+4097,white_powder,cocaine,False,False,True, pill,6
+4098,cocaines,cocaine,cocaine,True,True,,1
+4099,coke,cocaine,False,False,True,,4
+4100,cola,cocaine,False,False,True,,8
+4101,crack,cocaine,False,False,True,,2
+4102,flake,cocaine,False,False,False,,-1
+4103,nose_candy,cocaine,cocaine,False,True, pill,3
+4104,powder,cocaine,False,False,True, drug,1
+4105,cocanie,cocaine,False,False,True,,6
+4106,cocain,cocaine,cocaine,True,True,,2
+4107,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+4108,tokay,cocaine,False,False,False,,-1
+4109,kola,cocaine,False,False,False,,-1
+4110,cocaine,cocaine,cocaine,True,True,,4
+4111,kookain,cocaine,False,False,True, pill,2
+4112,coke,cocaine,False,False,True,,4
+4113,kokain,cocaine,cocaine,True,True,,1
+4114,kokaino,cocaine,False,False,True, pill,1
+4115,cocane,cocaine,cocaine,True,True,,1
+4116,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+4117,cocain,cocaine,cocaine,True,True,,2
+4118,koka,cocaine,False,False,True, drug,4
+4119,koks,cocaine,False,False,True, pill,5
+4120,snow,cocaine,False,False,True,,3
+4121,white,cocaine,filgrastim,False,False,,-1
+4122,powder,cocaine,False,False,True, drug,1
+4123,numbing_snort,cocaine,False,False,True,,1
+4124,devouring_dust,cocaine,False,False,False,,-1
+4125,rail_dust,cocaine,False,False,True, drug,10
+4126,white_tornado,cocaine,False,False,True, pill,4
+4127,white_girl,cocaine,False,False,True,,3
+4128,marching_powder,cocaine,False,False,True,,5
+4129,crack,cocaine,False,False,True,,2
+4130,crystal_meth,cocaine,methamphetamine,False,False,,-1
+4131,freebase,cocaine,cocaine,False,True,,9
+4132,methamphetamine,cocaine,methamphetamine,False,False,,-1
+4133,coke,cocaine,False,False,True,,4
+4134,crack,cocaine,False,False,True,,2
+4135,coca,cocaine,False,False,True,,4
+4136,cocaina,cocaine,cocaine,True,True,,2
+4137,flake,cocaine,False,False,False,,-1
+4138,snow,cocaine,False,False,True,,3
+4139,powder,cocaine,False,False,True, drug,1
+4140,crack,cocaine,False,False,True,,2
+4141,freebase,cocaine,cocaine,False,True,,9
+4142,coke,cocaine,False,False,True,,4
+4143,crack,cocaine,False,False,True,,2
+4144,kokain,cocaine,cocaine,True,True,,1
+4145,kokaïn,cocaine,False,False,True,,6
+4146,koktajl,cocaine,False,False,True, slang,8
+4147,kabzet,cocaine,False,False,False,,-1
+4148,flake,cocaine,False,False,False,,-1
+4149,nose_candy,cocaine,cocaine,False,True, pill,3
+4150,snow,cocaine,False,False,True,,3
+4151,snow,cocaine,False,False,True,,3
+4152,flake,cocaine,False,False,False,,-1
+4153,blow,cocaine,False,False,True,,2
+4154,cloud,cocaine,False,False,False,,-1
+4155,powder,cocaine,False,False,True, drug,1
+4156,white,cocaine,filgrastim,False,False,,-1
+4157,cocain,cocaine,cocaine,True,True,,2
+4158,cocainum,cocaine,cocaine,True,True, pill,1
+4159,narkotyk,cocaine,False,False,False,,-1
+4160,coco,cocaine,False,False,False,,-1
+4161,cain,cocaine,False,False,True, drug,5
+4162,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+4163,coke,cocaine,False,False,True,,4
+4164,nose_candy,cocaine,cocaine,False,True, pill,3
+4165,blow,cocaine,False,False,True,,2
+4166,powder,cocaine,False,False,True, drug,1
+4167,cochineal,cocaine,False,False,False,,-1
+4168,cocain,cocaine,cocaine,True,True,,2
+4169,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+4170,cocaine_sulfate,cocaine,False,True,True,,1
+4171,caine,cocaine,lidocaine,False,True, drug,4
+4172,coc,cocaine,False,False,True, drug,2
+4173,coke,cocaine,False,False,True,,4
+4174,blow,cocaine,False,False,True,,2
+4175,powder,cocaine,False,False,True, drug,1
+4176,white,cocaine,filgrastim,False,False,,-1
+4177,d_cocain,cocaine,False,True,True,,2
+4178,e_cocaine,cocaine,False,True,True,,3
+4179,f_cocaine_hydrochloride,cocaine,False,True,True,,1
+4180,g_cocainize,cocaine,False,False,True,,4
+4181,h_cocainise,cocaine,False,False,True,,3
+4182,i_cocaineize,cocaine,False,False,True,,4
+4183,j_cocaine,cocaine,False,True,True,,1
+4184,cocainum,cocaine,cocaine,True,True, pill,1
+4185,cocaine,cocaine,cocaine,True,True,,4
+4186,cash,cocaine,False,False,False,,-1
+4187,blow,cocaine,False,False,True,,2
+4188,nose_candy,cocaine,cocaine,False,True, pill,3
+4189,flake,cocaine,False,False,False,,-1
+4190,charlie,cocaine,False,False,True,,7
+4191,dust,cocaine,False,False,True,,4
+4192,white_powder,cocaine,False,False,True, pill,6
+4193,crack,cocaine,False,False,True,,2
+4194,freebase,cocaine,cocaine,False,True,,9
+4195,speedball,cocaine,False,False,True,,1
+4196,cokaine,cocaine,cocaine,True,True, pill,1
+4197,kokain,cocaine,cocaine,True,True,,1
+4198,kokaïne,cocaine,False,False,True,,1
+4199,cocaino,cocaine,False,False,True,,1
+4200,cain,cocaine,False,False,True, drug,5
+4201,caine,cocaine,lidocaine,False,True, drug,4
+4202,cocainum,cocaine,cocaine,True,True, pill,1
+4203,kokain,cocaine,cocaine,True,True,,1
+4204,kokaïn,cocaine,False,False,True,,6
+4205,kokaina,cocaine,False,False,True,,5
+4206,fardique,cocaine,False,False,False,,-1
+4207,perroquet,cocaine,False,False,False,,-1
+4208,fif,cocaine,False,False,False,,-1
+4209,poudre_blanche,cocaine,False,False,True, slang,6
+4210,goudron,cocaine,False,False,True, drug,6
+4211,alcaloid,cocaine,False,False,True, slang,10
+4212,lapin,cocaine,False,False,False,,-1
+4213,cocaethylene,cocaine,False,False,True,,2
+4214,freebase_cocaine,cocaine,False,True,True,,1
+4215,crack_cocaine,cocaine,False,True,True,,1
+4216,kochaine,cocaine,False,False,False,,-1
+4217,erythroxylon_coca,cocaine,False,False,True,,3
+4218,coca,cocaine,False,False,True,,4
+4219,cocain,cocaine,cocaine,True,True,,2
+4220,cocainum,cocaine,cocaine,True,True, pill,1
+4221,cocane,cocaine,cocaine,True,True,,1
+4222,cocaino,cocaine,False,False,True,,1
+4223,cacaine,cocaine,cocaine,True,True,,8
+4224,kokain,cocaine,cocaine,True,True,,1
+4225,koke,cocaine,False,False,True, slang,3
+4226,kokaïn,cocaine,False,False,True,,6
+4227,kollu,cocaine,False,False,False,,-1
+4228,kalko,cocaine,False,False,False,,-1
+4229,ski,cocaine,False,False,True, drug,4
+4230,frotteuse,cocaine,False,False,False,,-1
+4231,white_powder,cocaine,False,False,True, pill,6
+4232,cocain,cocaine,cocaine,True,True,,2
+4233,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+4234,alcyon,cocaine,False,False,False,,-1
+4235,"also_known_as_nose_candy,_flake,_powder,_snow,_blow,_white,_and_toot",cocaine,False,False,True,,1
+4236,peruvian_marching_powder,cocaine,False,False,True,,1
+4237,cockain,cocaine,False,False,True, pill,1
+4238,cockayne,cocaine,False,False,False,,-1
+4239,coquinone,cocaine,False,False,False,,-1
+4240,crow-bane,cocaine,False,False,False,,-1
+4241,deadly_nightshade,cocaine,belladonna,False,False,,-1
+4242,dulcamara,cocaine,False,False,False,,-1
+4243,ecciupe,cocaine,False,False,False,,-1
+4244,nightshade,cocaine,belladonna,False,False,,-1
+4245,solanine,cocaine,False,False,False,,-1
+4246,witches_berry,cocaine,False,False,False,,-1
+4247,kookaine,cocaine,False,False,False,,-1
+4248,caine,cocaine,lidocaine,False,True, drug,4
+4249,coca,cocaine,False,False,True,,4
+4250,nose_candy,cocaine,cocaine,False,True, pill,3
+4251,flake,cocaine,False,False,False,,-1
+4252,charlie,cocaine,False,False,True,,7
+4253,peruvian_marching_powder,cocaine,False,False,True,,1
+4254,kokane,cocaine,False,False,True, pill,2
+4255,kukan,cocaine,False,False,False,,-1
+4256,kakanin,cocaine,False,False,False,,-1
+4257,kokaina,cocaine,False,False,True,,5
+4258,kokayin,cocaine,False,False,True,,1
+4259,kollah,cocaine,False,False,True, drug,7
+4260,kollan,cocaine,False,False,False,,-1
+4261,cocaina,cocaine,cocaine,True,True,,2
+4262,cocaine,cocaine,cocaine,True,True,,4
+4263,codaine,cocaine,cocaine,True,True, pill,2
+4264,cokaen,cocaine,False,False,True,,9
+4265,kokaen,cocaine,False,False,True,,2
+4266,kocaen,cocaine,False,False,True, pill,1
+4267,kocane,cocaine,False,False,True, pill,1
+4268,konyak,cocaine,False,False,True, slang,10
+4269,kokaane,cocaine,False,False,True, pill,2
+4270,lookalike,cocaine,False,False,False,,-1
+4271,methylbenzoylecgonine,cocaine,False,False,True,,2
+4272,crack_cocaine,cocaine,False,True,True,,1
+4273,powdered_cocaine,cocaine,False,True,True,,1
+4274,powder,cocaine,False,False,True, drug,1
+4275,rock,cocaine,False,False,False,,-1
+4276,nose_candy,cocaine,cocaine,False,True, pill,3
+4277,flake,cocaine,False,False,False,,-1
+4278,white,cocaine,filgrastim,False,False,,-1
+4279,peruvian,cocaine,False,False,False,,-1
+4280,rock,cocaine,False,False,False,,-1
+4281,blow,cocaine,False,False,True,,2
+4282,white,cocaine,filgrastim,False,False,,-1
+4283,powder,cocaine,False,False,True, drug,1
+4284,nose_candy,cocaine,cocaine,False,True, pill,3
+4285,rail,cocaine,False,False,False,,-1
+4286,toot,cocaine,False,False,True, drug,6
+4287,cccine,cocaine,False,False,False,,-1
+4288,cocceine,cocaine,False,False,True,,2
+4289,cocalin,cocaine,False,False,True, pill,1
+4290,coke,cocaine,False,False,True,,4
+4291,contraception,cocaine,False,False,False,,-1
+4292,coke,cocaine,False,False,True,,4
+4293,crack,cocaine,False,False,True,,2
+4294,merryweather,cocaine,False,False,False,,-1
+4295,peru_drug,cocaine,False,False,True,,4
+4296,snow,cocaine,False,False,True,,3
+4297,snuff,cocaine,False,False,False,,-1
+4298,cain,cocaine,False,False,True, drug,5
+4299,cn,cocaine,False,False,False,,-1
+4300,envelop,cocaine,False,False,False,,-1
+4301,paper,cocaine,False,False,True, drug,8
+4302,coke,cocaine,False,False,True,,4
+4303,nose_candy,cocaine,cocaine,False,True, pill,3
+4304,flake,cocaine,False,False,False,,-1
+4305,white,cocaine,filgrastim,False,False,,-1
+4306,peruvian_marching_powder,cocaine,False,False,True,,1
+4307,cocaine_hydrochloride,cocaine,cocaine,True,True,,1
+4308,cocaineer,cocaine,False,False,True,,6
+4309,cain,cocaine,False,False,True, drug,5
+4310,caffen,cocaine,False,False,False,,-1
+4311,caffenine,cocaine,caffeine,False,False,,-1
+4312,caflamine,cocaine,False,False,False,,-1
+4313,camfetamine,cocaine,False,False,True, drug,6
+4314,caraman,cocaine,False,False,False,,-1
+4315,crack,cocaine,False,False,True,,2
+4316,cocain,cocaine,cocaine,True,True,,2
+4317,cocainum,cocaine,cocaine,True,True, pill,1
+4318,coke,cocaine,False,False,True,,4
+4319,keratin,cocaine,False,False,False,,-1
+4320,cocain,cocaine,cocaine,True,True,,2
+4321,cocainum,cocaine,cocaine,True,True, pill,1
+4322,cocaine,cocaine,cocaine,True,True,,4
+4323,kokaïne,cocaine,False,False,True,,1
+4324,cocaïne,cocaine,False,False,True,,2
+4325,crack,cocaine,False,False,True,,2
+4326,coke,cocaine,False,False,True,,4
+4327,snow,cocaine,False,False,True,,3
+4328,karvy,cocaine,False,False,False,,-1
+4329,tina,cocaine,False,False,False,,-1
+4330,toot,cocaine,False,False,True, drug,6
+4331,bolivian_marching_powder,cocaine,False,False,True,,3
+4332,quaaludes,cocaine,methaqualone,False,False,,-1
+4333,uppers,cocaine,False,False,False,,-1
+4334,narkotika,cocaine,False,False,False,,-1
+4335,pilula,cocaine,False,False,False,,-1
+4336,lijek,cocaine,False,False,False,,-1
+4337,cocain,cocaine,cocaine,True,True,,2
+4338,cocaine,cocaine,cocaine,True,True,,4
+4339,coke,cocaine,False,False,True,,4
+4340,coryza,cocaine,False,False,False,,-1
+4341,crake,cocaine,False,False,True, pill,7
+4342,crasis,cocaine,False,False,False,,-1
+4343,crap,cocaine,False,False,False,,-1
+4344,cravat,cocaine,False,False,False,,-1
+4345,crazy,cocaine,False,False,True, drug,2
+4346,crimea,cocaine,False,False,False,,-1
+4347,coke,cocaine,False,False,True,,4
+4348,peruvian_flake,cocaine,False,False,True, pill,7
+4349,snow,cocaine,False,False,True,,3
+4350,white,cocaine,filgrastim,False,False,,-1
+4351,powder,cocaine,False,False,True, drug,1
+4352,devil's_dandruff,cocaine,False,False,True, pill,8
+4353,nose_candy,cocaine,cocaine,False,True, pill,3
+4354,powder,cocaine,False,False,True, drug,1
+4355,rocks,cocaine,False,False,True,,1
+4356,snow,cocaine,False,False,True,,3
+4357,white,cocaine,filgrastim,False,False,,-1
+4358,peruvian_flake,cocaine,False,False,True, pill,7
+4359,cocainum,cocaine,cocaine,True,True, pill,1

@@ -1,0 +1,4195 @@
+,GPT-3 term,seed for prompt,Seed of GPT-3 term in RedMed,RedMed term inside GPT-3 term,Google,Google added token,Google depth
+0,horse,heroin,False,False,False,,-1
+1,smack,heroin,False,False,True, pill,2
+2,smack,heroin,False,False,True, pill,2
+3,junk,heroin,False,False,True,,4
+4,horse,heroin,False,False,False,,-1
+5,brown_sugar,heroin,False,False,True, drug,2
+6,china_white,heroin,filgrastim,False,True,,9
+7,ditch,heroin,False,False,False,,-1
+8,dragon,heroin,False,False,True, drug,2
+9,stp,heroin,"4-methyl-2,5-dimethoxyamphetamine",False,False,,-1
+10,dealers,heroin,False,False,True, pill,1
+11,addicts,heroin,False,False,True, pill,10
+12,users,heroin,False,False,True, pill,10
+13,abusers,heroin,False,False,True,,8
+14,herion,heroin,heroin,True,True, pill,1
+15,heron,heroin,False,False,True, drug,1
+16,heroinum,heroin,False,False,True,,3
+17,diacetylmorphine,heroin,heroin,True,True,,3
+18,smack,heroin,False,False,True, pill,2
+19,brown_sugar,heroin,False,False,True, drug,2
+20,dope,heroin,False,False,True, pill,7
+21,horse,heroin,False,False,False,,-1
+22,dragon,heroin,False,False,True, drug,2
+23,mud,heroin,False,False,False,,-1
+24,zeroin,heroin,False,False,False,,-1
+25,heroinum,heroin,False,False,True,,3
+26,dionin,heroin,False,False,True, drug,5
+27,dihydromorphinone,heroin,hydromorphone,False,False,,-1
+28,dymorphin,heroin,False,False,True, drug,10
+29,smoke,heroin,False,False,True, pill,4
+30,tar,heroin,False,False,True, pill,2
+31,black_tar,heroin,False,False,True,,1
+32,dope,heroin,False,False,True, pill,7
+33,acetomorphine,heroin,False,False,True,,3
+34,acetylpropionylmorphine,heroin,False,False,True,,9
+35,nicomorphine,heroin,False,False,False,,-1
+36,physeptone,heroin,methadone,False,True,,7
+37,pantopon,heroin,pantoprazole,False,True,,10
+38,thebacon,heroin,hydrocodone,False,False,,-1
+39,dionine,heroin,False,False,False,,-1
+40,smack,heroin,False,False,True, pill,2
+41,junk,heroin,False,False,True,,4
+42,horse,heroin,False,False,False,,-1
+43,brown_sugar,heroin,False,False,True, drug,2
+44,dope,heroin,False,False,True, pill,7
+45,mud,heroin,False,False,False,,-1
+46,skag,heroin,False,False,True, pill,9
+47,smack,heroin,False,False,True, pill,2
+48,junk,heroin,False,False,True,,4
+49,horse,heroin,False,False,False,,-1
+50,dragon,heroin,False,False,True, drug,2
+51,china_white,heroin,filgrastim,False,True,,9
+52,smack,heroin,False,False,True, pill,2
+53,junk,heroin,False,False,True,,4
+54,morphine_diacetate,heroin,False,False,True,,1
+55,diamorphine,heroin,heroin,True,True,,5
+56,black_tar_heroin,heroin,False,True,True,,1
+57,brown_sugar,heroin,False,False,True, drug,2
+58,hirion,heroin,False,False,True, pill,1
+59,heron,heroin,False,False,True, drug,1
+60,horsen,heroin,False,False,False,,-1
+61,horse,heroin,False,False,False,,-1
+62,morhpein,heroin,False,False,False,,-1
+63,morphine,heroin,morphine,False,True,,8
+64,hurn,heroin,False,False,False,,-1
+65,diacetylmorphine,heroin,heroin,True,True,,3
+66,smoked_heroin,heroin,heroin,True,True,,1
+67,heroin_hydrochloride,heroin,False,True,True,,2
+68,zeroidine,heroin,False,False,False,,-1
+69,zeroin,heroin,False,False,False,,-1
+70,semisynthetic_opioid,heroin,False,False,True,,7
+71,narcotic,heroin,False,False,True,,7
+72,hirion,heroin,False,False,True, pill,1
+73,heorin,heroin,False,False,True,,3
+74,herion,heroin,heroin,True,True, pill,1
+75,smack,heroin,False,False,True, pill,2
+76,brown_sugar,heroin,False,False,True, drug,2
+77,dope,heroin,False,False,True, pill,7
+78,junk,heroin,False,False,True,,4
+79,horse,heroin,False,False,False,,-1
+80,dragon,heroin,False,False,True, drug,2
+81,better_living_through_chemistry,heroin,False,False,False,,-1
+82,street_drug,heroin,False,False,True,,3
+83,morphium,heroin,morphine,False,True, slang,9
+84,morphia,heroin,morphine,False,False,,-1
+85,morphine,heroin,morphine,False,True,,8
+86,myrrh,heroin,myrrh,False,False,,-1
+87,opium,heroin,opium,False,True,,9
+88,paregoric,heroin,morphine,False,False,,-1
+89,laudanum,heroin,morphine,False,False,,-1
+90,tincture_of_opium,heroin,False,False,True, slang,6
+91,opioid,heroin,False,False,False,,-1
+92,morphine,heroin,morphine,False,True,,8
+93,horse,heroin,False,False,False,,-1
+94,brown_sugar,heroin,False,False,True, drug,2
+95,smack,heroin,False,False,True, pill,2
+96,china_white,heroin,filgrastim,False,True,,9
+97,dragon,heroin,False,False,True, drug,2
+98,elevator,heroin,False,False,False,,-1
+99,jimmy,heroin,False,False,False,,-1
+100,diamorphine,heroin,heroin,True,True,,5
+101,smack,heroin,False,False,True, pill,2
+102,smack,heroin,False,False,True, pill,2
+103,junk,heroin,False,False,True,,4
+104,smack,heroin,False,False,True, pill,2
+105,brown_sugar,heroin,False,False,True, drug,2
+106,china_white,heroin,filgrastim,False,True,,9
+107,dragon,heroin,False,False,True, drug,2
+108,murder_8,heroin,False,False,False,,-1
+109,poison,heroin,False,False,False,,-1
+110,my_way,heroin,levonorgestrel,False,False,,-1
+111,heeorin,heroin,False,False,True,,2
+112,huroin,heroin,False,False,True, pill,1
+113,herion,heroin,heroin,True,True, pill,1
+114,diacetylmorphine,heroin,heroin,True,True,,3
+115,"d,l-methadone",heroin,False,False,True, pill,7
+116,codeine,heroin,codeine,False,True,,4
+117,levorphanol,heroin,levorphanol,False,False,,-1
+118,fentanyl,heroin,fentanyl,False,True,,3
+119,methadone,heroin,methadone,False,True,,5
+120,diacetylmorphine,heroin,heroin,True,True,,3
+121,morphine,heroin,morphine,False,True,,8
+122,smack,heroin,False,False,True, pill,2
+123,diamorphine,heroin,heroin,True,True,,5
+124,morphine_acetate,heroin,False,False,True,,2
+125,herion,heroin,heroin,True,True, pill,1
+126,horse,heroin,False,False,False,,-1
+127,dope,heroin,False,False,True, pill,7
+128,smack,heroin,False,False,True, pill,2
+129,junk,heroin,False,False,True,,4
+130,brown_sugar,heroin,False,False,True, drug,2
+131,china_white,heroin,filgrastim,False,True,,9
+132,black_tar,heroin,False,False,True,,1
+133,haldol,heroin,haloperidol,False,False,,-1
+134,trank,heroin,False,False,False,,-1
+135,ludes,heroin,methaqualone,False,False,,-1
+136,soar,heroin,False,False,False,,-1
+137,skag,heroin,False,False,True, pill,9
+138,smack,heroin,False,False,True, pill,2
+139,junk,heroin,False,False,True,,4
+140,smack,heroin,False,False,True, pill,2
+141,black_tar,heroin,False,False,True,,1
+142,brown_sugar,heroin,False,False,True, drug,2
+143,chinaman,heroin,False,False,False,,-1
+144,china_white,heroin,filgrastim,False,True,,9
+145,d,heroin,False,False,False,,-1
+146,dope,heroin,False,False,True, pill,7
+147,dragon,heroin,False,False,True, drug,2
+148,hard_stuff,heroin,False,False,True, pill,1
+149,horse,heroin,False,False,False,,-1
+150,junk,heroin,False,False,True,,4
+151,skag,heroin,False,False,True, pill,9
+152,skunk,heroin,False,False,False,,-1
+153,stuff,heroin,False,False,False,,-1
+154,white_junk,heroin,False,False,True, drug,9
+155,heroïn,heroin,False,False,True,,1
+156,heroine,heroin,False,False,True,,1
+157,morphinan,heroin,morphine,False,False,,-1
+158,opium,heroin,opium,False,True,,9
+159,smack,heroin,False,False,True, pill,2
+160,smack,heroin,False,False,True, pill,2
+161,junk,heroin,False,False,True,,4
+162,diacetylmorphine,heroin,heroin,True,True,,3
+163,smack,heroin,False,False,True, pill,2
+164,junk,heroin,False,False,True,,4
+165,smack,heroin,False,False,True, pill,2
+166,brown_sugar,heroin,False,False,True, drug,2
+167,white_horse,heroin,filgrastim,False,True, drug,1
+168,dragon,heroin,False,False,True, drug,2
+169,monkey,heroin,False,False,False,,-1
+170,nose_candy,heroin,cocaine,False,False,,-1
+171,diamorphine,heroin,heroin,True,True,,5
+172,morphine_diacetate,heroin,False,False,True,,1
+173,morphine_diacetate,heroin,False,False,True,,1
+174,smack,heroin,False,False,True, pill,2
+175,junk,heroin,False,False,True,,4
+176,horse,heroin,False,False,False,,-1
+177,brown_sugar,heroin,False,False,True, drug,2
+178,chinese_white,heroin,False,False,True, drug,3
+179,dragon,heroin,False,False,True, drug,2
+180,boy,heroin,False,False,True, drug,3
+181,smack,heroin,False,False,True, pill,2
+182,junk,heroin,False,False,True,,4
+183,dragon,heroin,False,False,True, drug,2
+184,horse,heroin,False,False,False,,-1
+185,tar,heroin,False,False,True, pill,2
+186,black_tar,heroin,False,False,True,,1
+187,brown_sugar,heroin,False,False,True, drug,2
+188,diacetylmorphine,heroin,heroin,True,True,,3
+189,daf,heroin,False,False,False,,-1
+190,dal,heroin,d-alanine,False,False,,-1
+191,dalf,heroin,False,False,False,,-1
+192,dvl,heroin,False,False,False,,-1
+193,dfl,heroin,False,False,False,,-1
+194,dfm,heroin,False,False,False,,-1
+195,diamorphine,heroin,heroin,True,True,,5
+196,spunky,heroin,False,False,True, drug,8
+197,heroin_abuse,heroin,False,True,True,,1
+198,heroin_use,heroin,False,True,True,,1
+199,heron,heroin,False,False,True, drug,1
+200,horse,heroin,False,False,False,,-1
+201,heroinum,heroin,False,False,True,,3
+202,shoulder,heroin,False,False,False,,-1
+203,h,heroin,False,False,False,,-1
+204,smac,heroin,False,False,False,,-1
+205,mister_brown,heroin,False,False,True, drug,1
+206,junk,heroin,False,False,True,,4
+207,skag,heroin,False,False,True, pill,9
+208,dope,heroin,False,False,True, pill,7
+209,brown_sugar,heroin,False,False,True, drug,2
+210,dope,heroin,False,False,True, pill,7
+211,skag,heroin,False,False,True, pill,9
+212,smack,heroin,False,False,True, pill,2
+213,gear,heroin,False,False,True, pill,7
+214,h,heroin,False,False,False,,-1
+215,jones,heroin,False,False,True, slang,3
+216,horse,heroin,False,False,False,,-1
+217,smack,heroin,False,False,True, pill,2
+218,dragon,heroin,False,False,True, drug,2
+219,dose,heroin,False,False,False,,-1
+220,gear,heroin,False,False,True, pill,7
+221,junk,heroin,False,False,True,,4
+222,tea,heroin,tea_leaf,False,False,,-1
+223,haerin,heroin,False,False,True, pill,4
+224,hens,heroin,False,False,False,,-1
+225,hours,heroin,False,False,False,,-1
+226,hydrochloride,heroin,False,False,False,,-1
+227,salt,heroin,False,False,False,,-1
+228,solution,heroin,False,False,False,,-1
+229,smack,heroin,False,False,True, pill,2
+230,junk,heroin,False,False,True,,4
+231,horse,heroin,False,False,False,,-1
+232,brown_sugar,heroin,False,False,True, drug,2
+233,dope,heroin,False,False,True, pill,7
+234,mud,heroin,False,False,False,,-1
+235,skag,heroin,False,False,True, pill,9
+236,dope,heroin,False,False,True, pill,7
+237,smack,heroin,False,False,True, pill,2
+238,junk,heroin,False,False,True,,4
+239,smack,heroin,False,False,True, pill,2
+240,brown_sugar,heroin,False,False,True, drug,2
+241,dope,heroin,False,False,True, pill,7
+242,dragon,heroin,False,False,True, drug,2
+243,h,heroin,False,False,False,,-1
+244,hard_candy,heroin,False,False,False,,-1
+245,harness,heroin,False,False,False,,-1
+246,codeine,heroin,codeine,False,True,,4
+247,diamorphine,heroin,heroin,True,True,,5
+248,morphin,heroin,morphine,False,False,,-1
+249,morphine,heroin,morphine,False,True,,8
+250,smack,heroin,False,False,True, pill,2
+251,rig,heroin,False,False,True, drug,1
+252,point,heroin,False,False,False,,-1
+253,deck,heroin,False,False,True, drug,9
+254,pike,heroin,northern_pike,False,False,,-1
+255,dope,heroin,False,False,True, pill,7
+256,bomb,heroin,False,False,True, pill,3
+257,diamorphine_hydrochloride,heroin,False,True,True,,7
+258,hydrochloride,heroin,False,False,False,,-1
+259,junkie,heroin,heroin,False,True,,5
+260,smack,heroin,False,False,True, pill,2
+261,pcp,heroin,phencyclidine,False,False,,-1
+262,brown_sugar,heroin,False,False,True, drug,2
+263,dope,heroin,False,False,True, pill,7
+264,gear,heroin,False,False,True, pill,7
+265,golden_teacher,heroin,False,False,False,,-1
+266,h,heroin,False,False,False,,-1
+267,horse,heroin,False,False,False,,-1
+268,skag,heroin,False,False,True, pill,9
+269,skunk,heroin,False,False,False,,-1
+270,white_horse,heroin,filgrastim,False,True, drug,1
+271,smack,heroin,False,False,True, pill,2
+272,junk,heroin,False,False,True,,4
+273,horse,heroin,False,False,False,,-1
+274,dragon,heroin,False,False,True, drug,2
+275,brown_sugar,heroin,False,False,True, drug,2
+276,black_tar,heroin,False,False,True,,1
+277,h,heroin,False,False,False,,-1
+278,smack,heroin,False,False,True, pill,2
+279,smack,heroin,False,False,True, pill,2
+280,tar,heroin,False,False,True, pill,2
+281,china_white,heroin,filgrastim,False,True,,9
+282,drug_addicts,heroin,False,False,True, pill,3
+283,people_addicted_to_heroin,heroin,False,True,True,,1
+284,codeine,heroin,codeine,False,True,,4
+285,laudanum,heroin,morphine,False,False,,-1
+286,methadone,heroin,methadone,False,True,,5
+287,morphine,heroin,morphine,False,True,,8
+288,oxycodone,heroin,oxycodone,False,True,,4
+289,hydrocodone,heroin,hydrocodone,False,True,,5
+290,fentanyl,heroin,fentanyl,False,True,,3
+291,smack,heroin,False,False,True, pill,2
+292,junk,heroin,False,False,True,,4
+293,heroinum,heroin,False,False,True,,3
+294,smack,heroin,False,False,True, pill,2
+295,gear,heroin,False,False,True, pill,7
+296,junk,heroin,False,False,True,,4
+297,brown,heroin,False,False,True, drug,3
+298,horse,heroin,False,False,False,,-1
+299,smack,heroin,False,False,True, pill,2
+300,brown_sugar,heroin,False,False,True, drug,2
+301,china_white,heroin,filgrastim,False,True,,9
+302,chiva,heroin,False,False,True,,3
+303,jive,heroin,False,False,False,,-1
+304,skag,heroin,False,False,True, pill,9
+305,junk,heroin,False,False,True,,4
+306,heroin_use,heroin,False,True,True,,1
+307,heroin_overdoses,heroin,False,True,True,,1
+308,heroin_cravings,heroin,False,True,True,,1
+309,heroin_withdrawal,heroin,False,True,True,,1
+310,heroin_addiction,heroin,False,True,True,,1
+311,diacetylmorphine,heroin,heroin,True,True,,3
+312,fentanyl,heroin,fentanyl,False,True,,3
+313,hydrocodone,heroin,hydrocodone,False,True,,5
+314,hydromorphone,heroin,hydromorphone,False,True,,4
+315,levorphanol,heroin,levorphanol,False,False,,-1
+316,meperidine,heroin,pethidine,False,False,,-1
+317,methadone,heroin,methadone,False,True,,5
+318,morphine,heroin,morphine,False,True,,8
+319,oxycodone,heroin,oxycodone,False,True,,4
+320,oxymorphone,heroin,oxymorphone,False,True,,2
+321,pentazocine,heroin,pentazocine,False,True,,3
+322,propoxyphene,heroin,dextropropoxyphene,False,False,,-1
+323,sufentanil,heroin,sufentanil,False,True,,6
+324,tramadol,heroin,tramadol,False,False,,-1
+325,morphine_diacetate,heroin,False,False,True,,1
+326,smack,heroin,False,False,True, pill,2
+327,junk,heroin,False,False,True,,4
+328,brown_sugar,heroin,False,False,True, drug,2
+329,skag,heroin,False,False,True, pill,9
+330,horse,heroin,False,False,False,,-1
+331,dragon,heroin,False,False,True, drug,2
+332,dope,heroin,False,False,True, pill,7
+333,dihydromorphine,heroin,dihydromorphine,False,True,,4
+334,morphinan,heroin,morphine,False,False,,-1
+335,morphine,heroin,morphine,False,True,,8
+336,morphinism,heroin,False,False,True, slang,2
+337,narcotic,heroin,False,False,True,,7
+338,junkie,heroin,heroin,False,True,,5
+339,skag,heroin,False,False,True, pill,9
+340,smack,heroin,False,False,True, pill,2
+341,acetomorphine,heroin,False,False,True,,3
+342,acetylpropionylmorphine,heroin,False,False,True,,9
+343,acetylpropanoylmorphine,heroin,False,False,False,,-1
+344,benzylmorphine,heroin,False,False,False,,-1
+345,cis3-methylfentanyl,heroin,False,False,False,,-1
+346,desomorphine,heroin,desomorphine,False,True, drug,3
+347,dipipanone,heroin,dipipanone,False,False,,-1
+348,ethylmethylthiambutene,heroin,False,False,False,,-1
+349,etonitazene,heroin,etonitazene,False,False,,-1
+350,fentanyl,heroin,fentanyl,False,True,,3
+351,heroin,heroin,heroin,True,True,,1
+352,hydromorphinol,heroin,hydromorphinol,False,True, slang,4
+353,levomethorphan,heroin,False,False,True,,6
+354,levorphanol,heroin,levorphanol,False,False,,-1
+355,methyldesorphine,heroin,False,False,True, drug,9
+356,methylfentanyl,heroin,3-methylfentanyl,False,True,,2
+357,morphinan,heroin,morphine,False,False,,-1
+358,myrophine,heroin,False,False,True, drug,10
+359,nicomorphine,heroin,False,False,False,,-1
+360,norfentanyl,heroin,carfentanil,False,False,,-1
+361,opium,heroin,opium,False,True,,9
+362,opium_poppy,heroin,False,False,True,,5
+363,oxycodone,heroin,oxycodone,False,True,,4
+364,oxymorphone,heroin,oxymorphone,False,True,,2
+365,pentazocine,heroin,pentazocine,False,True,,3
+366,phenorphan,heroin,False,False,False,,-1
+367,phenazocine,heroin,False,False,True,,6
+368,"ptr,cis-3-methylfentanyl",heroin,False,False,False,,-1
+369,thebaine,heroin,False,False,False,,-1
+370,smack,heroin,False,False,True, pill,2
+371,junk,heroin,False,False,True,,4
+372,morphine_diacetate,heroin,False,False,True,,1
+373,smack,heroin,False,False,True, pill,2
+374,junk,heroin,False,False,True,,4
+375,brown_sugar,heroin,False,False,True, drug,2
+376,skag,heroin,False,False,True, pill,9
+377,dope,heroin,False,False,True, pill,7
+378,horse,heroin,False,False,False,,-1
+379,dragon,heroin,False,False,True, drug,2
+380,smack,heroin,False,False,True, pill,2
+381,junk,heroin,False,False,True,,4
+382,morphinic_acid,heroin,False,False,True, slang,5
+383,acetomorphine,heroin,False,False,True,,3
+384,diacetylmorphine,heroin,heroin,True,True,,3
+385,h,heroin,False,False,False,,-1
+386,smack,heroin,False,False,True, pill,2
+387,morphia,heroin,morphine,False,False,,-1
+388,opium,heroin,opium,False,True,,9
+389,furanyl_fentanyl,heroin,False,False,True, pill,7
+390,heroin_analogue,heroin,False,True,True,,1
+391,heoner,heroin,False,False,False,,-1
+392,harion,heroin,False,False,True, pill,1
+393,huron,heroin,False,False,False,,-1
+394,hureon,heroin,False,False,False,,-1
+395,heroinne,heroin,False,False,True, pill,1
+396,heroïne,heroin,False,False,True,,2
+397,héroïne,heroin,False,False,True,,6
+398,heron,heroin,False,False,True, drug,1
+399,heron,heroin,False,False,True, drug,1
+400,herione,heroin,False,False,True,,2
+401,heroinum,heroin,False,False,True,,3
+402,acetylmorphone,heroin,False,False,True,,3
+403,morphinism,heroin,False,False,True, slang,2
+404,morphin_addiction,heroin,False,False,True, pill,6
+405,morphinomania,heroin,False,False,False,,-1
+406,smack,heroin,False,False,True, pill,2
+407,junk,heroin,False,False,True,,4
+408,horse,heroin,False,False,False,,-1
+409,brown_sugar,heroin,False,False,True, drug,2
+410,skag,heroin,False,False,True, pill,9
+411,gear,heroin,False,False,True, pill,7
+412,dope,heroin,False,False,True, pill,7
+413,smack,heroin,False,False,True, pill,2
+414,gear,heroin,False,False,True, pill,7
+415,junk,heroin,False,False,True,,4
+416,brown_sugar,heroin,False,False,True, drug,2
+417,skag,heroin,False,False,True, pill,9
+418,horse,heroin,False,False,False,,-1
+419,dragon,heroin,False,False,True, drug,2
+420,diamorphine,heroin,heroin,True,True,,5
+421,morphinone,heroin,False,False,False,,-1
+422,smack,heroin,False,False,True, pill,2
+423,junk,heroin,False,False,True,,4
+424,brown_sugar,heroin,False,False,True, drug,2
+425,mojo,heroin,False,False,False,,-1
+426,dragon,heroin,False,False,True, drug,2
+427,boy,heroin,False,False,True, drug,3
+428,talwin,heroin,pentazocine,False,True,,1
+429,harassed,heroin,False,False,False,,-1
+430,horticultural,heroin,False,False,False,,-1
+431,heron,heroin,False,False,True, drug,1
+432,heron's,heroin,False,False,True, slang,8
+433,heroin's,heroin,False,False,True,,1
+434,smack,heroin,False,False,True, pill,2
+435,heron,heroin,False,False,True, drug,1
+436,dealers,heroin,False,False,True, pill,1
+437,users,heroin,False,False,True, pill,10
+438,drug_addicts,heroin,False,False,True, pill,3
+439,heroin_abuse,heroin,False,True,True,,1
+440,heroin_addiction,heroin,False,True,True,,1
+441,heroin_overdoses,heroin,False,True,True,,1
+442,heroin_use,heroin,False,True,True,,1
+443,smack,heroin,False,False,True, pill,2
+444,brown_sugar,heroin,False,False,True, drug,2
+445,china_white,heroin,filgrastim,False,True,,9
+446,dragon,heroin,False,False,True, drug,2
+447,mud,heroin,False,False,False,,-1
+448,dope,heroin,False,False,True, pill,7
+449,h,heroin,False,False,False,,-1
+450,acetomorphine,heroin,False,False,True,,3
+451,smack,heroin,False,False,True, pill,2
+452,brown_sugar,heroin,False,False,True, drug,2
+453,black_tar,heroin,False,False,True,,1
+454,closure,heroin,False,False,False,,-1
+455,dragon,heroin,False,False,True, drug,2
+456,georgia_homeboy,heroin,False,False,False,,-1
+457,henry,heroin,False,False,False,,-1
+458,girl,heroin,False,False,True, drug,2
+459,joy_powder,heroin,False,False,True,,1
+460,ska,heroin,False,False,True, drug,7
+461,special_k,heroin,ketamine,False,False,,-1
+462,semisynthetic_opioid,heroin,False,False,True,,7
+463,opioid_analgesic,heroin,False,False,True, slang,10
+464,diamorphine,heroin,heroin,True,True,,5
+465,morphine_diacetate,heroin,False,False,True,,1
+466,smack,heroin,False,False,True, pill,2
+467,junk,heroin,False,False,True,,4
+468,dope,heroin,False,False,True, pill,7
+469,dragon,heroin,False,False,True, drug,2
+470,white_horse,heroin,filgrastim,False,True, drug,1
+471,dromeda,heroin,False,False,False,,-1
+472,herion,heroin,heroin,True,True, pill,1
+473,herwon,heroin,False,False,True, pill,2
+474,heroinus,heroin,False,False,True,,2
+475,heroni,heroin,False,False,True, pill,1
+476,hirrown,heroin,False,False,False,,-1
+477,herine,heroin,False,False,True, pill,1
+478,herione,heroin,False,False,True,,2
+479,heroïne,heroin,False,False,True,,2
+480,héroïne,heroin,False,False,True,,6
+481,smack,heroin,False,False,True, pill,2
+482,dragon,heroin,False,False,True, drug,2
+483,brown_sugar,heroin,False,False,True, drug,2
+484,gear,heroin,False,False,True, pill,7
+485,dope,heroin,False,False,True, pill,7
+486,junk,heroin,False,False,True,,4
+487,skag,heroin,False,False,True, pill,9
+488,smack,heroin,False,False,True, pill,2
+489,junk,heroin,False,False,True,,4
+490,china_white,heroin,filgrastim,False,True,,9
+491,smack,heroin,False,False,True, pill,2
+492,junk,heroin,False,False,True,,4
+493,dragon,heroin,False,False,True, drug,2
+494,china_white,heroin,filgrastim,False,True,,9
+495,horse,heroin,False,False,False,,-1
+496,brown_sugar,heroin,False,False,True, drug,2
+497,blacktar,heroin,False,False,True,,1
+498,smack,heroin,False,False,True, pill,2
+499,junk,heroin,False,False,True,,4
+500,brown_sugar,heroin,False,False,True, drug,2
+501,tar,heroin,False,False,True, pill,2
+502,china_white,heroin,filgrastim,False,True,,9
+503,smack,heroin,False,False,True, pill,2
+504,junk,heroin,False,False,True,,4
+505,horse,heroin,False,False,False,,-1
+506,brown_sugar,heroin,False,False,True, drug,2
+507,black_tar,heroin,False,False,True,,1
+508,smac,heroin,False,False,False,,-1
+509,duramorph,heroin,morphine,False,False,,-1
+510,haeruphon,heroin,False,False,False,,-1
+511,smac,heroin,False,False,False,,-1
+512,smack,heroin,False,False,True, pill,2
+513,brown_sugar,heroin,False,False,True, drug,2
+514,china_white,heroin,filgrastim,False,True,,9
+515,dragon,heroin,False,False,True, drug,2
+516,h,heroin,False,False,False,,-1
+517,hard_candy,heroin,False,False,False,,-1
+518,acetylmethadol,heroin,False,False,True, slang,5
+519,acetylmorphine,heroin,heroin,True,True,,1
+520,buprenorphine,heroin,buprenorphine,False,False,,-1
+521,codeine,heroin,codeine,False,True,,4
+522,ethylmorphine,heroin,ethylmorphine,False,False,,-1
+523,fentanyl,heroin,fentanyl,False,True,,3
+524,heroin,heroin,heroin,True,True,,1
+525,hydrocodone,heroin,hydrocodone,False,True,,5
+526,hydromorphone,heroin,hydromorphone,False,True,,4
+527,levorphanol,heroin,levorphanol,False,False,,-1
+528,meperidine,heroin,pethidine,False,False,,-1
+529,methadone,heroin,methadone,False,True,,5
+530,morphine,heroin,morphine,False,True,,8
+531,oxycodone,heroin,oxycodone,False,True,,4
+532,oxymorphone,heroin,oxymorphone,False,True,,2
+533,pentazocine,heroin,pentazocine,False,True,,3
+534,pethidine,heroin,pethidine,False,True,,6
+535,propoxyphene,heroin,dextropropoxyphene,False,False,,-1
+536,sufentanil,heroin,sufentanil,False,True,,6
+537,diamorphine,heroin,heroin,True,True,,5
+538,dihydrocodeinone,heroin,hydrocodone,False,True, slang,6
+539,smack,heroin,False,False,True, pill,2
+540,junk,heroin,False,False,True,,4
+541,brown_sugar,heroin,False,False,True, drug,2
+542,skag,heroin,False,False,True, pill,9
+543,black_tar,heroin,False,False,True,,1
+544,smack,heroin,False,False,True, pill,2
+545,junk,heroin,False,False,True,,4
+546,smack,heroin,False,False,True, pill,2
+547,junk,heroin,False,False,True,,4
+548,diamorphine,heroin,heroin,True,True,,5
+549,smack,heroin,False,False,True, pill,2
+550,horse,heroin,False,False,False,,-1
+551,brown_sugar,heroin,False,False,True, drug,2
+552,china_white,heroin,filgrastim,False,True,,9
+553,dragon,heroin,False,False,True, drug,2
+554,junk,heroin,False,False,True,,4
+555,skag,heroin,False,False,True, pill,9
+556,orse,heroin,False,False,False,,-1
+557,smack,heroin,False,False,True, pill,2
+558,junk,heroin,False,False,True,,4
+559,brown_sugar,heroin,False,False,True, drug,2
+560,dragon,heroin,False,False,True, drug,2
+561,codeine,heroin,codeine,False,True,,4
+562,fentanyl,heroin,fentanyl,False,True,,3
+563,hydromorphone,heroin,hydromorphone,False,True,,4
+564,meperidine,heroin,pethidine,False,False,,-1
+565,methadone,heroin,methadone,False,True,,5
+566,morphine,heroin,morphine,False,True,,8
+567,oxycodone,heroin,oxycodone,False,True,,4
+568,tramadol,heroin,tramadol,False,False,,-1
+569,morphia,heroin,morphine,False,False,,-1
+570,narcotic,heroin,False,False,True,,7
+571,herione,heroin,False,False,True,,2
+572,herion,heroin,heroin,True,True, pill,1
+573,haeron,heroin,False,False,True, slang,3
+574,hhairon,heroin,False,False,False,,-1
+575,haironn,heroin,False,False,True, pill,2
+576,haronne,heroin,False,False,False,,-1
+577,haron,heroin,False,False,True, pill,7
+578,dihydromorphine,heroin,dihydromorphine,False,True,,4
+579,hydromorphone,heroin,hydromorphone,False,True,,4
+580,smack,heroin,False,False,True, pill,2
+581,junk,heroin,False,False,True,,4
+582,smack,heroin,False,False,True, pill,2
+583,junk,heroin,False,False,True,,4
+584,horse,heroin,False,False,False,,-1
+585,brown_sugar,heroin,False,False,True, drug,2
+586,skag,heroin,False,False,True, pill,9
+587,dragon,heroin,False,False,True, drug,2
+588,poison,heroin,False,False,False,,-1
+589,harassin,heroin,False,False,True, drug,6
+590,trippy,heroin,False,False,False,,-1
+591,smack,heroin,False,False,True, pill,2
+592,junk,heroin,False,False,True,,4
+593,drug,heroin,False,False,True,,8
+594,addictive_substance,heroin,False,False,True,,2
+595,horse,heroin,False,False,False,,-1
+596,smack,heroin,False,False,True, pill,2
+597,acetylmethadol,heroin,False,False,True, slang,5
+598,adolapin,heroin,False,False,False,,-1
+599,alphaprodine,heroin,False,False,False,,-1
+600,anileridine,heroin,False,False,False,,-1
+601,bemegride,heroin,False,False,False,,-1
+602,benocyclidine,heroin,False,False,False,,-1
+603,cocaethylene,heroin,False,False,False,,-1
+604,diamorphine,heroin,heroin,True,True,,5
+605,heroinum,heroin,False,False,True,,3
+606,herion,heroin,heroin,True,True, pill,1
+607,heron,heroin,False,False,True, drug,1
+608,herione,heroin,False,False,True,,2
+609,heroyne,heroin,False,False,True, pill,8
+610,heroinum,heroin,False,False,True,,3
+611,heronin,heroin,False,False,True, pill,1
+612,heroin,heroin,heroin,True,True,,1
+613,"morphinan-3,6-diol_diacetate",heroin,False,False,True, pill,4
+614,dihydromorphinone,heroin,hydromorphone,False,False,,-1
+615,morphine,heroin,morphine,False,True,,8
+616,codeine,heroin,codeine,False,True,,4
+617,oxycodone,heroin,oxycodone,False,True,,4
+618,hydrocodone,heroin,hydrocodone,False,True,,5
+619,fentanyl,heroin,fentanyl,False,True,,3
+620,tramadol,heroin,tramadol,False,False,,-1
+621,morphine,heroin,morphine,False,True,,8
+622,codeine,heroin,codeine,False,True,,4
+623,horse,heroin,False,False,False,,-1
+624,smack,heroin,False,False,True, pill,2
+625,dope,heroin,False,False,True, pill,7
+626,junk,heroin,False,False,True,,4
+627,fix,heroin,False,False,True, slang,4
+628,smack_heads,heroin,False,False,True,,6
+629,junkies,heroin,heroin,False,True, drug,3
+630,heroin_specialists,heroin,False,True,True,,1
+631,heroin_treatment_centers,heroin,False,True,True,,1
+632,heroin_use_disorder,heroin,False,True,True,,4
+633,acetylmethadol,heroin,False,False,True, slang,5
+634,methadone,heroin,methadone,False,True,,5
+635,morphinan,heroin,morphine,False,False,,-1
+636,morphine,heroin,morphine,False,True,,8
+637,smack,heroin,False,False,True, pill,2
+638,junk,heroin,False,False,True,,4
+639,skag,heroin,False,False,True, pill,9
+640,horse,heroin,False,False,False,,-1
+641,smac,heroin,False,False,False,,-1
+642,hard_drug,heroin,heroin,False,True,,5
+643,paramorphan,heroin,False,False,False,,-1
+644,acetomorphine,heroin,False,False,True,,3
+645,brown_sugar,heroin,False,False,True, drug,2
+646,china_white,heroin,filgrastim,False,True,,9
+647,dope,heroin,False,False,True, pill,7
+648,horse,heroin,False,False,False,,-1
+649,h,heroin,False,False,False,,-1
+650,skag,heroin,False,False,True, pill,9
+651,smack,heroin,False,False,True, pill,2
+652,herion,heroin,heroin,True,True, pill,1
+653,hirion,heroin,False,False,True, pill,1
+654,heron,heroin,False,False,True, drug,1
+655,herp,heroin,False,False,False,,-1
+656,heroinne,heroin,False,False,True, pill,1
+657,heronine,heroin,False,False,True, pill,1
+658,morphinum,heroin,False,False,True, drug,5
+659,opian,heroin,False,False,False,,-1
+660,smack,heroin,False,False,True, pill,2
+661,h,heroin,False,False,False,,-1
+662,junk,heroin,False,False,True,,4
+663,skag,heroin,False,False,True, pill,9
+664,gear,heroin,False,False,True, pill,7
+665,brown_sugar,heroin,False,False,True, drug,2
+666,dope,heroin,False,False,True, pill,7
+667,morphia,heroin,morphine,False,False,,-1
+668,morphine,heroin,morphine,False,True,,8
+669,narcotina,heroin,False,False,False,,-1
+670,opiates,heroin,False,False,True, pill,2
+671,paregoric,heroin,morphine,False,False,,-1
+672,percodan,heroin,oxycodone,False,True, slang,6
+673,stadol,heroin,butorphanol,False,False,,-1
+674,horse,heroin,False,False,False,,-1
+675,smack,heroin,False,False,True, pill,2
+676,smack,heroin,False,False,True, pill,2
+677,brown_sugar,heroin,False,False,True, drug,2
+678,dragon,heroin,False,False,True, drug,2
+679,h,heroin,False,False,False,,-1
+680,china_white,heroin,filgrastim,False,True,,9
+681,morphinan,heroin,morphine,False,False,,-1
+682,smack,heroin,False,False,True, pill,2
+683,junk,heroin,False,False,True,,4
+684,horse,heroin,False,False,False,,-1
+685,o.-p.,heroin,False,False,False,,-1
+686,p-dope,heroin,False,False,True, pill,1
+687,skag,heroin,False,False,True, pill,9
+688,smack,heroin,False,False,True, pill,2
+689,diamorphine,heroin,heroin,True,True,,5
+690,smack,heroin,False,False,True, pill,2
+691,brown_sugar,heroin,False,False,True, drug,2
+692,mojo,heroin,False,False,False,,-1
+693,black_tar,heroin,False,False,True,,1
+694,china_white,heroin,filgrastim,False,True,,9
+695,heroen,heroin,False,False,True, pill,5
+696,heroyn,heroin,False,False,True, pill,1
+697,morphinan-6-ol,heroin,False,False,False,,-1
+698,narcotine,heroin,nicotine,False,False,,-1
+699,paddock's_powders,heroin,False,False,False,,-1
+700,paregoric,heroin,morphine,False,False,,-1
+701,pills,heroin,False,False,False,,-1
+702,painkiller,heroin,hydrocodone,False,True,,6
+703,horse,heroin,False,False,False,,-1
+704,smack,heroin,False,False,True, pill,2
+705,horse,heroin,False,False,False,,-1
+706,china_white,heroin,filgrastim,False,True,,9
+707,morfine,heroin,morphine,False,False,,-1
+708,morphium,heroin,morphine,False,True, slang,9
+709,hydromorphone,heroin,hydromorphone,False,True,,4
+710,methadone,heroin,methadone,False,True,,5
+711,morphine,heroin,morphine,False,True,,8
+712,oxycodone,heroin,oxycodone,False,True,,4
+713,oxymorphone,heroin,oxymorphone,False,True,,2
+714,pentazocine,heroin,pentazocine,False,True,,3
+715,pethidine,heroin,pethidine,False,True,,6
+716,fentanyl,heroin,fentanyl,False,True,,3
+717,buprenorphine,heroin,buprenorphine,False,False,,-1
+718,horse,heroin,False,False,False,,-1
+719,smack,heroin,False,False,True, pill,2
+720,dragon,heroin,False,False,True, drug,2
+721,black_tar,heroin,False,False,True,,1
+722,brown_sugar,heroin,False,False,True, drug,2
+723,gear,heroin,False,False,True, pill,7
+724,h,heroin,False,False,False,,-1
+725,hard_stuff,heroin,False,False,True, pill,1
+726,junk,heroin,False,False,True,,4
+727,nod,heroin,False,False,True, drug,1
+728,skag,heroin,False,False,True, pill,9
+729,skunk,heroin,False,False,False,,-1
+730,thunder,heroin,False,False,False,,-1
+731,narcan,heroin,naloxone,False,False,,-1
+732,laudanum,heroin,morphine,False,False,,-1
+733,paregoric,heroin,morphine,False,False,,-1
+734,tincture_of_opium,heroin,False,False,True, slang,6
+735,morphine,heroin,morphine,False,True,,8
+736,codeine,heroin,codeine,False,True,,4
+737,oxycodone,heroin,oxycodone,False,True,,4
+738,hydrocodone,heroin,hydrocodone,False,True,,5
+739,fentanyl,heroin,fentanyl,False,True,,3
+740,buprenorphine,heroin,buprenorphine,False,False,,-1
+741,diamorphine,heroin,heroin,True,True,,5
+742,morphium,heroin,morphine,False,True, slang,9
+743,morphinan,heroin,morphine,False,False,,-1
+744,morphinane,heroin,False,False,True, drug,5
+745,hiromen,heroin,False,False,False,,-1
+746,shiromen,heroin,False,False,False,,-1
+747,smack,heroin,False,False,True, pill,2
+748,junk,heroin,False,False,True,,4
+749,brown_sugar,heroin,False,False,True, drug,2
+750,skag,heroin,False,False,True, pill,9
+751,tar,heroin,False,False,True, pill,2
+752,dragon,heroin,False,False,True, drug,2
+753,black_tar,heroin,False,False,True,,1
+754,herouin,heroin,False,False,True, pill,1
+755,herion,heroin,heroin,True,True, pill,1
+756,coronar,heroin,False,False,False,,-1
+757,horsener,heroin,False,False,False,,-1
+758,horseoin,heroin,False,False,False,,-1
+759,hydrane,heroin,False,False,False,,-1
+760,smack,heroin,False,False,True, pill,2
+761,brown_sugar,heroin,False,False,True, drug,2
+762,gear,heroin,False,False,True, pill,7
+763,horse,heroin,False,False,False,,-1
+764,mud,heroin,False,False,False,,-1
+765,skag,heroin,False,False,True, pill,9
+766,jive,heroin,False,False,False,,-1
+767,diamorphine,heroin,heroin,True,True,,5
+768,smack,heroin,False,False,True, pill,2
+769,girl,heroin,False,False,True, drug,2
+770,dragon,heroin,False,False,True, drug,2
+771,poison,heroin,False,False,False,,-1
+772,smack,heroin,False,False,True, pill,2
+773,junk,heroin,False,False,True,,4
+774,brown_sugar,heroin,False,False,True, drug,2
+775,skag,heroin,False,False,True, pill,9
+776,gear,heroin,False,False,True, pill,7
+777,horse,heroin,False,False,False,,-1
+778,dragon,heroin,False,False,True, drug,2
+779,diamorphine,heroin,heroin,True,True,,5
+780,skag,heroin,False,False,True, pill,9
+781,smack,heroin,False,False,True, pill,2
+782,herion,heroin,heroin,True,True, pill,1
+783,heroin_addicts,heroin,False,True,True,,1
+784,smack,heroin,False,False,True, pill,2
+785,black_tar,heroin,False,False,True,,1
+786,dope,heroin,False,False,True, pill,7
+787,dragon,heroin,False,False,True, drug,2
+788,puddle,heroin,False,False,False,,-1
+789,mud,heroin,False,False,False,,-1
+790,tar,heroin,False,False,True, pill,2
+791,,heroin,False,False,False,,-1
+792,horse,heroin,False,False,False,,-1
+793,smack,heroin,False,False,True, pill,2
+794,brown,heroin,False,False,True, drug,3
+795,sugar,heroin,False,False,True, slang,9
+796,shit,heroin,False,False,False,,-1
+797,dope,heroin,False,False,True, pill,7
+798,dragon,heroin,False,False,True, drug,2
+799,morphine_diacetate,heroin,False,False,True,,1
+800,n-methylmorphine,heroin,False,False,False,,-1
+801,codeine_methyl_ether,heroin,False,False,False,,-1
+802,dianabol,heroin,False,False,False,,-1
+803,ditan,heroin,False,False,False,,-1
+804,dolophine,heroin,methadone,False,True,,5
+805,duramorph,heroin,morphine,False,False,,-1
+806,endocet,heroin,oxycodone,False,False,,-1
+807,fentanyl,heroin,fentanyl,False,True,,3
+808,heroin,heroin,heroin,True,True,,1
+809,hospira,heroin,False,False,False,,-1
+810,hydromorphone,heroin,hydromorphone,False,True,,4
+811,infumorph,heroin,False,False,False,,-1
+812,latchkey,heroin,False,False,False,,-1
+813,levo-dromoran,heroin,False,False,False,,-1
+814,lofexidine,heroin,lofexidine,False,False,,-1
+815,loperamide,heroin,loperamide,False,False,,-1
+816,makena,heroin,hydroxyprogesterone_caproate,False,False,,-1
+817,methadone,heroin,methadone,False,True,,5
+818,morphgesic,heroin,False,False,True, slang,10
+819,ms_contin,heroin,morphine,False,False,,-1
+820,nalbuphine,heroin,nalbuphine,False,False,,-1
+821,narcan,heroin,naloxone,False,False,,-1
+822,naloxone,heroin,naloxone,False,False,,-1
+823,naltrexone,heroin,naltrexone,False,True,,1
+824,naphthyloxyacetic_acid,heroin,False,False,False,,-1
+825,oliceridine,heroin,False,False,False,,-1
+826,oramorph,heroin,morphine,False,True,,9
+827,oxycodone,heroin,oxycodone,False,True,,4
+828,oxymorphone,heroin,oxymorphone,False,True,,2
+829,percocet,heroin,oxycodone,False,True,,5
+830,roxicodone,heroin,oxycodone,False,False,,-1
+831,suboxone,heroin,buprenorphine,False,True,,9
+832,subutex,heroin,buprenorphine,False,True, drug,8
+833,targiniq,heroin,naloxone,False,False,,-1
+834,tramadol,heroin,tramadol,False,False,,-1
+835,ultram,heroin,tramadol,False,False,,-1
+836,vicodin,heroin,hydrocodone,False,True,,5
+837,vivitrol,heroin,naltrexone,False,False,,-1
+838,xodol,heroin,False,False,False,,-1
+839,zamadol,heroin,False,False,False,,-1
+840,diamorphine,heroin,heroin,True,True,,5
+841,smack,heroin,False,False,True, pill,2
+842,junk,heroin,False,False,True,,4
+843,smack,heroin,False,False,True, pill,2
+844,junk,heroin,False,False,True,,4
+845,brown_sugar,heroin,False,False,True, drug,2
+846,china_white,heroin,filgrastim,False,True,,9
+847,dragon,heroin,False,False,True, drug,2
+848,floods,heroin,False,False,False,,-1
+849,harlem_hospital,heroin,False,False,True, slang,2
+850,smack,heroin,False,False,True, pill,2
+851,junk,heroin,False,False,True,,4
+852,smack,heroin,False,False,True, pill,2
+853,brown_sugar,heroin,False,False,True, drug,2
+854,dope,heroin,False,False,True, pill,7
+855,horse,heroin,False,False,False,,-1
+856,h,heroin,False,False,False,,-1
+857,skag,heroin,False,False,True, pill,9
+858,smoke,heroin,False,False,True, pill,4
+859,acetylated_morphine,heroin,False,False,True,,2
+860,acetomorphine,heroin,False,False,True,,3
+861,morphine_diacetate,heroin,False,False,True,,1
+862,morphine_triacetate,heroin,False,False,True,,5
+863,morphine_acetate,heroin,False,False,True,,2
+864,morphium,heroin,morphine,False,True, slang,9
+865,codeine,heroin,codeine,False,True,,4
+866,thebaine,heroin,False,False,False,,-1
+867,dipipanone,heroin,dipipanone,False,False,,-1
+868,acetomorphine,heroin,False,False,True,,3
+869,brown_sugar,heroin,False,False,True, drug,2
+870,dope,heroin,False,False,True, pill,7
+871,smack,heroin,False,False,True, pill,2
+872,horse,heroin,False,False,False,,-1
+873,china_white,heroin,filgrastim,False,True,,9
+874,chiva,heroin,False,False,True,,3
+875,smack,heroin,False,False,True, pill,2
+876,junk,heroin,False,False,True,,4
+877,skag,heroin,False,False,True, pill,9
+878,dragon,heroin,False,False,True, drug,2
+879,brown_sugar,heroin,False,False,True, drug,2
+880,dope,heroin,False,False,True, pill,7
+881,horse,heroin,False,False,False,,-1
+882,smack,heroin,False,False,True, pill,2
+883,dragon,heroin,False,False,True, drug,2
+884,"amorpha-2,5-dien-7-ol",heroin,False,False,False,,-1
+885,acetyl-alpha-methylfentanyl,heroin,False,False,False,,-1
+886,3-methylfentanyl,heroin,3-methylfentanyl,False,False,,-1
+887,alpha-methylthiofentanyl,heroin,False,False,True, slang,3
+888,bemidji_blue,heroin,False,False,False,,-1
+889,candy,heroin,False,False,False,,-1
+890,china_white,heroin,filgrastim,False,True,,9
+891,dancers,heroin,False,False,False,,-1
+892,dank,heroin,False,False,False,,-1
+893,dope,heroin,False,False,True, pill,7
+894,dust,heroin,False,False,False,,-1
+895,brown_sugar,heroin,False,False,True, drug,2
+896,cotton,heroin,cotton,False,True, slang,8
+897,gravy,heroin,False,False,False,,-1
+898,skag,heroin,False,False,True, pill,9
+899,smack,heroin,False,False,True, pill,2
+900,tar,heroin,False,False,True, pill,2
+901,black_tar,heroin,False,False,True,,1
+902,smack,heroin,False,False,True, pill,2
+903,prison_dope,heroin,False,False,True,,9
+904,chinese_white,heroin,False,False,True, drug,3
+905,brown_sugar,heroin,False,False,True, drug,2
+906,dragon,heroin,False,False,True, drug,2
+907,coffin,heroin,False,False,False,,-1
+908,smack,heroin,False,False,True, pill,2
+909,dragon,heroin,False,False,True, drug,2
+910,chase,heroin,False,False,True, slang,7
+911,chase_the_dragon,heroin,False,False,True,,4
+912,jib,heroin,False,False,False,,-1
+913,gear,heroin,False,False,True, pill,7
+914,poison,heroin,False,False,False,,-1
+915,diamorphine,heroin,heroin,True,True,,5
+916,heroinne,heroin,False,False,True, pill,1
+917,smack,heroin,False,False,True, pill,2
+918,junk,heroin,False,False,True,,4
+919,dragon,heroin,False,False,True, drug,2
+920,smack,heroin,False,False,True, pill,2
+921,rock,heroin,False,False,False,,-1
+922,brown_sugar,heroin,False,False,True, drug,2
+923,dope,heroin,False,False,True, pill,7
+924,chiba,heroin,False,False,True, drug,7
+925,dragon,heroin,False,False,True, drug,2
+926,murphy,heroin,False,False,False,,-1
+927,smack,heroin,False,False,True, pill,2
+928,brown_sugar,heroin,False,False,True, drug,2
+929,dope,heroin,False,False,True, pill,7
+930,junk,heroin,False,False,True,,4
+931,skag,heroin,False,False,True, pill,9
+932,tar,heroin,False,False,True, pill,2
+933,horse,heroin,False,False,False,,-1
+934,acetyl-alpha-methyl-morphine,heroin,False,False,True, drug,8
+935,smack,heroin,False,False,True, pill,2
+936,junk,heroin,False,False,True,,4
+937,brown_sugar,heroin,False,False,True, drug,2
+938,china_white,heroin,filgrastim,False,True,,9
+939,horse,heroin,False,False,False,,-1
+940,dragon,heroin,False,False,True, drug,2
+941,python,heroin,False,False,False,,-1
+942,morphine_sulfate,heroin,morphine,False,True, slang,7
+943,opium,heroin,opium,False,True,,9
+944,smack,heroin,False,False,True, pill,2
+945,junk,heroin,False,False,True,,4
+946,smack,heroin,False,False,True, pill,2
+947,junk,heroin,False,False,True,,4
+948,smack,heroin,False,False,True, pill,2
+949,brown_sugar,heroin,False,False,True, drug,2
+950,china_white,heroin,filgrastim,False,True,,9
+951,dragon,heroin,False,False,True, drug,2
+952,black_tar,heroin,False,False,True,,1
+953,diamorphine,heroin,heroin,True,True,,5
+954,morphine,heroin,morphine,False,True,,8
+955,diamorphine,heroin,heroin,True,True,,5
+956,diamorphine,heroin,heroin,True,True,,5
+957,smack,heroin,False,False,True, pill,2
+958,junk,heroin,False,False,True,,4
+959,nark,heroin,False,False,False,,-1
+960,dragon,heroin,False,False,True, drug,2
+961,brown_sugar,heroin,False,False,True, drug,2
+962,china_white,heroin,filgrastim,False,True,,9
+963,heroin_hydrochloride,heroin,False,True,True,,2
+964,nihp,heroin,False,False,False,,-1
+965,smack,heroin,False,False,True, pill,2
+966,brown_sugar,heroin,False,False,True, drug,2
+967,boy,heroin,False,False,True, drug,3
+968,dope,heroin,False,False,True, pill,7
+969,horse,heroin,False,False,False,,-1
+970,accelerated_heartbeat,heroin,False,False,False,,-1
+971,smack,heroin,False,False,True, pill,2
+972,junk,heroin,False,False,True,,4
+973,horse,heroin,False,False,False,,-1
+974,dragon,heroin,False,False,True, drug,2
+975,brown_sugar,heroin,False,False,True, drug,2
+976,china_white,heroin,filgrastim,False,True,,9
+977,heroin_base,heroin,False,True,True,,1
+978,heroin_hydrochloride,heroin,False,True,True,,2
+979,brown_sugar,heroin,False,False,True, drug,2
+980,china_white,heroin,filgrastim,False,True,,9
+981,mexican_brown,heroin,False,False,True, pill,2
+982,black_tar,heroin,False,False,True,,1
+983,smack,heroin,False,False,True, pill,2
+984,junk,heroin,False,False,True,,4
+985,tar,heroin,False,False,True, pill,2
+986,thief,heroin,False,False,False,,-1
+987,dragon,heroin,False,False,True, drug,2
+988,morphinophone,heroin,False,False,False,,-1
+989,opium,heroin,opium,False,True,,9
+990,codeine,heroin,codeine,False,True,,4
+991,fentanyl,heroin,fentanyl,False,True,,3
+992,hydromorphone,heroin,hydromorphone,False,True,,4
+993,meperidine,heroin,pethidine,False,False,,-1
+994,methadone,heroin,methadone,False,True,,5
+995,oxycodone,heroin,oxycodone,False,True,,4
+996,morphine,heroin,morphine,False,True,,8
+997,hard_drug,heroin,heroin,False,True,,5
+998,dihydromorphinone,heroin,hydromorphone,False,False,,-1
+999,dimorphone,heroin,False,False,False,,-1
+1000,hydromorphone,heroin,hydromorphone,False,True,,4
+1001,isomorphine,heroin,False,False,True, pill,7
+1002,morphinone,heroin,False,False,False,,-1
+1003,morphine_diacetate,heroin,False,False,True,,1
+1004,snow,heroin,False,False,False,,-1
+1005,white,heroin,filgrastim,False,False,,-1
+1006,sugar,heroin,False,False,True, slang,9
+1007,herion,heroin,heroin,True,True, pill,1
+1008,heron,heroin,False,False,True, drug,1
+1009,tar,heroin,False,False,True, pill,2
+1010,dope,heroin,False,False,True, pill,7
+1011,fix,heroin,False,False,True, slang,4
+1012,smack,heroin,False,False,True, pill,2
+1013,junk,heroin,False,False,True,,4
+1014,smack,heroin,False,False,True, pill,2
+1015,junk,heroin,False,False,True,,4
+1016,brown_sugar,heroin,False,False,True, drug,2
+1017,horse,heroin,False,False,False,,-1
+1018,dragon,heroin,False,False,True, drug,2
+1019,china_white,heroin,filgrastim,False,True,,9
+1020,house,heroin,False,False,False,,-1
+1021,smack,heroin,False,False,True, pill,2
+1022,snow,heroin,False,False,False,,-1
+1023,speedball,heroin,False,False,True, pill,2
+1024,tnt,heroin,trinitrotoluene,False,True, drug,2
+1025,morphine,heroin,morphine,False,True,,8
+1026,codeine,heroin,codeine,False,True,,4
+1027,laudanum,heroin,morphine,False,False,,-1
+1028,paregoric,heroin,morphine,False,False,,-1
+1029,tincture_of_opium,heroin,False,False,True, slang,6
+1030,bengal,heroin,False,False,False,,-1
+1031,black_drop,heroin,False,False,True, slang,9
+1032,herion,heroin,heroin,True,True, pill,1
+1033,heoin,heroin,False,False,True,,2
+1034,hereon,heroin,False,False,True, drug,8
+1035,heroinum,heroin,False,False,True,,3
+1036,heroinum,heroin,False,False,True,,3
+1037,morphium,heroin,morphine,False,True, slang,9
+1038,acetomorphine,heroin,False,False,True,,3
+1039,diamorphine,heroin,heroin,True,True,,5
+1040,heerin,heroin,False,False,True, pill,7
+1041,hoeroen,heroin,False,False,True,,5
+1042,hieroin,heroin,False,False,True, pill,1
+1043,heroaine,heroin,False,False,True,,5
+1044,herione,heroin,False,False,True,,2
+1045,codeina,heroin,codeine,False,False,,-1
+1046,fentanyl,heroin,fentanyl,False,True,,3
+1047,heromon,heroin,False,False,False,,-1
+1048,herione,heroin,False,False,True,,2
+1049,heroon,heroin,False,False,True,,3
+1050,herrin,heroin,False,False,False,,-1
+1051,herryon,heroin,False,False,False,,-1
+1052,herseon,heroin,False,False,True, drug,1
+1053,smack,heroin,False,False,True, pill,2
+1054,junk,heroin,False,False,True,,4
+1055,acetomorphine,heroin,False,False,True,,3
+1056,h,heroin,False,False,False,,-1
+1057,junk,heroin,False,False,True,,4
+1058,smack,heroin,False,False,True, pill,2
+1059,white_horse,heroin,filgrastim,False,True, drug,1
+1060,morphium,heroin,morphine,False,True, slang,9
+1061,oxydhynmore,heroin,False,False,False,,-1
+1062,peronin,heroin,False,False,False,,-1
+1063,threonin,heroin,False,False,False,,-1
+1064,diacetylmorphine,heroin,heroin,True,True,,3
+1065,horse,heroin,False,False,False,,-1
+1066,dope,heroin,False,False,True, pill,7
+1067,smack,heroin,False,False,True, pill,2
+1068,junk,heroin,False,False,True,,4
+1069,dihydrodesoxymorphine,heroin,desomorphine,False,True,,3
+1070,6-monoacetylmorphine,heroin,False,False,True,,1
+1071,smack,heroin,False,False,True, pill,2
+1072,junk,heroin,False,False,True,,4
+1073,h,heroin,False,False,False,,-1
+1074,brown_sugar,heroin,False,False,True, drug,2
+1075,dope,heroin,False,False,True, pill,7
+1076,skag,heroin,False,False,True, pill,9
+1077,horse,heroin,False,False,False,,-1
+1078,heroína,heroin,False,False,True,,3
+1079,héroïne,heroin,False,False,True,,6
+1080,heroïne,heroin,False,False,True,,2
+1081,heroïnum,heroin,False,False,False,,-1
+1082,heroïsche_substanz,heroin,False,False,False,,-1
+1083,diacetylmorphine,heroin,heroin,True,True,,3
+1084,heroin_hydrochloride,heroin,False,True,True,,2
+1085,morphinan-6-ol,heroin,False,False,False,,-1
+1086,tar,heroin,False,False,True, pill,2
+1087,dope,heroin,False,False,True, pill,7
+1088,smack,heroin,False,False,True, pill,2
+1089,junk,heroin,False,False,True,,4
+1090,herion,heroin,heroin,True,True, pill,1
+1091,morphine,heroin,morphine,False,True,,8
+1092,heroin_user,heroin,False,True,True,,1
+1093,junkie,heroin,heroin,False,True,,5
+1094,dihydromorphinone,heroin,hydromorphone,False,False,,-1
+1095,hydromorphone,heroin,hydromorphone,False,True,,4
+1096,morphinan,heroin,morphine,False,False,,-1
+1097,morphine,heroin,morphine,False,True,,8
+1098,morphine_diacetate,heroin,False,False,True,,1
+1099,smack,heroin,False,False,True, pill,2
+1100,junk,heroin,False,False,True,,4
+1101,brown_sugar,heroin,False,False,True, drug,2
+1102,china_white,heroin,filgrastim,False,True,,9
+1103,dragon,heroin,False,False,True, drug,2
+1104,horse,heroin,False,False,False,,-1
+1105,dope,heroin,False,False,True, pill,7
+1106,smack,heroin,False,False,True, pill,2
+1107,junk,heroin,False,False,True,,4
+1108,herion,heroin,heroin,True,True, pill,1
+1109,herione,heroin,False,False,True,,2
+1110,heroinne,heroin,False,False,True, pill,1
+1111,heroyne,heroin,False,False,True, pill,8
+1112,smack,heroin,False,False,True, pill,2
+1113,junk,heroin,False,False,True,,4
+1114,black_tar,heroin,False,False,True,,1
+1115,morphine,heroin,morphine,False,True,,8
+1116,heroyn,heroin,False,False,True, pill,1
+1117,heroen,heroin,False,False,True, pill,5
+1118,junkies,heroin,heroin,False,True, drug,3
+1119,smack_heads,heroin,False,False,True,,6
+1120,dope_fiends,heroin,False,False,True,,2
+1121,horse,heroin,False,False,False,,-1
+1122,smack,heroin,False,False,True, pill,2
+1123,smack,heroin,False,False,True, pill,2
+1124,herion,heroin,heroin,True,True, pill,1
+1125,herodine,heroin,False,False,True, pill,3
+1126,heroiene,heroin,False,False,True, pill,1
+1127,heroinum,heroin,False,False,True,,3
+1128,smack,heroin,False,False,True, pill,2
+1129,junk,heroin,False,False,True,,4
+1130,skag,heroin,False,False,True, pill,9
+1131,brown_sugar,heroin,False,False,True, drug,2
+1132,dragon,heroin,False,False,True, drug,2
+1133,black_tar,heroin,False,False,True,,1
+1134,iacetylmorphine,heroin,False,False,True,,2
+1135,acetylmorhphone,heroin,False,False,False,,-1
+1136,hydrocodone,heroin,hydrocodone,False,True,,5
+1137,morphine,heroin,morphine,False,True,,8
+1138,herion,heroin,heroin,True,True, pill,1
+1139,herroin,heroin,False,False,True, pill,1
+1140,herione,heroin,False,False,True,,2
+1141,heron,heroin,False,False,True, drug,1
+1142,huron,heroin,False,False,False,,-1
+1143,morphium,heroin,morphine,False,True, slang,9
+1144,zeronine,heroin,False,False,False,,-1
+1145,zeroize,heroin,False,False,False,,-1
+1146,zeroing,heroin,False,False,False,,-1
+1147,zerox,heroin,False,False,False,,-1
+1148,morphedine,heroin,False,False,False,,-1
+1149,junkie,heroin,heroin,False,True,,5
+1150,smack,heroin,False,False,True, pill,2
+1151,junk,heroin,False,False,True,,4
+1152,smack,heroin,False,False,True, pill,2
+1153,junk,heroin,False,False,True,,4
+1154,brown_sugar,heroin,False,False,True, drug,2
+1155,dope,heroin,False,False,True, pill,7
+1156,smack,heroin,False,False,True, pill,2
+1157,h,heroin,False,False,False,,-1
+1158,horse,heroin,False,False,False,,-1
+1159,junk,heroin,False,False,True,,4
+1160,cause,heroin,False,False,False,,-1
+1161,diacetylmorphine,heroin,heroin,True,True,,3
+1162,smack,heroin,False,False,True, pill,2
+1163,junk,heroin,False,False,True,,4
+1164,brown_sugar,heroin,False,False,True, drug,2
+1165,skag,heroin,False,False,True, pill,9
+1166,horse,heroin,False,False,False,,-1
+1167,dragon,heroin,False,False,True, drug,2
+1168,morphine,heroin,morphine,False,True,,8
+1169,codeine,heroin,codeine,False,True,,4
+1170,smack,heroin,False,False,True, pill,2
+1171,black_tar,heroin,False,False,True,,1
+1172,dragon,heroin,False,False,True, drug,2
+1173,brown_sugar,heroin,False,False,True, drug,2
+1174,horse,heroin,False,False,False,,-1
+1175,dope,heroin,False,False,True, pill,7
+1176,heron,heroin,False,False,True, drug,1
+1177,heroine,heroin,False,False,True,,1
+1178,smack,heroin,False,False,True, pill,2
+1179,china_white,heroin,filgrastim,False,True,,9
+1180,smack,heroin,False,False,True, pill,2
+1181,junk,heroin,False,False,True,,4
+1182,smack,heroin,False,False,True, pill,2
+1183,junk,heroin,False,False,True,,4
+1184,dope,heroin,False,False,True, pill,7
+1185,brown_sugar,heroin,False,False,True, drug,2
+1186,mojo,heroin,False,False,False,,-1
+1187,skag,heroin,False,False,True, pill,9
+1188,black_tar,heroin,False,False,True,,1
+1189,herion,heroin,heroin,True,True, pill,1
+1190,smack,heroin,False,False,True, pill,2
+1191,junk,heroin,False,False,True,,4
+1192,brown_sugar,heroin,False,False,True, drug,2
+1193,tar,heroin,False,False,True, pill,2
+1194,skag,heroin,False,False,True, pill,9
+1195,dope,heroin,False,False,True, pill,7
+1196,dragon,heroin,False,False,True, drug,2
+1197,smack,heroin,False,False,True, pill,2
+1198,brown_sugar,heroin,False,False,True, drug,2
+1199,china_white,heroin,filgrastim,False,True,,9
+1200,dragon,heroin,False,False,True, drug,2
+1201,dope,heroin,False,False,True, pill,7
+1202,dust,heroin,False,False,False,,-1
+1203,h,heroin,False,False,False,,-1
+1204,horse,heroin,False,False,False,,-1
+1205,junk,heroin,False,False,True,,4
+1206,mud,heroin,False,False,False,,-1
+1207,ray,heroin,False,False,False,,-1
+1208,skag,heroin,False,False,True, pill,9
+1209,skunk,heroin,False,False,False,,-1
+1210,stuff,heroin,False,False,False,,-1
+1211,tar,heroin,False,False,True, pill,2
+1212,white_horse,heroin,filgrastim,False,True, drug,1
+1213,opioid,heroin,False,False,False,,-1
+1214,narcotic,heroin,False,False,True,,7
+1215,herione,heroin,False,False,True,,2
+1216,diamorphine,heroin,heroin,True,True,,5
+1217,morphinan,heroin,morphine,False,False,,-1
+1218,morphinone,heroin,False,False,False,,-1
+1219,3-methylfentanyl,heroin,3-methylfentanyl,False,False,,-1
+1220,buprenorphine,heroin,buprenorphine,False,False,,-1
+1221,fentanyl,heroin,fentanyl,False,True,,3
+1222,meperidine,heroin,pethidine,False,False,,-1
+1223,methadone,heroin,methadone,False,True,,5
+1224,pethidine,heroin,pethidine,False,True,,6
+1225,tramadol,heroin,tramadol,False,False,,-1
+1226,diacetylmorphine,heroin,heroin,True,True,,3
+1227,acetomorphine,heroin,False,False,True,,3
+1228,smack,heroin,False,False,True, pill,2
+1229,junk,heroin,False,False,True,,4
+1230,horse,heroin,False,False,False,,-1
+1231,skag,heroin,False,False,True, pill,9
+1232,brown_sugar,heroin,False,False,True, drug,2
+1233,dragon,heroin,False,False,True, drug,2
+1234,poison,heroin,False,False,False,,-1
+1235,dope,heroin,False,False,True, pill,7
+1236,junk,heroin,False,False,True,,4
+1237,skag,heroin,False,False,True, pill,9
+1238,smack,heroin,False,False,True, pill,2
+1239,horse,heroin,False,False,False,,-1
+1240,hirion,heroin,False,False,True, pill,1
+1241,heron,heroin,False,False,True, drug,1
+1242,heroinne,heroin,False,False,True, pill,1
+1243,heroïne,heroin,False,False,True,,2
+1244,heroina,heroin,heroin,True,True,,1
+1245,heroiini,heroin,False,False,True,,2
+1246,herona,heroin,False,False,True, drug,5
+1247,methadone,heroin,methadone,False,True,,5
+1248,buprenorphine,heroin,buprenorphine,False,False,,-1
+1249,heron,heroin,False,False,True, drug,1
+1250,heroinism,heroin,False,False,True,,5
+1251,heroinist,heroin,False,False,True,,1
+1252,heroism,heroin,False,False,True, drug,8
+1253,heroin_use,heroin,False,True,True,,1
+1254,heroin_abuse,heroin,False,True,True,,1
+1255,orphine_diacetate,heroin,False,False,True,,2
+1256,smack,heroin,False,False,True, pill,2
+1257,horse,heroin,False,False,False,,-1
+1258,junk,heroin,False,False,True,,4
+1259,skag,heroin,False,False,True, pill,9
+1260,brown_sugar,heroin,False,False,True, drug,2
+1261,dragon,heroin,False,False,True, drug,2
+1262,black_tar,heroin,False,False,True,,1
+1263,morphium,heroin,morphine,False,True, slang,9
+1264,morphine,heroin,morphine,False,True,,8
+1265,heroin,heroin,heroin,True,True,,1
+1266,diamorphine,heroin,heroin,True,True,,5
+1267,brown_sugar,heroin,False,False,True, drug,2
+1268,smack,heroin,False,False,True, pill,2
+1269,junk,heroin,False,False,True,,4
+1270,dope,heroin,False,False,True, pill,7
+1271,horse,heroin,False,False,False,,-1
+1272,dragon,heroin,False,False,True, drug,2
+1273,poison,heroin,False,False,False,,-1
+1274,morphibian,heroin,False,False,False,,-1
+1275,horse,heroin,False,False,False,,-1
+1276,smack,heroin,False,False,True, pill,2
+1277,junk,heroin,False,False,True,,4
+1278,skag,heroin,False,False,True, pill,9
+1279,gear,heroin,False,False,True, pill,7
+1280,brown_sugar,heroin,False,False,True, drug,2
+1281,dope,heroin,False,False,True, pill,7
+1282,heron,heroin,False,False,True, drug,1
+1283,herowine,heroin,False,False,True, pill,1
+1284,heroin_hydrochloride,heroin,False,True,True,,2
+1285,heroin_sulfate,heroin,False,True,True,,3
+1286,acetylmorfin,heroin,False,False,True,,2
+1287,diamorphine,heroin,heroin,True,True,,5
+1288,heroln,heroin,False,False,True,,3
+1289,heronn,heroin,False,False,False,,-1
+1290,heroqn,heroin,False,False,True, pill,1
+1291,heroinr,heroin,False,False,True,,9
+1292,heroisn,heroin,False,False,True,,1
+1293,heroiyn,heroin,False,False,True,,10
+1294,heroiun,heroin,False,False,True,,2
+1295,overdoses,heroin,False,False,True, slang,5
+1296,addiction,heroin,False,False,True, pill,5
+1297,drug,heroin,False,False,True,,8
+1298,hard_drug,heroin,heroin,False,True,,5
+1299,street_drug,heroin,False,False,True,,3
+1300,horse,heroin,False,False,False,,-1
+1301,smack,heroin,False,False,True, pill,2
+1302,brown_sugar,heroin,False,False,True, drug,2
+1303,gear,heroin,False,False,True, pill,7
+1304,h,heroin,False,False,False,,-1
+1305,mud,heroin,False,False,False,,-1
+1306,morphine,heroin,morphine,False,True,,8
+1307,opiate,heroin,False,False,True,,6
+1308,orthoacetylmorphone,heroin,False,False,False,,-1
+1309,smack,heroin,False,False,True, pill,2
+1310,tar,heroin,False,False,True, pill,2
+1311,pursuits,heroin,False,False,False,,-1
+1312,diamorphine,heroin,heroin,True,True,,5
+1313,herion,heroin,heroin,True,True, pill,1
+1314,smack,heroin,False,False,True, pill,2
+1315,junk,heroin,False,False,True,,4
+1316,brown_sugar,heroin,False,False,True, drug,2
+1317,skag,heroin,False,False,True, pill,9
+1318,h,heroin,False,False,False,,-1
+1319,dope,heroin,False,False,True, pill,7
+1320,dragon,heroin,False,False,True, drug,2
+1321,drug_dealer,heroin,False,False,False,,-1
+1322,addicted_to_dope,heroin,False,False,True,,7
+1323,using_heroin,heroin,False,True,True,,1
+1324,spends_money_on_heroin,heroin,False,True,True,,2
+1325,shooting_heroin,heroin,False,True,True,,1
+1326,snorting_heroin,heroin,False,True,True,,1
+1327,smoking_heroin,heroin,heroin,True,True,,1
+1328,skag,heroin,False,False,True, pill,9
+1329,smack,heroin,False,False,True, pill,2
+1330,"others:_junk,_smack,_dope,_horse",heroin,False,False,True,,2
+1331,heron,heroin,False,False,True, drug,1
+1332,rohypnol,heroin,flunitrazepam,False,False,,-1
+1333,heroinum,heroin,False,False,True,,3
+1334,herion,heroin,heroin,True,True, pill,1
+1335,metoxyclan,heroin,False,False,False,,-1
+1336,phenylacetate,heroin,False,False,False,,-1
+1337,dia,heroin,False,False,False,,-1
+1338,white_horse,heroin,filgrastim,False,True, drug,1
+1339,junk,heroin,False,False,True,,4
+1340,smack,heroin,False,False,True, pill,2
+1341,dragon,heroin,False,False,True, drug,2
+1342,poison,heroin,False,False,False,,-1
+1343,brown_sugar,heroin,False,False,True, drug,2
+1344,dope,heroin,False,False,True, pill,7
+1345,smack,heroin,False,False,True, pill,2
+1346,junk,heroin,False,False,True,,4
+1347,horse,heroin,False,False,False,,-1
+1348,smack,heroin,False,False,True, pill,2
+1349,brown_sugar,heroin,False,False,True, drug,2
+1350,skag,heroin,False,False,True, pill,9
+1351,dope,heroin,False,False,True, pill,7
+1352,smack,heroin,False,False,True, pill,2
+1353,junk,heroin,False,False,True,,4
+1354,acetylated_morphine,heroin,False,False,True,,2
+1355,heroinum,heroin,False,False,True,,3
+1356,smack,heroin,False,False,True, pill,2
+1357,junk,heroin,False,False,True,,4
+1358,smack,heroin,False,False,True, pill,2
+1359,junkie,heroin,heroin,False,True,,5
+1360,smack,heroin,False,False,True, pill,2
+1361,junk,heroin,False,False,True,,4
+1362,brown_sugar,heroin,False,False,True, drug,2
+1363,china_white,heroin,filgrastim,False,True,,9
+1364,skag,heroin,False,False,True, pill,9
+1365,gear,heroin,False,False,True, pill,7
+1366,horse,heroin,False,False,False,,-1
+1367,addicts,heroin,False,False,True, pill,10
+1368,junkies,heroin,heroin,False,True, drug,3
+1369,horse,heroin,False,False,False,,-1
+1370,smack,heroin,False,False,True, pill,2
+1371,dragon,heroin,False,False,True, drug,2
+1372,poison,heroin,False,False,False,,-1
+1373,smack,heroin,False,False,True, pill,2
+1374,brown_sugar,heroin,False,False,True, drug,2
+1375,heroin,heroin,heroin,True,True,,1
+1376,morphinediacetate,heroin,False,False,True,,1
+1377,smack,heroin,False,False,True, pill,2
+1378,junk,heroin,False,False,True,,4
+1379,dragon,heroin,False,False,True, drug,2
+1380,poison,heroin,False,False,False,,-1
+1381,hard_drug,heroin,heroin,False,True,,5
+1382,addictive_drug,heroin,heroin,False,True,,1
+1383,acetomorphine,heroin,False,False,True,,3
+1384,opioids,heroin,oxycodone,False,True,,7
+1385,herionn,heroin,False,False,True,,6
+1386,heroiun,heroin,False,False,True,,2
+1387,heroiunn,heroin,False,False,True,,2
+1388,heroyn,heroin,False,False,True, pill,1
+1389,heroynn,heroin,False,False,True, pill,3
+1390,heroyn,heroin,False,False,True, pill,1
+1391,legalon,heroin,silibinin_a,False,False,,-1
+1392,relapse,heroin,False,False,False,,-1
+1393,acetylmethadol,heroin,False,False,True, slang,5
+1394,acetomorphine,heroin,False,False,True,,3
+1395,acetyldihydromorphine,heroin,False,False,True, drug,5
+1396,acetylcodeine,heroin,heroin,False,True,,1
+1397,nicomorphine,heroin,False,False,False,,-1
+1398,thebaine,heroin,False,False,False,,-1
+1399,acetomorphine,heroin,False,False,True,,3
+1400,smack,heroin,False,False,True, pill,2
+1401,speedball,heroin,False,False,True, pill,2
+1402,junkie,heroin,heroin,False,True,,5
+1403,adolphine,heroin,False,False,True, drug,8
+1404,hydrocodone,heroin,hydrocodone,False,True,,5
+1405,codeine,heroin,codeine,False,True,,4
+1406,herion,heroin,heroin,True,True, pill,1
+1407,herioun,heroin,False,False,True,,3
+1408,ikerphine,heroin,False,False,False,,-1
+1409,diacetylmorphine,heroin,heroin,True,True,,3
+1410,glycerone,heroin,False,False,False,,-1
+1411,hydrocodone,heroin,hydrocodone,False,True,,5
+1412,hydromorphone,heroin,hydromorphone,False,True,,4
+1413,codeine,heroin,codeine,False,True,,4
+1414,fentanyl,heroin,fentanyl,False,True,,3
+1415,methadone,heroin,methadone,False,True,,5
+1416,smack,heroin,False,False,True, pill,2
+1417,junk,heroin,False,False,True,,4
+1418,brown_sugar,heroin,False,False,True, drug,2
+1419,horse,heroin,False,False,False,,-1
+1420,dragon,heroin,False,False,True, drug,2
+1421,china_white,heroin,filgrastim,False,True,,9
+1422,morphine,heroin,morphine,False,True,,8
+1423,opium,heroin,opium,False,True,,9
+1424,diamorphine,heroin,heroin,True,True,,5
+1425,moraphine,heroin,False,False,True,,6
+1426,morphium,heroin,morphine,False,True, slang,9
+1427,diamorphine,heroin,heroin,True,True,,5
+1428,smack,heroin,False,False,True, pill,2
+1429,junk,heroin,False,False,True,,4
+1430,using_drugs,heroin,False,False,True, slang,5
+1431,on_drugs,heroin,False,False,True, slang,6
+1432,addicted_to_drugs,heroin,False,False,True, slang,9
+1433,heroin_use,heroin,False,True,True,,1
+1434,smack,heroin,False,False,True, pill,2
+1435,junk,heroin,False,False,True,,4
+1436,brown_sugar,heroin,False,False,True, drug,2
+1437,horse,heroin,False,False,False,,-1
+1438,dope,heroin,False,False,True, pill,7
+1439,dragon,heroin,False,False,True, drug,2
+1440,heroine,heroin,False,False,True,,1
+1441,dope_fiend,heroin,False,False,True,,5
+1442,smack,heroin,False,False,True, pill,2
+1443,rush,heroin,False,False,True, drug,4
+1444,hiran,heroin,False,False,False,,-1
+1445,heeron,heroin,False,False,True, slang,5
+1446,heron,heroin,False,False,True, drug,1
+1447,hairoon,heroin,False,False,True, pill,1
+1448,hairan,heroin,False,False,False,,-1
+1449,heiran,heroin,False,False,False,,-1
+1450,neron,heroin,False,False,False,,-1
+1451,heroin,heroin,heroin,True,True,,1
+1452,harodin,heroin,False,False,False,,-1
+1453,hiradine,heroin,False,False,False,,-1
+1454,hazardine,heroin,False,False,False,,-1
+1455,smack,heroin,False,False,True, pill,2
+1456,junk,heroin,False,False,True,,4
+1457,brown_sugar,heroin,False,False,True, drug,2
+1458,skag,heroin,False,False,True, pill,9
+1459,gear,heroin,False,False,True, pill,7
+1460,pup,heroin,False,False,False,,-1
+1461,smack,heroin,False,False,True, pill,2
+1462,junk,heroin,False,False,True,,4
+1463,brown_sugar,heroin,False,False,True, drug,2
+1464,dragon,heroin,False,False,True, drug,2
+1465,morphia,heroin,morphine,False,False,,-1
+1466,morphium,heroin,morphine,False,True, slang,9
+1467,herion,heroin,heroin,True,True, pill,1
+1468,heroyne,heroin,False,False,True, pill,8
+1469,smack,heroin,False,False,True, pill,2
+1470,herouin,heroin,False,False,True, pill,1
+1471,desomorphine,heroin,desomorphine,False,True, drug,3
+1472,morfin,heroin,False,False,False,,-1
+1473,skag,heroin,False,False,True, pill,9
+1474,smack,heroin,False,False,True, pill,2
+1475,junk,heroin,False,False,True,,4
+1476,diacetylmorphine,heroin,heroin,True,True,,3
+1477,diamorphine,heroin,heroin,True,True,,5
+1478,morphium,heroin,morphine,False,True, slang,9
+1479,opium,heroin,opium,False,True,,9
+1480,paregoric,heroin,morphine,False,False,,-1
+1481,laudanum,heroin,morphine,False,False,,-1
+1482,tincture_of_opium,heroin,False,False,True, slang,6
+1483,codeine,heroin,codeine,False,True,,4
+1484,oxycodone,heroin,oxycodone,False,True,,4
+1485,heroinum,heroin,False,False,True,,3
+1486,hero,heroin,False,False,True, drug,8
+1487,diacetylmorphine,heroin,heroin,True,True,,3
+1488,opioid,heroin,False,False,False,,-1
+1489,morphine,heroin,morphine,False,True,,8
+1490,opiates,heroin,False,False,True, pill,2
+1491,smack,heroin,False,False,True, pill,2
+1492,junk,heroin,False,False,True,,4
+1493,brown_sugar,heroin,False,False,True, drug,2
+1494,dope,heroin,False,False,True, pill,7
+1495,horse,heroin,False,False,False,,-1
+1496,skag,heroin,False,False,True, pill,9
+1497,h,heroin,False,False,False,,-1
+1498,dihydrocodeine,heroin,dihydrocodeine,False,True,,6
+1499,fentanyl,heroin,fentanyl,False,True,,3
+1500,oxycodone,heroin,oxycodone,False,True,,4
+1501,hydrocodone,heroin,hydrocodone,False,True,,5
+1502,codeine,heroin,codeine,False,True,,4
+1503,morphine,heroin,morphine,False,True,,8
+1504,smack,heroin,False,False,True, pill,2
+1505,junk,heroin,False,False,True,,4
+1506,brown_sugar,heroin,False,False,True, drug,2
+1507,skag,heroin,False,False,True, pill,9
+1508,gear,heroin,False,False,True, pill,7
+1509,black_tar,heroin,False,False,True,,1
+1510,levorphanol,heroin,levorphanol,False,False,,-1
+1511,meperidine,heroin,pethidine,False,False,,-1
+1512,methadone,heroin,methadone,False,True,,5
+1513,morphine,heroin,morphine,False,True,,8
+1514,oxycodone,heroin,oxycodone,False,True,,4
+1515,thebaine,heroin,False,False,False,,-1
+1516,heryon,heroin,False,False,False,,-1
+1517,herion,heroin,heroin,True,True, pill,1
+1518,heryin,heroin,False,False,False,,-1
+1519,heron,heroin,False,False,True, drug,1
+1520,her_first,heroin,False,False,False,,-1
+1521,her_own,heroin,False,False,False,,-1
+1522,heroin,heroin,heroin,True,True,,1
+1523,fentanyl,heroin,fentanyl,False,True,,3
+1524,heroin,heroin,heroin,True,True,,1
+1525,hydromorphone,heroin,hydromorphone,False,True,,4
+1526,meperidine,heroin,pethidine,False,False,,-1
+1527,methadone,heroin,methadone,False,True,,5
+1528,oxycodone,heroin,oxycodone,False,True,,4
+1529,tramadol,heroin,tramadol,False,False,,-1
+1530,hero,heroin,False,False,True, drug,8
+1531,morphate,heroin,False,False,True, drug,7
+1532,heroan,heroin,False,False,True, pill,1
+1533,heroinum,heroin,False,False,True,,3
+1534,3-methoxy-17-methylmorphinan,heroin,False,False,False,,-1
+1535,3-monoacetylmorphine,heroin,False,False,True,,1
+1536,3-methoxymorphinan,heroin,False,False,False,,-1
+1537,morphan,heroin,False,False,True, drug,9
+1538,morphine_acetate,heroin,False,False,True,,2
+1539,diamorphine,heroin,heroin,True,True,,5
+1540,morphine_diacetate,heroin,False,False,True,,1
+1541,adipoin,heroin,False,False,False,,-1
+1542,fentanyl,heroin,fentanyl,False,True,,3
+1543,oxycodone,heroin,oxycodone,False,True,,4
+1544,hydrocodone,heroin,hydrocodone,False,True,,5
+1545,codeine,heroin,codeine,False,True,,4
+1546,morphine,heroin,morphine,False,True,,8
+1547,smack,heroin,False,False,True, pill,2
+1548,brown_sugar,heroin,False,False,True, drug,2
+1549,skag,heroin,False,False,True, pill,9
+1550,junk,heroin,False,False,True,,4
+1551,horse,heroin,False,False,False,,-1
+1552,dragon,heroin,False,False,True, drug,2
+1553,black_tar,heroin,False,False,True,,1
+1554,morphine_diacetate,heroin,False,False,True,,1
+1555,deoxy,heroin,False,False,False,,-1
+1556,dragon,heroin,False,False,True, drug,2
+1557,smack,heroin,False,False,True, pill,2
+1558,heron,heroin,False,False,True, drug,1
+1559,heroinum,heroin,False,False,True,,3
+1560,diamorphine,heroin,heroin,True,True,,5
+1561,heron,heroin,False,False,True, drug,1
+1562,heroines,heroin,False,False,True, pill,4
+1563,heroinas,heroin,False,False,True, pill,1
+1564,diacetylmorphine,heroin,heroin,True,True,,3
+1565,morphine,heroin,morphine,False,True,,8
+1566,hydrocodone,heroin,hydrocodone,False,True,,5
+1567,oxycodone,heroin,oxycodone,False,True,,4
+1568,codeine,heroin,codeine,False,True,,4
+1569,heroin,heroin,heroin,True,True,,1
+1570,smack,heroin,False,False,True, pill,2
+1571,dragon,heroin,False,False,True, drug,2
+1572,china_white,heroin,filgrastim,False,True,,9
+1573,black_tar,heroin,False,False,True,,1
+1574,smack,heroin,False,False,True, pill,2
+1575,gear,heroin,False,False,True, pill,7
+1576,brown_sugar,heroin,False,False,True, drug,2
+1577,stuff,heroin,False,False,False,,-1
+1578,stuff,heroin,False,False,False,,-1
+1579,solution,heroin,False,False,False,,-1
+1580,heroinum,heroin,False,False,True,,3
+1581,morphium,heroin,morphine,False,True, slang,9
+1582,opioid,heroin,False,False,False,,-1
+1583,horse,heroin,False,False,False,,-1
+1584,smack,heroin,False,False,True, pill,2
+1585,smack,heroin,False,False,True, pill,2
+1586,dope,heroin,False,False,True, pill,7
+1587,junk,heroin,False,False,True,,4
+1588,herion,heroin,heroin,True,True, pill,1
+1589,horion,heroin,False,False,True, drug,1
+1590,zeroine,heroin,False,False,False,,-1
+1591,heroen,heroin,False,False,True, pill,5
+1592,heroene,heroin,False,False,True, pill,5
+1593,heroyne,heroin,False,False,True, pill,8
+1594,heroyne,heroin,False,False,True, pill,8
+1595,tar,heroin,False,False,True, pill,2
+1596,smack,heroin,False,False,True, pill,2
+1597,junk,heroin,False,False,True,,4
+1598,habit,heroin,False,False,False,,-1
+1599,dependence,heroin,False,False,True, pill,4
+1600,addiction,heroin,False,False,True, pill,5
+1601,acetylated_diamorphine,heroin,False,True,True,,1
+1602,diamorphine_hydrochloride,heroin,False,True,True,,7
+1603,hydranoid,heroin,False,False,False,,-1
+1604,heronoid,heroin,False,False,True, pill,9
+1605,3-methylfentanyl,heroin,3-methylfentanyl,False,False,,-1
+1606,furanylfentanyl,heroin,False,False,True, pill,3
+1607,carfentanil,heroin,carfentanil,False,True,,2
+1608,acetyl_fentanyl,heroin,False,False,True,,3
+1609,remifentanil,heroin,remifentanil,False,True,,6
+1610,alfentanil,heroin,alfentanil,False,True,,2
+1611,sufentanil,heroin,sufentanil,False,True,,6
+1612,diacetylmorphine,heroin,heroin,True,True,,3
+1613,smack,heroin,False,False,True, pill,2
+1614,junk,heroin,False,False,True,,4
+1615,china_white,heroin,filgrastim,False,True,,9
+1616,smack,heroin,False,False,True, pill,2
+1617,junk,heroin,False,False,True,,4
+1618,dragon,heroin,False,False,True, drug,2
+1619,brown_sugar,heroin,False,False,True, drug,2
+1620,black_tar,heroin,False,False,True,,1
+1621,smack,heroin,False,False,True, pill,2
+1622,junk,heroin,False,False,True,,4
+1623,codeine,heroin,codeine,False,True,,4
+1624,meperidine,heroin,pethidine,False,False,,-1
+1625,morphine,heroin,morphine,False,True,,8
+1626,diamorphine,heroin,heroin,True,True,,5
+1627,heron,heroin,False,False,True, drug,1
+1628,herion,heroin,heroin,True,True, pill,1
+1629,h,heroin,False,False,False,,-1
+1630,smack,heroin,False,False,True, pill,2
+1631,acetyl_morphine,heroin,False,False,True,,1
+1632,d_(−)_-peso,heroin,False,False,False,,-1
+1633,d_(−)_-laevo-pesgo,heroin,False,False,False,,-1
+1634,d-lysergic_acid_diethylamide,heroin,False,False,True, slang,8
+1635,(-)_-n-allylnorpseudoephedrine,heroin,False,False,False,,-1
+1636,n-allylnormorphine,heroin,False,False,True, slang,4
+1637,n-methyl-3-allylmorphine,heroin,False,False,False,,-1
+1638,n-methyl-3-piperidyl-propionanilide,heroin,False,False,False,,-1
+1639,heroinne,heroin,False,False,True, pill,1
+1640,heroïn,heroin,False,False,True,,1
+1641,heroína,heroin,False,False,True,,3
+1642,herói,heroin,False,False,True, pill,2
+1643,heroinum,heroin,False,False,True,,3
+1644,herioun,heroin,False,False,True,,3
+1645,heroen,heroin,False,False,True, pill,5
+1646,heroiin,heroin,heroin,True,True,,1
+1647,heroone,heroin,False,False,True, pill,1
+1648,smack,heroin,False,False,True, pill,2
+1649,junk,heroin,False,False,True,,4
+1650,brown_sugar,heroin,False,False,True, drug,2
+1651,china_white,heroin,filgrastim,False,True,,9
+1652,dragon,heroin,False,False,True, drug,2
+1653,mud,heroin,False,False,False,,-1
+1654,black_tar,heroin,False,False,True,,1
+1655,zero,heroin,False,False,False,,-1
+1656,zircon,heroin,False,False,False,,-1
+1657,tar_heroin,heroin,False,True,True,,1
+1658,black_tar_heroin,heroin,False,True,True,,1
+1659,brown_sugar,heroin,False,False,True, drug,2
+1660,china_white,heroin,filgrastim,False,True,,9
+1661,dragon's_breath,heroin,False,False,True, pill,4
+1662,goodfellas,heroin,False,False,False,,-1
+1663,hard_stuff,heroin,False,False,True, pill,1
+1664,donkey,heroin,False,False,False,,-1
+1665,nose_candy,heroin,cocaine,False,False,,-1
+1666,paste,heroin,False,False,False,,-1
+1667,pookie,heroin,False,False,True, pill,5
+1668,skag,heroin,False,False,True, pill,9
+1669,smack,heroin,False,False,True, pill,2
+1670,stuff,heroin,False,False,False,,-1
+1671,junk,heroin,False,False,True,,4
+1672,dreck,heroin,False,False,True, drug,10
+1673,garbage,heroin,False,False,False,,-1
+1674,diamorpha,heroin,False,False,False,,-1
+1675,heroinum,heroin,False,False,True,,3
+1676,opium,heroin,opium,False,True,,9
+1677,morphine,heroin,morphine,False,True,,8
+1678,smack,heroin,False,False,True, pill,2
+1679,junkie,heroin,heroin,False,True,,5
+1680,smack,heroin,False,False,True, pill,2
+1681,diamorphine,heroin,heroin,True,True,,5
+1682,morphine_diacetate,heroin,False,False,True,,1
+1683,smack,heroin,False,False,True, pill,2
+1684,junk,heroin,False,False,True,,4
+1685,brown_sugar,heroin,False,False,True, drug,2
+1686,skag,heroin,False,False,True, pill,9
+1687,dragon,heroin,False,False,True, drug,2
+1688,chase,heroin,False,False,True, slang,7
+1689,dauphine,heroin,False,False,False,,-1
+1690,piax,heroin,False,False,False,,-1
+1691,scag,heroin,False,False,True, pill,1
+1692,smack,heroin,False,False,True, pill,2
+1693,skag,heroin,False,False,True, pill,9
+1694,skank,heroin,False,False,False,,-1
+1695,speedball,heroin,False,False,True, pill,2
+1696,theraflu,heroin,False,False,False,,-1
+1697,orphine_acetate,heroin,False,False,True,,2
+1698,narcan,heroin,naloxone,False,False,,-1
+1699,naloxone,heroin,naloxone,False,False,,-1
+1700,opiate,heroin,False,False,True,,6
+1701,oxycontin,heroin,oxycodone,False,True,,6
+1702,oxycodone,heroin,oxycodone,False,True,,4
+1703,percocet,heroin,oxycodone,False,True,,5
+1704,vicodin,heroin,hydrocodone,False,True,,5
+1705,opio,heroin,False,False,False,,-1
+1706,tar,heroin,False,False,True, pill,2
+1707,smack,heroin,False,False,True, pill,2
+1708,dragon,heroin,False,False,True, drug,2
+1709,china_white,heroin,filgrastim,False,True,,9
+1710,skag,heroin,False,False,True, pill,9
+1711,brown_sugar,heroin,False,False,True, drug,2
+1712,smack,heroin,False,False,True, pill,2
+1713,dope,heroin,False,False,True, pill,7
+1714,horse,heroin,False,False,False,,-1
+1715,junk,heroin,False,False,True,,4
+1716,dragon,heroin,False,False,True, drug,2
+1717,heron,heroin,False,False,True, drug,1
+1718,herion,heroin,heroin,True,True, pill,1
+1719,herin,heroin,False,False,True, pill,1
+1720,heryon,heroin,False,False,False,,-1
+1721,huron,heroin,False,False,False,,-1
+1722,hyaron,heroin,False,False,False,,-1
+1723,hyorin,heroin,False,False,True, drug,9
+1724,white_horse,heroin,filgrastim,False,True, drug,1
+1725,boy,heroin,False,False,True, drug,3
+1726,china_white,heroin,filgrastim,False,True,,9
+1727,smack,heroin,False,False,True, pill,2
+1728,junk,heroin,False,False,True,,4
+1729,dragon,heroin,False,False,True, drug,2
+1730,brown_sugar,heroin,False,False,True, drug,2
+1731,heroid,heroin,False,False,True,,2
+1732,heron,heroin,False,False,True, drug,1
+1733,zero,heroin,False,False,False,,-1
+1734,zeroid,heroin,heroin,True,False,,-1
+1735,heyeron,heroin,False,False,False,,-1
+1736,diamorphine,heroin,heroin,True,True,,5
+1737,smack,heroin,False,False,True, pill,2
+1738,junk,heroin,False,False,True,,4
+1739,horse,heroin,False,False,False,,-1
+1740,brown_sugar,heroin,False,False,True, drug,2
+1741,cheese,heroin,False,False,True, drug,1
+1742,tar,heroin,False,False,True, pill,2
+1743,skag,heroin,False,False,True, pill,9
+1744,dope,heroin,False,False,True, pill,7
+1745,dust,heroin,False,False,False,,-1
+1746,blackstuff,heroin,False,False,True, drug,1
+1747,heeroin,heroin,False,False,True, pill,1
+1748,héroïne,heroin,False,False,True,,6
+1749,heroien,heroin,False,False,True, pill,1
+1750,heroina,heroin,heroin,True,True,,1
+1751,brown_sugar,heroin,False,False,True, drug,2
+1752,smack,heroin,False,False,True, pill,2
+1753,horse,heroin,False,False,False,,-1
+1754,junk,heroin,False,False,True,,4
+1755,dragon,heroin,False,False,True, drug,2
+1756,louisiana_decker,heroin,False,False,False,,-1
+1757,morphine,heroin,morphine,False,True,,8
+1758,smacked,heroin,False,False,True, pill,2
+1759,speedball,heroin,False,False,True, pill,2
+1760,dope,heroin,False,False,True, pill,7
+1761,horse,heroin,False,False,False,,-1
+1762,brown_sugar,heroin,False,False,True, drug,2
+1763,china_white,heroin,filgrastim,False,True,,9
+1764,nerion,heroin,False,False,True, slang,2
+1765,netoin,heroin,False,False,False,,-1
+1766,nefarein,heroin,False,False,False,,-1
+1767,nefareon,heroin,False,False,False,,-1
+1768,nefiaron,heroin,False,False,False,,-1
+1769,smack,heroin,False,False,True, pill,2
+1770,junk,heroin,False,False,True,,4
+1771,dope,heroin,False,False,True, pill,7
+1772,smack,heroin,False,False,True, pill,2
+1773,junk,heroin,False,False,True,,4
+1774,diamorphine,heroin,heroin,True,True,,5
+1775,oxymorphone,heroin,oxymorphone,False,True,,2
+1776,diacetylmorphine,heroin,heroin,True,True,,3
+1777,diamorphine,heroin,heroin,True,True,,5
+1778,powdered_heroin,heroin,False,True,True,,1
+1779,heroin_hydrochloride,heroin,False,True,True,,2
+1780,heroin_sulfate,heroin,False,True,True,,3
+1781,hemangeol,heroin,False,False,False,,-1
+1782,smack,heroin,False,False,True, pill,2
+1783,junk,heroin,False,False,True,,4
+1784,horse,heroin,False,False,False,,-1
+1785,dragon,heroin,False,False,True, drug,2
+1786,brown_sugar,heroin,False,False,True, drug,2
+1787,dope,heroin,False,False,True, pill,7
+1788,smack,heroin,False,False,True, pill,2
+1789,junk,heroin,False,False,True,,4
+1790,horse,heroin,False,False,False,,-1
+1791,brown_sugar,heroin,False,False,True, drug,2
+1792,skag,heroin,False,False,True, pill,9
+1793,dragon,heroin,False,False,True, drug,2
+1794,big_h,heroin,False,False,True, pill,10
+1795,morphinan,heroin,morphine,False,False,,-1
+1796,acetomorphine,heroin,False,False,True,,3
+1797,herion,heroin,heroin,True,True, pill,1
+1798,heron,heroin,False,False,True, drug,1
+1799,heroin_junkie,heroin,False,True,True,,1
+1800,heroin_user,heroin,False,True,True,,1
+1801,heroin_addict,heroin,False,True,True,,1
+1802,heroin_fiend,heroin,False,True,True,,1
+1803,heroinhead,heroin,False,False,True,,4
+1804,smack,heroin,False,False,True, pill,2
+1805,junk,heroin,False,False,True,,4
+1806,dope,heroin,False,False,True, pill,7
+1807,brown_sugar,heroin,False,False,True, drug,2
+1808,china_white,heroin,filgrastim,False,True,,9
+1809,dope_fiends,heroin,False,False,True,,2
+1810,smack_heads,heroin,False,False,True,,6
+1811,junkies,heroin,heroin,False,True, drug,3
+1812,poppies,heroin,opium,False,True, pill,4
+1813,smack,heroin,False,False,True, pill,2
+1814,brown_sugar,heroin,False,False,True, drug,2
+1815,china_white,heroin,filgrastim,False,True,,9
+1816,ジャンキー,heroin,False,False,True, drug,6
+1817,herion,heroin,heroin,True,True, pill,1
+1818,heron,heroin,False,False,True, drug,1
+1819,morhpine,heroin,morphine,False,True,,1
+1820,optal,heroin,False,False,False,,-1
+1821,smack,heroin,False,False,True, pill,2
+1822,an_opiate,heroin,False,False,True,,4
+1823,horse,heroin,False,False,False,,-1
+1824,smack,heroin,False,False,True, pill,2
+1825,china_white,heroin,filgrastim,False,True,,9
+1826,dragon,heroin,False,False,True, drug,2
+1827,black_tar,heroin,False,False,True,,1
+1828,smack_heads,heroin,False,False,True,,6
+1829,addicts,heroin,False,False,True, pill,10
+1830,diacetylmorphine,heroin,heroin,True,True,,3
+1831,hersoin,heroin,False,False,True, pill,1
+1832,herione,heroin,False,False,True,,2
+1833,heronia,heroin,False,False,True, pill,1
+1834,heroing,heroin,False,False,True, pill,2
+1835,heroinism,heroin,False,False,True,,5
+1836,heroinist,heroin,False,False,True,,1
+1837,heroin_use,heroin,False,True,True,,1
+1838,zero,heroin,False,False,False,,-1
+1839,zeron,heroin,False,False,False,,-1
+1840,zeroidine,heroin,False,False,False,,-1
+1841,zeronin,heroin,False,False,False,,-1
+1842,zeronine,heroin,False,False,False,,-1
+1843,brown_sugar,heroin,False,False,True, drug,2
+1844,smack,heroin,False,False,True, pill,2
+1845,dragon,heroin,False,False,True, drug,2
+1846,circle,heroin,False,False,False,,-1
+1847,h,heroin,False,False,False,,-1
+1848,dope,heroin,False,False,True, pill,7
+1849,junk,heroin,False,False,True,,4
+1850,morphin,heroin,morphine,False,False,,-1
+1851,opium,heroin,opium,False,True,,9
+1852,diacetylmorphine,heroin,heroin,True,True,,3
+1853,oppioid,heroin,False,False,False,,-1
+1854,acetomorphine,heroin,False,False,True,,3
+1855,smack,heroin,False,False,True, pill,2
+1856,china_white,heroin,filgrastim,False,True,,9
+1857,lysergic_acid_diethylamide,heroin,lysergic_acid_diethylamide,False,False,,-1
+1858,tar_tar,heroin,False,False,True, pill,4
+1859,smack,heroin,False,False,True, pill,2
+1860,morphinic_acid,heroin,False,False,True, slang,5
+1861,morphine,heroin,morphine,False,True,,8
+1862,codeine,heroin,codeine,False,True,,4
+1863,thebaine,heroin,False,False,False,,-1
+1864,h,heroin,False,False,False,,-1
+1865,smack,heroin,False,False,True, pill,2
+1866,junk,heroin,False,False,True,,4
+1867,china_white,heroin,filgrastim,False,True,,9
+1868,white_dragon,heroin,False,False,True, pill,9
+1869,heroin_user,heroin,False,True,True,,1
+1870,injecting_drug_user,heroin,False,False,True, pill,9
+1871,intravenous_drug_user,heroin,False,False,True, pill,4
+1872,smackhead,heroin,False,False,True,,5
+1873,junkie,heroin,heroin,False,True,,5
+1874,h-,heroin,False,False,False,,-1
+1875,smack,heroin,False,False,True, pill,2
+1876,gear,heroin,False,False,True, pill,7
+1877,skag,heroin,False,False,True, pill,9
+1878,junk,heroin,False,False,True,,4
+1879,smack,heroin,False,False,True, pill,2
+1880,horse,heroin,False,False,False,,-1
+1881,heeron,heroin,False,False,True, slang,5
+1882,heerin,heroin,False,False,True, pill,7
+1883,heroinum,heroin,False,False,True,,3
+1884,smack,heroin,False,False,True, pill,2
+1885,junk,heroin,False,False,True,,4
+1886,herroads,heroin,False,False,False,,-1
+1887,heront,heroin,False,False,True, slang,8
+1888,heroinum,heroin,False,False,True,,3
+1889,narkotika,heroin,False,False,False,,-1
+1890,zamboreti,heroin,False,False,False,,-1
+1891,mandrax,heroin,False,False,True,,5
+1892,opiates,heroin,False,False,True, pill,2
+1893,synthetics,heroin,False,False,False,,-1
+1894,junkies,heroin,heroin,False,True, drug,3
+1895,smack,heroin,False,False,True, pill,2
+1896,skag,heroin,False,False,True, pill,9
+1897,speedball,heroin,False,False,True, pill,2
+1898,diacetylmorphine,heroin,heroin,True,True,,3
+1899,morphine,heroin,morphine,False,True,,8
+1900,smack,heroin,False,False,True, pill,2
+1901,junk,heroin,False,False,True,,4
+1902,brown_sugar,heroin,False,False,True, drug,2
+1903,skag,heroin,False,False,True, pill,9
+1904,gear,heroin,False,False,True, pill,7
+1905,dragon,heroin,False,False,True, drug,2
+1906,stuff,heroin,False,False,False,,-1
+1907,heroiina,heroin,False,False,True, pill,1
+1908,morphine_diacetate,heroin,False,False,True,,1
+1909,diamorphine,heroin,heroin,True,True,,5
+1910,heroinum,heroin,False,False,True,,3
+1911,hieroin,heroin,False,False,True, pill,1
+1912,herion,heroin,heroin,True,True, pill,1
+1913,he_raids_on,heroin,False,False,False,,-1
+1914,herion,heroin,heroin,True,True, pill,1
+1915,smack,heroin,False,False,True, pill,2
+1916,junk,heroin,False,False,True,,4
+1917,horse,heroin,False,False,False,,-1
+1918,brown_sugar,heroin,False,False,True, drug,2
+1919,skag,heroin,False,False,True, pill,9
+1920,gear,heroin,False,False,True, pill,7
+1921,h,heroin,False,False,False,,-1
+1922,dope,heroin,False,False,True, pill,7
+1923,diacetylmorphine,heroin,heroin,True,True,,3
+1924,dimorphone,heroin,False,False,False,,-1
+1925,hite_horse,heroin,False,False,True, drug,1
+1926,sugar,heroin,False,False,True, slang,9
+1927,smack,heroin,False,False,True, pill,2
+1928,junk,heroin,False,False,True,,4
+1929,smack,heroin,False,False,True, pill,2
+1930,china_white,heroin,filgrastim,False,True,,9
+1931,smack,heroin,False,False,True, pill,2
+1932,junk,heroin,False,False,True,,4
+1933,brown_sugar,heroin,False,False,True, drug,2
+1934,tar,heroin,False,False,True, pill,2
+1935,black_tar,heroin,False,False,True,,1
+1936,semisynthetic_opioid,heroin,False,False,True,,7
+1937,illegal_drug,heroin,medical_cannabis,False,True,,3
+1938,diacetylmorphine,heroin,heroin,True,True,,3
+1939,daf,heroin,False,False,False,,-1
+1940,dae,heroin,False,False,False,,-1
+1941,dame,heroin,False,False,False,,-1
+1942,dnf,heroin,False,False,False,,-1
+1943,dnm,heroin,False,False,False,,-1
+1944,morphia,heroin,morphine,False,False,,-1
+1945,narcotina,heroin,False,False,False,,-1
+1946,ortho-methoxy-heroin,heroin,False,False,True,,4
+1947,methoxy-heroin,heroin,False,False,True,,1
+1948,3-methoxy-heroin,heroin,False,False,True,,1
+1949,semisynthetic_opioid,heroin,False,False,True,,7
+1950,narcotic,heroin,False,False,True,,7
+1951,fentanyl,heroin,fentanyl,False,True,,3
+1952,carfentanil,heroin,carfentanil,False,True,,2
+1953,dihydromorphine,heroin,dihydromorphine,False,True,,4
+1954,dipipanone,heroin,dipipanone,False,False,,-1
+1955,methadone,heroin,methadone,False,True,,5
+1956,morphine,heroin,morphine,False,True,,8
+1957,smack,heroin,False,False,True, pill,2
+1958,junk,heroin,False,False,True,,4
+1959,horse,heroin,False,False,False,,-1
+1960,brown_sugar,heroin,False,False,True, drug,2
+1961,dope,heroin,False,False,True, pill,7
+1962,dragon,heroin,False,False,True, drug,2
+1963,china_white,heroin,filgrastim,False,True,,9
+1964,diaphin,heroin,diphenhydramine,False,True,,2
+1965,dorset,heroin,False,False,False,,-1
+1966,skag,heroin,False,False,True, pill,9
+1967,smack,heroin,False,False,True, pill,2
+1968,brown_sugar,heroin,False,False,True, drug,2
+1969,cheese,heroin,False,False,True, drug,1
+1970,china_white,heroin,filgrastim,False,True,,9
+1971,heroin,heroin,heroin,True,True,,1
+1972,smack,heroin,False,False,True, pill,2
+1973,junk,heroin,False,False,True,,4
+1974,horse,heroin,False,False,False,,-1
+1975,smack,heroin,False,False,True, pill,2
+1976,junk,heroin,False,False,True,,4
+1977,dope,heroin,False,False,True, pill,7
+1978,brown_sugar,heroin,False,False,True, drug,2
+1979,china_white,heroin,filgrastim,False,True,,9
+1980,diamorphine,heroin,heroin,True,True,,5
+1981,brown_sugar,heroin,False,False,True, drug,2
+1982,skag,heroin,False,False,True, pill,9
+1983,smack,heroin,False,False,True, pill,2
+1984,junk,heroin,False,False,True,,4
+1985,dragon,heroin,False,False,True, drug,2
+1986,diesel,heroin,False,False,False,,-1
+1987,acetylmorphone,heroin,False,False,True,,3
+1988,smack,heroin,False,False,True, pill,2
+1989,horse,heroin,False,False,False,,-1
+1990,dragon,heroin,False,False,True, drug,2
+1991,junk,heroin,False,False,True,,4
+1992,brown_sugar,heroin,False,False,True, drug,2
+1993,skag,heroin,False,False,True, pill,9
+1994,blaze,heroin,False,False,False,,-1
+1995,heroinum,heroin,False,False,True,,3
+1996,diacetylmorphine,heroin,heroin,True,True,,3
+1997,smack,heroin,False,False,True, pill,2
+1998,junk,heroin,False,False,True,,4
+1999,horse,heroin,False,False,False,,-1
+2000,dragon,heroin,False,False,True, drug,2
+2001,diacetylmorphine,heroin,heroin,True,True,,3
+2002,smack,heroin,False,False,True, pill,2
+2003,junk,heroin,False,False,True,,4
+2004,horse,heroin,False,False,False,,-1
+2005,mud,heroin,False,False,False,,-1
+2006,dragon,heroin,False,False,True, drug,2
+2007,poison,heroin,False,False,False,,-1
+2008,diacetylmorphine,heroin,heroin,True,True,,3
+2009,diamorphine,heroin,heroin,True,True,,5
+2010,smack,heroin,False,False,True, pill,2
+2011,junk,heroin,False,False,True,,4
+2012,morphines,heroin,morphine,False,True, drug,7
+2013,diacetylmorphines,heroin,False,False,True,,3
+2014,pentazocine,heroin,pentazocine,False,True,,3
+2015,buprenorphine,heroin,buprenorphine,False,False,,-1
+2016,diamorphine,heroin,heroin,True,True,,5
+2017,morphine,heroin,morphine,False,True,,8
+2018,diamorphine,heroin,heroin,True,True,,5
+2019,heroine_abuse,heroin,False,False,True,,1
+2020,heroin_overdoses,heroin,False,True,True,,1
+2021,heroin_use,heroin,False,True,True,,1
+2022,heroína,heroin,False,False,True,,3
+2023,heroína,heroin,False,False,True,,3
+2024,héroïne,heroin,False,False,True,,6
+2025,héroïne,heroin,False,False,True,,6
+2026,heroine,heroin,False,False,True,,1
+2027,heroin,heroin,heroin,True,True,,1
+2028,heroină,heroin,False,False,True,,4
+2029,acetomorphine,heroin,False,False,True,,3
+2030,diamorphine,heroin,heroin,True,True,,5
+2031,smack,heroin,False,False,True, pill,2
+2032,brown_sugar,heroin,False,False,True, drug,2
+2033,horse,heroin,False,False,False,,-1
+2034,china_white,heroin,filgrastim,False,True,,9
+2035,dragon,heroin,False,False,True, drug,2
+2036,dihydromorphinone,heroin,hydromorphone,False,False,,-1
+2037,morphine,heroin,morphine,False,True,,8
+2038,opium,heroin,opium,False,True,,9
+2039,morphine,heroin,morphine,False,True,,8
+2040,codeine,heroin,codeine,False,True,,4
+2041,thebaine,heroin,False,False,False,,-1
+2042,herion,heroin,heroin,True,True, pill,1
+2043,heroine,heroin,False,False,True,,1
+2044,heroesine,heroin,False,False,False,,-1
+2045,horse,heroin,False,False,False,,-1
+2046,morphinan,heroin,morphine,False,False,,-1
+2047,3-methylmorphinan,heroin,False,False,True, pill,2
+2048,smack,heroin,False,False,True, pill,2
+2049,dope,heroin,False,False,True, pill,7
+2050,junk,heroin,False,False,True,,4
+2051,brown_sugar,heroin,False,False,True, drug,2
+2052,horse,heroin,False,False,False,,-1
+2053,dragon,heroin,False,False,True, drug,2
+2054,china_white,heroin,filgrastim,False,True,,9
+2055,smack,heroin,False,False,True, pill,2
+2056,junk,heroin,False,False,True,,4
+2057,heroin_users,heroin,False,True,True,,1
+2058,heroin_addiction,heroin,False,True,True,,1
+2059,heroin,heroin,heroin,True,True,,1
+2060,morphinone,heroin,False,False,False,,-1
+2061,herroin,heroin,False,False,True, pill,1
+2062,hireen,heroin,False,False,True, drug,5
+2063,heron,heroin,False,False,True, drug,1
+2064,herin,heroin,False,False,True, pill,1
+2065,hedgehog,heroin,False,False,False,,-1
+2066,herion,heroin,heroin,True,True, pill,1
+2067,heron,heroin,False,False,True, drug,1
+2068,narco,heroin,False,False,False,,-1
+2069,dope,heroin,False,False,True, pill,7
+2070,smack,heroin,False,False,True, pill,2
+2071,junk,heroin,False,False,True,,4
+2072,juliette,heroin,False,False,True, drug,7
+2073,smack,heroin,False,False,True, pill,2
+2074,smack,heroin,False,False,True, pill,2
+2075,god's_own_medicine,heroin,False,False,True, pill,2
+2076,junk,heroin,False,False,True,,4
+2077,dope,heroin,False,False,True, pill,7
+2078,fix,heroin,False,False,True, slang,4
+2079,hiruse,heroin,False,False,False,,-1
+2080,hurome,heroin,False,False,False,,-1
+2081,hyeron,heroin,False,False,True, slang,5
+2082,heroen,heroin,False,False,True, pill,5
+2083,diamorphine,heroin,heroin,True,True,,5
+2084,3-monoacetyloxymorphine,heroin,False,False,True,,1
+2085,"3-methyl-6-oxo-6,7-dihydro-7h-purine-2,3,4,9-tet",heroin,False,False,False,,-1
+2086,"3-(methyl-6-oxo-7h-purine-2,3,4,9-tetrahydro)indole-acetic_acid",heroin,False,False,False,,-1
+2087,"n-methyl-3-oxo-6,7-dihydro-7h-purine-2,3,4,9-tetrahydroindole-acetic_acid",heroin,False,False,False,,-1
+2088,smack,heroin,False,False,True, pill,2
+2089,skag,heroin,False,False,True, pill,9
+2090,dope,heroin,False,False,True, pill,7
+2091,junk,heroin,False,False,True,,4
+2092,brown_sugar,heroin,False,False,True, drug,2
+2093,dope,heroin,False,False,True, pill,7
+2094,smack,heroin,False,False,True, pill,2
+2095,dragon,heroin,False,False,True, drug,2
+2096,china_white,heroin,filgrastim,False,True,,9
+2097,morphine,heroin,morphine,False,True,,8
+2098,codeine,heroin,codeine,False,True,,4
+2099,junkie,heroin,heroin,False,True,,5
+2100,smack,heroin,False,False,True, pill,2
+2101,dragon,heroin,False,False,True, drug,2
+2102,brown_sugar,heroin,False,False,True, drug,2
+2103,china_white,heroin,filgrastim,False,True,,9
+2104,christmas_tree,heroin,False,False,False,,-1
+2105,dope,heroin,False,False,True, pill,7
+2106,h,heroin,False,False,False,,-1
+2107,herione,heroin,False,False,True,,2
+2108,heroiene,heroin,False,False,True, pill,1
+2109,heroinne,heroin,False,False,True, pill,1
+2110,heroiin,heroin,heroin,True,True,,1
+2111,heroiine,heroin,False,False,True, pill,1
+2112,horse,heroin,False,False,False,,-1
+2113,smack,heroin,False,False,True, pill,2
+2114,dragon,heroin,False,False,True, drug,2
+2115,junk,heroin,False,False,True,,4
+2116,china_white,heroin,filgrastim,False,True,,9
+2117,brown_sugar,heroin,False,False,True, drug,2
+2118,black_tar,heroin,False,False,True,,1
+2119,smack,heroin,False,False,True, pill,2
+2120,junk,heroin,False,False,True,,4
+2121,morphinediacetate,heroin,False,False,True,,1
+2122,acetylmeta-hydromorphinol,heroin,False,False,False,,-1
+2123,acetylmethadol,heroin,False,False,True, slang,5
+2124,acetomorphine,heroin,False,False,True,,3
+2125,"benzoquinone,_1-",heroin,False,False,False,,-1
+2126,diamorphine,heroin,heroin,True,True,,5
+2127,heroin,heroin,heroin,True,True,,1
+2128,methylmorphine,heroin,codeine,False,True, slang,7
+2129,heroin,heroin,heroin,True,True,,1
+2130,herion,heroin,heroin,True,True, pill,1
+2131,diacetylmorphine,heroin,heroin,True,True,,3
+2132,ct-3,heroin,False,False,False,,-1
+2133,4-anmp,heroin,False,False,False,,-1
+2134,4-am,heroin,False,False,False,,-1
+2135,acey,heroin,False,False,False,,-1
+2136,afy,heroin,False,False,False,,-1
+2137,alibaba,heroin,False,False,False,,-1
+2138,disopramide,heroin,False,False,False,,-1
+2139,diphenoxylate,heroin,diphenoxylate,False,False,,-1
+2140,dipipanone,heroin,dipipanone,False,False,,-1
+2141,fentanyl,heroin,fentanyl,False,True,,3
+2142,heroin,heroin,heroin,True,True,,1
+2143,hydrocodone,heroin,hydrocodone,False,True,,5
+2144,hydromorphone,heroin,hydromorphone,False,True,,4
+2145,levorphanol,heroin,levorphanol,False,False,,-1
+2146,meperidine,heroin,pethidine,False,False,,-1
+2147,methadone,heroin,methadone,False,True,,5
+2148,morphine,heroin,morphine,False,True,,8
+2149,oxycodone,heroin,oxycodone,False,True,,4
+2150,oxymorphone,heroin,oxymorphone,False,True,,2
+2151,pentazocine,heroin,pentazocine,False,True,,3
+2152,pethidine,heroin,pethidine,False,True,,6
+2153,piminodine,heroin,False,False,True, slang,2
+2154,propoxyphene,heroin,dextropropoxyphene,False,False,,-1
+2155,acetylstipamine,heroin,False,False,False,,-1
+2156,diamorphine,heroin,heroin,True,True,,5
+2157,morfils,heroin,False,False,False,,-1
+2158,morphiates,heroin,False,False,True, drug,6
+2159,smac,heroin,False,False,False,,-1
+2160,mac,heroin,False,False,False,,-1
+2161,smack,heroin,False,False,True, pill,2
+2162,junk,heroin,False,False,True,,4
+2163,horse,heroin,False,False,False,,-1
+2164,schoolboy,heroin,False,False,False,,-1
+2165,harry,heroin,False,False,True, drug,3
+2166,herion,heroin,heroin,True,True, pill,1
+2167,heroein,heroin,False,False,True, pill,1
+2168,herione,heroin,False,False,True,,2
+2169,heroine,heroin,False,False,True,,1
+2170,heron,heroin,False,False,True, drug,1
+2171,herowine,heroin,False,False,True, pill,1
+2172,diacetylmorphine,heroin,heroin,True,True,,3
+2173,acetylpropionylmorphine,heroin,False,False,True,,9
+2174,propionylmorphine,heroin,False,False,True,,6
+2175,codeine,heroin,codeine,False,True,,4
+2176,herroin,heroin,False,False,True, pill,1
+2177,heroyn,heroin,False,False,True, pill,1
+2178,heroeen,heroin,False,False,True,,1
+2179,heroyne,heroin,False,False,True, pill,8
+2180,heroinne,heroin,False,False,True, pill,1
+2181,smack,heroin,False,False,True, pill,2
+2182,brown_sugar,heroin,False,False,True, drug,2
+2183,skag,heroin,False,False,True, pill,9
+2184,speedball,heroin,False,False,True, pill,2
+2185,white_horse,heroin,filgrastim,False,True, drug,1
+2186,orch_oc,heroin,False,False,False,,-1
+2187,china_white,heroin,filgrastim,False,True,,9
+2188,smack,heroin,False,False,True, pill,2
+2189,junk,heroin,False,False,True,,4
+2190,smack,heroin,False,False,True, pill,2
+2191,junk,heroin,False,False,True,,4
+2192,hurling,heroin,False,False,False,,-1
+2193,hydro,heroin,False,False,False,,-1
+2194,hydroxide,heroin,False,False,False,,-1
+2195,horse,heroin,False,False,False,,-1
+2196,smack,heroin,False,False,True, pill,2
+2197,junk,heroin,False,False,True,,4
+2198,dragon,heroin,False,False,True, drug,2
+2199,brown_sugar,heroin,False,False,True, drug,2
+2200,china_white,heroin,filgrastim,False,True,,9
+2201,blacktar,heroin,False,False,True,,1
+2202,smack,heroin,False,False,True, pill,2
+2203,junk,heroin,False,False,True,,4
+2204,horse,heroin,False,False,False,,-1
+2205,brown_sugar,heroin,False,False,True, drug,2
+2206,black_tar,heroin,False,False,True,,1
+2207,herion,heroin,heroin,True,True, pill,1
+2208,smack,heroin,False,False,True, pill,2
+2209,smack,heroin,False,False,True, pill,2
+2210,junkie,heroin,heroin,False,True,,5
+2211,smack,heroin,False,False,True, pill,2
+2212,black_tar,heroin,False,False,True,,1
+2213,china_white,heroin,filgrastim,False,True,,9
+2214,dragon,heroin,False,False,True, drug,2
+2215,mexican_brown,heroin,False,False,True, pill,2
+2216,brown_sugar,heroin,False,False,True, drug,2
+2217,mud,heroin,False,False,False,,-1
+2218,addicts_choice,heroin,False,False,False,,-1
+2219,smack,heroin,False,False,True, pill,2
+2220,junk,heroin,False,False,True,,4
+2221,herroin,heroin,False,False,True, pill,1
+2222,heron,heroin,False,False,True, drug,1
+2223,heroine,heroin,False,False,True,,1
+2224,smack,heroin,False,False,True, pill,2
+2225,junk,heroin,False,False,True,,4
+2226,brown_sugar,heroin,False,False,True, drug,2
+2227,heroiny,heroin,False,False,True,,1
+2228,heroin_overdoses,heroin,False,True,True,,1
+2229,heroin_addiction,heroin,False,True,True,,1
+2230,heroin_use,heroin,False,True,True,,1
+2231,heroin_abuse,heroin,False,True,True,,1
+2232,heroin_user,heroin,False,True,True,,1
+2233,diamorphine,heroin,heroin,True,True,,5
+2234,morphene,heroin,morphine,False,True, drug,5
+2235,morphia,heroin,morphine,False,False,,-1
+2236,morphium,heroin,morphine,False,True, slang,9
+2237,smack,heroin,False,False,True, pill,2
+2238,junk,heroin,False,False,True,,4
+2239,dragon,heroin,False,False,True, drug,2
+2240,horse,heroin,False,False,False,,-1
+2241,smack,heroin,False,False,True, pill,2
+2242,junk,heroin,False,False,True,,4
+2243,heroinum,heroin,False,False,True,,3
+2244,people_who_use_heroin,heroin,False,True,True,,1
+2245,smack_heads,heroin,False,False,True,,6
+2246,addicts,heroin,False,False,True, pill,10
+2247,people_who_are_addicted_to_heroin,heroin,False,True,True,,1
+2248,acetylmorphone,heroin,False,False,True,,3
+2249,diacetylmorphine,heroin,heroin,True,True,,3
+2250,dam,heroin,False,False,True, slang,8
+2251,smack,heroin,False,False,True, pill,2
+2252,brown_sugar,heroin,False,False,True, drug,2
+2253,gear,heroin,False,False,True, pill,7
+2254,horse,heroin,False,False,False,,-1
+2255,h,heroin,False,False,False,,-1
+2256,smack,heroin,False,False,True, pill,2
+2257,dragon,heroin,False,False,True, drug,2
+2258,h,heroin,False,False,False,,-1
+2259,big_h,heroin,False,False,True, pill,10
+2260,brown_sugar,heroin,False,False,True, drug,2
+2261,dope,heroin,False,False,True, pill,7
+2262,horse,heroin,False,False,False,,-1
+2263,quaalude,heroin,methaqualone,False,False,,-1
+2264,dolophine,heroin,methadone,False,True,,5
+2265,methadose,heroin,methadone,False,True,,4
+2266,paradise,heroin,False,False,False,,-1
+2267,ecstasy,heroin,midomafetamine,False,False,,-1
+2268,smack,heroin,False,False,True, pill,2
+2269,h,heroin,False,False,False,,-1
+2270,horse,heroin,False,False,False,,-1
+2271,brown_sugar,heroin,False,False,True, drug,2
+2272,chinese_white,heroin,False,False,True, drug,3
+2273,dragon,heroin,False,False,True, drug,2
+2274,dragon's_breath,heroin,False,False,True, pill,4
+2275,hella_dope,heroin,False,False,True, pill,2
+2276,smack,heroin,False,False,True, pill,2
+2277,junk,heroin,False,False,True,,4
+2278,china_white,heroin,filgrastim,False,True,,9
+2279,dragon,heroin,False,False,True, drug,2
+2280,black_tar,heroin,False,False,True,,1
+2281,smack,heroin,False,False,True, pill,2
+2282,dope,heroin,False,False,True, pill,7
+2283,dr.feelgood,heroin,False,False,False,,-1
+2284,rig,heroin,False,False,True, drug,1
+2285,point,heroin,False,False,False,,-1
+2286,load,heroin,False,False,False,,-1
+2287,gear,heroin,False,False,True, pill,7
+2288,brown_sugar,heroin,False,False,True, drug,2
+2289,dope,heroin,False,False,True, pill,7
+2290,gear,heroin,False,False,True, pill,7
+2291,h,heroin,False,False,False,,-1
+2292,hard_stuff,heroin,False,False,True, pill,1
+2293,junk,heroin,False,False,True,,4
+2294,skag,heroin,False,False,True, pill,9
+2295,smack,heroin,False,False,True, pill,2
+2296,morphine,heroin,morphine,False,True,,8
+2297,opiate,heroin,False,False,True,,6
+2298,smack,heroin,False,False,True, pill,2
+2299,junk,heroin,False,False,True,,4
+2300,heroina,heroin,heroin,True,True,,1
+2301,heroinas,heroin,False,False,True, pill,1
+2302,heroína,heroin,False,False,True,,3
+2303,heróina,heroin,False,False,True,,3
+2304,héroïne,heroin,False,False,True,,6
+2305,heroïnen,heroin,False,False,False,,-1
+2306,heroïneom,heroin,False,False,False,,-1
+2307,smack,heroin,False,False,True, pill,2
+2308,junk,heroin,False,False,True,,4
+2309,horse,heroin,False,False,False,,-1
+2310,skag,heroin,False,False,True, pill,9
+2311,brown_sugar,heroin,False,False,True, drug,2
+2312,diamorphine,heroin,heroin,True,True,,5
+2313,methylmorphide,heroin,False,False,False,,-1
+2314,codeine,heroin,codeine,False,True,,4
+2315,hydrocodone,heroin,hydrocodone,False,True,,5
+2316,oxycodone,heroin,oxycodone,False,True,,4
+2317,morphine,heroin,morphine,False,True,,8
+2318,hesperidin,heroin,hesperidin,False,False,,-1
+2319,heron,heroin,False,False,True, drug,1
+2320,herone,heroin,False,False,True, pill,5
+2321,heronin,heroin,False,False,True, pill,1
+2322,heronine,heroin,False,False,True, pill,1
+2323,heroinum,heroin,False,False,True,,3
+2324,morphinic_acid,heroin,False,False,True, slang,5
+2325,dope,heroin,False,False,True, pill,7
+2326,junk,heroin,False,False,True,,4
+2327,skag,heroin,False,False,True, pill,9
+2328,smack,heroin,False,False,True, pill,2
+2329,smack,heroin,False,False,True, pill,2
+2330,dope,heroin,False,False,True, pill,7
+2331,horse,heroin,False,False,False,,-1
+2332,junk,heroin,False,False,True,,4
+2333,dragon,heroin,False,False,True, drug,2
+2334,mud,heroin,False,False,False,,-1
+2335,brown_sugar,heroin,False,False,True, drug,2
+2336,pheroine,heroin,False,False,True, pill,6
+2337,huroin,heroin,False,False,True, pill,1
+2338,diacetylmorphine,heroin,heroin,True,True,,3
+2339,diamorphine,heroin,heroin,True,True,,5
+2340,addicts,heroin,False,False,True, pill,10
+2341,junkies,heroin,heroin,False,True, drug,3
+2342,smack_heads,heroin,False,False,True,,6
+2343,dope_fiends,heroin,False,False,True,,2
+2344,dippers,heroin,False,False,False,,-1
+2345,speed_ballers,heroin,False,False,True, drug,1
+2346,brown_sugar,heroin,False,False,True, drug,2
+2347,china_white,heroin,filgrastim,False,True,,9
+2348,dragon,heroin,False,False,True, drug,2
+2349,good_stuff,heroin,False,False,False,,-1
+2350,black_tar,heroin,False,False,True,,1
+2351,smack,heroin,False,False,True, pill,2
+2352,smack,heroin,False,False,True, pill,2
+2353,tar,heroin,False,False,True, pill,2
+2354,junkies,heroin,heroin,False,True, drug,3
+2355,smack,heroin,False,False,True, pill,2
+2356,skag,heroin,False,False,True, pill,9
+2357,dragon,heroin,False,False,True, drug,2
+2358,horse,heroin,False,False,False,,-1
+2359,rig,heroin,False,False,True, drug,1
+2360,,heroin,False,False,False,,-1
+2361,brown_sugar,heroin,False,False,True, drug,2
+2362,china_white,heroin,filgrastim,False,True,,9
+2363,smack,heroin,False,False,True, pill,2
+2364,dragon,heroin,False,False,True, drug,2
+2365,horse,heroin,False,False,False,,-1
+2366,junk,heroin,False,False,True,,4
+2367,smack,heroin,False,False,True, pill,2
+2368,dope,heroin,False,False,True, pill,7
+2369,brown_sugar,heroin,False,False,True, drug,2
+2370,china_white,heroin,filgrastim,False,True,,9
+2371,horse,heroin,False,False,False,,-1
+2372,junk,heroin,False,False,True,,4
+2373,skag,heroin,False,False,True, pill,9
+2374,dragon,heroin,False,False,True, drug,2
+2375,train,heroin,False,False,False,,-1
+2376,h,heroin,False,False,False,,-1
+2377,desomorphine,heroin,desomorphine,False,True, drug,3
+2378,diamorphine,heroin,heroin,True,True,,5
+2379,heroin_hydrochloride,heroin,False,True,True,,2
+2380,herroin,heroin,False,False,True, pill,1
+2381,herione,heroin,False,False,True,,2
+2382,haroin,heroin,heroin,True,True,,1
+2383,heroinne,heroin,False,False,True, pill,1
+2384,herroine,heroin,False,False,True,,3
+2385,heroyne,heroin,False,False,True, pill,8
+2386,aceytyl_fentanyl,heroin,False,False,True,,9
+2387,buprenorphine,heroin,buprenorphine,False,False,,-1
+2388,smack,heroin,False,False,True, pill,2
+2389,junk,heroin,False,False,True,,4
+2390,brown_sugar,heroin,False,False,True, drug,2
+2391,dragon,heroin,False,False,True, drug,2
+2392,little_boy,heroin,False,False,True, drug,2
+2393,chocolate,heroin,cocoa,False,False,,-1
+2394,heroine,heroin,False,False,True,,1
+2395,herion,heroin,heroin,True,True, pill,1
+2396,heroin,heroin,heroin,True,True,,1
+2397,morphin,heroin,morphine,False,False,,-1
+2398,addiction,heroin,False,False,True, pill,5
+2399,dependency,heroin,False,False,True, pill,7
+2400,compulsion,heroin,False,False,False,,-1
+2401,morphine,heroin,morphine,False,True,,8
+2402,oxycodone,heroin,oxycodone,False,True,,4
+2403,heroin,heroin,heroin,True,True,,1
+2404,smack,heroin,False,False,True, pill,2
+2405,brown_sugar,heroin,False,False,True, drug,2
+2406,china_white,heroin,filgrastim,False,True,,9
+2407,dragon,heroin,False,False,True, drug,2
+2408,optimum,heroin,False,False,False,,-1
+2409,opium,heroin,opium,False,True,,9
+2410,smack,heroin,False,False,True, pill,2
+2411,brown_sugar,heroin,False,False,True, drug,2
+2412,china_white,heroin,filgrastim,False,True,,9
+2413,dragon,heroin,False,False,True, drug,2
+2414,horse,heroin,False,False,False,,-1
+2415,junk,heroin,False,False,True,,4
+2416,powder,heroin,False,False,True, pill,8
+2417,smack,heroin,False,False,True, pill,2
+2418,brown_sugar,heroin,False,False,True, drug,2
+2419,china_white,heroin,filgrastim,False,True,,9
+2420,dragon,heroin,False,False,True, drug,2
+2421,h,heroin,False,False,False,,-1
+2422,boy,heroin,False,False,True, drug,3
+2423,gear,heroin,False,False,True, pill,7
+2424,heron,heroin,False,False,True, drug,1
+2425,heroine,heroin,False,False,True,,1
+2426,heroinism,heroin,False,False,True,,5
+2427,heroinness,heroin,False,False,True,,4
+2428,heroization,heroin,False,False,False,,-1
+2429,heroize,heroin,False,False,False,,-1
+2430,heroinize,heroin,False,False,True,,2
+2431,brown_sugar,heroin,False,False,True, drug,2
+2432,dope,heroin,False,False,True, pill,7
+2433,smack,heroin,False,False,True, pill,2
+2434,junk,heroin,False,False,True,,4
+2435,horse,heroin,False,False,False,,-1
+2436,skag,heroin,False,False,True, pill,9
+2437,mud,heroin,False,False,False,,-1
+2438,diamorphine,heroin,heroin,True,True,,5
+2439,orse,heroin,False,False,False,,-1
+2440,smack,heroin,False,False,True, pill,2
+2441,acetylpropionylmorphine,heroin,False,False,True,,9
+2442,acetylpropionylmorhine,heroin,False,False,True,,8
+2443,dihydromorphine,heroin,dihydromorphine,False,True,,4
+2444,morphinan-6-ol,heroin,False,False,False,,-1
+2445,smack,heroin,False,False,True, pill,2
+2446,dragon,heroin,False,False,True, drug,2
+2447,brown_sugar,heroin,False,False,True, drug,2
+2448,china_white,heroin,filgrastim,False,True,,9
+2449,dope,heroin,False,False,True, pill,7
+2450,horse,heroin,False,False,False,,-1
+2451,junk,heroin,False,False,True,,4
+2452,heryon,heroin,False,False,False,,-1
+2453,horoin,heroin,False,False,True, pill,1
+2454,heroyn,heroin,False,False,True, pill,1
+2455,h_riyon,heroin,False,False,False,,-1
+2456,herion,heroin,heroin,True,True, pill,1
+2457,hiroin,heroin,False,False,True, pill,1
+2458,hirion,heroin,False,False,True, pill,1
+2459,smack,heroin,False,False,True, pill,2
+2460,dragon,heroin,False,False,True, drug,2
+2461,junk,heroin,False,False,True,,4
+2462,brown_sugar,heroin,False,False,True, drug,2
+2463,smack,heroin,False,False,True, pill,2
+2464,morphinan,heroin,morphine,False,False,,-1
+2465,morphinic,heroin,False,False,True, drug,6
+2466,morphinic_acid,heroin,False,False,True, slang,5
+2467,morphine,heroin,morphine,False,True,,8
+2468,diamorph,heroin,morphine,False,True, pill,1
+2469,opiate,heroin,False,False,True,,6
+2470,smack,heroin,False,False,True, pill,2
+2471,skunk,heroin,False,False,False,,-1
+2472,brown_sugar,heroin,False,False,True, drug,2
+2473,junk,heroin,False,False,True,,4
+2474,dragon,heroin,False,False,True, drug,2
+2475,horse,heroin,False,False,False,,-1
+2476,,heroin,False,False,False,,-1
+2477,heroinism,heroin,False,False,True,,5
+2478,smack,heroin,False,False,True, pill,2
+2479,diaethylmorphine,heroin,False,False,False,,-1
+2480,morphinediacetate,heroin,False,False,True,,1
+2481,morphinan,heroin,morphine,False,False,,-1
+2482,diamorphine,heroin,heroin,True,True,,5
+2483,smack,heroin,False,False,True, pill,2
+2484,junk,heroin,False,False,True,,4
+2485,black_tar,heroin,False,False,True,,1
+2486,brown_sugar,heroin,False,False,True, drug,2
+2487,dragon,heroin,False,False,True, drug,2
+2488,boy,heroin,False,False,True, drug,3
+2489,china_white,heroin,filgrastim,False,True,,9
+2490,_diacetylmorphine,heroin,False,True,True,,3
+2491,dmi,heroin,desipramine,False,False,,-1
+2492,acetylmorphone,heroin,False,False,True,,3
+2493,smack,heroin,False,False,True, pill,2
+2494,junk,heroin,False,False,True,,4
+2495,orphine_diacetate,heroin,False,False,True,,2
+2496,smack,heroin,False,False,True, pill,2
+2497,china_white,heroin,filgrastim,False,True,,9
+2498,heryon,heroin,False,False,False,,-1
+2499,heroyne,heroin,False,False,True, pill,8
+2500,heroion,heroin,False,False,True, pill,1
+2501,heroinum,heroin,False,False,True,,3
+2502,heroïne,heroin,False,False,True,,2
+2503,heroino,heroin,False,False,True, pill,1
+2504,heroína,heroin,False,False,True,,3
+2505,oh-boy,heroin,False,False,True, drug,8
+2506,brown_sugar,heroin,False,False,True, drug,2
+2507,china_white,heroin,filgrastim,False,True,,9
+2508,smack,heroin,False,False,True, pill,2
+2509,dragon,heroin,False,False,True, drug,2
+2510,joker,heroin,False,False,False,,-1
+2511,coffins,heroin,False,False,True, drug,7
+2512,morphinan-6-ol,heroin,False,False,False,,-1
+2513,3-methylidenorphine,heroin,False,False,False,,-1
+2514,herion,heroin,heroin,True,True, pill,1
+2515,smack,heroin,False,False,True, pill,2
+2516,junk,heroin,False,False,True,,4
+2517,horse,heroin,False,False,False,,-1
+2518,brown_sugar,heroin,False,False,True, drug,2
+2519,china_white,heroin,filgrastim,False,True,,9
+2520,smack,heroin,False,False,True, pill,2
+2521,brown_sugar,heroin,False,False,True, drug,2
+2522,china_white,heroin,filgrastim,False,True,,9
+2523,dragon,heroin,False,False,True, drug,2
+2524,ladoga,heroin,False,False,False,,-1
+2525,h,heroin,False,False,False,,-1
+2526,outfit,heroin,False,False,False,,-1
+2527,h,heroin,False,False,False,,-1
+2528,dope,heroin,False,False,True, pill,7
+2529,smack,heroin,False,False,True, pill,2
+2530,junk,heroin,False,False,True,,4
+2531,horse,heroin,False,False,False,,-1
+2532,herion,heroin,heroin,True,True, pill,1
+2533,herin,heroin,False,False,True, pill,1
+2534,heriun,heroin,False,False,True,,7
+2535,morphine,heroin,morphine,False,True,,8
+2536,opium,heroin,opium,False,True,,9
+2537,smack,heroin,False,False,True, pill,2
+2538,junk,heroin,False,False,True,,4
+2539,diomorphine,heroin,False,False,True,,8
+2540,heroinne,heroin,False,False,True, pill,1
+2541,heroinre,heroin,False,False,True,,1
+2542,diamorphine,heroin,heroin,True,True,,5
+2543,morphinediacetate,heroin,False,False,True,,1
+2544,liquid_gold,heroin,False,False,False,,-1
+2545,dragon's_breath,heroin,False,False,True, pill,4
+2546,thunder,heroin,False,False,False,,-1
+2547,herroine,heroin,False,False,True,,3
+2548,herron,heroin,False,False,True, drug,4
+2549,herrin,heroin,False,False,False,,-1
+2550,hurron,heroin,False,False,False,,-1
+2551,heroe,heroin,False,False,True, drug,6
+2552,heroyn,heroin,False,False,True, pill,1
+2553,morphiates,heroin,False,False,True, drug,6
+2554,smack,heroin,False,False,True, pill,2
+2555,acetylmethadol,heroin,False,False,True, slang,5
+2556,nicomorphine,heroin,False,False,False,,-1
+2557,buprenorphine,heroin,buprenorphine,False,False,,-1
+2558,etorphine,heroin,etorphine,False,True,,8
+2559,fenethylline,heroin,fenethylline,False,False,,-1
+2560,fentanyl,heroin,fentanyl,False,True,,3
+2561,tramadol,heroin,tramadol,False,False,,-1
+2562,brown_sugar,heroin,False,False,True, drug,2
+2563,dope,heroin,False,False,True, pill,7
+2564,smack,heroin,False,False,True, pill,2
+2565,junk,heroin,False,False,True,,4
+2566,smack,heroin,False,False,True, pill,2
+2567,junk,heroin,False,False,True,,4
+2568,horse,heroin,False,False,False,,-1
+2569,brown_sugar,heroin,False,False,True, drug,2
+2570,skag,heroin,False,False,True, pill,9
+2571,h,heroin,False,False,False,,-1
+2572,black_tar,heroin,False,False,True,,1
+2573,smack,heroin,False,False,True, pill,2
+2574,junk,heroin,False,False,True,,4
+2575,dope,heroin,False,False,True, pill,7
+2576,moments,heroin,False,False,False,,-1
+2577,dragon,heroin,False,False,True, drug,2
+2578,poison,heroin,False,False,False,,-1
+2579,no_id,heroin,False,False,False,,-1
+2580,,heroin,False,False,False,,-1
+2581,heroine,heroin,False,False,True,,1
+2582,diacetylmorphine,heroin,heroin,True,True,,3
+2583,smack,heroin,False,False,True, pill,2
+2584,junk,heroin,False,False,True,,4
+2585,skag,heroin,False,False,True, pill,9
+2586,horse,heroin,False,False,False,,-1
+2587,dragon,heroin,False,False,True, drug,2
+2588,brown_sugar,heroin,False,False,True, drug,2
+2589,6-acetylmorphine,heroin,False,False,True,,1
+2590,diamorphine,heroin,heroin,True,True,,5
+2591,diamorphine,heroin,heroin,True,True,,5
+2592,diacetylmorphine,heroin,heroin,True,True,,3
+2593,china_white,heroin,filgrastim,False,True,,9
+2594,junk,heroin,False,False,True,,4
+2595,smack,heroin,False,False,True, pill,2
+2596,dragon,heroin,False,False,True, drug,2
+2597,brown_sugar,heroin,False,False,True, drug,2
+2598,smack,heroin,False,False,True, pill,2
+2599,mud,heroin,False,False,False,,-1
+2600,dragon,heroin,False,False,True, drug,2
+2601,black_tar,heroin,False,False,True,,1
+2602,brown_sugar,heroin,False,False,True, drug,2
+2603,china_white,heroin,filgrastim,False,True,,9
+2604,white_horse,heroin,filgrastim,False,True, drug,1
+2605,junkie,heroin,heroin,False,True,,5
+2606,morphinan-6-ol,heroin,False,False,False,,-1
+2607,3-methoxymorphinan,heroin,False,False,False,,-1
+2608,3-methylmorphine,heroin,False,False,True, slang,6
+2609,3-methylenedioxymethamphetamine,heroin,False,False,False,,-1
+2610,brown_sugar,heroin,False,False,True, drug,2
+2611,smack,heroin,False,False,True, pill,2
+2612,junk,heroin,False,False,True,,4
+2613,acetylated_morphine,heroin,False,False,True,,2
+2614,morphiledine,heroin,False,False,False,,-1
+2615,n-methylmorphine,heroin,False,False,False,,-1
+2616,opioid,heroin,False,False,False,,-1
+2617,narcotic,heroin,False,False,True,,7
+2618,diamorphine,heroin,heroin,True,True,,5
+2619,smack,heroin,False,False,True, pill,2
+2620,black_tar,heroin,False,False,True,,1
+2621,brown_sugar,heroin,False,False,True, drug,2
+2622,chase,heroin,False,False,True, slang,7
+2623,herom,heroin,False,False,True, drug,6
+2624,hiorom,heroin,False,False,False,,-1
+2625,heron,heroin,False,False,True, drug,1
+2626,herione,heroin,False,False,True,,2
+2627,heroines,heroin,False,False,True, pill,4
+2628,heroinism,heroin,False,False,True,,5
+2629,heroine,heroin,False,False,True,,1
+2630,brown_sugar,heroin,False,False,True, drug,2
+2631,smack,heroin,False,False,True, pill,2
+2632,junk,heroin,False,False,True,,4
+2633,skag,heroin,False,False,True, pill,9
+2634,dope,heroin,False,False,True, pill,7
+2635,dust,heroin,False,False,False,,-1
+2636,habit,heroin,False,False,False,,-1
+2637,junkies,heroin,heroin,False,True, drug,3
+2638,smack,heroin,False,False,True, pill,2
+2639,morphium,heroin,morphine,False,True, slang,9
+2640,morfina,heroin,morphine,False,False,,-1
+2641,oppio,heroin,False,False,True, drug,3
+2642,oppioid,heroin,False,False,False,,-1
+2643,oppiacee,heroin,False,False,False,,-1
+2644,oppiacei,heroin,False,False,True, pill,6
+2645,opioids,heroin,oxycodone,False,True,,7
+2646,morphine_diacetate,heroin,False,False,True,,1
+2647,harinate,heroin,False,False,False,,-1
+2648,heronin,heroin,False,False,True, pill,1
+2649,heroina,heroin,heroin,True,True,,1
+2650,smack,heroin,False,False,True, pill,2
+2651,junk,heroin,False,False,True,,4
+2652,brown_sugar,heroin,False,False,True, drug,2
+2653,dope,heroin,False,False,True, pill,7
+2654,skag,heroin,False,False,True, pill,9
+2655,drag,heroin,False,False,False,,-1
+2656,diamorphine,heroin,heroin,True,True,,5
+2657,smack,heroin,False,False,True, pill,2
+2658,junk,heroin,False,False,True,,4
+2659,brown_sugar,heroin,False,False,True, drug,2
+2660,configuring,heroin,False,False,False,,-1
+2661,china_white,heroin,filgrastim,False,True,,9
+2662,black_tar,heroin,False,False,True,,1
+2663,benzoylethylmorphine,heroin,False,False,False,,-1
+2664,horse,heroin,False,False,False,,-1
+2665,junk,heroin,False,False,True,,4
+2666,smack,heroin,False,False,True, pill,2
+2667,heron,heroin,False,False,True, drug,1
+2668,heroein,heroin,False,False,True, pill,1
+2669,heroinne,heroin,False,False,True, pill,1
+2670,heroiene,heroin,False,False,True, pill,1
+2671,heroienne,heroin,False,False,False,,-1
+2672,heroinum,heroin,False,False,True,,3
+2673,tar,heroin,False,False,True, pill,2
+2674,smack,heroin,False,False,True, pill,2
+2675,dragon,heroin,False,False,True, drug,2
+2676,rocket,heroin,False,False,False,,-1
+2677,pearly,heroin,False,False,False,,-1
+2678,black_tar,heroin,False,False,True,,1
+2679,diamorphine,heroin,heroin,True,True,,5
+2680,morphinan-6-ol,heroin,False,False,False,,-1
+2681,heroin_pushers,heroin,False,True,True,,1
+2682,heroin_dealers,heroin,False,True,True,,2
+2683,heroin_traffickers,heroin,False,True,True,,1
+2684,heroin_smugglers,heroin,False,True,True,,2
+2685,horse,heroin,False,False,False,,-1
+2686,dragon,heroin,False,False,True, drug,2
+2687,smack,heroin,False,False,True, pill,2
+2688,junk,heroin,False,False,True,,4
+2689,poison,heroin,False,False,False,,-1
+2690,brown_sugar,heroin,False,False,True, drug,2
+2691,china_white,heroin,filgrastim,False,True,,9
+2692,snow,heroin,False,False,False,,-1
+2693,skag,heroin,False,False,True, pill,9
+2694,gear,heroin,False,False,True, pill,7
+2695,smack,heroin,False,False,True, pill,2
+2696,junk,heroin,False,False,True,,4
+2697,brown_sugar,heroin,False,False,True, drug,2
+2698,dope,heroin,False,False,True, pill,7
+2699,smack,heroin,False,False,True, pill,2
+2700,dragon,heroin,False,False,True, drug,2
+2701,gunpowder,heroin,False,False,True, drug,7
+2702,dipipanone,heroin,dipipanone,False,False,,-1
+2703,ketobemidone,heroin,ketobemidone,False,True,,2
+2704,methadone,heroin,methadone,False,True,,5
+2705,tiletamine,heroin,esketamine,False,False,,-1
+2706,smack,heroin,False,False,True, pill,2
+2707,brown_sugar,heroin,False,False,True, drug,2
+2708,dragon,heroin,False,False,True, drug,2
+2709,junk,heroin,False,False,True,,4
+2710,horse,heroin,False,False,False,,-1
+2711,dope,heroin,False,False,True, pill,7
+2712,mud,heroin,False,False,False,,-1
+2713,morph,heroin,False,False,False,,-1
+2714,morphium,heroin,morphine,False,True, slang,9
+2715,heroinum,heroin,False,False,True,,3
+2716,horse,heroin,False,False,False,,-1
+2717,smack,heroin,False,False,True, pill,2
+2718,smack,heroin,False,False,True, pill,2
+2719,brown_sugar,heroin,False,False,True, drug,2
+2720,dope,heroin,False,False,True, pill,7
+2721,china_white,heroin,filgrastim,False,True,,9
+2722,chiva,heroin,False,False,True,,3
+2723,jack,heroin,False,False,True, slang,5
+2724,ainti,heroin,False,False,False,,-1
+2725,horse,heroin,False,False,False,,-1
+2726,junk,heroin,False,False,True,,4
+2727,skag,heroin,False,False,True, pill,9
+2728,smack,heroin,False,False,True, pill,2
+2729,brown_sugar,heroin,False,False,True, drug,2
+2730,dope,heroin,False,False,True, pill,7
+2731,smack,heroin,False,False,True, pill,2
+2732,junk,heroin,False,False,True,,4
+2733,horse,heroin,False,False,False,,-1
+2734,skag,heroin,False,False,True, pill,9
+2735,dragon,heroin,False,False,True, drug,2
+2736,h-bomb,heroin,False,False,True, pill,1
+2737,dope,heroin,False,False,True, pill,7
+2738,smack,heroin,False,False,True, pill,2
+2739,junk,heroin,False,False,True,,4
+2740,horse,heroin,False,False,False,,-1
+2741,mud,heroin,False,False,False,,-1
+2742,brown_sugar,heroin,False,False,True, drug,2
+2743,diamorphine,heroin,heroin,True,True,,5
+2744,smack,heroin,False,False,True, pill,2
+2745,dope,heroin,False,False,True, pill,7
+2746,brown_sugar,heroin,False,False,True, drug,2
+2747,china_white,heroin,filgrastim,False,True,,9
+2748,dragon,heroin,False,False,True, drug,2
+2749,hard_candy,heroin,False,False,False,,-1
+2750,white_horse,heroin,filgrastim,False,True, drug,1
+2751,smack,heroin,False,False,True, pill,2
+2752,ipecac,heroin,ipecac,False,False,,-1
+2753,horse,heroin,False,False,False,,-1
+2754,smack,heroin,False,False,True, pill,2
+2755,smack,heroin,False,False,True, pill,2
+2756,junk,heroin,False,False,True,,4
+2757,heroin_hydrochloride,heroin,False,True,True,,2
+2758,oxycodone,heroin,oxycodone,False,True,,4
+2759,hydrocodone,heroin,hydrocodone,False,True,,5
+2760,codeine,heroin,codeine,False,True,,4
+2761,fentanyl,heroin,fentanyl,False,True,,3
+2762,morphine,heroin,morphine,False,True,,8
+2763,diamorphine,heroin,heroin,True,True,,5
+2764,morphinan,heroin,morphine,False,False,,-1
+2765,opioid,heroin,False,False,False,,-1
+2766,brown_sugar,heroin,False,False,True, drug,2
+2767,dope,heroin,False,False,True, pill,7
+2768,smack,heroin,False,False,True, pill,2
+2769,junk,heroin,False,False,True,,4
+2770,horse,heroin,False,False,False,,-1
+2771,morphinanediol,heroin,False,False,False,,-1
+2772,acetylpropionylmorphine,heroin,False,False,True,,9
+2773,acetylmethadol,heroin,False,False,True, slang,5
+2774,acetorphine,heroin,False,False,False,,-1
+2775,benzyldihydromorphine,heroin,False,False,False,,-1
+2776,desomorphine,heroin,desomorphine,False,True, drug,3
+2777,dinorphine,heroin,False,False,True,,7
+2778,ethylmorphine,heroin,ethylmorphine,False,False,,-1
+2779,fluorenol,heroin,False,False,False,,-1
+2780,ketomorphine,heroin,False,False,False,,-1
+2781,levorphanol,heroin,levorphanol,False,False,,-1
+2782,meperidine,heroin,pethidine,False,False,,-1
+2783,methyldesorphine,heroin,False,False,True, drug,9
+2784,morphinan,heroin,morphine,False,False,,-1
+2785,morphine,heroin,morphine,False,True,,8
+2786,myrophine,heroin,False,False,True, drug,10
+2787,nalbuphine,heroin,nalbuphine,False,False,,-1
+2788,narceine,heroin,False,False,False,,-1
+2789,nicomorphine,heroin,False,False,False,,-1
+2790,normorphine,heroin,normethadone,False,True, pill,3
+2791,opium,heroin,opium,False,True,,9
+2792,oxycodone,heroin,oxycodone,False,True,,4
+2793,oxymorphone,heroin,oxymorphone,False,True,,2
+2794,pentazocine,heroin,pentazocine,False,True,,3
+2795,pholcodine,heroin,pholcodine,False,False,,-1
+2796,thebaine,heroin,False,False,False,,-1
+2797,diacetylmorphine,heroin,heroin,True,True,,3
+2798,diamorphine,heroin,heroin,True,True,,5
+2799,acetylated_opium,heroin,False,False,True,,3
+2800,acetylated_codeine,heroin,False,False,True,,1
+2801,acetyldihydrocodeine,heroin,False,False,False,,-1
+2802,benzylmorphine,heroin,False,False,False,,-1
+2803,buprenorphine,heroin,buprenorphine,False,False,,-1
+2804,codeine,heroin,codeine,False,True,,4
+2805,desomorphine,heroin,desomorphine,False,True, drug,3
+2806,dextromoramide,heroin,dextromoramide,False,True,,1
+2807,diamorphine,heroin,heroin,True,True,,5
+2808,dinorphan,heroin,False,False,False,,-1
+2809,dipipanone,heroin,dipipanone,False,False,,-1
+2810,eptanone,heroin,False,False,False,,-1
+2811,ethylmorphine,heroin,ethylmorphine,False,False,,-1
+2812,fentanyl,heroin,fentanyl,False,True,,3
+2813,heroin,heroin,heroin,True,True,,1
+2814,hydrocodone,heroin,hydrocodone,False,True,,5
+2815,hydromorphone,heroin,hydromorphone,False,True,,4
+2816,levorphanol,heroin,levorphanol,False,False,,-1
+2817,lofentanyl,heroin,lofentanil,False,True, drug,6
+2818,methadone,heroin,methadone,False,True,,5
+2819,morphinan,heroin,morphine,False,False,,-1
+2820,myrophine,heroin,False,False,True, drug,10
+2821,naltrexone,heroin,naltrexone,False,True,,1
+2822,naloxone,heroin,naloxone,False,False,,-1
+2823,narcan,heroin,naloxone,False,False,,-1
+2824,nalorphine,heroin,nalorphine,False,True,,4
+2825,oxycodone,heroin,oxycodone,False,True,,4
+2826,oxymorphone,heroin,oxymorphone,False,True,,2
+2827,pentazocine,heroin,pentazocine,False,True,,3
+2828,phenomorphan,heroin,False,False,False,,-1
+2829,phenazocine,heroin,False,False,True,,6
+2830,piritramide,heroin,piritramide,False,True,,4
+2831,propoxyphene,heroin,dextropropoxyphene,False,False,,-1
+2832,remifentanil,heroin,remifentanil,False,True,,6
+2833,sufentanil,heroin,sufentanil,False,True,,6
+2834,tapentadol,heroin,tapentadol,False,True,,10
+2835,tramadol,heroin,tramadol,False,False,,-1
+2836,tilidine,heroin,False,False,False,,-1
+2837,smack,heroin,False,False,True, pill,2
+2838,junk,heroin,False,False,True,,4
+2839,brown_sugar,heroin,False,False,True, drug,2
+2840,skag,heroin,False,False,True, pill,9
+2841,horse,heroin,False,False,False,,-1
+2842,dragon,heroin,False,False,True, drug,2
+2843,poison,heroin,False,False,False,,-1
+2844,morphine,heroin,morphine,False,True,,8
+2845,codeine,heroin,codeine,False,True,,4
+2846,thebaine,heroin,False,False,False,,-1
+2847,harion,heroin,False,False,True, pill,1
+2848,methylmorphine,heroin,codeine,False,True, slang,7
+2849,diamorphine,heroin,heroin,True,True,,5
+2850,codeine,heroin,codeine,False,True,,4
+2851,thebaine,heroin,False,False,False,,-1
+2852,horse,heroin,False,False,False,,-1
+2853,smack,heroin,False,False,True, pill,2
+2854,heroine,heroin,False,False,True,,1
+2855,acetomorphine,heroin,False,False,True,,3
+2856,morphinediacetate,heroin,False,False,True,,1
+2857,sheror,heroin,False,False,False,,-1
+2858,veroin,heroin,False,False,False,,-1
+2859,hirion,heroin,False,False,True, pill,1
+2860,haroin,heroin,heroin,True,True,,1
+2861,heroinum,heroin,False,False,True,,3
+2862,diacetylmorphine,heroin,heroin,True,True,,3
+2863,morphine,heroin,morphine,False,True,,8
+2864,diacetylmorphine,heroin,heroin,True,True,,3
+2865,smack,heroin,False,False,True, pill,2
+2866,brown_sugar,heroin,False,False,True, drug,2
+2867,japan_girl,heroin,False,False,False,,-1
+2868,skag,heroin,False,False,True, pill,9
+2869,horse,heroin,False,False,False,,-1
+2870,black_tar,heroin,False,False,True,,1
+2871,smack,heroin,False,False,True, pill,2
+2872,tar,heroin,False,False,True, pill,2
+2873,dragon,heroin,False,False,True, drug,2
+2874,black,heroin,False,False,True, drug,3
+2875,poison,heroin,False,False,False,,-1
+2876,heroinne,heroin,False,False,True, pill,1
+2877,heroïne,heroin,False,False,True,,2
+2878,héroïne,heroin,False,False,True,,6
+2879,herione,heroin,False,False,True,,2
+2880,heróin,heroin,False,False,True,,8
+2881,heroyna,heroin,False,False,True, pill,1
+2882,hirae,heroin,False,False,False,,-1
+2883,heroen,heroin,False,False,True, pill,5
+2884,herion,heroin,heroin,True,True, pill,1
+2885,heron,heroin,False,False,True, drug,1
+2886,rayon,heroin,microcrystalline_cellulose,False,False,,-1
+2887,harion,heroin,False,False,True, pill,1
+2888,lysergic_acid,heroin,lysergic_acid_diethylamide,False,False,,-1
+2889,morphine,heroin,morphine,False,True,,8
+2890,stupefying_drug,heroin,False,False,False,,-1
+2891,narcotic,heroin,False,False,True,,7
+2892,teorin,heroin,False,False,False,,-1
+2893,rehirmon,heroin,False,False,False,,-1
+2894,smack,heroin,False,False,True, pill,2
+2895,junk,heroin,False,False,True,,4
+2896,horse,heroin,False,False,False,,-1
+2897,brown_sugar,heroin,False,False,True, drug,2
+2898,black_tar,heroin,False,False,True,,1
+2899,haerowin,heroin,False,False,True,,1
+2900,herroen,heroin,False,False,True, pill,1
+2901,herreowin,heroin,False,False,False,,-1
+2902,haerroyen,heroin,False,False,False,,-1
+2903,heroon,heroin,False,False,True,,3
+2904,herruen,heroin,False,False,False,,-1
+2905,smack,heroin,False,False,True, pill,2
+2906,brown_sugar,heroin,False,False,True, drug,2
+2907,dope,heroin,False,False,True, pill,7
+2908,junk,heroin,False,False,True,,4
+2909,skag,heroin,False,False,True, pill,9
+2910,horse,heroin,False,False,False,,-1
+2911,6-monoacetylmorphine,heroin,False,False,True,,1
+2912,smack,heroin,False,False,True, pill,2
+2913,china_white,heroin,filgrastim,False,True,,9
+2914,dragon,heroin,False,False,True, drug,2
+2915,whitehorse,heroin,False,False,True, pill,10
+2916,brown_sugar,heroin,False,False,True, drug,2
+2917,chinatown_white,heroin,False,False,False,,-1
+2918,embrace_the_dragon,heroin,False,False,False,,-1
+2919,fetanyl,heroin,fentanyl,False,True, pill,1
+2920,gear,heroin,False,False,True, pill,7
+2921,grade_a,heroin,False,False,False,,-1
+2922,hard_candy,heroin,False,False,False,,-1
+2923,boy,heroin,False,False,True, drug,3
+2924,white,heroin,filgrastim,False,False,,-1
+2925,smack,heroin,False,False,True, pill,2
+2926,analgesic,heroin,False,False,True,,5
+2927,heroinum,heroin,False,False,True,,3
+2928,morphinan,heroin,morphine,False,False,,-1
+2929,brown_sugar,heroin,False,False,True, drug,2
+2930,china_white,heroin,filgrastim,False,True,,9
+2931,chiva,heroin,False,False,True,,3
+2932,diesel,heroin,False,False,False,,-1
+2933,dope,heroin,False,False,True, pill,7
+2934,dragon,heroin,False,False,True, drug,2
+2935,h,heroin,False,False,False,,-1
+2936,hard_candy,heroin,False,False,False,,-1
+2937,hash,heroin,False,False,False,,-1
+2938,hay,heroin,False,False,False,,-1
+2939,hog,heroin,False,False,False,,-1
+2940,horse,heroin,False,False,False,,-1
+2941,junk,heroin,False,False,True,,4
+2942,marijuana,heroin,medical_cannabis,False,False,,-1
+2943,mary_jane,heroin,False,False,True, drug,7
+2944,methadone,heroin,methadone,False,True,,5
+2945,opium,heroin,opium,False,True,,9
+2946,oxycodone,heroin,oxycodone,False,True,,4
+2947,percocet,heroin,oxycodone,False,True,,5
+2948,pills,heroin,False,False,False,,-1
+2949,psilocybin,heroin,psilocybine,False,True, slang,10
+2950,purple_haze,heroin,False,False,False,,-1
+2951,reefer,heroin,False,False,False,,-1
+2952,smack,heroin,False,False,True, pill,2
+2953,snow,heroin,False,False,False,,-1
+2954,speed,heroin,False,False,False,,-1
+2955,stiles,heroin,False,False,False,,-1
+2956,arettes,heroin,False,False,False,,-1
+2957,herb,heroin,False,False,False,,-1
+2958,lsd,heroin,lysergic_acid_diethylamide,False,False,,-1
+2959,d_horse,heroin,False,False,False,,-1
+2960,brown_sugar,heroin,False,False,True, drug,2
+2961,herion,heroin,heroin,True,True, pill,1
+2962,heron,heroin,False,False,True, drug,1
+2963,herrin,heroin,False,False,False,,-1
+2964,huron,heroin,False,False,False,,-1
+2965,herown,heroin,False,False,False,,-1
+2966,diamorphine,heroin,heroin,True,True,,5
+2967,smack,heroin,False,False,True, pill,2
+2968,junk,heroin,False,False,True,,4
+2969,china_white,heroin,filgrastim,False,True,,9
+2970,dragon,heroin,False,False,True, drug,2
+2971,elephant,heroin,False,False,True, drug,1
+2972,one-way_ticket,heroin,False,False,True, drug,10
+2973,poison,heroin,False,False,False,,-1
+2974,heron,heroin,False,False,True, drug,1
+2975,heroinum,heroin,False,False,True,,3
+2976,hard_drug,heroin,heroin,False,True,,5
+2977,illegal_drug,heroin,medical_cannabis,False,True,,3
+2978,smack,heroin,False,False,True, pill,2
+2979,junk,heroin,False,False,True,,4
+2980,horse,heroin,False,False,False,,-1
+2981,brown_sugar,heroin,False,False,True, drug,2
+2982,china_white,heroin,filgrastim,False,True,,9
+2983,dragon,heroin,False,False,True, drug,2
+2984,black_tar,heroin,False,False,True,,1
+2985,heroin,heroin,heroin,True,True,,1
+2986,horse,heroin,False,False,False,,-1
+2987,junk,heroin,False,False,True,,4
+2988,smack,heroin,False,False,True, pill,2
+2989,brown_sugar,heroin,False,False,True, drug,2
+2990,china_white,heroin,filgrastim,False,True,,9
+2991,smack,heroin,False,False,True, pill,2
+2992,horse,heroin,False,False,False,,-1
+2993,gear,heroin,False,False,True, pill,7
+2994,junk,heroin,False,False,True,,4
+2995,dragon,heroin,False,False,True, drug,2
+2996,herion,heroin,heroin,True,True, pill,1
+2997,heron,heroin,False,False,True, drug,1
+2998,herrin,heroin,False,False,False,,-1
+2999,heroun,heroin,False,False,True, pill,1
+3000,herwn,heroin,False,False,False,,-1
+3001,hiaraun,heroin,False,False,False,,-1
+3002,hiraun,heroin,False,False,False,,-1
+3003,diamorphine,heroin,heroin,True,True,,5
+3004,eucaine,heroin,False,False,False,,-1
+3005,levo-dromoran,heroin,False,False,False,,-1
+3006,meperidine,heroin,pethidine,False,False,,-1
+3007,normorphine,heroin,normethadone,False,True, pill,3
+3008,paramorphan,heroin,False,False,False,,-1
+3009,phenadoxone,heroin,False,False,False,,-1
+3010,phenomorphan,heroin,False,False,False,,-1
+3011,thebacon,heroin,hydrocodone,False,False,,-1
+3012,repand,heroin,False,False,False,,-1
+3013,smack,heroin,False,False,True, pill,2
+3014,junk,heroin,False,False,True,,4
+3015,dragon,heroin,False,False,True, drug,2
+3016,horse,heroin,False,False,False,,-1
+3017,brown_sugar,heroin,False,False,True, drug,2
+3018,china_white,heroin,filgrastim,False,True,,9
+3019,smack,heroin,False,False,True, pill,2
+3020,brown_sugar,heroin,False,False,True, drug,2
+3021,china_white,heroin,filgrastim,False,True,,9
+3022,dance_fever,heroin,False,False,True, pill,5
+3023,gear,heroin,False,False,True, pill,7
+3024,h,heroin,False,False,False,,-1
+3025,healer,heroin,False,False,False,,-1
+3026,diamorphine,heroin,heroin,True,True,,5
+3027,smack,heroin,False,False,True, pill,2
+3028,junk,heroin,False,False,True,,4
+3029,heronin,heroin,False,False,True, pill,1
+3030,haroin,heroin,heroin,True,True,,1
+3031,herion,heroin,heroin,True,True, pill,1
+3032,heroyne,heroin,False,False,True, pill,8
+3033,heroign,heroin,False,False,True, pill,1
+3034,heroiyn,heroin,False,False,True,,10
+3035,morphine,heroin,morphine,False,True,,8
+3036,codeine,heroin,codeine,False,True,,4
+3037,brown_sugar,heroin,False,False,True, drug,2
+3038,dope,heroin,False,False,True, pill,7
+3039,horse,heroin,False,False,False,,-1
+3040,junk,heroin,False,False,True,,4
+3041,skag,heroin,False,False,True, pill,9
+3042,smack,heroin,False,False,True, pill,2
+3043,brown_sugar,heroin,False,False,True, drug,2
+3044,smack,heroin,False,False,True, pill,2
+3045,dope,heroin,False,False,True, pill,7
+3046,morphine,heroin,morphine,False,True,,8
+3047,opium,heroin,opium,False,True,,9
+3048,morphine_diacetate,heroin,False,False,True,,1
+3049,smack,heroin,False,False,True, pill,2
+3050,junk,heroin,False,False,True,,4
+3051,dope,heroin,False,False,True, pill,7
+3052,horse,heroin,False,False,False,,-1
+3053,smack,heroin,False,False,True, pill,2
+3054,brown_sugar,heroin,False,False,True, drug,2
+3055,china_white,heroin,filgrastim,False,True,,9
+3056,dragon,heroin,False,False,True, drug,2
+3057,white_nurse,heroin,False,False,True, drug,2
+3058,smack,heroin,False,False,True, pill,2
+3059,junk,heroin,False,False,True,,4
+3060,horse,heroin,False,False,False,,-1
+3061,brown_sugar,heroin,False,False,True, drug,2
+3062,china_white,heroin,filgrastim,False,True,,9
+3063,dragon,heroin,False,False,True, drug,2
+3064,skag,heroin,False,False,True, pill,9
+3065,diamorphine,heroin,heroin,True,True,,5
+3066,junkie,heroin,heroin,False,True,,5
+3067,smack,heroin,False,False,True, pill,2
+3068,brown_sugar,heroin,False,False,True, drug,2
+3069,china_white,heroin,filgrastim,False,True,,9
+3070,dragon,heroin,False,False,True, drug,2
+3071,horse,heroin,False,False,False,,-1
+3072,junk,heroin,False,False,True,,4
+3073,skag,heroin,False,False,True, pill,9
+3074,skunk,heroin,False,False,False,,-1
+3075,morphine,heroin,morphine,False,True,,8
+3076,oxycodone,heroin,oxycodone,False,True,,4
+3077,codeine,heroin,codeine,False,True,,4
+3078,heroin,heroin,heroin,True,True,,1
+3079,dionine,heroin,False,False,False,,-1
+3080,dynorphin,heroin,False,False,False,,-1
+3081,euphoria,heroin,False,False,False,,-1
+3082,morphine,heroin,morphine,False,True,,8
+3083,myrophine,heroin,False,False,True, drug,10
+3084,nalmefene,heroin,nalmefene,False,False,,-1
+3085,naloxone,heroin,naloxone,False,False,,-1
+3086,nalorphine,heroin,nalorphine,False,True,,4
+3087,norpethidine,heroin,False,False,False,,-1
+3088,opium,heroin,opium,False,True,,9
+3089,oxycodone,heroin,oxycodone,False,True,,4
+3090,oxymorphine,heroin,oxymorphone,False,True, slang,6
+3091,paregoric,heroin,morphine,False,False,,-1
+3092,pentazocine,heroin,pentazocine,False,True,,3
+3093,physeptone,heroin,methadone,False,True,,7
+3094,piperidone,heroin,paliperidone,False,False,,-1
+3095,psilocybin,heroin,psilocybine,False,True, slang,10
+3096,smack,heroin,False,False,True, pill,2
+3097,junk,heroin,False,False,True,,4
+3098,brown_sugar,heroin,False,False,True, drug,2
+3099,skunk,heroin,False,False,False,,-1
+3100,china_white,heroin,filgrastim,False,True,,9
+3101,dragon,heroin,False,False,True, drug,2
+3102,hurry_up,heroin,False,False,False,,-1
+3103,diamorphine_hydrochloride,heroin,False,True,True,,7
+3104,herion,heroin,heroin,True,True, pill,1
+3105,herione,heroin,False,False,True,,2
+3106,herione,heroin,False,False,True,,2
+3107,herione,heroin,False,False,True,,2
+3108,smack,heroin,False,False,True, pill,2
+3109,junk,heroin,False,False,True,,4
+3110,horse,heroin,False,False,False,,-1
+3111,brown_sugar,heroin,False,False,True, drug,2
+3112,skag,heroin,False,False,True, pill,9
+3113,gear,heroin,False,False,True, pill,7
+3114,h,heroin,False,False,False,,-1
+3115,herion,heroin,heroin,True,True, pill,1
+3116,heroinne,heroin,False,False,True, pill,1
+3117,iffuman,heroin,False,False,False,,-1
+3118,smack,heroin,False,False,True, pill,2
+3119,morphine,heroin,morphine,False,True,,8
+3120,tar,heroin,False,False,True, pill,2
+3121,dope,heroin,False,False,True, pill,7
+3122,smack,heroin,False,False,True, pill,2
+3123,horse,heroin,False,False,False,,-1
+3124,junk,heroin,False,False,True,,4
+3125,black_tar,heroin,False,False,True,,1
+3126,smack_heads,heroin,False,False,True,,6
+3127,morocco,heroin,False,False,False,,-1
+3128,china_white,heroin,filgrastim,False,True,,9
+3129,dragon,heroin,False,False,True, drug,2
+3130,brown_sugar,heroin,False,False,True, drug,2
+3131,black_tar,heroin,False,False,True,,1
+3132,nephretin,heroin,False,False,False,,-1
+3133,oxymorphone,heroin,oxymorphone,False,True,,2
+3134,l-a_concrete,heroin,False,False,False,,-1
+3135,smack,heroin,False,False,True, pill,2
+3136,smacked,heroin,False,False,True, pill,2
+3137,dope,heroin,False,False,True, pill,7
+3138,china_white,heroin,filgrastim,False,True,,9
+3139,h,heroin,False,False,False,,-1
+3140,junk,heroin,False,False,True,,4
+3141,dragon,heroin,False,False,True, drug,2
+3142,skag,heroin,False,False,True, pill,9
+3143,gear,heroin,False,False,True, pill,7
+3144,brown_sugar,heroin,False,False,True, drug,2
+3145,10-20,heroin,False,False,False,,-1
+3146,horse,heroin,False,False,False,,-1
+3147,murder_8,heroin,False,False,False,,-1
+3148,diamorphine,heroin,heroin,True,True,,5
+3149,morfin,heroin,False,False,False,,-1
+3150,dolophine,heroin,methadone,False,True,,5
+3151,methadone,heroin,methadone,False,True,,5
+3152,levo-alpha-acetyl-methadol,heroin,False,False,True, drug,3
+3153,naloxone,heroin,naloxone,False,False,,-1
+3154,buprenorphine,heroin,buprenorphine,False,False,,-1
+3155,haerujieon,heroin,False,False,False,,-1
+3156,shiruko,heroin,False,False,False,,-1
+3157,hiruko,heroin,False,False,False,,-1
+3158,haiyaku,heroin,False,False,False,,-1
+3159,herion,heroin,heroin,True,True, pill,1
+3160,horse,heroin,False,False,False,,-1
+3161,junk,heroin,False,False,True,,4
+3162,morphine,heroin,morphine,False,True,,8
+3163,opium,heroin,opium,False,True,,9
+3164,smack,heroin,False,False,True, pill,2
+3165,junk,heroin,False,False,True,,4
+3166,speedball,heroin,False,False,True, pill,2
+3167,dragon,heroin,False,False,True, drug,2
+3168,horse,heroin,False,False,False,,-1
+3169,poison,heroin,False,False,False,,-1
+3170,diacetylmorphine,heroin,heroin,True,True,,3
+3171,acetylmorphine,heroin,heroin,True,True,,1
+3172,heroiine,heroin,False,False,True, pill,1
+3173,heroine,heroin,False,False,True,,1
+3174,smack,heroin,False,False,True, pill,2
+3175,brown_sugar,heroin,False,False,True, drug,2
+3176,china_white,heroin,filgrastim,False,True,,9
+3177,dragon,heroin,False,False,True, drug,2
+3178,junk,heroin,False,False,True,,4
+3179,horse,heroin,False,False,False,,-1
+3180,smack,heroin,False,False,True, pill,2
+3181,dope,heroin,False,False,True, pill,7
+3182,junk,heroin,False,False,True,,4
+3183,horse,heroin,False,False,False,,-1
+3184,heoin,heroin,False,False,True,,2
+3185,heronin,heroin,False,False,True, pill,1
+3186,heroinum,heroin,False,False,True,,3
+3187,morphine_diacetate,heroin,False,False,True,,1
+3188,smack,heroin,False,False,True, pill,2
+3189,junk,heroin,False,False,True,,4
+3190,china_white,heroin,filgrastim,False,True,,9
+3191,big_h,heroin,False,False,True, pill,10
+3192,black_tar,heroin,False,False,True,,1
+3193,horse,heroin,False,False,False,,-1
+3194,smack,heroin,False,False,True, pill,2
+3195,junk,heroin,False,False,True,,4
+3196,brown_sugar,heroin,False,False,True, drug,2
+3197,china_white,heroin,filgrastim,False,True,,9
+3198,retrophin,heroin,False,False,False,,-1
+3199,morpheline,heroin,False,False,True, slang,6
+3200,morphine_acetate,heroin,False,False,True,,2
+3201,smack,heroin,False,False,True, pill,2
+3202,junk,heroin,False,False,True,,4
+3203,brown,heroin,False,False,True, drug,3
+3204,china_white,heroin,filgrastim,False,True,,9
+3205,morphia,heroin,morphine,False,False,,-1
+3206,morphine,heroin,morphine,False,True,,8
+3207,heron_user,heroin,False,False,True,,1
+3208,horse,heroin,False,False,False,,-1
+3209,smack,heroin,False,False,True, pill,2
+3210,junk,heroin,False,False,True,,4
+3211,white_horse,heroin,filgrastim,False,True, drug,1
+3212,smack,heroin,False,False,True, pill,2
+3213,junk,heroin,False,False,True,,4
+3214,horse,heroin,False,False,False,,-1
+3215,heroinum,heroin,False,False,True,,3
+3216,junkies,heroin,heroin,False,True, drug,3
+3217,smack,heroin,False,False,True, pill,2
+3218,dope,heroin,False,False,True, pill,7
+3219,junkie,heroin,heroin,False,True,,5
+3220,heroin,heroin,heroin,True,True,,1
+3221,levomethorphan,heroin,False,False,True,,6
+3222,levorphanol,heroin,levorphanol,False,False,,-1
+3223,morphine,heroin,morphine,False,True,,8
+3224,oxycodone,heroin,oxycodone,False,True,,4
+3225,oxymorphone,heroin,oxymorphone,False,True,,2
+3226,thebaine,heroin,False,False,False,,-1
+3227,codein,heroin,codeine,False,True, slang,3
+3228,airplane,heroin,False,False,False,,-1
+3229,morphinan,heroin,morphine,False,False,,-1
+3230,morphine,heroin,morphine,False,True,,8
+3231,morphinate,heroin,morphine,False,True, pill,2
+3232,huroin,heroin,False,False,True, pill,1
+3233,hurion,heroin,False,False,False,,-1
+3234,haroin,heroin,heroin,True,True,,1
+3235,herion,heroin,heroin,True,True, pill,1
+3236,hirion,heroin,False,False,True, pill,1
+3237,herjin,heroin,False,False,False,,-1
+3238,diamorphan,heroin,False,False,True,,1
+3239,morphinan,heroin,morphine,False,False,,-1
+3240,morphinane,heroin,False,False,True, drug,5
+3241,junk,heroin,False,False,True,,4
+3242,skag,heroin,False,False,True, pill,9
+3243,smack,heroin,False,False,True, pill,2
+3244,brown_sugar,heroin,False,False,True, drug,2
+3245,dragon,heroin,False,False,True, drug,2
+3246,gear,heroin,False,False,True, pill,7
+3247,poison,heroin,False,False,False,,-1
+3248,horse,heroin,False,False,False,,-1
+3249,smack,heroin,False,False,True, pill,2
+3250,smack,heroin,False,False,True, pill,2
+3251,junk,heroin,False,False,True,,4
+3252,smack,heroin,False,False,True, pill,2
+3253,junk,heroin,False,False,True,,4
+3254,brown_sugar,heroin,False,False,True, drug,2
+3255,h,heroin,False,False,False,,-1
+3256,horse,heroin,False,False,False,,-1
+3257,china_white,heroin,filgrastim,False,True,,9
+3258,black_tar,heroin,False,False,True,,1
+3259,brown_sugar,heroin,False,False,True, drug,2
+3260,china_white,heroin,filgrastim,False,True,,9
+3261,chiva,heroin,False,False,True,,3
+3262,dope,heroin,False,False,True, pill,7
+3263,junk,heroin,False,False,True,,4
+3264,skag,heroin,False,False,True, pill,9
+3265,smack,heroin,False,False,True, pill,2
+3266,herroine,heroin,False,False,True,,3
+3267,herroyne,heroin,False,False,False,,-1
+3268,herrown,heroin,False,False,True,,6
+3269,smack,heroin,False,False,True, pill,2
+3270,junk,heroin,False,False,True,,4
+3271,smack,heroin,False,False,True, pill,2
+3272,brown_sugar,heroin,False,False,True, drug,2
+3273,horse,heroin,False,False,False,,-1
+3274,junk,heroin,False,False,True,,4
+3275,skag,heroin,False,False,True, pill,9
+3276,gear,heroin,False,False,True, pill,7
+3277,black_tar,heroin,False,False,True,,1
+3278,brown_sugar,heroin,False,False,True, drug,2
+3279,smack,heroin,False,False,True, pill,2
+3280,china_white,heroin,filgrastim,False,True,,9
+3281,dragon,heroin,False,False,True, drug,2
+3282,horse,heroin,False,False,False,,-1
+3283,black_tar,heroin,False,False,True,,1
+3284,smack,heroin,False,False,True, pill,2
+3285,tar,heroin,False,False,True, pill,2
+3286,dragon,heroin,False,False,True, drug,2
+3287,dust,heroin,False,False,False,,-1
+3288,black_tar,heroin,False,False,True,,1
+3289,smack,heroin,False,False,True, pill,2
+3290,junk,heroin,False,False,True,,4
+3291,horse,heroin,False,False,False,,-1
+3292,brown_sugar,heroin,False,False,True, drug,2
+3293,skag,heroin,False,False,True, pill,9
+3294,dragon,heroin,False,False,True, drug,2
+3295,black_tar,heroin,False,False,True,,1
+3296,tar,heroin,False,False,True, pill,2
+3297,dtar,heroin,False,False,False,,-1
+3298,black_tar,heroin,False,False,True,,1
+3299,hard_stuff,heroin,False,False,True, pill,1
+3300,junk,heroin,False,False,True,,4
+3301,smack,heroin,False,False,True, pill,2
+3302,dragon,heroin,False,False,True, drug,2
+3303,herione_,heroin,False,False,True,,2
+3304,heroyne,heroin,False,False,True, pill,8
+3305,herryon,heroin,False,False,False,,-1
+3306,herion,heroin,heroin,True,True, pill,1
+3307,hiorin,heroin,False,False,True, pill,1
+3308,hioron,heroin,False,False,True,,6
+3309,smack,heroin,False,False,True, pill,2
+3310,dope,heroin,False,False,True, pill,7
+3311,brown_sugar,heroin,False,False,True, drug,2
+3312,h,heroin,False,False,False,,-1
+3313,horse,heroin,False,False,False,,-1
+3314,skag,heroin,False,False,True, pill,9
+3315,junk,heroin,False,False,True,,4
+3316,acetylmethadol,heroin,False,False,True, slang,5
+3317,acetylpropionylmethadol,heroin,False,False,False,,-1
+3318,buprenorphine,heroin,buprenorphine,False,False,,-1
+3319,butorphanol,heroin,butorphanol,False,False,,-1
+3320,codeine,heroin,codeine,False,True,,4
+3321,fentanyl,heroin,fentanyl,False,True,,3
+3322,hydrocodone,heroin,hydrocodone,False,True,,5
+3323,hydromorphone,heroin,hydromorphone,False,True,,4
+3324,levorphanol,heroin,levorphanol,False,False,,-1
+3325,meperidine,heroin,pethidine,False,False,,-1
+3326,methadone,heroin,methadone,False,True,,5
+3327,morphine,heroin,morphine,False,True,,8
+3328,oxycodone,heroin,oxycodone,False,True,,4
+3329,oxymorphone,heroin,oxymorphone,False,True,,2
+3330,pentazocine,heroin,pentazocine,False,True,,3
+3331,propoxyphene,heroin,dextropropoxyphene,False,False,,-1
+3332,sufentanil,heroin,sufentanil,False,True,,6
+3333,zero,heroin,False,False,False,,-1
+3334,morphium,heroin,morphine,False,True, slang,9
+3335,diamorphine,heroin,heroin,True,True,,5
+3336,heroinum,heroin,False,False,True,,3
+3337,brown_sugar,heroin,False,False,True, drug,2
+3338,china_white,heroin,filgrastim,False,True,,9
+3339,black_tar,heroin,False,False,True,,1
+3340,morphium,heroin,morphine,False,True, slang,9
+3341,hiroin,heroin,False,False,True, pill,1
+3342,hriorin,heroin,False,False,False,,-1
+3343,herion,heroin,heroin,True,True, pill,1
+3344,diacetylmorphine,heroin,heroin,True,True,,3
+3345,murphy,heroin,False,False,False,,-1
+3346,oxymorphone,heroin,oxymorphone,False,True,,2
+3347,oxycodone,heroin,oxycodone,False,True,,4
+3348,hydromorphone,heroin,hydromorphone,False,True,,4
+3349,hydrocodone,heroin,hydrocodone,False,True,,5
+3350,codeine,heroin,codeine,False,True,,4
+3351,herion,heroin,heroin,True,True, pill,1
+3352,heroin,heroin,heroin,True,True,,1
+3353,hheroin,heroin,False,False,True,,2
+3354,hueroin,heroin,False,False,True, pill,1
+3355,huerroin,heroin,False,False,False,,-1
+3356,heroiun,heroin,False,False,True,,2
+3357,diacetylmorphine,heroin,heroin,True,True,,3
+3358,'h',heroin,False,False,False,,-1
+3359,horse,heroin,False,False,False,,-1
+3360,acetylmorphine,heroin,heroin,True,True,,1
+3361,smack,heroin,False,False,True, pill,2
+3362,stuff,heroin,False,False,False,,-1
+3363,white,heroin,filgrastim,False,False,,-1
+3364,sugar,heroin,False,False,True, slang,9
+3365,smack,heroin,False,False,True, pill,2
+3366,junk,heroin,False,False,True,,4
+3367,brown_sugar,heroin,False,False,True, drug,2
+3368,horse,heroin,False,False,False,,-1
+3369,dragon,heroin,False,False,True, drug,2
+3370,murder,heroin,False,False,False,,-1
+3371,herion,heroin,heroin,True,True, pill,1
+3372,herionum,heroin,False,False,False,,-1
+3373,heron,heroin,False,False,True, drug,1
+3374,morphinan-6-ol,heroin,False,False,False,,-1
+3375,smack,heroin,False,False,True, pill,2
+3376,junk,heroin,False,False,True,,4
+3377,skag,heroin,False,False,True, pill,9
+3378,$hit,heroin,False,False,False,,-1
+3379,dragon,heroin,False,False,True, drug,2
+3380,poison,heroin,False,False,False,,-1
+3381,diamorphone,heroin,heroin,True,True,,4
+3382,acetylmorphone,heroin,False,False,True,,3
+3383,acetyldihydromorphine,heroin,False,False,True, drug,5
+3384,dipipanone,heroin,dipipanone,False,False,,-1
+3385,ketobemidone,heroin,ketobemidone,False,True,,2
+3386,own_association,heroin,False,False,False,,-1
+3387,tar,heroin,False,False,True, pill,2
+3388,horse,heroin,False,False,False,,-1
+3389,smack,heroin,False,False,True, pill,2
+3390,junkie,heroin,heroin,False,True,,5
+3391,smack,heroin,False,False,True, pill,2
+3392,junk,heroin,False,False,True,,4
+3393,smack,heroin,False,False,True, pill,2
+3394,junk,heroin,False,False,True,,4
+3395,fentanyl,heroin,fentanyl,False,True,,3
+3396,hydromorphone,heroin,hydromorphone,False,True,,4
+3397,oxymorphone,heroin,oxymorphone,False,True,,2
+3398,meperidine,heroin,pethidine,False,False,,-1
+3399,tramadol,heroin,tramadol,False,False,,-1
+3400,levorphanol,heroin,levorphanol,False,False,,-1
+3401,heroen,heroin,False,False,True, pill,5
+3402,herione,heroin,False,False,True,,2
+3403,heroenne,heroin,False,False,True, pill,8
+3404,heroiene,heroin,False,False,True, pill,1
+3405,heroina,heroin,heroin,True,True,,1
+3406,acetomorphine,heroin,False,False,True,,3
+3407,smack,heroin,False,False,True, pill,2
+3408,skag,heroin,False,False,True, pill,9
+3409,gear,heroin,False,False,True, pill,7
+3410,junk,heroin,False,False,True,,4
+3411,horse,heroin,False,False,False,,-1
+3412,dragon,heroin,False,False,True, drug,2
+3413,brown_sugar,heroin,False,False,True, drug,2
+3414,diamorphine,heroin,heroin,True,True,,5
+3415,morphinediacetate,heroin,False,False,True,,1
+3416,diaphene,heroin,diphenhydramine,False,False,,-1
+3417,diazo,heroin,acetazolamide,False,False,,-1
+3418,diacetylmorphine,heroin,heroin,True,True,,3
+3419,diamorphine,heroin,heroin,True,True,,5
+3420,brown_sugar,heroin,False,False,True, drug,2
+3421,black_tar,heroin,False,False,True,,1
+3422,heronin,heroin,False,False,True, pill,1
+3423,heronine,heroin,False,False,True, pill,1
+3424,heroinum,heroin,False,False,True,,3
+3425,smack,heroin,False,False,True, pill,2
+3426,delta-9-tetrahydrocannabinol,heroin,False,False,False,,-1
+3427,heroinum,heroin,False,False,True,,3
+3428,morphine_diacetate,heroin,False,False,True,,1
+3429,horse,heroin,False,False,False,,-1
+3430,smack,heroin,False,False,True, pill,2
+3431,horse,heroin,False,False,False,,-1
+3432,smack,heroin,False,False,True, pill,2
+3433,junk,heroin,False,False,True,,4
+3434,dragon,heroin,False,False,True, drug,2
+3435,brown_sugar,heroin,False,False,True, drug,2
+3436,herion,heroin,heroin,True,True, pill,1
+3437,herjun,heroin,False,False,False,,-1
+3438,herrin,heroin,False,False,False,,-1
+3439,huron,heroin,False,False,False,,-1
+3440,hyron,heroin,False,False,True, slang,4
+3441,brown_sugar,heroin,False,False,True, drug,2
+3442,china_white,heroin,filgrastim,False,True,,9
+3443,chiva,heroin,False,False,True,,3
+3444,dope,heroin,False,False,True, pill,7
+3445,dragon,heroin,False,False,True, drug,2
+3446,h,heroin,False,False,False,,-1
+3447,hard,heroin,False,False,True, drug,5
+3448,horse,heroin,False,False,False,,-1
+3449,junk,heroin,False,False,True,,4
+3450,skag,heroin,False,False,True, pill,9
+3451,smack,heroin,False,False,True, pill,2
+3452,herion,heroin,heroin,True,True, pill,1
+3453,dionin,heroin,False,False,True, drug,5
+3454,eucodal,heroin,False,False,True, slang,1
+3455,meperidine,heroin,pethidine,False,False,,-1
+3456,oxymorphone,heroin,oxymorphone,False,True,,2
+3457,fentanyl,heroin,fentanyl,False,True,,3
+3458,buprenorphine,heroin,buprenorphine,False,False,,-1
+3459,smack,heroin,False,False,True, pill,2
+3460,junkies,heroin,heroin,False,True, drug,3
+3461,horse,heroin,False,False,False,,-1
+3462,brown_sugar,heroin,False,False,True, drug,2
+3463,china_white,heroin,filgrastim,False,True,,9
+3464,dragon,heroin,False,False,True, drug,2
+3465,mud,heroin,False,False,False,,-1
+3466,morphine_diacetate,heroin,False,False,True,,1
+3467,heroin_junkies,heroin,False,True,True,,1
+3468,heroin_dealers,heroin,False,True,True,,2
+3469,heroin_kingpins,heroin,False,True,True,,1
+3470,drug_dealers,heroin,False,False,True, pill,1
+3471,drug_lords,heroin,False,False,False,,-1
+3472,diamorphine,heroin,heroin,True,True,,5
+3473,morphinediacetate,heroin,False,False,True,,1
+3474,dragon's_breath,heroin,False,False,True, pill,4
+3475,smack,heroin,False,False,True, pill,2
+3476,junk,heroin,False,False,True,,4
+3477,horse,heroin,False,False,False,,-1
+3478,train,heroin,False,False,False,,-1
+3479,china_white,heroin,filgrastim,False,True,,9
+3480,her_ions,heroin,False,False,True, slang,7
+3481,heronine,heroin,False,False,True, pill,1
+3482,heroinum,heroin,False,False,True,,3
+3483,heroína,heroin,False,False,True,,3
+3484,heroïne,heroin,False,False,True,,2
+3485,héroïne,heroin,False,False,True,,6
+3486,heróin,heroin,False,False,True,,8
+3487,héroïne,heroin,False,False,True,,6
+3488,morphinan-6-ol,heroin,False,False,False,,-1
+3489,î¼-opioid_receptor_agonist,heroin,False,False,True, slang,8
+3490,diamorphine,heroin,heroin,True,True,,5
+3491,heroin_hydrochloride,heroin,False,True,True,,2
+3492,shirley,heroin,False,False,False,,-1
+3493,smack,heroin,False,False,True, pill,2
+3494,speedball,heroin,False,False,True, pill,2
+3495,brown_sugar,heroin,False,False,True, drug,2
+3496,china_white,heroin,filgrastim,False,True,,9
+3497,thunder,heroin,False,False,False,,-1
+3498,dragon,heroin,False,False,True, drug,2
+3499,eroine,heroin,False,False,True, pill,1
+3500,heroïne,heroin,False,False,True,,2
+3501,heroinë,heroin,False,False,True,,10
+3502,heroinum,heroin,False,False,True,,3
+3503,heroïnos,heroin,False,False,False,,-1
+3504,herois,heroin,False,False,True, drug,3
+3505,heroïdes,heroin,False,False,False,,-1
+3506,brown_sugar,heroin,False,False,True, drug,2
+3507,smack,heroin,False,False,True, pill,2
+3508,junk,heroin,False,False,True,,4
+3509,dope,heroin,False,False,True, pill,7
+3510,horse,heroin,False,False,False,,-1
+3511,dragon,heroin,False,False,True, drug,2
+3512,smack,heroin,False,False,True, pill,2
+3513,junk,heroin,False,False,True,,4
+3514,brown_sugar,heroin,False,False,True, drug,2
+3515,skag,heroin,False,False,True, pill,9
+3516,cone,heroin,False,False,False,,-1
+3517,dope,heroin,False,False,True, pill,7
+3518,dust,heroin,False,False,False,,-1
+3519,horse,heroin,False,False,False,,-1
+3520,chinese_white,heroin,False,False,True, drug,3
+3521,acetylpropionylmorphine,heroin,False,False,True,,9
+3522,alphaprodine,heroin,False,False,False,,-1
+3523,anileridine,heroin,False,False,False,,-1
+3524,bemegride,heroin,False,False,False,,-1
+3525,levorphanol,heroin,levorphanol,False,False,,-1
+3526,meperidine,heroin,pethidine,False,False,,-1
+3527,methadone,heroin,methadone,False,True,,5
+3528,phenadoxone,heroin,False,False,False,,-1
+3529,phenomorphan,heroin,False,False,False,,-1
+3530,propoxyphene,heroin,dextropropoxyphene,False,False,,-1
+3531,diamorphine,heroin,heroin,True,True,,5
+3532,horse,heroin,False,False,False,,-1
+3533,junk,heroin,False,False,True,,4
+3534,skag,heroin,False,False,True, pill,9
+3535,smack,heroin,False,False,True, pill,2
+3536,herion,heroin,heroin,True,True, pill,1
+3537,diamorphine,heroin,heroin,True,True,,5
+3538,smack,heroin,False,False,True, pill,2
+3539,junk,heroin,False,False,True,,4
+3540,herione,heroin,False,False,True,,2
+3541,herion,heroin,heroin,True,True, pill,1
+3542,heroin,heroin,heroin,True,True,,1
+3543,fentynl,heroin,dicyclomine,False,True, pill,3
+3544,oxycodone,heroin,oxycodone,False,True,,4
+3545,smack,heroin,False,False,True, pill,2
+3546,junk,heroin,False,False,True,,4
+3547,smack,heroin,False,False,True, pill,2
+3548,junk,heroin,False,False,True,,4
+3549,brown_sugar,heroin,False,False,True, drug,2
+3550,dragon,heroin,False,False,True, drug,2
+3551,heat,heroin,False,False,False,,-1
+3552,horse,heroin,False,False,False,,-1
+3553,dope,heroin,False,False,True, pill,7
+3554,morphia,heroin,morphine,False,False,,-1
+3555,brown_sugar,heroin,False,False,True, drug,2
+3556,dope,heroin,False,False,True, pill,7
+3557,smack,heroin,False,False,True, pill,2
+3558,junk,heroin,False,False,True,,4
+3559,dragon,heroin,False,False,True, drug,2
+3560,horse,heroin,False,False,False,,-1
+3561,mud,heroin,False,False,False,,-1
+3562,herniow,heroin,False,False,True,,2
+3563,heriyann,heroin,False,False,False,,-1
+3564,heroinia,heroin,False,False,True, pill,3
+3565,smack,heroin,False,False,True, pill,2
+3566,junk,heroin,False,False,True,,4
+3567,brown_sugar,heroin,False,False,True, drug,2
+3568,dope,heroin,False,False,True, pill,7
+3569,horse,heroin,False,False,False,,-1
+3570,dragon,heroin,False,False,True, drug,2
+3571,mud,heroin,False,False,False,,-1
+3572,smack,heroin,False,False,True, pill,2
+3573,junk,heroin,False,False,True,,4
+3574,brown_sugar,heroin,False,False,True, drug,2
+3575,china_white,heroin,filgrastim,False,True,,9
+3576,dragon,heroin,False,False,True, drug,2
+3577,girl,heroin,False,False,True, drug,2
+3578,black_tar,heroin,False,False,True,,1
+3579,opiates,heroin,False,False,True, pill,2
+3580,pain_medication,heroin,False,False,True,,7
+3581,opioids,heroin,oxycodone,False,True,,7
+3582,opio,heroin,False,False,False,,-1
+3583,oxy,heroin,False,False,True, slang,6
+3584,hydromorphone,heroin,hydromorphone,False,True,,4
+3585,hydrocodone,heroin,hydrocodone,False,True,,5
+3586,codeine,heroin,codeine,False,True,,4
+3587,oxycodone,heroin,oxycodone,False,True,,4
+3588,morphine,heroin,morphine,False,True,,8
+3589,diamorphine,heroin,heroin,True,True,,5
+3590,oraphine,heroin,False,False,True, slang,8
+3591,herion,heroin,heroin,True,True, pill,1
+3592,herroin,heroin,False,False,True, pill,1
+3593,herryon,heroin,False,False,False,,-1
+3594,heroon,heroin,False,False,True,,3
+3595,herjun,heroin,False,False,False,,-1
+3596,herione,heroin,False,False,True,,2
+3597,dihydromorphinone,heroin,hydromorphone,False,False,,-1
+3598,dimorphone,heroin,False,False,False,,-1
+3599,morphinone,heroin,False,False,False,,-1
+3600,neopine,heroin,False,False,False,,-1
+3601,nicomorphine,heroin,False,False,False,,-1
+3602,opianone,heroin,False,False,False,,-1
+3603,paregoric,heroin,morphine,False,False,,-1
+3604,heroinum,heroin,False,False,True,,3
+3605,smack,heroin,False,False,True, pill,2
+3606,smack,heroin,False,False,True, pill,2
+3607,junk,heroin,False,False,True,,4
+3608,black_tar,heroin,False,False,True,,1
+3609,heroin_hydrochloride,heroin,False,True,True,,2
+3610,smack,heroin,False,False,True, pill,2
+3611,junk,heroin,False,False,True,,4
+3612,brown_sugar,heroin,False,False,True, drug,2
+3613,dragon,heroin,False,False,True, drug,2
+3614,diacetylmorphine,heroin,heroin,True,True,,3
+3615,smack,heroin,False,False,True, pill,2
+3616,white_horse,heroin,filgrastim,False,True, drug,1
+3617,dragon,heroin,False,False,True, drug,2
+3618,toy,heroin,False,False,False,,-1
+3619,mojo,heroin,False,False,False,,-1
+3620,junk,heroin,False,False,True,,4
+3621,diamorphine,heroin,heroin,True,True,,5
+3622,opioide,heroin,fentanyl,False,True, pill,4
+3623,heroin_abuse,heroin,False,True,True,,1
+3624,heroin_addiction,heroin,False,True,True,,1
+3625,heroin_user,heroin,False,True,True,,1
+3626,heroin's,heroin,False,False,True,,1
+3627,heroin_use,heroin,False,True,True,,1
+3628,heroin_abuse,heroin,False,True,True,,1
+3629,heroin_addiction,heroin,False,True,True,,1
+3630,heroin_user,heroin,False,True,True,,1
+3631,heroin_dealer,heroin,False,True,True,,1
+3632,brown_sugar,heroin,False,False,True, drug,2
+3633,dope,heroin,False,False,True, pill,7
+3634,smack,heroin,False,False,True, pill,2
+3635,junk,heroin,False,False,True,,4
+3636,horse,heroin,False,False,False,,-1
+3637,dragon,heroin,False,False,True, drug,2
+3638,black_tar,heroin,False,False,True,,1
+3639,heron,heroin,False,False,True, drug,1
+3640,narcolepsy,heroin,False,False,False,,-1
+3641,drug,heroin,False,False,True,,8
+3642,herosyn,heroin,False,False,False,,-1
+3643,horion,heroin,False,False,True, drug,1
+3644,smack,heroin,False,False,True, pill,2
+3645,smack,heroin,False,False,True, pill,2
+3646,junkies,heroin,heroin,False,True, drug,3
+3647,heroin_abuse,heroin,False,True,True,,1
+3648,heroin_addiction,heroin,False,True,True,,1
+3649,heroin_use,heroin,False,True,True,,1
+3650,smack,heroin,False,False,True, pill,2
+3651,chalk,heroin,calcium_carbonate,False,False,,-1
+3652,dragon,heroin,False,False,True, drug,2
+3653,gear,heroin,False,False,True, pill,7
+3654,h,heroin,False,False,False,,-1
+3655,hard_stuff,heroin,False,False,True, pill,1
+3656,morphine,heroin,morphine,False,True,,8
+3657,heroeen,heroin,False,False,True,,1
+3658,heroinne,heroin,False,False,True, pill,1
+3659,smack,heroin,False,False,True, pill,2
+3660,brown_sugar,heroin,False,False,True, drug,2
+3661,jimmy,heroin,False,False,False,,-1
+3662,skag,heroin,False,False,True, pill,9
+3663,jack,heroin,False,False,True, slang,5
+3664,tea,heroin,tea_leaf,False,False,,-1
+3665,junk,heroin,False,False,True,,4
+3666,morphium,heroin,morphine,False,True, slang,9
+3667,opium,heroin,opium,False,True,,9
+3668,acetomorphine,heroin,False,False,True,,3
+3669,morphium,heroin,morphine,False,True, slang,9
+3670,narkotyk,heroin,False,False,True,,5
+3671,skag,heroin,False,False,True, pill,9
+3672,brown_sugar,heroin,False,False,True, drug,2
+3673,dope,heroin,False,False,True, pill,7
+3674,smack,heroin,False,False,True, pill,2
+3675,china_white,heroin,filgrastim,False,True,,9
+3676,smack,heroin,False,False,True, pill,2
+3677,junkie,heroin,heroin,False,True,,5
+3678,heron,heroin,False,False,True, drug,1
+3679,heroin,heroin,heroin,True,True,,1
+3680,heroinism,heroin,False,False,True,,5
+3681,morphinism,heroin,False,False,True, slang,2
+3682,opioid,heroin,False,False,False,,-1
+3683,opium,heroin,opium,False,True,,9
+3684,oxymorphone,heroin,oxymorphone,False,True,,2
+3685,herion,heroin,heroin,True,True, pill,1
+3686,heroinne,heroin,False,False,True, pill,1
+3687,heroin,heroin,heroin,True,True,,1
+3688,heroina,heroin,heroin,True,True,,1
+3689,heroinae,heroin,False,False,True, pill,3
+3690,diamorphine,heroin,heroin,True,True,,5
+3691,heroin_users,heroin,False,True,True,,1
+3692,heroin_overdoses,heroin,False,True,True,,1
+3693,people_addicted_to_heroin,heroin,False,True,True,,1
+3694,addicts_of_heroin,heroin,False,True,True,,1
+3695,horeine,heroin,False,False,True, pill,6
+3696,heroine_user,heroin,False,False,True,,1
+3697,junkie,heroin,heroin,False,True,,5
+3698,smackhead,heroin,False,False,True,,5
+3699,speedballer,heroin,False,False,True,,1
+3700,herion,heroin,heroin,True,True, pill,1
+3701,herione,heroin,False,False,True,,2
+3702,herione_hydrochloride,heroin,False,False,True,,1
+3703,herione_sulfate,heroin,False,False,True,,2
+3704,morphinane,heroin,False,False,True, drug,5
+3705,diamorphine,heroin,heroin,True,True,,5
+3706,dibenzoylmorphine,heroin,False,False,True,,5
+3707,acetomorphine,heroin,False,False,True,,3
+3708,acetylmorphone,heroin,False,False,True,,3
+3709,alpha-acetylmethadol,heroin,False,False,True, slang,3
+3710,beta-keto-desoxy-morphine,heroin,False,False,True, drug,6
+3711,thebaol,heroin,False,False,True, pill,1
+3712,brown_sugar,heroin,False,False,True, drug,2
+3713,dope,heroin,False,False,True, pill,7
+3714,skag,heroin,False,False,True, pill,9
+3715,smack,heroin,False,False,True, pill,2
+3716,junk,heroin,False,False,True,,4
+3717,heroinum,heroin,False,False,True,,3
+3718,huron,heroin,False,False,False,,-1
+3719,herion,heroin,heroin,True,True, pill,1
+3720,herwn,heroin,False,False,False,,-1
+3721,herin,heroin,False,False,True, pill,1
+3722,herryn,heroin,False,False,False,,-1
+3723,haryn,heroin,False,False,False,,-1
+3724,hwrn,heroin,False,False,False,,-1
+3725,opium,heroin,opium,False,True,,9
+3726,cocaine,heroin,cocaine,False,False,,-1
+3727,crack_cocaine,heroin,False,False,True, slang,8
+3728,crystal_methamphetamine,heroin,False,False,False,,-1
+3729,marijuana,heroin,medical_cannabis,False,False,,-1
+3730,alcohol,heroin,ethanol,False,False,,-1
+3731,tobacco,heroin,nicotine,False,True, slang,8
+3732,smack,heroin,False,False,True, pill,2
+3733,junk,heroin,False,False,True,,4
+3734,horse,heroin,False,False,False,,-1
+3735,brown_sugar,heroin,False,False,True, drug,2
+3736,black_tar,heroin,False,False,True,,1
+3737,smack,heroin,False,False,True, pill,2
+3738,junk,heroin,False,False,True,,4
+3739,horse,heroin,False,False,False,,-1
+3740,brown_sugar,heroin,False,False,True, drug,2
+3741,china_white,heroin,filgrastim,False,True,,9
+3742,dragon,heroin,False,False,True, drug,2
+3743,skag,heroin,False,False,True, pill,9
+3744,smack,heroin,False,False,True, pill,2
+3745,horse,heroin,False,False,False,,-1
+3746,brown_sugar,heroin,False,False,True, drug,2
+3747,black_tar,heroin,False,False,True,,1
+3748,smack,heroin,False,False,True, pill,2
+3749,diamorphine,heroin,heroin,True,True,,5
+3750,smack,heroin,False,False,True, pill,2
+3751,junk,heroin,False,False,True,,4
+3752,skag,heroin,False,False,True, pill,9
+3753,brown_sugar,heroin,False,False,True, drug,2
+3754,h,heroin,False,False,False,,-1
+3755,dragon,heroin,False,False,True, drug,2
+3756,horse,heroin,False,False,False,,-1
+3757,white_horse,heroin,filgrastim,False,True, drug,1
+3758,dope,heroin,False,False,True, pill,7
+3759,smack,heroin,False,False,True, pill,2
+3760,dragon,heroin,False,False,True, drug,2
+3761,refined,heroin,False,False,False,,-1
+3762,brown_sugar,heroin,False,False,True, drug,2
+3763,hydro,heroin,False,False,False,,-1
+3764,heroinum,heroin,False,False,True,,3
+3765,brown_sugar,heroin,False,False,True, drug,2
+3766,acetylmorphone,heroin,False,False,True,,3
+3767,dihydromorphine,heroin,dihydromorphine,False,True,,4
+3768,dimorphone,heroin,False,False,False,,-1
+3769,dromadol,heroin,False,False,False,,-1
+3770,dromadol_hydrochloride,heroin,False,False,False,,-1
+3771,dromeditol,heroin,False,False,False,,-1
+3772,dromestanol,heroin,False,False,False,,-1
+3773,droxicam,heroin,False,False,False,,-1
+3774,morphinediacetate,heroin,False,False,True,,1
+3775,horse,heroin,False,False,False,,-1
+3776,junk,heroin,False,False,True,,4
+3777,skag,heroin,False,False,True, pill,9
+3778,smack,heroin,False,False,True, pill,2
+3779,herion,heroin,heroin,True,True, pill,1
+3780,h-bomb,heroin,False,False,True, pill,1
+3781,smack,heroin,False,False,True, pill,2
+3782,dope,heroin,False,False,True, pill,7
+3783,china_white,heroin,filgrastim,False,True,,9
+3784,dragon,heroin,False,False,True, drug,2
+3785,lady,heroin,False,False,False,,-1
+3786,mud,heroin,False,False,False,,-1
+3787,smack,heroin,False,False,True, pill,2
+3788,brown_sugar,heroin,False,False,True, drug,2
+3789,skag,heroin,False,False,True, pill,9
+3790,gear,heroin,False,False,True, pill,7
+3791,junk,heroin,False,False,True,,4
+3792,dragon,heroin,False,False,True, drug,2
+3793,horse,heroin,False,False,False,,-1
+3794,smack,heroin,False,False,True, pill,2
+3795,junkie,heroin,heroin,False,True,,5
+3796,smack,heroin,False,False,True, pill,2
+3797,junk,heroin,False,False,True,,4
+3798,horse,heroin,False,False,False,,-1
+3799,brown_sugar,heroin,False,False,True, drug,2
+3800,china_white,heroin,filgrastim,False,True,,9
+3801,dragon's_breath,heroin,False,False,True, pill,4
+3802,fire,heroin,False,False,False,,-1
+3803,levallorphan,heroin,False,False,False,,-1
+3804,metopon,heroin,False,False,False,,-1
+3805,opioid,heroin,False,False,False,,-1
+3806,heroinum,heroin,False,False,True,,3
+3807,smack,heroin,False,False,True, pill,2
+3808,brown_sugar,heroin,False,False,True, drug,2
+3809,dope,heroin,False,False,True, pill,7
+3810,mud,heroin,False,False,False,,-1
+3811,skag,heroin,False,False,True, pill,9
+3812,gear,heroin,False,False,True, pill,7
+3813,horse,heroin,False,False,False,,-1
+3814,herion,heroin,heroin,True,True, pill,1
+3815,heroein,heroin,False,False,True, pill,1
+3816,heroien,heroin,False,False,True, pill,1
+3817,heroinne,heroin,False,False,True, pill,1
+3818,herione,heroin,False,False,True,,2
+3819,heroino,heroin,False,False,True, pill,1
+3820,heron,heroin,False,False,True, drug,1
+3821,herone,heroin,False,False,True, pill,5
+3822,dope,heroin,False,False,True, pill,7
+3823,smack,heroin,False,False,True, pill,2
+3824,diacetylmorphine,heroin,heroin,True,True,,3
+3825,morphia,heroin,morphine,False,False,,-1
+3826,morphate,heroin,False,False,True, drug,7
+3827,morphium,heroin,morphine,False,True, slang,9
+3828,hareem,heroin,False,False,False,,-1
+3829,hearse,heroin,False,False,True, drug,6
+3830,heroun,heroin,False,False,True, pill,1
+3831,heroon,heroin,False,False,True,,3
+3832,heroyne,heroin,False,False,True, pill,8
+3833,heroinne,heroin,False,False,True, pill,1
+3834,herwon,heroin,False,False,True, pill,2
+3835,herwonn,heroin,False,False,True, pill,1
+3836,heroiun,heroin,False,False,True,,2
+3837,morphine,heroin,morphine,False,True,,8
+3838,codeine,heroin,codeine,False,True,,4
+3839,heronin,heroin,False,False,True, pill,1
+3840,herooin,heroin,False,False,True,,1
+3841,hurron,heroin,False,False,False,,-1
+3842,heyrain,heroin,False,False,False,,-1
+3843,hirron,heroin,False,False,True, pill,6
+3844,hereon,heroin,False,False,True, drug,8
+3845,nirrotin,heroin,False,False,False,,-1
+3846,dimorphone,heroin,False,False,False,,-1
+3847,morphone,heroin,morphine,False,True, drug,8
+3848,smack,heroin,False,False,True, pill,2
+3849,junk,heroin,False,False,True,,4
+3850,habit,heroin,False,False,False,,-1
+3851,addiction,heroin,False,False,True, pill,5
+3852,diamorphine,heroin,heroin,True,True,,5
+3853,druggie,heroin,False,False,True, slang,9
+3854,smack_head,heroin,False,False,True,,3
+3855,dope_fiend,heroin,False,False,True,,5
+3856,junky,heroin,False,False,True,,4
+3857,herione,heroin,False,False,True,,2
+3858,h*,heroin,False,False,True, slang,6
+3859,smack,heroin,False,False,True, pill,2
+3860,black_tar,heroin,False,False,True,,1
+3861,china_white,heroin,filgrastim,False,True,,9
+3862,brown_sugar,heroin,False,False,True, drug,2
+3863,horse,heroin,False,False,False,,-1
+3864,smack,heroin,False,False,True, pill,2
+3865,junk,heroin,False,False,True,,4
+3866,smack,heroin,False,False,True, pill,2
+3867,junk,heroin,False,False,True,,4
+3868,smack_heads,heroin,False,False,True,,6
+3869,junkies,heroin,heroin,False,True, drug,3
+3870,smack,heroin,False,False,True, pill,2
+3871,brown_sugar,heroin,False,False,True, drug,2
+3872,chinook,heroin,False,False,False,,-1
+3873,dragon,heroin,False,False,True, drug,2
+3874,fugue_powder,heroin,False,False,False,,-1
+3875,hammer,heroin,False,False,True, drug,4
+3876,hell_dust,heroin,False,False,True,,7
+3877,horse,heroin,False,False,False,,-1
+3878,poison,heroin,False,False,False,,-1
+3879,morphine,heroin,morphine,False,True,,8
+3880,heroinum,heroin,False,False,True,,3
+3881,dlmetopon,heroin,False,False,False,,-1
+3882,garbage,heroin,False,False,False,,-1
+3883,heroin,heroin,heroin,True,True,,1
+3884,horse,heroin,False,False,False,,-1
+3885,junk,heroin,False,False,True,,4
+3886,skag,heroin,False,False,True, pill,9
+3887,smack,heroin,False,False,True, pill,2
+3888,heroinum,heroin,False,False,True,,3
+3889,smack,heroin,False,False,True, pill,2
+3890,junk,heroin,False,False,True,,4
+3891,brown_sugar,heroin,False,False,True, drug,2
+3892,dragon,heroin,False,False,True, drug,2
+3893,skag,heroin,False,False,True, pill,9
+3894,gear,heroin,False,False,True, pill,7
+3895,h,heroin,False,False,False,,-1
+3896,horse,heroin,False,False,False,,-1
+3897,smack,heroin,False,False,True, pill,2
+3898,brown_sugar,heroin,False,False,True, drug,2
+3899,china_white,heroin,filgrastim,False,True,,9
+3900,china,heroin,False,False,False,,-1
+3901,candy,heroin,False,False,False,,-1
+3902,black_tar,heroin,False,False,True,,1
+3903,smack,heroin,False,False,True, pill,2
+3904,brown_sugar,heroin,False,False,True, drug,2
+3905,dragon,heroin,False,False,True, drug,2
+3906,gear,heroin,False,False,True, pill,7
+3907,junk,heroin,False,False,True,,4
+3908,horse,heroin,False,False,False,,-1
+3909,brown,heroin,False,False,True, drug,3
+3910,smack,heroin,False,False,True, pill,2
+3911,junk,heroin,False,False,True,,4
+3912,gear,heroin,False,False,True, pill,7
+3913,dragon,heroin,False,False,True, drug,2
+3914,stuff,heroin,False,False,False,,-1
+3915,brown_sugar,heroin,False,False,True, drug,2
+3916,skag,heroin,False,False,True, pill,9
+3917,herion,heroin,heroin,True,True, pill,1
+3918,herione,heroin,False,False,True,,2
+3919,heroinum,heroin,False,False,True,,3
+3920,diacetylmorphine,heroin,heroin,True,True,,3
+3921,acetomorphine,heroin,False,False,True,,3
+3922,acetylpropionylmorphine,heroin,False,False,True,,9
+3923,acetylpropionyllmorphine,heroin,False,False,False,,-1
+3924,acetyldihydromorphine,heroin,False,False,True, drug,5
+3925,dihydrodesoxymorphine,heroin,desomorphine,False,True,,3
+3926,desoxymorphine,heroin,desomorphine,False,True,,10
+3927,smack,heroin,False,False,True, pill,2
+3928,junk,heroin,False,False,True,,4
+3929,dianorm,heroin,False,False,False,,-1
+3930,dicetylmorphine,heroin,heroin,True,True,,1
+3931,dromoran,heroin,False,False,False,,-1
+3932,duramorph,heroin,morphine,False,False,,-1
+3933,fentanyl,heroin,fentanyl,False,True,,3
+3934,heroin_hydrochloride,heroin,False,True,True,,2
+3935,morphine,heroin,morphine,False,True,,8
+3936,crack,heroin,False,False,False,,-1
+3937,zeroin,heroin,False,False,False,,-1
+3938,herion,heroin,heroin,True,True, pill,1
+3939,heroun,heroin,False,False,True, pill,1
+3940,hirion,heroin,False,False,True, pill,1
+3941,morphine,heroin,morphine,False,True,,8
+3942,codeine,heroin,codeine,False,True,,4
+3943,opium,heroin,opium,False,True,,9
+3944,laudanum,heroin,morphine,False,False,,-1
+3945,paregoric,heroin,morphine,False,False,,-1
+3946,tincture_of_opium,heroin,False,False,True, slang,6
+3947,meperidine,heroin,pethidine,False,False,,-1
+3948,smack,heroin,False,False,True, pill,2
+3949,junk,heroin,False,False,True,,4
+3950,brown_sugar,heroin,False,False,True, drug,2
+3951,chinese_white,heroin,False,False,True, drug,3
+3952,dja,heroin,False,False,False,,-1
+3953,geever,heroin,False,False,False,,-1
+3954,smack,heroin,False,False,True, pill,2
+3955,horse,heroin,False,False,False,,-1
+3956,junk,heroin,False,False,True,,4
+3957,brown_sugar,heroin,False,False,True, drug,2
+3958,dope,heroin,False,False,True, pill,7
+3959,horse,heroin,False,False,False,,-1
+3960,smack,heroin,False,False,True, pill,2
+3961,junk,heroin,False,False,True,,4
+3962,dragons,heroin,False,False,True, drug,2
+3963,white_horse,heroin,filgrastim,False,True, drug,1
+3964,heron,heroin,False,False,True, drug,1
+3965,herrin,heroin,False,False,False,,-1
+3966,herroin,heroin,False,False,True, pill,1
+3967,hirion,heroin,False,False,True, pill,1
+3968,hiroin,heroin,False,False,True, pill,1
+3969,horoin,heroin,False,False,True, pill,1
+3970,heroin,heroin,heroin,True,True,,1
+3971,smack,heroin,False,False,True, pill,2
+3972,brown_sugar,heroin,False,False,True, drug,2
+3973,china_white,heroin,filgrastim,False,True,,9
+3974,h,heroin,False,False,False,,-1
+3975,skag,heroin,False,False,True, pill,9
+3976,gear,heroin,False,False,True, pill,7
+3977,junk,heroin,False,False,True,,4
+3978,brown_sugar,heroin,False,False,True, drug,2
+3979,china_white,heroin,filgrastim,False,True,,9
+3980,dope,heroin,False,False,True, pill,7
+3981,dragon,heroin,False,False,True, drug,2
+3982,boy,heroin,False,False,True, drug,3
+3983,horse,heroin,False,False,False,,-1
+3984,junk,heroin,False,False,True,,4
+3985,diamorphine,heroin,heroin,True,True,,5
+3986,morphia,heroin,morphine,False,False,,-1
+3987,morphine,heroin,morphine,False,True,,8
+3988,narcan,heroin,naloxone,False,False,,-1
+3989,naloxone,heroin,naloxone,False,False,,-1
+3990,nicomorphine,heroin,False,False,False,,-1
+3991,oxycodone,heroin,oxycodone,False,True,,4
+3992,oxymorphone,heroin,oxymorphone,False,True,,2
+3993,thebaine,heroin,False,False,False,,-1
+3994,smack,heroin,False,False,True, pill,2
+3995,brown_sugar,heroin,False,False,True, drug,2
+3996,nose_candy,heroin,cocaine,False,False,,-1
+3997,h,heroin,False,False,False,,-1
+3998,dope,heroin,False,False,True, pill,7
+3999,dragon,heroin,False,False,True, drug,2
+4000,china_white,heroin,filgrastim,False,True,,9
+4001,hurion,heroin,False,False,False,,-1
+4002,hureon,heroin,False,False,False,,-1
+4003,heroene,heroin,False,False,True, pill,5
+4004,heroina,heroin,heroin,True,True,,1
+4005,heroin,heroin,heroin,True,True,,1
+4006,smack,heroin,False,False,True, pill,2
+4007,heroinum,heroin,False,False,True,,3
+4008,dionine,heroin,False,False,False,,-1
+4009,dionin,heroin,False,False,True, drug,5
+4010,diocity,heroin,False,False,False,,-1
+4011,dihydromorphinone,heroin,hydromorphone,False,False,,-1
+4012,dihydrocodeinone,heroin,hydrocodone,False,True, slang,6
+4013,dihydrothebaine,heroin,False,False,False,,-1
+4014,acetylmethadol,heroin,False,False,True, slang,5
+4015,physeptone,heroin,methadone,False,True,,7
+4016,septopine,heroin,False,False,False,,-1
+4017,heptaminol,heroin,False,False,False,,-1
+4018,amidone,heroin,etomidate,False,False,,-1
+4019,methadone,heroin,methadone,False,True,,5
+4020,kopliptin,heroin,False,False,False,,-1
+4021,betamipexole,heroin,False,False,False,,-1
+4022,buprenorphine,heroin,buprenorphine,False,False,,-1
+4023,horse,heroin,False,False,False,,-1
+4024,smack,heroin,False,False,True, pill,2
+4025,junk,heroin,False,False,True,,4
+4026,skag,heroin,False,False,True, pill,9
+4027,dope,heroin,False,False,True, pill,7
+4028,dragon,heroin,False,False,True, drug,2
+4029,poison,heroin,False,False,False,,-1
+4030,oxymorphine,heroin,oxymorphone,False,True, slang,6
+4031,morphinediol,heroin,False,False,False,,-1
+4032,huroin,heroin,False,False,True, pill,1
+4033,hiroin,heroin,False,False,True, pill,1
+4034,hydrochloride,heroin,False,False,False,,-1
+4035,heronis,heroin,False,False,True, drug,7
+4036,heroines,heroin,False,False,True, pill,4
+4037,smack,heroin,False,False,True, pill,2
+4038,brown_sugar,heroin,False,False,True, drug,2
+4039,china_white,heroin,filgrastim,False,True,,9
+4040,dope,heroin,False,False,True, pill,7
+4041,horse,heroin,False,False,False,,-1
+4042,junk,heroin,False,False,True,,4
+4043,skag,heroin,False,False,True, pill,9
+4044,threat,heroin,False,False,False,,-1
+4045,hero,heroin,False,False,True, drug,8
+4046,smack,heroin,False,False,True, pill,2
+4047,zeroise,heroin,False,False,False,,-1
+4048,zeroize,heroin,False,False,False,,-1
+4049,heroinize,heroin,False,False,True,,2
+4050,heroize,heroin,False,False,False,,-1
+4051,smack,heroin,False,False,True, pill,2
+4052,dope,heroin,False,False,True, pill,7
+4053,brown_sugar,heroin,False,False,True, drug,2
+4054,china_white,heroin,filgrastim,False,True,,9
+4055,dragon,heroin,False,False,True, drug,2
+4056,horse,heroin,False,False,False,,-1
+4057,junk,heroin,False,False,True,,4
+4058,brown_sugar,heroin,False,False,True, drug,2
+4059,dope,heroin,False,False,True, pill,7
+4060,smack,heroin,False,False,True, pill,2
+4061,junk,heroin,False,False,True,,4
+4062,tar,heroin,False,False,True, pill,2
+4063,dragon,heroin,False,False,True, drug,2
+4064,black,heroin,False,False,True, drug,3
+4065,herion,heroin,heroin,True,True, pill,1
+4066,pethidine,heroin,pethidine,False,True,,6
+4067,acetylpropionyl_fentanyl,heroin,False,False,True,,4
+4068,hydroxy_fentanyl,heroin,False,False,False,,-1
+4069,heroinum,heroin,False,False,True,,3
+4070,heroinum,heroin,False,False,True,,3
+4071,morphinan,heroin,morphine,False,False,,-1
+4072,codeine,heroin,codeine,False,True,,4
+4073,morphine,heroin,morphine,False,True,,8
+4074,huron,heroin,False,False,False,,-1
+4075,hairon,heroin,False,False,False,,-1
+4076,heron,heroin,False,False,True, drug,1
+4077,herion,heroin,heroin,True,True, pill,1
+4078,heroin,heroin,heroin,True,True,,1
+4079,herroin,heroin,False,False,True, pill,1
+4080,herryon,heroin,False,False,False,,-1
+4081,herown,heroin,False,False,False,,-1
+4082,heroinne,heroin,False,False,True, pill,1
+4083,heroina,heroin,heroin,True,True,,1
+4084,heroique,heroin,False,False,True, drug,10
+4085,heroica,heroin,False,False,False,,-1
+4086,diamorphine,heroin,heroin,True,True,,5
+4087,morphinite,heroin,False,False,False,,-1
+4088,smack,heroin,False,False,True, pill,2
+4089,junk,heroin,False,False,True,,4
+4090,horse,heroin,False,False,False,,-1
+4091,skag,heroin,False,False,True, pill,9
+4092,brown_sugar,heroin,False,False,True, drug,2
+4093,china_white,heroin,filgrastim,False,True,,9
+4094,dragon,heroin,False,False,True, drug,2
+4095,heronin,heroin,False,False,True, pill,1
+4096,diacetylmorphine,heroin,heroin,True,True,,3
+4097,dromoran,heroin,False,False,False,,-1
+4098,eucodal,heroin,False,False,True, slang,1
+4099,eukodal,heroin,oxycodone,False,True, drug,6
+4100,hydrocodone,heroin,hydrocodone,False,True,,5
+4101,hydromorphone,heroin,hydromorphone,False,True,,4
+4102,iophen,heroin,diphenhydramine,False,False,,-1
+4103,isoflurane,heroin,isoflurane,False,False,,-1
+4104,macro_iphone,heroin,False,False,False,,-1
+4105,meperidine,heroin,pethidine,False,False,,-1
+4106,methadone,heroin,methadone,False,True,,5
+4107,morphine,heroin,morphine,False,True,,8
+4108,nalbuphine,heroin,nalbuphine,False,False,,-1
+4109,narcan,heroin,naloxone,False,False,,-1
+4110,oxycodone,heroin,oxycodone,False,True,,4
+4111,oxymorphone,heroin,oxymorphone,False,True,,2
+4112,pantopon,heroin,pantoprazole,False,True,,10
+4113,pentazocine,heroin,pentazocine,False,True,,3
+4114,phenazocine,heroin,False,False,True,,6
+4115,phentanyl,heroin,fentanyl,False,True, pill,1
+4116,piritramide,heroin,piritramide,False,True,,4
+4117,prostaglandin,heroin,False,False,False,,-1
+4118,remifentanil,heroin,remifentanil,False,True,,6
+4119,sufentanil,heroin,sufentanil,False,True,,6
+4120,tramadol,heroin,tramadol,False,False,,-1
+4121,morphate,heroin,False,False,True, drug,7
+4122,heroines,heroin,False,False,True, pill,4
+4123,heroinism,heroin,False,False,True,,5
+4124,heroin_use,heroin,False,True,True,,1
+4125,heroin_overdoses,heroin,False,True,True,,1
+4126,heroin_addicts,heroin,False,True,True,,1
+4127,morphiates,heroin,False,False,True, drug,6
+4128,opioids,heroin,oxycodone,False,True,,7
+4129,diamorphine,heroin,heroin,True,True,,5
+4130,smack,heroin,False,False,True, pill,2
+4131,brown_sugar,heroin,False,False,True, drug,2
+4132,china_white,heroin,filgrastim,False,True,,9
+4133,dragon,heroin,False,False,True, drug,2
+4134,smack_heads,heroin,False,False,True,,6
+4135,junkies,heroin,heroin,False,True, drug,3
+4136,dope_heads,heroin,False,False,True, pill,9
+4137,heroin_users,heroin,False,True,True,,1
+4138,heroin_addicts,heroin,False,True,True,,1
+4139,people_who_use_heroin,heroin,False,True,True,,1
+4140,heroin_dependence,heroin,False,True,True,,1
+4141,junkies,heroin,heroin,False,True, drug,3
+4142,dope,heroin,False,False,True, pill,7
+4143,smack,heroin,False,False,True, pill,2
+4144,speedball,heroin,False,False,True, pill,2
+4145,heron,heroin,False,False,True, drug,1
+4146,huron,heroin,False,False,False,,-1
+4147,diacetylmorphine,heroin,heroin,True,True,,3
+4148,brown_sugar,heroin,False,False,True, drug,2
+4149,dope,heroin,False,False,True, pill,7
+4150,smack,heroin,False,False,True, pill,2
+4151,junk,heroin,False,False,True,,4
+4152,horse,heroin,False,False,False,,-1
+4153,heron,heroin,False,False,True, drug,1
+4154,huron,heroin,False,False,False,,-1
+4155,diamorphine,heroin,heroin,True,True,,5
+4156,diamorphine,heroin,heroin,True,True,,5
+4157,dope,heroin,False,False,True, pill,7
+4158,gear,heroin,False,False,True, pill,7
+4159,gearbox,heroin,False,False,False,,-1
+4160,hard_stuff,heroin,False,False,True, pill,1
+4161,junk,heroin,False,False,True,,4
+4162,smack,heroin,False,False,True, pill,2
+4163,acetyl_fentanyl,heroin,False,False,True,,3
+4164,tramadol,heroin,tramadol,False,False,,-1
+4165,heroen,heroin,False,False,True, pill,5
+4166,heroinne,heroin,False,False,True, pill,1
+4167,heroiun,heroin,False,False,True,,2
+4168,heroon,heroin,False,False,True,,3
+4169,heroyn,heroin,False,False,True, pill,1
+4170,herrin,heroin,False,False,False,,-1
+4171,herroin,heroin,False,False,True, pill,1
+4172,herroun,heroin,False,False,False,,-1
+4173,hirion,heroin,False,False,True, pill,1
+4174,hiroun,heroin,False,False,True, pill,1
+4175,huroin,heroin,False,False,True, pill,1
+4176,diamorph,heroin,morphine,False,True, pill,1
+4177,morphinan-6-ol,heroin,False,False,False,,-1
+4178,heroyne,heroin,False,False,True, pill,8
+4179,heroinke,heroin,False,False,True,,2
+4180,heroiko,heroin,False,False,True, slang,7
+4181,heroïek,heroin,False,False,False,,-1
+4182,heroinisme,heroin,False,False,True,,6
+4183,heroïsme,heroin,False,False,True, drug,10
+4184,herone,heroin,False,False,True, pill,5
+4185,diamorphine,heroin,heroin,True,True,,5
+4186,morphinediacetate,heroin,False,False,True,,1
+4187,smack,heroin,False,False,True, pill,2
+4188,brown_sugar,heroin,False,False,True, drug,2
+4189,skag,heroin,False,False,True, pill,9
+4190,gear,heroin,False,False,True, pill,7
+4191,h,heroin,False,False,False,,-1
+4192,junk,heroin,False,False,True,,4
+4193,horse,heroin,False,False,False,,-1
