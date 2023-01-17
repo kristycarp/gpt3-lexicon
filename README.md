@@ -4,9 +4,19 @@
 A pipeline for the automated querying and filtering of GPT-3 terms to create lexicons of colloquial terms, with a central application in social media-based pharmacovigilance of drugs of abuse (specifically opioids). This repository is a companion to Carpenter and Altman, 2023 (in review).
 
 ## Data
+This repository contains two directories for relevant data: `lexicon` and `data`.
+
+`lexicon` is intended for quick and easy application to pharmacovigilance research. `lexicon` contains the following files:
+- `drugs_of_abuse_lexicon.tsv` is a TSV with each of the 98 drugs of abuse index terms, their DrugBank IDs, indicators of whether they are considered "widely-discussed" (as described in the accompanying manuscript) and their GPT-3 synonyms as determined by the pipeline (pipeline parameters: temperature of 1.0, frequency pnealty of 0.0, presence penalty of 0.0, prompt template as described in manuscript; filters: drug name filter and Google search filter with depth 10 as described in manuscript)
+- `manual_label_lexicon.tsv` is a TSV with two rows: one for alprazolam, and one for fentanyl (these are the two drugs that underwent manual labeling). Each row contains the index term, the DrugBank ID, and all of the GPT-3 generated terms for the drug that were determined to be synonyms by a human labeler. These term sets are partitioned into "specific" and "broad" subsets ("specific" indicates that the term is used for just that index term, whereas "broad" indicates that the term could be used for other related drugs as well). Both alprazolam and fentanyl are considered "widely-discussed."
+
+`data` is intended for those who would like to dive deeper into the data, whether to replicate figures, tweak filters, or investigate other aspects of the pipeline results without needing to re-run it themselves. `data` contains three subdirectories:
+- `big_run` contains the output csvs for the 98 drugs of abuse, which show each of the GPT-3 generated terms in addition to information about which filters are passed and if the generated term is present in RedMed.
+- `manual_label` contains the output csvs for alprazolam and fentanyl, which show the same information as in `big_run` but additionally contain manual (i.e. human) labels.
+- `param_search` contains data from the parameter search stage of pipeline development, which was done with alprazolam, benzphetamine, and heroin. The `*_grid_out.csv` files contain the summary outputs from `analyze.py`. The subdirectories of `param_search` contain the output csvs for each set of parameters swept (with the heroin and benzphetamine sweeps occurring concurrently).
 
 ## Requirements
-The following dependencies are required:
+The following dependencies are required to run the scripts contained in this repository:
 - matplotlib==3.5.1
 - numpy==1.23.1
 - openai==0.22.1

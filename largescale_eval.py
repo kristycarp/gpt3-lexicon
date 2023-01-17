@@ -29,26 +29,26 @@ def main(args):
         continue
         df = pd.read_csv(os.path.join(args.d, fname), index_col=0)
         if "Google" in df.columns:
-        google_col = "Google"
+            google_col = "Google"
         else:
-        google_col = "GPT-3 term in Google"
+            google_col = "GPT-3 term in Google"
         if len(df) == 0:
-        n_blank += 1
-        continue
+            n_blank += 1
+            continue
         if "Error" in df[google_col].tolist():
-        print(fname)
-        continue
+            print(fname)
+            continue
         n += 1
         
         n_terms.append(len(df))
         n_uniq.append(len(df["GPT-3 term"].unique()))
         filter_df = df.loc[df.apply(lambda row: (row[google_col] == True or row[google_col] == "True") and (row["GPT-3 term"] == row["seed for prompt"] or not row["GPT-3 term"] in redmed["drug"].tolist()),axis=1)]
         if len(filter_df) == 0:
-        n_filter.append(0)
-        n_ungs.append(0)
+            n_filter.append(0)
+            n_ungs.append(0)
         else:
-        n_filter.append(len(filter_df["GPT-3 term"].unique()))
-        n_ungs.append(len(filter_df.loc[filter_df.apply(lambda row: row["seed for prompt"] != row["Seed of GPT-3 term in RedMed"], axis=1)]["GPT-3 term"].unique()))
+            n_filter.append(len(filter_df["GPT-3 term"].unique()))
+            n_ungs.append(len(filter_df.loc[filter_df.apply(lambda row: row["seed for prompt"] != row["Seed of GPT-3 term in RedMed"], axis=1)]["GPT-3 term"].unique()))
 
     if args.plot:
         plt.hist(n_terms, 20, color="darkgray", edgecolor="black")
