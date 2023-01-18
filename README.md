@@ -55,7 +55,9 @@ The different components of this repository are: conducting the parameter sweep,
 
 #### Deploying the pipeline to new index terms
 - run GPT-3 query pipeline for each index term to label and evaluate: `python gpt_queries.py --engine [GPT-3 ENGINE] --temp [TEMPERATURE] --tokens [MAXIMUM TOKENS] --freq [FREQUENCY PENALTY] --pres [PRESENCE PENALTY] --prompts [NUMBER OF PROMPTS] --queries_per_prompt [NUMBER OF QUERIES PER PROMPT] --memo [NAME OF MEMO FILE] --seeds [INDEX TERM FILE] --outdir [OUTPUT CSV DIRECTORY] --depth [DEPTH OF GOOGLE SEARCH] [optional flags: --counterexamples --save]` (note most arguments have default values that many will find acceptable for their uses, see `python gpt_queries.py --help` for more info)
+- if errors ocur in Googling process due to volume, re-run the Google searches (without querying GPT-3 again): `python rerun_google.py -f [CSV FILE TO UPDATE] --memo [NAME OF MEMO FILE] --depth [DEPTH OF GOOGLE SEARCH] --suffix [SUFFIX FOR UPDATED FILENAME] --count_start [START FOR API USAGE COUNT] [optional flags: --offline]`
 - plot results of largescale run: `python largescale_plots.py -d [CSV DIRECTORY] --plotdir [PLOT DIRECTORY] [optional flags: --plot --widelydiscussed]`
+- create lexicon TSV: `python create_lexicons.py [optional flags: --generated --manual]`
 
 ### Replicating figures
 If you would like to replicate (or make similar plots to) figures from the accompanying manuscript, you may do so with the following commands:

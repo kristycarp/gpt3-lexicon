@@ -132,7 +132,7 @@ if __name__ == "__main__":
     parser.add_argument('--memo', type=str, help="memo file name to reduce API requests", default="memo.p")
     parser.add_argument('--depth', type=int, help="how deep to go for google search filter", default=10)
     parser.add_argument('--suffix', type=str, help="suffix to append to new filename")
-    parser.add_argument('--count_start', type=int, help="current Google Search API query count for the day")
+    parser.add_argument('--count_start', type=int, help="current Google Search API query count for the day", default=0)
     parser.add_argument('--offline', action="store_true", help="Flag to not use Google API, only memoized results")
     args = parser.parse_args()
 
