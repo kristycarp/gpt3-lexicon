@@ -245,7 +245,11 @@ def make_all_cms(df, plotdir):
     else:
         df["pred"] = df.apply(lambda row: row["Google depth"] > 0 and row["Google depth"] <= 10 and not row["filtered name"], axis=1)
     save_cm_plot(df, plotdir, fname + "all_google_10_true.png", "Confusion Matrix when all terms passing any Google filter with depth 10 are predicted True")
-
+    
+    # only using drug name filter to classify gpt3 results
+    df["pred"] = df.apply(lambda row: not row["filtered name"], axis=1)
+    save_cm_plot(df, plotdir, fname + "drugname_only_true.png", "Confusion Matrix when all terms passing drugname filter are predicted True")
+    
     # using frequency + drug name filter
     df["pred"] = df.apply(lambda row: row["freq"] > freq_cutoff and not row["filtered name"], axis=1)
     save_cm_plot(df, plotdir, fname + "freq%d_true.png" % freq_cutoff, "Confusion Matrix when all terms with frequency %d and passing name filter are predicted True" % freq_cutoff)
@@ -264,7 +268,7 @@ def make_all_cms(df, plotdir):
     # using redmed to classify gpt3 results
     df["pred"] = df.apply(lambda row: row["Seed of GPT-3 term in RedMed"] == row["seed for prompt"], axis=1)
     save_cm_plot(df, plotdir, fname + "redmed_true.png", "Confusion Matrix when all terms present in RedMed are predicted True")
-
+    
 
 
 # label or drop proposed terms that match a known drug name
